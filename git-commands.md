@@ -127,9 +127,9 @@ Git log graph
 git log --graph --decorate --oneline
 ```
 Ref:
-[View commit history](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
-[Inspecting a repository](https://www.atlassian.com/git/tutorials/inspecting-a-repository)
-[Git status](https://git-scm.com/docs/git-status)
+* [View commit history](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
+* [Inspecting a repository](https://www.atlassian.com/git/tutorials/inspecting-a-repository)
+* [Git status](https://git-scm.com/docs/git-status)
 
 
 
@@ -308,10 +308,10 @@ Git Cherry pick
 
 git cherry-pick <commit-id>
 ```
-[Cherry pick](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/git-cherry-pick.html)
-[Merge](https://stackoverflow.com/questions/881092/how-to-merge-a-specific-commit-in-git)
-[Pull Alll commit](https://stackoverflow.com/questions/880957/pull-all-commits-from-a-branch-push-specified-commits-to-another/881014#881014)
-[pull reqeust](http://markosullivan.ca/how-to-handle-a-pull-request-from-github/)
+* [Cherry pick](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/git-cherry-pick.html)
+* [Merge](https://stackoverflow.com/questions/881092/how-to-merge-a-specific-commit-in-git)
+* [Pull Alll commit](https://stackoverflow.com/questions/880957/pull-all-commits-from-a-branch-push-specified-commits-to-another/881014#881014)
+* [pull reqeust](http://markosullivan.ca/how-to-handle-a-pull-request-from-github/)
 
 
 
@@ -370,9 +370,9 @@ View stash files
 ```
 git stash show
 ```
-[Preview Stash content](https://stackoverflow.com/questions/3573623/is-it-possible-to-preview-stash-contents-in-git)
+* [Preview Stash content](https://stackoverflow.com/questions/3573623/is-it-possible-to-preview-stash-contents-in-git)
 
-[Git credentials](https://stackoverflow.com/questions/11693074/git-credential-cache-is-not-a-git-command)
+* [Git credentials](https://stackoverflow.com/questions/11693074/git-credential-cache-is-not-a-git-command)
 
 
 
@@ -385,8 +385,8 @@ git branch -d <branch_name>
 delete multiple branches:
 git push -d <remote_name> <branch_name_1> <branch_name_2>
 ```
-[Delete Git branch](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-both-locally-and-remotely)
-[Delete multiple branch](https://stackoverflow.com/questions/3670355/can-you-delete-multiple-branches-in-one-command-with-git)
+* [Delete Git branch](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-both-locally-and-remotely)
+* [Delete multiple branch](https://stackoverflow.com/questions/3670355/can-you-delete-multiple-branches-in-one-command-with-git)
 
 
 
