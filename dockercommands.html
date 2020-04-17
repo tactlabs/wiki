@@ -1,0 +1,570 @@
+Docker Commands:
+
+Cheatsheet:
+https://gist.github.com/bigslycat/23b738df23ec08063de18c3afeaf9038
+
+Docker Tutorial:
+https://tecadmin.net/tutorial/docker/docker-tutorials/
+-----------------------------------------------------------------------
+Docker Commands
+
+# docker login with username
+docker login --username=rajacsp
+Ref:
+https://stackoverflow.com/questions/34434231/how-to-specify-username-and-password-upon-docker-push
+
+docker —version
+
+docker info
+
+# List Docker images
+docker image ls
+docker images
+
+# List all Docker running containers
+docker ps -a
+
+# List Docker containers
+docker container ls -all
+
+## List Docker containers (running, all, all in quiet mode)
+docker container ls
+docker container ls --all
+docker container ls -aq
+
+# Stop the container
+docker stop <container_name>
+
+docker ps -a
+docker images
+
+# remove docker container
+docker rm abcd
+
+# remove docker image
+docker rmi abcd
+
+# docker run with detached
+docker run -d abcd
+
+# restart if exists
+docker run --restart=always redis
+
+# docker commit
+docker commit --change "ENV DEBUG true" c3f279d17e0a  svendowideit/testimage:version3
+
+# run the static site
+docker run -d -P seqvence/static-site
+
+# verify the running site
+http://localhost:32769/
+
+Ref:
+https://www.youtube.com/watch?v=lNkVxDSRo7M
+
+# Start the existing container
+docker start <container-name>
+
+# docker run Ubuntu
+docker run -it --name ubuntu ubuntu:xenial bash
+
+# start existing ubuntu
+docker start ubuntu
+
+# get into bash
+docker exec -it ubuntu bash
+
+# docker exec
+    docker exec -it ubuntu bash
+    
+    Run a command in a running container
+    https://docs.docker.com/engine/reference/commandline/exec/
+    
+# tty
+    
+    https://unix.stackexchange.com/questions/21147/what-are-pseudo-terminals-pty-tty
+    
+    
+# Install OracleDB
+docker run -d -it --name ortest store/oracle/database-enterprise:12.2.0.1
+
+docker exec -it ortest bash -c "source /home/oracle/.bashrc; sqlplus /nolog"
+
+More:
+https://hub.docker.com/u/rajacsp/content/sub-19df1a00-1ae1-4229-8fb6-96dc2b4703bf
+
+
+# Connect from outside container:
+docker run -d -it --name ortest -P store/oracle/database-enterprise:12.2.0.1
+
+# Check Oracle logs in docker
+docker logs ortest
+
+# Start DB as DBA
+ docker exec -it ortest bash -c "source /home/oracle/.bashrc; sqlplus / as sysdba"
+
+
+# dockering Flask
+https://runnable.com/docker/python/dockerize-your-flask-application
+
+# Build docker
+docker build -t my_docker_flask:latest .
+
+# run the docker flask image
+docker run -d -p 4000:5000 rajacsp/flaskmath:2
+
+# Docker basic app
+https://docs.docker.com/get-started/
+
+how to save a docker container as an image?
+https://docs.docker.com/engine/reference/commandline/commit/#commit-a-container-with-new-cmd-and-expose-instructions
+
+# run the public docker
+docker run -p 4000:80 rajacsp/flaskcsp:p2
+
+# Public docker:
+https://hub.docker.com/r/jcdemo/flaskapp/dockerfile
+
+# Clear docker / remove all containers / docker prune
+docker system prune -a
+    https://linuxize.com/post/how-to-remove-docker-images-containers-volumes-and-networks/
+
+
+# Kube pod details
+kubectl get po
+
+kubectl logs bapi-be-6db7bf6f95-bshhk
+
+# Container life cycle
+https://medium.com/@nagarwal/lifecycle-of-docker-container-d2da9f85959
+
+# Docker copy
+docker ps
+
+docker cp foo.txt 72ca2488b353:/foo.txt
+
+docker cp 72ca2488b353:/foo.txt foo.txt
+
+https://www.shellhacks.com/docker-cp-command-copy-file-to-from-container/
+
+Docker commit and push
+docker pull ubuntu
+docker run --name csp-lamp-server -it ubuntu:latest bash
+apt-get update
+apt-get install lamp-server^
+docker commit -m "Added LAMP Server" -a "NAME" csp-lamp-server USER/test-lamp-server:latest
+docker login
+docker push rajacsp/csp-lamp-server
+https://www.techrepublic.com/article/how-to-create-a-docker-image-and-push-it-to-docker-hub/
+
+
+Create simple Flask Image:
+http://containertutorials.com/docker-compose/flask-simple-app.html
+
+Docker run vs exec:
+https://medium.com/the-code-review/docker-run-vs-exec-deep-dive-into-their-differences-19a1041735a3
+
+Docker logs:
+Docker logs <container_id>
+
+
+
+docker run -d -it --name myflask -p 5002:5000 rajacsp/my_docker_flask:latest
+
+docker image inspect:
+docker image inspect <imageid>
+docker image inspect 5158108894a9
+https://docs.docker.com/engine/reference/commandline/image_inspect/
+
+
+Find ip of a docker container:
+docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' container_name_or_id
+https://stackoverflow.com/questions/17157721/how-to-get-a-docker-containers-ip-address-from-the-host
+
+Expose in Dockerfile
+https://we-are.bookmyshow.com/understanding-expose-in-dockerfile-266938b6a33d
+-----------------------------------------------------------------------
+Docker fresh build and deploy:
+
+cd /Users/str-kwml0011/projects/docker-flask-reverse-string
+
+docker build -t flask-reverse-string:latest .
+
+# check your docker image
+docker images
+
+# check container
+docker ps
+
+# Run it
+docker run -d -p 5000:5000 flask-reverse-string:latest
+
+# Test
+curl http://127.0.0.1:5000/
+
+# tagging
+docker tag flask-reverse-string rajacsp/flask-reverse-string
+
+# Docker pruning
+docker container prune
+	https://docs.docker.com/config/pruning/
+
+
+Test:
+http://127.0.0.1:5000/reverse?name=Raja
+
+-----------------------------------------------------------------------
+Docker Compose:
+
+# verify docker compose
+docker-compose config 
+
+# start
+docker-compose up
+
+# start
+docker-compose up -d build
+
+# start with detached more
+docker-compose up -d
+
+# stop
+docker-compose down
+
+# 
+docker-compose ps
+
+#
+docker-compose --help
+
+#
+docker-compose up -d --scale service_1=4 service_2=3
+
+#
+
+
+-----------------------------------------------------------------------
+docker commands set 2:
+
+
+https://linuxize.com/post/how-to-remove-docker-images-containers-volumes-and-networks/
+-----------------------------------------------------------------------
+
+Postgres:
+
+https://hub.docker.com/_/postgres?tab=tags
+
+docker pull postgres:alpine
+docker run -d -it --name pg11 postgres:alpine
+docker run --name pg11 -e POSTGRES_PASSWORD=root -d -p 5432:5432 postgres:alpine
+docker exec -it pg11 bash
+
+
+docker run -d -it --name pg11 postgres:11
+
+docker run --name pg11 -e POSTGRES_PASSWORD=root -d -p 5432:5432 postgres:11
+
+docker run --name pg11 -v /home/ubuntu/db/pg11_data:/var/lib/postgresql/data -e POSTGRES_PASSWORD=root -d -p 5432:5432 postgres:11
+
+docker run --name pg11 -v /Users/str-kwml0011/db/pg11_data:/var/lib/postgresql/data -e POSTGRES_PASSWORD=root -d -p 5432:5432 postgres:11
+
+
+docker exec -it pg11 bash
+
+psql -U postgres
+
+0.0.0.0
+
+psql -h 0.0.0.0 -p 5432 -U postgres
+
+DB cred:
+u: postgres
+p: root (or empty)
+
+CREATE ROLE raja WITH LOGIN PASSWORD 'raja';
+ALTER ROLE raja CREATEDB;
+CREATE DATABASE raja;
+GRANT ALL PRIVILEGES ON DATABASE raja TO raja;
+\connect raja
+ALTER ROLE raja lOGIN;  
+
+docker exec -it pg11 psql -U raja
+
+CREATE TABLE one (
+    name INT 
+);
+
+INSERT INTO one (name) VALUES (1);
+INSERT INTO one (name) VALUES (2);
+
+
+SELECT * FROM one;
+
+#
+show databases
+\l
+
+#
+show roles
+\du
+
+
+
+#
+switch database
+\c db_name
+
+#
+list tables
+\dt
+
+CREATE TABLE city (
+	id SERIAL,
+	name VARCHAR (50),
+	state VARCHAR (50)
+);
+INSERT INTO city (name, state) VALUES ('Chennai','TN');
+INSERT INTO city (name, state) VALUES ('Toronto','ON');
+
+CREATE TABLE city (
+	id SERIAL,
+	name VARCHAR (50),
+	state VARCHAR (50),
+	country VARCHAR (50)
+);
+
+INSERT INTO city (name, state, country) VALUES ('Chennai','TN', 'India');
+INSERT INTO city (name, state, country) VALUES ('Bangalore','KA', 'India');
+INSERT INTO city (name, state, country) VALUES ('Toronto','ON', 'Canada');
+
+SELECT * FROM city;
+
+GRANT ALL PRIVILEGES ON TABLE city TO raja;
+
+#
+Get the current DB:
+SELECT current_database();
+https://dba.stackexchange.com/questions/58312/how-to-get-the-name-of-the-current-database-from-within-postgresql
+
+
+sudo docker run --rm -P -p 127.0.0.1:5432:5432 -e POSTGRES_PASSWORD="1234" --name pg postgres:alpine
+
+#
+Export sql
+docker exec -t pg11 pg_dumpall -c -U postgres > dump_rj_june.sql
+https://stackoverflow.com/questions/24718706/backup-restore-a-dockerized-postgresql-database
+
+#
+Backup and restore:
+# Backup
+docker exec CONTAINER /usr/bin/mysqldump -u root --password=root DATABASE > backup.sql
+docker exec pg11 pg_dumpall -c -U postgres raja > /
+
+# Restore
+cat backup.sql | docker exec -i CONTAINER /usr/bin/mysql -u root --password=root DATABASE
+https://gist.github.com/spalladino/6d981f7b33f6e0afe6bb
+
+#
+Dump specific DB:
+docker exec <container_name> pg_dump <schema_name> > backup
+docker exec pg11 pg_dump raja -U postgres > /Users/str-kwml0011/datasets/pg_raja_db.sql
+https://stackoverflow.com/questions/30171063/how-to-generate-a-postgresql-dump-from-a-docker-container
+
+#
+Postgres create 
+https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e
+-----------------------------------------------------------------------
+
+docker run --name pg11 -e POSTGRES_PASSWORD=root -d -p 5432:5432 postgres
+docker exec -it pg11 bash
+
+psql -h 0.0.0.0 -p 5432 -U postgres
+
+psql -h 165.225.36.90 -p 5432 -U postgres
+psql -h 120.0.0.1 -p 5432 -U postgres
+psql -h localhost -p 5432 -U postgres
+
+172.17.0.3
+psql -h 172.17.0.3 -p 5432 -U postgres
+
+psql postgresql://postgres:root@localhost:5432/postgres
+
+Connecting postgres:
+https://stackoverflow.com/questions/37694987/connecting-to-postgresql-in-a-docker-container-from-outside
+
+
+psql -h localhost  -U bob
+
+Posgres issues:
+https://github.com/docker-library/postgres/issues/41
+
+
+Feature: ValueType:
+Time
+TimePair
+Value Pair
+XML
+Year
+Year Pair
+
+Feature Value:
+value, name, sorting
+domain, 2nd domain
+
+Value list (String)
+global.properties
+value-list-string = Value list (String)
+<xe:option label="${value-list-string}" value="2"/>
+
+Java synthetic class:
+https://javapapers.com/core-java/java-synthetic-class-method-field/
+
+
+Events:
+ID
+
+Simple product:
+https://cms-dev.kwikee.com/Kwikee/product/3841108
+GTIN: 00013000002691
+ID: 3841108
+
+
+# Find OS info in Docker
+uname -a
+
+sample:
+Linux d95c0096bc3b 4.9.125-linuxkit #1 SMP Fri Sep 7 08:20:28 UTC 2018 x86_64 GNU/Linux
+
+Distribution Engine:
+https://github.com/KwikeeLabs/distribution-engine
+
+
+
+--------
+Docker Distribution Engine Installation:
+
+Steps to Setup the Distribution Engine on your VM:
+
+Login to the VM
+Install Docker: https://docs.docker.com/engine/installation/linux/ubuntulinux/ a. Refer to the Prerequisites, Install and Optional Configurations: Configure Docker to Start on Boot sections of the documentation b. Follow the associated Ubuntu version sections of the documentation c. To verify which version of Ubuntu being used, enter this command in the prompt: lsb_release -a
+Install Docker Compose: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-14-04 a. Refer to "Step 2 - Installing Docker Compose"
+Go to your personal project directory i.e. /home/(username)/project
+Copy the kwikee.zip package to this directory
+sudo apt-get install unzip
+Unzip the package
+Go inside the kwikee folder
+sudo docker-compose up -d postgres rabbitmq
+sudo apt-get install postgresql-client-common postgresql-client
+psql -U kwikee -W -d kwikee -h localhost < kwikee.sql
+Enter password for kwikee user: kwikee
+sudo docker-compose up -d api worker
+sudo docker-compose exec worker python manage.py init_db
+sudo docker-compose up -d nginx
+--------/
+
+
+-----------------
+Influx DB:
+
+https://hub.docker.com/_/influxdb
+
+docker run --name=influxdb -d -p 8086:8086 influxdb
+
+docker exec -it influxdb influx
+
+Getting started with InfluxDB
+https://docs.influxdata.com/influxdb/v1.7/introduction/getting-started/
+
+https://www.influxdata.com/blog/getting-started-python-influxdb/
+
+https://coderwall.com/p/fg18jq/getting-started-influxdb-grafana-docker
+
+https://influxdb-python.readthedocs.io/en/latest/examples.html
+-----------------/
+
+
+-----------------
+String getCallbackUrl();
+
+
+Mysql Docker Container:
+
+docker pull mysql
+
+docker run --name rjmysql -p 3306:3306 -v /Users/str-kwml0011/mysql_docker_v:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=root -d mysql
+
+docker exec -it rjmysql bash
+
+mysql -u root -p
+root
+
+show databases;
+
+create db:
+GRANT ALL PRIVILEGES ON *.* TO root@localhost IDENTIFIED BY 'root';
+GRANT ALL PRIVILEGES ON * . * TO 'root'@'localhost';
+
+CREATE DATABASE rj;
+
+USE rj;
+
+CREATE TABLE city (id INT, name VARCHAR(40), state VARCHAR(40), country VARCHAR(40));
+
+INSERT INTO city values (1, 'Madurai', 'Tamilandu', 'India');
+INSERT INTO city values (1, 'Toronto', 'Ontario', 'Canada');
+
+SELECT * FROM city;
+
+
+MySQLConnectionTest.java
+
+dump docker_mysql to .sql:
+docker exec rjmysql sh -c 'exec mysqldump --all-databases -uroot -proot' > /Users/str-kwml0011/rjmysql_dump.sql
+docker exec rjmysql sh -c 'exec mysqldump rj -uroot -proot' > /Users/str-kwml0011/rjdb_dump.sql
+
+more:
+https://hub.docker.com/_/mysql
+https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql
+https://www.cyberciti.biz/faq/howto-linux-unix-creating-database-and-table/
+-----------------/
+
+
+-----------------
+Docker Prune:
+
+docker image prune
+
+docker image prune -a
+
+docker container prune
+
+# include volumne as well
+docker system prune -a --volumes
+
+# including the running containers
+docker stop $(docker ps -a -q)
+docker rm $(docker ps -a -q)
+    https://coderwall.com/p/ewk0mq/stop-remove-all-docker-containers
+
+https://docs.docker.com/config/pruning/
+-----------------/
+
+
+
+-----------------
+Docker compose:
+
+docker-compose up
+docker-compose up --build
+
+docker build vs docker-compose build
+https://stackoverflow.com/questions/50230399/what-is-the-difference-between-docker-compose-build-and-docker-build
+
+https://docs.docker.com/compose/gettingstarted/
+https://docs.docker.com/compose/compose-file/
+-----------------/
+
+
+
+How to get the ip of a container?
+docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' pg11
