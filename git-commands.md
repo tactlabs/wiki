@@ -43,13 +43,13 @@ reset a single file:
 git checkout filename
 ```
 Ref: 
-http://www.norbauer.com/rails-consulting/notes/git-revert-reset-a-single-file.html
+[Revert a single file](http://www.norbauer.com/rails-consulting/notes/git-revert-reset-a-single-file.html)
 
 
 
 
 git commit some files
-http://stackoverflow.com/questions/7239333/how-do-i-commit-only-some-files
+[Commit only some files](http://stackoverflow.com/questions/7239333/how-do-i-commit-only-some-files)
 
 
 
@@ -67,7 +67,7 @@ revert last push
 git reset --hard <revision_id_of_last_known_good_commit>
 git push --force
 ```
-http://stackoverflow.com/questions/6655052/is-there-a-way-to-rollback-my-last-push-to-git
+[Rollback last push](http://stackoverflow.com/questions/6655052/is-there-a-way-to-rollback-my-last-push-to-git)
 
 
 
@@ -127,9 +127,9 @@ Git log graph
 git log --graph --decorate --oneline
 ```
 Ref:
-https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History
-https://www.atlassian.com/git/tutorials/inspecting-a-repository
-https://git-scm.com/docs/git-status
+[View commit history](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
+[Inspecting a repository](https://www.atlassian.com/git/tutorials/inspecting-a-repository)
+[Git status](https://git-scm.com/docs/git-status)
 
 
 
@@ -163,7 +163,7 @@ Revert a single file
 ```
 git checkout filename
 ```
-http://www.norbauer.com/rails-consulting/notes/git-revert-reset-a-single-file.html
+[Revert reset a single file](http://www.norbauer.com/rails-consulting/notes/git-revert-reset-a-single-file.html)
 
 
 
@@ -181,7 +181,7 @@ revert one uncommitted file git
 ```
 git checkout abc.php
 ```
-http://www.norbauer.com/rails-consulting/notes/git-revert-reset-a-single-file.html	
+[Revert a single file](http://www.norbauer.com/rails-consulting/notes/git-revert-reset-a-single-file.html)	
 
 
 
@@ -198,7 +198,7 @@ ignore class files git
 ```
 /*.class in gitignore
 ```
-http://stackoverflow.com/questions/4308610/how-to-ignore-certain-files-in-git
+[Ignore files in Git](http://stackoverflow.com/questions/4308610/how-to-ignore-certain-files-in-git)
 
 
 
@@ -219,13 +219,13 @@ git rev-list --all --count
 	- will get the total commits in all
 git rev-list --count origin/K-develop
 ```
-https://stackoverflow.com/questions/677436/how-do-i-get-the-git-commit-count
+[Get Git commit count](https://stackoverflow.com/questions/677436/how-do-i-get-the-git-commit-count)
 
 
 
 
 Caching your GitHub password in Git:
-https://help.github.com/articles/caching-your-github-password-in-git/
+[Cache Password](https://help.github.com/articles/caching-your-github-password-in-git/)
 
 
 
@@ -233,7 +233,7 @@ Take branch
 ```
 git checkout -b branch_name
 ```
-https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
+[Create a new branch](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
 
 
 
@@ -264,7 +264,7 @@ if conflict occurs, fix them using method below:
  >>>>>>> plainreport - new code end
 ```
 	How to fix Git merge conflicts:
-	https://www.youtube.com/watch?v=g8BRcB9NLp4
+	[Fix Git Merge](https://www.youtube.com/watch?v=g8BRcB9NLp4)
 
 
 
@@ -275,7 +275,7 @@ git pull origin master
 git merge branch_name
 git push origin master
 ```
-http://stackoverflow.com/questions/5601931/best-and-safest-way-to-merge-a-git-branch-into-master
+[Merge](http://stackoverflow.com/questions/5601931/best-and-safest-way-to-merge-a-git-branch-into-master)
 
 
 
@@ -295,12 +295,12 @@ git --version
 git version 2.16.2.windows.1
 ```
 if you get "command not found", it simply means that you haven't installed
-http://superuser.com/questions/347728/terminal-command-to-find-what-version-of-git-i-have-installed
+[Git Version](http://superuser.com/questions/347728/terminal-command-to-find-what-version-of-git-i-have-installed)
 
 
 
 Pull Request:
-https://help.github.com/articles/about-pull-requests/
+[pull-request](https://help.github.com/articles/about-pull-requests/
 
 
 ```
@@ -308,17 +308,12 @@ Git Cherry pick
 
 git cherry-pick <commit-id>
 ```
-https://mirrors.edge.kernel.org/pub/software/scm/git/docs/git-cherry-pick.html
-https://stackoverflow.com/questions/881092/how-to-merge-a-specific-commit-in-git
-https://stackoverflow.com/questions/880957/pull-all-commits-from-a-branch-push-specified-commits-to-another/881014#881014
-http://markosullivan.ca/how-to-handle-a-pull-request-from-github/
+[Cherry pick](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/git-cherry-pick.html)
+[Merge](https://stackoverflow.com/questions/881092/how-to-merge-a-specific-commit-in-git)
+[Pull Alll commit](https://stackoverflow.com/questions/880957/pull-all-commits-from-a-branch-push-specified-commits-to-another/881014#881014)
+[pull reqeust](http://markosullivan.ca/how-to-handle-a-pull-request-from-github/)
 
 
-
-https://mirrors.edge.kernel.org/pub/software/scm/git/docs/git-cherry-pick.html
-https://stackoverflow.com/questions/881092/how-to-merge-a-specific-commit-in-git
-https://stackoverflow.com/questions/880957/pull-all-commits-from-a-branch-push-specified-commits-to-another/881014#881014
-http://markosullivan.ca/how-to-handle-a-pull-request-from-github/
 
 
 Rewrite old history in GIT
@@ -328,7 +323,7 @@ java -jar c:/bfg/bfg-1.13.0.jar --strip-blobs-bigger-than 30M pythonsamples.git
 cd pythonsamples.git
 git reflog expire --expire=now --all && git gc --prune=now --aggressive
 ```
-https://rtyley.github.io/bfg-repo-cleaner/#usage
+[Bfg cleaner](https://rtyley.github.io/bfg-repo-cleaner/#usage)
 
 
 
@@ -346,7 +341,7 @@ change commit message after git push
 git commit --amend -m "Message"
 git push --force-with-lease
 ```
-https://stackoverflow.com/questions/8981194/changing-git-commit-message-after-push-given-that-no-one-pulled-from-remote
+[Change git commit](https://stackoverflow.com/questions/8981194/changing-git-commit-message-after-push-given-that-no-one-pulled-from-remote)
 
 
 OR
@@ -355,7 +350,7 @@ OR
 ```
 git rebase -i eb5661a8e4de761d2af79c5ecbdbc875c34481fa
 ```
-https://superuser.com/questions/751699/is-there-a-way-to-edit-a-commit-message-in-github/751909
+[Edit commit message](https://superuser.com/questions/751699/is-there-a-way-to-edit-a-commit-message-in-github/751909)
 
 
 
@@ -365,7 +360,7 @@ git stash     (will stash your existing changes)
 git pull      (pull all of your new changes from central repository)
 git stash apply (bring back your old changes on top of new code)
 ```
-https://git-scm.com/book/en/v1/Git-Tools-Stashing
+[Stashing](https://git-scm.com/book/en/v1/Git-Tools-Stashing)
 
 
 
@@ -375,9 +370,9 @@ View stash files
 ```
 git stash show
 ```
-https://stackoverflow.com/questions/3573623/is-it-possible-to-preview-stash-contents-in-git
+[Preview Stash content](https://stackoverflow.com/questions/3573623/is-it-possible-to-preview-stash-contents-in-git)
 
-https://stackoverflow.com/questions/11693074/git-credential-cache-is-not-a-git-command
+[Git credentials](https://stackoverflow.com/questions/11693074/git-credential-cache-is-not-a-git-command)
 
 
 
@@ -390,28 +385,28 @@ git branch -d <branch_name>
 delete multiple branches:
 git push -d <remote_name> <branch_name_1> <branch_name_2>
 ```
-https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-both-locally-and-remotely
-https://stackoverflow.com/questions/3670355/can-you-delete-multiple-branches-in-one-command-with-git
+[Delete Git branch](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-both-locally-and-remotely)
+[Delete multiple branch](https://stackoverflow.com/questions/3670355/can-you-delete-multiple-branches-in-one-command-with-git)
 
 
 
 Git Tutorial:
-https://www.atlassian.com/git/tutorials/syncing/git-fetch
+[Git Fetch](https://www.atlassian.com/git/tutorials/syncing/git-fetch)
 
 git cheat sheet:
-https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
+[Git Cheat sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 
 git commands:
-https://www.siteground.com/tutorials/git/commands.htm
+[Git commands](https://www.siteground.com/tutorials/git/commands.htm)
 
-https://www.atlassian.com/git/tutorials/setting-up-a-repository
+[Setting up a repo](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
 
 more:
-https://www.atlassian.com/git/tutorials/saving-changes
+[Saving changes](https://www.atlassian.com/git/tutorials/saving-changes)
 
 
 Copy Repository with history:
-https://developer.atlassian.com/blog/2016/01/totw-copying-a-full-git-repo/
+[Copying a full git repo](https://developer.atlassian.com/blog/2016/01/totw-copying-a-full-git-repo/)
 
 
 ```
