@@ -1,6 +1,4 @@
-# Introduction 
-
-TACT Labs
+# Tact Labs Wiki
 
 All Public Information about TACT Labs come here
 

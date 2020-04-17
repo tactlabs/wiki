@@ -2,7 +2,7 @@
 
 **Note:** Public Flask Simple Projects
 
-# Docker and Docker compose :
+# Flask Simple Projects :
 
   * [Simple Flask](https://github.com/tactlabs/simple-flask)
   * [Test Flask](https://github.com/tactlabs/test-flask)
