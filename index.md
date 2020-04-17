@@ -9,6 +9,7 @@ All Public Information about TACT Labs come here
 
 # TACT General Tools
   * [Nginx Installation](nginx-installation-ubuntu.md)
+  * [Git Commands](git-commands.md)
 
 # Public Projects
   * [Flask Sample Projects](flask-sample-projects.md)

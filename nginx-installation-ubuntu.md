@@ -28,4 +28,4 @@ Nginx location
 ```
 
 Ref:
-  * [Request Processing - Nginxs]([docker-commands.md](http://nginx.org/en/docs/http/request_processing.html))
+  * [Request Processing - Nginx]([docker-commands.md](http://nginx.org/en/docs/http/request_processing.html))
