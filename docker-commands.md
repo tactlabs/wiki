@@ -217,3 +217,11 @@ docker tag flask-reverse-string rajacsp/flask-reverse-string
 
 
 
+
+How to build image and push to Docker?
+```
+docker build -t flask-reverse-string:latest .
+docker run -d -p 4000:5000 flask-reverse-string:latest
+docker commit <containerid> username/flask-reverse-string:latest
+docker push username/flask-reverse-string
+```

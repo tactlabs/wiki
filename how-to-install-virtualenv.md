@@ -35,3 +35,6 @@ How to install requirments
 ```
 pip install -r requirements.txt
 ```
+
+
+[Credits](https://gist.github.com/rajasgs/14f81547701850bb21c90fbd8eb88fa4)

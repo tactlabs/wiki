@@ -14,6 +14,8 @@ All Public Information about TACT Labs come here
   * [How to Instlal Virtualenv](how-to-install-virtualenv.md)
   * [Tail Commands](tail-commands.md)
   * [VI Commands](vi-commands.md)
+  * [SSH Key](ssh-key.md)
+  * [Jupyter Cheatsheet](jupyter-cheatsheet.md)
 
 # Public Projects
   * [Flask Sample Projects](flask-sample-projects.md)
