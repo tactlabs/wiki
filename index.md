@@ -12,6 +12,8 @@ All Public Information about TACT Labs come here
   * [Nginx Installation](nginx-installation-ubuntu.md)
   * [Git Commands](git-commands.md)
   * [How to Instlal Virtualenv](how-to-install-virtualenv.md)
+  * [Tail Commands](tail-commands.md)
+  * [VI Commands](vi-commands.md)
 
 # Public Projects
   * [Flask Sample Projects](flask-sample-projects.md)
