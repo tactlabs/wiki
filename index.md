@@ -16,6 +16,7 @@ All Public Information about TACT Labs come here
   * [VI Commands](vi-commands.md)
   * [SSH Key](ssh-key.md)
   * [Jupyter Cheatsheet](jupyter-cheatsheet.md)
+  * [APScheduler](apscheduler.md)
 
 # Public Projects
   * [Flask Sample Projects](flask-sample-projects.md)
