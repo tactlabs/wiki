@@ -414,3 +414,315 @@ git status -uno
 ```
 
 
+
+get all commits
+```
+git rev-list --all --pretty=oneline
+```
+https://stackoverflow.com/questions/1314950/git-get-all-commits-and-blobs-they-created
+
+
+
+
+
+
+
+how to cherry pick
+```
+git checkout p (target branch)
+git cherry-pick <commit_id>
+```
+
+
+
+Check diff
+https://stackoverflow.com/questions/436362/how-to-diff-a-commit-with-its-parent/449128#449128
+
+
+
+
+How to find the parent branch?
+```
+git parent
+```
+https://stackoverflow.com/questions/3161204/find-the-parent-branch-of-a-git-branch
+
+
+
+
+
+
+
+When did I create a branch?
+```
+git reflog --date=local
+git reflog --date=local feat-feature-endpoint-p
+```
+https://stackoverflow.com/questions/2255416/how-to-determine-when-a-git-branch-was-created
+
+
+
+
+
+
+
+Create a branch from another branch
+```
+git checkout -b myfeature dev
+```
+https://stackoverflow.com/questions/4470523/create-a-branch-in-git-from-another-branch
+
+
+
+
+
+
+How to rename a branch name?
+https://stackoverflow.com/questions/6591213/how-do-i-rename-a-local-git-branch
+
+
+
+
+
+
+Git diff and apply
+```
+git diff new-feature..new-feature2 | git apply -
+```
+
+
+
+
+
+
+
+Find the parent branch: (buggy as well)
+```
+git for-each-ref --format='%(refname:short)' refs/heads/* | while read b; do if r=$(git config --get branch.$b.remote); then m=$(git config --get branch.$b.merge); echo "$b -> $r/${m##*/}"; fi; done
+```
+https://blog.liplex.de/git-show-parent-branch/
+
+
+
+
+
+
+Git Rebase
+https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase
+
+
+
+
+
+
+
+
+```
+git bi-sect
+```
+https://git-scm.com/docs/git-bisect
+
+
+
+Git rebase manual vs Git rebase interactive
+Ref needed
+
+
+Git rebase vs git merge
+https://stackoverflow.com/questions/804115/when-do-you-use-git-rebase-instead-of-git-merge
+
+
+
+When should I git pull rebase
+https://stackoverflow.com/questions/2472254/when-should-i-use-git-pull-rebase
+
+
+
+
+
+
+
+
+merge vs pull
+```
+git pull origin master
+is same as
+git fetch origin
+git merge origin/master
+```
+https://stackoverflow.com/questions/21756614/difference-between-git-merge-origin-master-and-git-pull
+
+
+
+
+
+
+
+Merge another branch changes into mine
+```
+https://help.github.com/en/articles/merging-an-upstream-repository-into-your-fork
+```
+
+
+
+
+
+
+
+Show which files have been changed from another branch
+```
+git diff --name-status another_branch
+git diff --name-status feat-product-apply-permission-K20-1382-latest
+git diff --name-status p
+```
+https://stackoverflow.com/questions/822811/showing-which-files-have-changed-between-two-revisions
+
+
+
+
+
+
+delete a branch
+```
+git branch -D branch_name
+```
+https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely	
+
+
+
+
+
+
+
+Git stash
+```
+git stash list 
+```
+will list all stashes
+
+https://git-scm.com/docs/git-stash
+
+
+
+
+
+
+
+Show git username
+```
+git config user.name
+git config --list
+```
+https://alvinalexander.com/git/git-show-change-username-email-address
+
+
+
+
+
+
+
+View file in another branch
+https://stackoverflow.com/questions/7856416/view-a-file-in-a-different-git-branch-without-changing-branches
+
+
+
+Undo pushed commits
+https://stackoverflow.com/questions/22682870/git-undo-pushed-commits
+
+
+
+How to revoke last pushed commit?
+(ref needed)
+
+
+Get the old check point
+```
+git checkout 85d29a6c0853f85303f87091efd8b3ac9ca69766
+```
+
+
+
+
+
+
+
+
+```
+git add .
+git commit -m "Last commit revoked"fa
+git push origin HEAD:master -f
+```
+
+
+
+
+
+
+
+how to merge my branch to master in git?
+```
+git checkout master
+git pull https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git BRANCH_NAME
+git push origin master
+```
+
+
+
+
+
+
+
+
+```
+git push --set-upstream origin qa
+git push --set-upstream origin feat-raja-one
+```
+
+
+
+
+
+
+merge branch to qa
+```
+git pull
+git checkout qa
+git pull
+git pull https://github.com/rajasgs/merge-test feat-raja-one
+git push origin qa
+```
+https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/merging-an-upstream-repository-into-your-fork
+
+
+
+
+
+
+
+how to mirror github repo?
+```
+git clone --bare https://github.com/KwikeeLabs/PrinterSpecsETL.git
+cd PrinterSpecsETL.git
+git push --mirror https://github.com/rajasgs/PrinterSpecsETLDec2019.git
+cd ..
+rm -rf PrinterSpecsETL.git
+```
+https://github.com/KwikeeLabs/PrinterSpecsETL
+    
+https://help.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository
+
+
+
+
+
+
+
+How to change the committed message?
+```
+git amend
+git commit --amend -m "Message"
+```
+https://www.atlassian.com/git/tutorials/rewriting-history
+
+
+
