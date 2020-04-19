@@ -42,6 +42,21 @@ ssh-add -K ~/.ssh/censhare-git.key
 ```
 
 
+How to generate ssh key on Ubuntu?
+```
+ssh-keygen -t rsa -b 4096 -C "email@gmail.com"
+
+eval "$(ssh-agent -s)"
+
+ssh-add ~/.ssh/id_rsa
+
+pbcopy < ~/.ssh/id_rsa.pub
+or cat the public file
+
+then copy the file on Github/Gitlab
+```
+
+
 More:
 https://apple.stackexchange.com/questions/48502/how-can-i-permanently-add-my-ssh-private-key-to-keychain-so-it-is-automatically	
 https://ecosphere.censhare.com/developer/docs/partner-git-access.html

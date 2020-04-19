@@ -20,6 +20,12 @@ List all Docker running containers
 docker ps -a
 ```
 
+Find docker container with filter
+```
+docker ps --filter "name=luigi"
+```
+will return the container whose name is luigi
+
 
 List Docker containers
 ```
