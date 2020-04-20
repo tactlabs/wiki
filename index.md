@@ -20,6 +20,11 @@ All Public Information about TACT Labs come here
   * [APScheduler](apscheduler.md)
   * [Ubuntu Commands](ubuntu-commands.md)
   * []()
+
+
+# Public Collections
+  * [Research papers](research-papers.md)
+  * [Testing Automation](https://reflect.run/)
   
 
 # Public Projects
