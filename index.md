@@ -19,7 +19,6 @@ All Public Information about TACT Labs come here
   * [Jupyter Cheatsheet](jupyter-cheatsheet.md)
   * [APScheduler](apscheduler.md)
   * [Ubuntu Commands](ubuntu-commands.md)
-  * []()
 
 
 # Public Collections
