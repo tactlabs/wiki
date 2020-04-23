@@ -165,7 +165,7 @@ Just clone this repo and run select.py file
 
 
 ### Credits
-* [Credits](https://gist.github.com/rajasgs/95f5987f94e4389ab76262a61b402864)
+* [Gist GitHub](https://gist.github.com/rajasgs/95f5987f94e4389ab76262a61b402864)
 * [Docker Postgres](https://hackernoon.com/dont-install-postgres-docker-pull-postgres-bee20e200198)
 * [Postgres Create Table](http://www.postgresqltutorial.com/postgresql-create-table/)
 * [Creating Usertable](https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e)
