@@ -24,6 +24,7 @@ All Public Information about TACT Labs come here
 # Public Collections
   * [Research papers](research-papers.md)
   * [Testing Automation](https://reflect.run/)
+  * [SQL ORM Library](https://github.com/absent1706/sqlalchemy-mixins)
   
 
 # Public Projects

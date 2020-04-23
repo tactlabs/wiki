@@ -726,3 +726,22 @@ https://www.atlassian.com/git/tutorials/rewriting-history
 
 
 
+How to change the remote url?
+```
+git remote set-url origin git@github.com:username/reponame.git
+```
+
+
+
+How to check your current remote url?
+```
+git remote -v
+
+you will something like this
+origin	git@github.com:tactlabs/reponame.git (fetch)
+origin	git@github.com:tactlabs/reponame.git (push)
+```
+
+
+### Credits
+  * [submodules] (https://github.blog/2016-02-01-working-with-submodules/)

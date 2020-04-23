@@ -3,6 +3,21 @@
 **Note:** All Docker Compose commands are documented here
 
 
+Install docker-compose in Ubuntu:
+```
+sudo curl -L https://github.com/docker/compose/releases/download/1.21.2/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
+
+sudo chmod +x /usr/local/bin/docker-compose
+
+docker-compose --version
+```
+[Ref](https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-18-04)
+
+
+Get docker-compose version
+```
+docker-compose --version
+```
 
 verify docker compose
 ```
