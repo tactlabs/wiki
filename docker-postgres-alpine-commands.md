@@ -49,6 +49,11 @@ Show databases
 
 
 
+show size of the database
+```
+\l+
+```
+
 
 
 Show roles
@@ -58,20 +63,73 @@ Show roles
 
 
 
+switch database
+```
+\c db_name
+```
+
+
+
+show schema table
+```
+\dt+
+```
+
 
 
 Get current database:
 ```
 select current_database();
+
+or 
+
+\c
+
+or
+
+SELECT * FROM current_catalog;
 ```
 
 
 
 
 
-List tables
+List tables in the database
 ```
 \dt
+```
+
+
+
+show table with size
+```
+\dt+
+```
+
+
+
+show specific schema tables
+```
+\dt schema_name.* 
+```
+
+
+specific tble
+```
+\d table_name
+```
+
+
+Get table details from specific schema:
+```
+select * from  pg_catalog.pg_tables where schemaname != 'flcity' and schemaname != 'pg_catalog';
+```
+
+
+
+quit database
+```
+\q
 ```
 
 
