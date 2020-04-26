@@ -375,6 +375,21 @@ git stash show
 * [Git credentials](https://stackoverflow.com/questions/11693074/git-credential-cache-is-not-a-git-command)
 
 
+List stash
+```
+git stash list
+```
+
+
+Save/Apply Stash by Name
+```
+git stash save <stash_name>
+git status apply stash^{/stash_name}
+
+git stash save abc
+git stash apply stash^{/abc}
+```
+[more](https://stackoverflow.com/questions/11269256/how-to-name-and-retrieve-a-stash-by-name-in-git)
 
 
 Delete a branch
