@@ -18,10 +18,29 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Tail Commands](tail-commands.md)
   * [VI Commands](vi-commands.md)
   * [SSH Key](ssh-key.md)
-  * [Jupyter Cheatsheet](jupyter-cheatsheet.md)
   * [APScheduler](apscheduler.md)
   * [Ubuntu Commands](ubuntu-commands.md)
+  * [MinIO](minio-commands.md)
+  * [RabbitMQ Commands](rabbitmq-commands.md)
 
+# TACT ML / DL
+  * [](ml-libraries.md)
+  * [](ml-dl-deployments.md)
+  * [](luigi.md)
+  * [Jupyter Cheatsheet](jupyter-cheatsheet.md)
+  * [How to uplaod to Colab](how-to-upload-to-colab.md)
+  * []()
+
+# TACT PaaS / BaaS
+  * [](paas.md)
+  * []()
+  * []()
+  * []()
+
+# DB Resources
+  * [](mongodb-installation.md)
+  * [](mongodb-commands.md)
+  * [](mysql-docker.md)
 
 # Public Collections
   * [Research papers](research-papers.md)
