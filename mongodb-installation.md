@@ -31,6 +31,16 @@ mongodb conf:
 ```
 
 How to verify Mongodb?
+
+option 1:
+```
+ps aux | grep -v grep | grep mongod
+
+  you will see something like this
+  rajacsp          54519   0.3  0.3  5528896  22424   ??  S     2:42am   0:02.42 mongod --config /usr/local/etc/mongod.conf --fork
+```
+
+
 option1:
 ```
 ps -ef | grep mongod | grep -v grep | wc -l | tr -d ' '
