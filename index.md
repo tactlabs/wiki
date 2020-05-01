@@ -41,6 +41,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [](mongodb-installation.md)
   * [](mongodb-commands.md)
   * [](mysql-docker.md)
+  * [Neo4j Basics](neo4j-basics.md.md)
 
 # Public Collections
   * [Research papers](research-papers.md)
