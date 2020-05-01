@@ -24,19 +24,19 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [RabbitMQ Commands](rabbitmq-commands.md)
 
 # TACT ML / DL
-  * [](ml-libraries.md)
-  * [](ml-dl-deployments.md)
-  * [](luigi.md)
+  * [ML Libraries](ml-libraries.md)
+  * [ML/DL Deployments](ml-dl-deployments.md)
+  * [Luigi](luigi.md)
   * [Jupyter Cheatsheet](jupyter-cheatsheet.md)
   * [How to uplaod to Colab](how-to-upload-to-colab.md)
 
 # TACT PaaS / BaaS
-  * [](paas.md)
+  * [PaaS](paas.md)
 
 # DB Resources
-  * [](mongodb-installation.md)
-  * [](mongodb-commands.md)
-  * [](mysql-docker.md)
+  * [MongoDB Installation](mongodb-installation.md)
+  * [MongoDB  Commands](mongodb-commands.md)
+  * [MySQL Docker](mysql-docker.md)
   * [Neo4j Basics](neo4j-basics.md)
 
 # Public Collections
