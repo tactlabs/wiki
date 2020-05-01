@@ -117,6 +117,17 @@ Cypher
 ```
 
 
+Select all Nodes
+```
+MATCH (n)
+DETACH DELETE n;
+```
+
+Delete all Nodes
+```
+MATCH (n)
+DETACH DELETE n
+```
 
 
 ```
