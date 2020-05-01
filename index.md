@@ -29,19 +29,15 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [](luigi.md)
   * [Jupyter Cheatsheet](jupyter-cheatsheet.md)
   * [How to uplaod to Colab](how-to-upload-to-colab.md)
-  * []()
 
 # TACT PaaS / BaaS
   * [](paas.md)
-  * []()
-  * []()
-  * []()
 
 # DB Resources
   * [](mongodb-installation.md)
   * [](mongodb-commands.md)
   * [](mysql-docker.md)
-  * [Neo4j Basics](neo4j-basics.md.md)
+  * [Neo4j Basics](neo4j-basics.md)
 
 # Public Collections
   * [Research papers](research-papers.md)
