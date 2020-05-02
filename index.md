@@ -30,6 +30,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Jupyter Cheatsheet](jupyter-cheatsheet.md)
   * [How to uplaod to Colab](how-to-upload-to-colab.md)
   * [Spell Checker Libraries](spell-checker.md)
+  * [Torch Basics](torch-basics.md)
 
 # TACT PaaS / BaaS
   * [PaaS](paas.md)

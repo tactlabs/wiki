@@ -50,6 +50,7 @@
 * [Streamz](https://github.com/python-streamz/streamz)
 * [Scikit Allel](https://github.com/cggh/scikit-allel)
 * [TsFresh](https://github.com/blue-yonder/tsfresh)
+* [TenesorRT](https://docs.nvidia.com/deeplearning/sdk/tensorrt-sample-support-guide/index.html#samples)
 
 
 
