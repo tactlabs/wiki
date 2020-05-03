@@ -1,6 +1,6 @@
 # Torch Samples
 
-**Note:** tbw
+**Note:** Basics Torch Samples come here
 
 
 
@@ -46,8 +46,22 @@ print(output)
 
 
 
-
+Simple Jacobian
 ```
+import torch
+from torch.autograd.functional import jacobian
+
+def exp_reducer(x):
+
+  return x.exp().sum(dim = 1)
+
+inputs = torch.rand(2, 2)
+
+print(inputs)
+
+jacobian(exp_reducer, inputs)
+
+jacobian(exp_reducer, inputs, create_graph = True)
 
 ```
 

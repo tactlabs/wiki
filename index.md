@@ -22,6 +22,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Ubuntu Commands](ubuntu-commands.md)
   * [MinIO](minio-commands.md)
   * [RabbitMQ Commands](rabbitmq-commands.md)
+  * [TACT Tools](tact-tools.md)
 
 # TACT ML / DL
   * [ML Libraries](ml-libraries.md)
