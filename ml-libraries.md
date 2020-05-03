@@ -6,51 +6,97 @@
 ### ML/DL Libraries:
 
 * [PySpark](https://github.com/apache/spark/tree/master/python/pyspark)
+
 * [Seaborn](https://github.com/mwaskom/seaborn)
+
 * [Theano](https://github.com/Theano/Theano)
+
 * [Keras](https://github.com/keras-team/keras)
+
 * [Pandas](https://github.com/pandas-dev/pandas)
+
 * [PyTorch](https://github.com/pytorch/pytorch)
+
 * [Numpy](https://github.com/numpy/numpy)
+
 * [Scipy](https://github.com/scipy/scipy)
+
 * [Numba](https://github.com/numba/numba)
+
 * [YellowBrick](https://github.com/districtdatalabs/yellowbrick)
+
 * [StatsModel](https://github.com/statsmodels/statsmodels/)
+
 * [Numba](https://github.com/numba/numba)
+
 * [Scipy](https://github.com/scipy/scipy)
+
 * [Scikit Learn](https://github.com/scikit-learn/scikit-learn)
+
 * [Matplotlib](https://github.com/matplotlib/matplotlib)
+
 * [Stat Maths](https://github.com/tirthajyoti/Stats-Maths-with-Python)
+
 * [Tensorflow](https://github.com/tensorflow/tensorflow)
+
 * [BERT](https://github.com/google-research/bert)
+
 * [Hugginface Transformers](https://github.com/huggingface/transformers)
+
 * [BERT-pytorch](https://github.com/codertimo/BERT-pytorch)
+
 * [DeepSpeech](https://github.com/mozilla/DeepSpeech)
+
 * [TPot](https://github.com/EpistasisLab/tpot)
+
 * [XArray](https://github.com/pydata/xarray)
+
 * [Pangeo](https://github.com/pangeo-data/pangeo)
+
 * [CuML](https://github.com/rapidsai/cuml)
+
 * [Rapids](https://rapids.ai/)
+
 * [CuDF](https://github.com/rapidsai/cudf)
+
 * [CuGraph](https://github.com/rapidsai/cugraph)
+
 * [Rapids GPU](https://devblogs.nvidia.com/gpu-accelerated-analytics-rapids/)
+
 * [PyArrow - Apache Arrow](https://arrow.apache.org/docs/python/csv.html)
+
 * [](https://github.com/pydata/xarray)
+
 * [xarray-simlab](https://xarray-simlab.readthedocs.io/en/latest/)
+
 * [xarray simlab 2](https://github.com/benbovy/xarray-simlab)
+
 * [](https://github.com/holoviz/datashader)
+
 * [Intake](https://github.com/intake/intake)
+
 * [Intake - Parquet](https://github.com/intake/intake-parquet)
+
 * [Parquet](https://github.com/jcrobak/parquet-python)
+
 * [Stumpy](https://github.com/TDAmeritrade/stumpy)
+
 * [FeatureTools](https://github.com/FeatureLabs/featuretools)
+
 * [Cesium](https://github.com/cesium-ml/cesium)
+
 * [Skyportal](https://github.com/skyportal/skyportal)
+
 * [Satpy](https://github.com/pytroll/satpy)
+
 * [Streamz](https://github.com/python-streamz/streamz)
+
 * [Scikit Allel](https://github.com/cggh/scikit-allel)
+
 * [TsFresh](https://github.com/blue-yonder/tsfresh)
+
 * [TenesorRT](https://docs.nvidia.com/deeplearning/sdk/tensorrt-sample-support-guide/index.html#samples)
+
 
 
 
@@ -58,29 +104,53 @@
 ### NLP Custom Annotation
 
 * [Doccano](https://github.com/doccano/doccano)
+
 * [Doccano Transformer](https://github.com/doccano/doccano-transformer)
+
 * [NLP Rating](https://github.com/Ismail-therap/NLP-rating-customer-review)
+
 * [Spacy NER Annotator](https://github.com/ManivannanMurugavel/spacy-ner-annotator)
+
 * [How to make your own NER Model with Contextual Word Embedding](https://medium.com/saarthi-ai/how-to-make-your-own-ner-model-with-contexual-word-embeddings-5086276e04a0)
+
 * [Spacy NER Custom Entities](https://gist.github.com/kaustumbh7/6dc0b909dbdfea4ae2428fb77e18273f)
+
 * [Named Entity Recognition NER with BERT](https://towardsdatascience.com/named-entity-recognition-ner-with-bert-in-spark-nlp-874df20d1d77)
+
 * [Vietnamese NLP Toolkit for Node](https://github.com/vunb/vntk)
+
 * [Spacy](https://github.com/ConflictingTheories/spacy_ws)
+
 * [Tutorial for building your own Sous Chef Bot](https://github.com/mvielkind/sous-chef-bot)
+
 * [Train Spacy ner with custom dataset](https://github.com/ManivannanMurugavel/spacy-ner-annotator)
+
 * [Named Entity Recognition for standard entities and sentiment analysis. ](https://github.com/rickeydas/corespace-ner)
+
 * [SpaCy NER Model Creation With Custom Training Data](https://github.com/kayasanoori/Spacy_NER)
+
 * [Drug Named Entity Recognition using spaCy](https://github.com/hurcy/drug_ner)
+
 * [distributions of keywords](https://github.com/fabriziomiano/VocabularyAnalyzer)
+
 * [Entity Extraction Using Spacy](https://github.com/niraj1234567890/entity_extraction_spaCy)
+
 * [spaCy text mining and NLP](https://github.com/SCK22/TextMining)
+
 * [Build a deep learning model for predicting the named entities from text.](https://github.com/floydhub/named-entity-recognition-template)
+
 * [MITIE: library and tools for information extraction](https://github.com/mit-nlp/MITIE)
+
 * [NER](https://github.com/NervanaSystems/nlp-architect/blob/master/tutorials/ner/ner_demo.ipynb)
+
 * [A spaCy pipeline and model for NLP on unstructured legal text](https://github.com/ICLRandD/Blackstone)
+
 * [Named Entity Recognition](https://github.com/deepmipt/ner)
+
 * [Natural Language Processing Best Practices & Examples](https://github.com/microsoft/nlp-recipes)
+
 * [Named Entity Recognition – NERClassifierCombiner](https://stanfordnlp.github.io/CoreNLP/ner.html)
+
 * [Create your own Labels for NER tagging using Stanford Corde-NLP](https://github.com/mridultuteja/Custom-Labelled-NER-tagger)
 
 
@@ -89,49 +159,49 @@
 
 * [Leon is your open-source personal assistant](https://github.com/leon-ai/leon)
 
-* [](https://github.com/Picovoice/speech-to-text-benchmark)
+* [Speech to Text](https://github.com/Picovoice/speech-to-text-benchmark)
 
-* [](https://github.com/robmsmt/KerasDeepSpeech)
+* [Keras Deep Speech](https://github.com/robmsmt/KerasDeepSpeech)
 
-* [](https://github.com/MainRo/deepspeech-server)
+* [DeepSpeech Server](https://github.com/MainRo/deepspeech-server)
 
-* [](https://github.com/mozilla/DeepSpeech-examples)
+* [DeepSpeech Examples](https://github.com/mozilla/DeepSpeech-examples)
 
-* [](https://github.com/rolczynski/Automatic-Speech-Recognition)
+* [Automatic Speech Recognition](https://github.com/rolczynski/Automatic-Speech-Recognition)
 
-* [](https://github.com/asticode/go-astideepspeech)
+* [Go AstiDeepSpeech](https://github.com/asticode/go-astideepspeech)
 
-* [](https://github.com/jinserk/pytorch-asr)
+* [PyTorch ASR](https://github.com/jinserk/pytorch-asr)
 
-* [](https://github.com/mozilla/DSAlign)
+* [DSAlign](https://github.com/mozilla/DSAlign)
 
-* [](https://github.com/daanzu/deepspeech-websocket-server)
+* [DeepSpeech WebSocket Server](https://github.com/daanzu/deepspeech-websocket-server)
 
-* [](https://github.com/MyrtleSoftware/deepspeech)
+* [MyrtleSoftware DeepSpeech](https://github.com/MyrtleSoftware/deepspeech)
 
-* [](https://github.com/silenterus/deepspeech-cleaner)
+* [DeepSpeech Cleaner](https://github.com/silenterus/deepspeech-cleaner)
 
-* [](https://github.com/reith/deepspeech-playground)
+* [DeepSpeech Playground](https://github.com/reith/deepspeech-playground)
 
-* [](https://github.com/thecodrr/vspeech)
+* [VSpeech](https://github.com/thecodrr/vspeech)
 
-* [](https://github.com/thecodrr/vave)
+* [TheCoder Vave](https://github.com/thecodrr/vave)
 
-* [](https://github.com/utunga/DeepSpeech)
+* [Utunga DeepSpeech](https://github.com/utunga/DeepSpeech)
 
-* [](https://www.satishchandragupta.com/tech/python-speech-to-text-asr-transcriber-with-mozilla-deepspeech.html)
+* [Python Speech to Text ASR](https://www.satishchandragupta.com/tech/python-speech-to-text-asr-transcriber-with-mozilla-deepspeech.html)
 
-* [](https://github.com/thecodrr/vave)
+* [Codrr Vave](https://github.com/thecodrr/vave)
 
-* [](https://github.com/noahchalifour/baidu-deepspeech2)
+* [Baidu DeepSpeech2](https://github.com/noahchalifour/baidu-deepspeech2)
 
-* [](https://github.com/hauptdigital/deepspeech-notes)
+* [DeepSpeech Notes](https://github.com/hauptdigital/deepspeech-notes)
 
-* [](https://github.com/crazymidnight/speech-recognition)
+* [Speech Recognition](https://github.com/crazymidnight/speech-recognition)
 
-* [](https://github.com/ynop/deepspeech-german)
+* [DeepSpeech German](https://github.com/ynop/deepspeech-german)
 
-* [](https://github.com/MainRo/deepspeech-server)
+* [DeepSpeech Server](https://github.com/MainRo/deepspeech-server)
 
 
     
@@ -145,71 +215,74 @@
 * [Dask](https://github.com/dask/dask)
 
 ### Data Engineering
-* [](https://medium.com/the-prefect-blog/the-prefect-hybrid-model-1b70c7fd296)	
-* [](https://github.com/PrefectHQ/prefect)
+* [The Perfect Hybrid Model](https://medium.com/the-prefect-blog/the-prefect-hybrid-model-1b70c7fd296)	
+* [Perfect](https://github.com/PrefectHQ/prefect)
 	
 	
-NLP:
-	NLTK
-	
-	Spacy
-	
-	Bokeh
-	
-	Gensim
-	
-	Word2Vec
+### NLP
+* [NLTK]()
+* [Spacy]()
+* [Bokeh]()
+* [Gensim]()
+* [Word2Vec]()
 
-Parallel computing in Python:
-	OpenMPy
 
-Scientific:
-	Sympy
-	
-Statistis Lib:
-	Statistics
-	
-	Statmodels
-	
-	Plotly
+### Parallel computing in Python
+* [OpenMPy]()
 
-Tensorflow alternate:
-	Keras
-	
-	OpenCV
-	
-	Tensorflow-gpu
-	
-	Tensorflow-lite
-	
-	Torch
-	
-	PyTorch
 
-Image processing:
-	Scikit-image
-	
-	Pillow
-	
-	OpenCV-Python
-	
-	Mahotas
-	
-	SimpleITK
-	
-	PgMagick
-	
-	PyCairo
+### Scientific
+* [Sympy]()
 
-DCT:
-	pygasp
+
+### Statistis Lib
+* [Statistics]()	
+* [Statmodels]()
+* [Plotly]()
+	
+
+### Tensorflow alternate
+* [Keras]()
+* [OpenCV]()
+* [Tensorflow-gpu]()
+* [Tensorflow-lite]()
+* [Torch]()
+* [PyTorch]()
+
+
+
+### Image processing
+* [Scikit-image]()
+* [Pillow]()
+* [OpenCV-Python]()
+* [Mahotas]()
+* [SimpleITK]()
+* [PgMagick]()
+* [PyCairo]()
+
+	
+
+### DCT
+* [pygasp]()
+
+
+
+### NASA and Python
+* [PyBlock]()	
+* [DualPol]()
+* [SingleDOP]()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+
 	
 	
-NASA and Python:
 	
-	PyBlock
 	
-	DualPol
 	
-	SingleDOP
+	
 	
