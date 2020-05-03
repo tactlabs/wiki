@@ -15,7 +15,7 @@ torch.cuda.is_available()
 
 
 
-
+Simple Autograd function
 ```
 import torch
 from torch.autograd import Function
@@ -71,7 +71,13 @@ jacobian(exp_reducer, inputs, create_graph = True)
 
 
 ```
+def exp_adder(x, y):
 
+  return 2 * x.exp() + 3 * y
+
+inputs = (torch.rand(2), torch.rand(2))
+
+jacobian(exp_adder, inputs)
 ```
 
 
