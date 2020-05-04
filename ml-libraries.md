@@ -207,24 +207,35 @@
     
 ### Numba alternates:
 * [Cython](https://github.com/cython/cython)
+
 * [Julia](https://github.com/JuliaLang/julia)
+
 * [Cupy](https://github.com/cupy/cupy)
+
 * [Pycuda](https://github.com/inducer/pycuda)
+
 * [PyPy]()
+
 * [Jax](https://github.com/google/jax)
+
 * [Dask](https://github.com/dask/dask)
 
 ### Data Engineering
 * [The Perfect Hybrid Model](https://medium.com/the-prefect-blog/the-prefect-hybrid-model-1b70c7fd296)	
+
 * [Perfect](https://github.com/PrefectHQ/prefect)
 	
 	
 ### NLP
-* [NLTK]()
-* [Spacy]()
-* [Bokeh]()
-* [Gensim]()
-* [Word2Vec]()
+* [NLTK](https://github.com/nltk/nltk)
+
+* [Spacy](https://github.com/explosion/spaCy)
+
+* [Bokeh](https://github.com/bokeh/bokeh)
+
+* [Gensim](https://github.com/RaRe-Technologies/gensim)
+
+* [Word2Vec](https://github.com/tmikolov/word2vec)
 
 
 ### Parallel computing in Python
@@ -232,52 +243,58 @@
 
 
 ### Scientific
-* [Sympy]()
+* [Sympy](https://github.com/sympy/sympy)
 
 
-### Statistis Lib
-* [Statistics]()	
-* [Statmodels]()
-* [Plotly]()
+### Statistis Lib	
+
+* [Statmodels](https://github.com/statsmodels/statsmodels)
+
+* [Plotly](https://github.com/plotly/plotly.py)
 	
 
 ### Tensorflow alternate
-* [Keras]()
-* [OpenCV]()
-* [Tensorflow-gpu]()
-* [Tensorflow-lite]()
-* [Torch]()
-* [PyTorch]()
+* [Keras](https://github.com/keras-team/keras)
+
+* [OpenCV](https://github.com/opencv/opencv)
+
+* [Tensorflow-gpu](https://github.com/tensorflow/tensorflow)
+
+* [Tensorflow-lite](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite/toco)
+
+* [PyTorch](https://github.com/pytorch/pytorch)
 
 
 
 ### Image processing
-* [Scikit-image]()
-* [Pillow]()
-* [OpenCV-Python]()
-* [Mahotas]()
-* [SimpleITK]()
-* [PgMagick]()
-* [PyCairo]()
+* [Scikit-image](https://github.com/scikit-image/scikit-image)
+
+* [Pillow](https://github.com/python-pillow/Pillow)
+
+* [OpenCV-Python](https://github.com/opencv/opencv)
+
+* [Mahotas](https://github.com/luispedro/mahotas)
+
+* [SimpleITK](https://github.com/SimpleITK/SimpleITK)
+
+* [PgMagick](https://github.com/hhatto/pgmagick)
+
+* [PyCairo](https://github.com/pygobject/pycairo)
 
 	
 
 ### DCT
-* [pygasp]()
+* [pygasp](https://pythonhosted.org/PyGASP/)
 
 
 
 ### NASA and Python
-* [PyBlock]()	
-* [DualPol]()
-* [SingleDOP]()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [PyBlock](https://github.com/nasa/PyBlock)	
+
+* [DualPol](https://github.com/nasa/DualPol)
+
+* [SingleDOP](https://github.com/nasa/SingleDop)
+
 
 	
 	
