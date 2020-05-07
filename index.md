@@ -34,6 +34,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Torch Basics](torch-basics.md)
   * [Cuda](cuda.md)
   * [Torch Samples](torch-samples.md)
+  * [Dask Basics](dask-basics.md)
 
 # TACT PaaS / BaaS
   * [PaaS](paas.md)
