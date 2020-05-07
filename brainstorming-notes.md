@@ -18,7 +18,7 @@
 
 
 #### Ray Hyperparameter Tuning:
-Ray Docs - [Ray Docs](https://docs.dask.org/en/latest/)
-Ray Tuning - [Ray Tuning](https://docs.ray.io/en/latest/tune.html)
+- Ray Docs - [Ray Docs](https://docs.dask.org/en/latest/)
+- Ray Tuning - [Ray Tuning](https://docs.ray.io/en/latest/tune.html)
 
 
