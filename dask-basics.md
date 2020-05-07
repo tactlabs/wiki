@@ -31,6 +31,12 @@ You should see logs like below in your scheduler console:
 		distributed.scheduler - INFO - Starting worker compute stream, tcp://192.168.2.26:64764
 ```
 
+How to connect from a client
+```
+from dask.distributed import Client
+client = Client("tcp://192.168.2.26:8786")
+```
+
 How to remove worker?
 ```
 	just close the running worker console
