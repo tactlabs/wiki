@@ -39,10 +39,11 @@ client = Client("tcp://192.168.2.26:8786")
 
 How to remove worker?
 ```
-	just close the running worker console
-	You should see the logs like below:
-		Remove worker <Worker 'tcp://192.168.2.26:64796', name: tcp://192.168.2.26:64796, memory: 0, processing: 0>
-		distributed.core - INFO - Removing comms to tcp://192.168.2.26:64796
+just close the running worker console
+
+You should see the logs like below:
+Remove worker <Worker 'tcp://192.168.2.26:64796', name: tcp://192.168.2.26:64796, memory: 0, processing: 0>
+distributed.core - INFO - Removing comms to tcp://192.168.2.26:64796
 ```
 
 [Dask Setup and Basics](https://www.youtube.com/watch?v=TQM9zIBzNBo)
