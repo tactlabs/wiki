@@ -38,6 +38,9 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 # TACT PaaS / BaaS
   * [PaaS](paas.md)
 
+# TACT Brainstorming
+  * [Brainstorming Notes](brainstorming-notes.md)
+
 # DB Resources
   * [MongoDB Installation](mongodb-installation.md)
   * [MongoDB  Commands](mongodb-commands.md)
