@@ -21,7 +21,7 @@
 
 * [Scipy](https://github.com/scipy/scipy)
 
-* [Numba](https://github.com/numba/numba)
+* [Numba](https://github.com/ /numba)
 
 * [YellowBrick](https://github.com/districtdatalabs/yellowbrick)
 
@@ -65,13 +65,13 @@
 
 * [PyArrow - Apache Arrow](https://arrow.apache.org/docs/python/csv.html)
 
-* [](https://github.com/pydata/xarray)
+* [XArray](https://github.com/pydata/xarray)
 
 * [xarray-simlab](https://xarray-simlab.readthedocs.io/en/latest/)
 
 * [xarray simlab 2](https://github.com/benbovy/xarray-simlab)
 
-* [](https://github.com/holoviz/datashader)
+* [Datashader](https://github.com/holoviz/datashader)
 
 * [Intake](https://github.com/intake/intake)
 
@@ -96,8 +96,18 @@
 * [TsFresh](https://github.com/blue-yonder/tsfresh)
 
 * [TenesorRT](https://docs.nvidia.com/deeplearning/sdk/tensorrt-sample-support-guide/index.html#samples)
+  
+* [Zarr - Compressed N-dimensional array](https://zarr.readthedocs.io/en/stable/)
 
 
+### Data Engineering
+* [Prefect - Workflow Management System](https://github.com/PrefectHQ/prefect)
+
+* [Prefect Docs](https://docs.prefect.io/core/getting_started/installation.html)
+
+* [Luigi](https://github.com/spotify/luigi)
+
+* [Airflow](https://airflow.apache.org/)
 
 
 

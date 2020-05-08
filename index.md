@@ -35,6 +35,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Cuda](cuda.md)
   * [Torch Samples](torch-samples.md)
   * [Dask Basics](dask-basics.md)
+  * [Julia Basics](julia-basics.md)
 
 # TACT PaaS / BaaS
   * [PaaS](paas.md)
