@@ -38,31 +38,16 @@ julia
 
 
 
-
-```
-
-```
-
-
-
-
-
-
-```
-
-```
+#### Basic Machine Learing in Julia
+* [KNN - Julia](https://juliacomputing.com/blog/2016/09/28/knn-char-recognition.html)
+* [Julia Flux](https://fluxml.ai/Flux.jl/stable/)
+* [Julia Flux for Machine Learing](https://smist08.wordpress.com/2018/09/24/julia-flux-for-machine-learning/)
+* [Machine Learning with Julia](https://www.math.purdue.edu/~allen450/ML-with-Julia-Tutorial.html)
+* [Julia with Scratch](https://www.analyticsvidhya.com/blog/2017/10/comprehensive-tutorial-learn-data-science-julia-from-scratch/)
+* [Julia Articles](https://fullstackfeed.com/category/julia/)
+* [Things to know before using Julia](https://towardsdatascience.com/things-to-know-before-using-julia-for-machine-learning-487744c0b9b2)
 
 
 
 
 
-
-```
-
-```
-
-
-
-# Ref :
-
-  * []()
