@@ -316,12 +316,23 @@
 * [SingleDOP](https://github.com/nasa/SingleDop)
 
 
+### Image related libraries
+* [PIMS - Python Image Sequence](https://github.com/soft-matter/pims)
+
 	
 ### Misc
 * [Archiving in Python](https://docs.python.org/3/library/archiving.html)	
 	
 	
-	
-	
-	
-	
+#### Various Distances
+* [Braycurtis](https://www.statisticshowto.com/bray-curtis-dissimilarity/)
+* [Canberra](https://people.revoledu.com/kardi/tutorial/Similarity/CanberraDistance.html)
+* [Chebyshev](https://lyfat.wordpress.com/2012/05/22/euclidean-vs-chebyshev-vs-manhattan-distance/)
+* [Cityblock](https://people.revoledu.com/kardi/tutorial/Similarity/CityBlockDistance.html)
+* [Correlation](https://blogs.sas.com/content/iml/2018/04/04/distance-correlation.html)
+* [Cosine](https://www.machinelearningplus.com/nlp/cosine-similarity/)
+* [Cosine Similarity](https://www.sciencedirect.com/topics/computer-science/cosine-similarity)
+* [Euclidean](http://rosalind.info/glossary/euclidean-distance/)
+* [Mahalanobis](https://www.statisticshowto.com/mahalanobis-distance/)
+* [Mahalanobis explained](https://stats.stackexchange.com/questions/62092/bottom-to-top-explanation-of-the-mahalanobis-distance)
+* [Minkowski](https://www.sciencedirect.com/topics/computer-science/minkowski-distance)
