@@ -107,6 +107,8 @@
 
 * [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 
+* [Scikit - Allel - Genetic Variation Analyzer](https://scikit-allel.readthedocs.io/en/latest/index.html)
+
 
 ### Data Engineering
 * [Prefect - Workflow Management System](https://github.com/PrefectHQ/prefect)
