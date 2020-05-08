@@ -95,9 +95,17 @@
 
 * [TsFresh](https://github.com/blue-yonder/tsfresh)
 
+* [Numcodecs](https://numcodecs.readthedocs.io/en/stable/)
+
 * [TenesorRT](https://docs.nvidia.com/deeplearning/sdk/tensorrt-sample-support-guide/index.html#samples)
   
 * [Zarr - Compressed N-dimensional array](https://zarr.readthedocs.io/en/stable/)
+
+* [Filterpy](https://filterpy.readthedocs.io/en/latest/)
+
+* [Scipy Singal](https://docs.scipy.org/doc/scipy/reference/signal.html)
+
+* [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 
 
 ### Data Engineering

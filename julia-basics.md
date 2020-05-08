@@ -35,6 +35,11 @@ julia
 [Juliavil - TactLabs](https://github.com/tactlabs/juliavil)
 
 
+#### How to run a file in Julia?
+```
+julia abc.jl
+```
+
 
 #### Julia pros and cons
 Pros:
