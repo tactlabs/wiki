@@ -36,6 +36,19 @@ julia
 
 
 
+#### Julia pros and cons
+Pros:
+- 10 times faster than Python
+- Math friendly syntax
+- Automatic memory management
+- Better parallelism
+- Dynamic Type System
+
+Cons:
+- Library installation is too hard
+- No proper community support
+- Not enough third party packages
+- Julia's arrays are one indexed
 
 
 #### Basic Machine Learing in Julia
