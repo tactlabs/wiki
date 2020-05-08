@@ -23,6 +23,8 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [MinIO](minio-commands.md)
   * [RabbitMQ Commands](rabbitmq-commands.md)
   * [TACT Tools](tact-tools.md)
+  * [CURL Basics](curl-basics.md)
+  * [What is my IP - CURL and others](what-is-my-ip.md)
 
 # TACT ML / DL
   * [ML Libraries](ml-libraries.md)
