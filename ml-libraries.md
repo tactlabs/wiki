@@ -336,3 +336,7 @@
 * [Mahalanobis](https://www.statisticshowto.com/mahalanobis-distance/)
 * [Mahalanobis explained](https://stats.stackexchange.com/questions/62092/bottom-to-top-explanation-of-the-mahalanobis-distance)
 * [Minkowski](https://www.sciencedirect.com/topics/computer-science/minkowski-distance)
+
+
+#### Signal Processing
+* [Lecture Signal Processing](https://github.com/jakirkham/LecturesSignalProcessing)
