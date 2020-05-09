@@ -63,3 +63,5 @@ Remember, gush file helps only on one-way commits like error_logs, daily_logs. W
 Testing entry
 
 Test one
+
+Test two
