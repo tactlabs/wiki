@@ -41,3 +41,4 @@
   * [Screncastify - Screen Video Recorder](https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn)
   * [Get Pocket](https://getpocket.com/chrome/)
   * [Online timer / Online stopwatch](https://www.timeanddate.com/timer/)
+  * [Pyton Lib Hunt](https://python.libhunt.com/pillow-alternatives)
