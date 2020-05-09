@@ -62,3 +62,5 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Flask Sample Projects](flask-sample-projects.md)
 
 
+# Reading
+  * [HBR Readers' Club - Summary](hbr-readers-club.md)
