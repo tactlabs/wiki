@@ -59,9 +59,3 @@ gush
 
 #### Caution:
 Remember, gush file helps only on one-way commits like error_logs, daily_logs. When you work on big projects, please try not to use gush file
-
-Testing entry
-
-Test one
-
-Test two
