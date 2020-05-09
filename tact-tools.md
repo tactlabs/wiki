@@ -43,3 +43,6 @@
   * [Online timer / Online stopwatch](https://www.timeanddate.com/timer/)
   * [Pyton Lib Hunt](https://python.libhunt.com/pillow-alternatives)
   * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+  * [Random User](https://randomuser.me/photos)
+  * [Audio Mack](https://audiomack.com/)
+  * [SoundCloud](https://soundcloud.com/)
