@@ -10,6 +10,7 @@
 **Date**: May 09, 2020 - Saturday
 
 **Title**: Good Leadership Is About Communicating “Why”
+
 **Link**: https://hbr.org/2020/05/good-leadership-is-about-communicating-why
 
 **Participants**: Raja CSP, Saif Ali Shaik, Mathivanan, ArunRajkumar
