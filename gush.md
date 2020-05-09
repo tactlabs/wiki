@@ -57,5 +57,8 @@ Go to your desired repo and type this
 gush
 ```
 
+##### Gush Demo
+[Gush Demo](https://www.loom.com/share/97a5d65c0d44493e8cf7bfce07f61ed0)
+
 #### Caution:
 Remember, gush file helps only on one-way commits like error_logs, daily_logs. When you work on big projects, please try not to use gush file
