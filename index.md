@@ -64,3 +64,4 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 # Reading
   * [HBR Readers' Club - Summary](hbr-readers-club.md)
+  * [Micro Brainstorming](micro-brainstorming.md)
