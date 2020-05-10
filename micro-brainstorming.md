@@ -25,8 +25,8 @@ ECS vs Lambda
 **Lambada**:
 - Runs based on requested/invoked via
 - No container support
-  -  there is warmup time required to boot
-limited to the runtimes and versions currently supported by Lambda
+  - There is warmup time required to boot
+  - Limited to the runtimes and versions currently supported by Lambda
 - Lambda is billed on a combination of the number of requests, memory, and seconds of function execution
 "Good use cases for Lambda include unpredictable or inconsistent workloads and applications that can be easily expressed as a single function with predictable resource usage on each invocation.
 
