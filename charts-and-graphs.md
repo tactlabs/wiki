@@ -50,51 +50,21 @@
  * [Zoomable Sunburst](https://observablehq.com/@d3/zoomable-sunburst)
  * [Collatz Graph](https://www.jasondavies.com/collatz-graph/)	
  * [Parallel Sets - Titanic](https://www.jasondavies.com/parallel-sets/)
- * []()
- * []()
- * []()
- * []()	
- * []()
- * []()
- * []()
- * []()
-
-
-
-
-
-Wordcloud
-https://www.jasondavies.com/wordcloud/
-
-Bubble
-https://archive.nytimes.com/www.nytimes.com/interactive/2012/02/13/us/politics/2013-budget-proposal-graphic.html
-
-Bubble Chart
-https://archive.nytimes.com/www.nytimes.com/interactive/2012/05/17/business/dealbook/how-the-facebook-offering-compares.html
-
-Wheel Timeline
-http://www.brightpointinc.com/united-states-trade-deficit/
-
-Sequences Sunburst
-https://bl.ocks.org/kerryrodden/766f8f6d31f645c39f488a0befa1e3c8
-
-NLF Predictions
-http://www.brightpointinc.com/2015-nfl-predictions/
-
-Owls to the Max
-https://observablehq.com/@mbostock/owls-to-the-max
-
-Flow-o-Matic
-https://observablehq.com/@mbostock/flow-o-matic
-
-
- * []()	
- * []()
- * []()
- * []()
- * []()
- * []()	
- * []()
+ * [Wordcloud](https://www.jasondavies.com/wordcloud/)
+ * [Bubble](https://archive.nytimes.com/www.nytimes.com/interactive/2012/02/13/us/politics/2013-budget-proposal-graphic.html)
+ * [Bubble Chart](https://archive.nytimes.com/www.nytimes.com/interactive/2012/05/17/business/dealbook/how-the-facebook-offering-compares.html)
+ * [Wheel Timeline](http://www.brightpointinc.com/united-states-trade-deficit/)	
+ * [Sequences Sunburst](https://bl.ocks.org/kerryrodden/766f8f6d31f645c39f488a0befa1e3c8)
+ * [NLF Predictions](http://www.brightpointinc.com/2015-nfl-predictions/)
+ * [Owls to the Max](https://observablehq.com/@mbostock/owls-to-the-max)
+ * [Flow-o-Matic](https://observablehq.com/@mbostock/flow-o-matic)
+ * [Indented Tree](https://observablehq.com/@d3/indented-tree)	
+ * [Rounded Rectangles](https://bl.ocks.org/mbostock/1123639)
+ * [Tadpoles](https://observablehq.com/@mbostock/tadpoles)
+ * [D3 Show Reel](https://bl.ocks.org/mbostock/1256572)
+ * [The Euro Debt Crisis](https://bl.ocks.org/mbostock/1308257)
+ * [Force-based label placement](http://bl.ocks.org/MoritzStefaner/1377729)	
+ * [Square Circle Spiral Illusion](https://bl.ocks.org/mbostock/1386444)
  * []()
  * []()
  * []()
@@ -108,26 +78,6 @@ https://observablehq.com/@mbostock/flow-o-matic
 
 
 
-Indented Tree
-https://observablehq.com/@d3/indented-tree
-
-Rounded Rectangles
-https://bl.ocks.org/mbostock/1123639
-
-Tadpoles
-https://observablehq.com/@mbostock/tadpoles
-
-D3 Show Reel
-https://bl.ocks.org/mbostock/1256572
-
-The Euro Debt Crisis
-https://bl.ocks.org/mbostock/1308257
-
-Force-based label placement
-http://bl.ocks.org/MoritzStefaner/1377729
-
-Square Circle Spiral Illusion
-https://bl.ocks.org/mbostock/1386444
 
 Color Matching
 https://color.method.ac/

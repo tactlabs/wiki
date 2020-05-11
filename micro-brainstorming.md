@@ -44,7 +44,7 @@
 - Fargate is billed on CPU and memory used per hour.
 "Fargate is a good choice for consistent workloads or applications that want to use docker generally."
 
-**Lambada**:
+**Lambda**:
 - Runs based on requested/invoked via
 - No container support
   - There is warmup time required to boot
