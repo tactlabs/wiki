@@ -46,6 +46,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 # TACT Micro Brainstorming
   * [Micro Brainstorming](micro-brainstorming.md)
+  * [Howfication](howfication.md)
 
 # DB Resources
   * [MongoDB Installation](mongodb-installation.md)
