@@ -3,14 +3,36 @@
 **Note:** Do it quick but do it right!
 
 
+### Session : 1
+
+**Date**: May 07, 2020 - Wednesday
+
+**Title**: Dask Parallel Data Processing
+
+**Participants**: Raja CSP, Suresh
+
+#### Dask parallel data processing:
+- Dynamic task scheduing
+- Similar to Luigi
+- Parallel with Numpy
+- Parallel collections: Dataframes, Bags, Arrays
+- Distributed tensorflow support - [Dask Tensorflow support](http://matthewrocklin.com/blog/work/2017/02/11/dask-tensorflow)
+- Data loading support for Pytorch by using Worker
+- Scaling - [Dask docs](https://docs.dask.org/en/latest/)
 
 
-ECS vs Lambda
-#### Session : 1
+#### Ray Hyperparameter Tuning:
+- Ray Docs - [Ray Docs](https://docs.dask.org/en/latest/)
+- Ray Tuning - [Ray Tuning](https://docs.ray.io/en/latest/tune.html)
+
+
+
+
+### Session : 2
 
 **Date**: May 09, 2020 - Saturday
 
-**Title**: Good Leadership Is About Communicating “Why”
+**Title**: ECS vs Lambda
 
 **Participants**: Raja CSP, Suresh
 

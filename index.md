@@ -44,8 +44,8 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 # TACT PaaS / BaaS
   * [PaaS](paas.md)
 
-# TACT Brainstorming
-  * [Brainstorming Notes](brainstorming-notes.md)
+# TACT Micro Brainstorming
+  * [Micro Brainstorming](micro-brainstorming.md)
 
 # DB Resources
   * [MongoDB Installation](mongodb-installation.md)
@@ -65,4 +65,3 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 # Reading
   * [HBR Readers' Club - Summary](hbr-readers-club.md)
-  * [Micro Brainstorming](micro-brainstorming.md)
