@@ -19,7 +19,6 @@ How to install SAM Cli in Mac?
 			==> Pouring aws-sam-cli-0.48.0.sierra.bottle.tar.gz
 			🍺  /usr/local/Cellar/aws-sam-cli/0.48.0: 4,028 files, 64.8MB
 ```
-  * []()
 
 
 
@@ -38,7 +37,6 @@ How to give an user to docker group access?
 ```
 sudo usermod -a -G docker ec2-user
 ```
-  * []()
 
 
 
@@ -48,7 +46,6 @@ lsb_release -a
 cat /etc/lsb-release
 cat /etc/issue
 ```
-  * []()
 
 
 
@@ -64,7 +61,6 @@ check http://localhost/
 You should see something like this:
 https://snipboard.io/taCmuV.jpg
 ```
-  * []()
 
 
 
@@ -72,7 +68,6 @@ How to connect remote DB in Postgres?
 ```
 psql -h rdspg2.ccforlwma7t3.ca-central-1.rds.amazonaws.com -U postgres
 ```
-  * []()
 
 
 
@@ -80,7 +75,6 @@ How to delete a cluster in AWS ECS?
 ```
 aws ecs delete-cluster --cluster flask-ecs
 ```
-  * []()
 
 
 
@@ -88,7 +82,6 @@ How to open a website from terminal?
 ```
 open -a "Google Chrome"  http://127.0.0.1:5000/
 ```
-  * []()
 
 
 
@@ -96,7 +89,6 @@ How to do a simple curl?
 ```
 curl http://127.0.0.1:5000/
 ```
-  * []()
 
 
 
@@ -116,7 +108,6 @@ How to add CircleCI status badges in Readme file?
     
     [![CircleCI](https://circleci.com/gh/rajasgs/circleci-demo-apitest.svg?style=svg&circle-token=a385a5c7187bc4efbb6156df7c3499f266859657)](https://circleci.com/gh/rajasgs/circleci-demo-apitest/)
 ```
-  * []()
 
 
 
@@ -129,7 +120,6 @@ How to add CircleCI status badges in Readme file?
     git push origin qa-current
 
 ```
-  * []()
 
 
 
@@ -191,7 +181,6 @@ How to upload a custom emoji on Slack
     https://tryshift.com/blog/apps-hub/how-to-add-custom-emoji-to-slack/
 
 ```
-  * []()
 
 
 
@@ -204,8 +193,6 @@ How to open Jupyter lab?
     https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html
 
 ```
-  * []()
-
 
 
 
@@ -222,7 +209,7 @@ how to mirror github repo / how to git-mirror?
     
         https://help.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository
 ```
-  * []()
+
 
 
 
@@ -233,7 +220,6 @@ how to fix "Failed to fetch"?
     and then remove it
     then apt-get update
 ```
-  * []()
 
 
 
@@ -244,7 +230,6 @@ ssh key github
     https://help.github.com/en/enterprise/2.17/user/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account
     https://www.cyberciti.biz/faq/ubuntu-18-04-setup-ssh-public-key-authentication/
 ```
-  * []()
 
 
 
@@ -258,7 +243,6 @@ virtualenv
     python --version
     https://stackoverflow.com/questions/1534210/use-different-python-version-with-virtualenv
 ```
-  * []()
 
 
 
@@ -268,7 +252,6 @@ How to upload folder for beanstalk?
 cd /Users/yzabc/projects/eb-python-flask
 zip ../eb-python-flask -r * .[^.]*
 ```
-  * []()
 
 
 
@@ -280,7 +263,6 @@ Image2Table / im2table / i2t / im2t / img2table / image 2 table
     more:
     image2table.txt
 ```
-  * []()
 
 
 
@@ -302,4 +284,3 @@ jupyter lab
     
     https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.htm
 ```
-  * []()
