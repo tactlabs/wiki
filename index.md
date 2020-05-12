@@ -44,7 +44,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 # TACT PaaS / BaaS
   * [PaaS](paas.md)
-  * [Heroku Bacisc](heroku-basics.md)
+  * [Heroku Basics](heroku-basics.md)
 
 # TACT Micro Brainstorming
   * [Micro Brainstorming](micro-brainstorming.md)
