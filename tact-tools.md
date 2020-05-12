@@ -47,3 +47,5 @@
   * [Audio Mack](https://audiomack.com/)
   * [SoundCloud](https://soundcloud.com/)
   * [Pixlr](https://pixlr.com/)
+  * [TinEye Reverse Search Engine](https://tineye.com/)
+  * [HMAC Generator](https://www.freeformatter.com/hmac-generator.html)
