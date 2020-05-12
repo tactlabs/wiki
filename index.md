@@ -40,6 +40,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Torch Samples](torch-samples.md)
   * [Dask Basics](dask-basics.md)
   * [Julia Basics](julia-basics.md)
+  * [Acoustics](acoustics.md)
 
 # TACT PaaS / BaaS
   * [PaaS](paas.md)
