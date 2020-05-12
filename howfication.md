@@ -11,7 +11,6 @@ brew install aws-sam-cli
 
 You should see like this:
 
-brew install aws-sam-cli
 ==> Installing aws-sam-cli from aws/tap
 ==> Downloading https://github.com/awslabs/aws-sam-cli/releases/download/v0.48.0//aws-sam-cli-0.48.0.sierra.bottle.tar.gz
 ==> Downloading from https://github-production-release-asset-2e65be.s3.amazonaws.com/92205085/ac235180-8a1a-11ea-8ee3-447dc40f0c02?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F
@@ -24,10 +23,10 @@ brew install aws-sam-cli
 
 How to upgrade AWS SAM Cli?
 ```
-	brew upgrade aws-sam-cli
+brew upgrade aws-sam-cli
 	
-  You might see like this:
-			Warning: aws/tap/aws-sam-cli 0.48.0 already installed
+You might see like this:
+Warning: aws/tap/aws-sam-cli 0.48.0 already installed
 ```
   * [Serverless SAM](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install-mac.html)
 
@@ -96,28 +95,27 @@ How to install opencv4?
 ```
 	
 ```
-  * [](https://www.pyimagesearch.com/2018/08/17/install-opencv-4-on-macos/)
+  * [OpenCV4 on Mac](https://www.pyimagesearch.com/2018/08/17/install-opencv-4-on-macos/)
 
 
 
 How to add CircleCI status badges in Readme file?
 ```
-    https://circleci.com/docs/2.0/status-badges/
     
-    [![Demo Test](https://circleci.com/gh/rajasgs/circleci-demo-apitest.svg?style=svg)](https://circleci.com/gh/rajasgs/circleci-demo-apitest/)
-    
-    [![CircleCI](https://circleci.com/gh/rajasgs/circleci-demo-apitest.svg?style=svg&circle-token=a385a5c7187bc4efbb6156df7c3499f266859657)](https://circleci.com/gh/rajasgs/circleci-demo-apitest/)
 ```
+  * [](https://circleci.com/docs/2.0/status-badges/)
+  * [![Demo Test](https://circleci.com/gh/rajasgs/circleci-demo-apitest.svg?style=svg)](https://circleci.com/gh/rajasgs/circleci-demo-apitest/)
+  * [![CircleCI](https://circleci.com/gh/rajasgs/circleci-demo-apitest.svg?style=svg&circle-token=a385a5c7187bc4efbb6156df7c3499f266859657)](https://circleci.com/gh/rajasgs/circleci-demo-apitest/)
 
 
 
 How to add CircleCI status badges in Readme file?
 ```
-    git pull
-    git checkout qa-current
-    git pull
-    git pull https://github.com/rajasgs/merge-test feat-raja-one
-    git push origin qa-current
+git pull
+git checkout qa-current
+git pull
+git pull https://github.com/rajasgs/merge-test feat-raja-one
+git push origin qa-current
 
 ```
 
@@ -125,9 +123,7 @@ How to add CircleCI status badges in Readme file?
 
 How to kill a port in Mac?
 ```
-    sudo lsof -i tcp:3000 
-        
-
+sudo lsof -i tcp:3000 
 ```
   * [](https://stackoverflow.com/questions/3855127/find-and-kill-process-locking-port-3000-on-mac)
 
@@ -135,8 +131,7 @@ How to kill a port in Mac?
 
 How to rename a git branch?
 ```
-    git branch -m new-name
-        
+git branch -m new-name        
 ```
   * [](https://multiplestates.wordpress.com/2015/02/05/rename-a-local-and-remote-branch-in-git/)
 
@@ -144,9 +139,8 @@ How to rename a git branch?
 
 How to find my current environment path?
 ```
-    pip -V
-    pip 19.0.3 from /Users/yzabc/anaconda3/envs/py36/lib/python3.6/site-packages/pip (python 3.6)
-    
+pip -V
+pip 19.0.3 from /Users/yzabc/anaconda3/envs/py36/lib/python3.6/site-packages/pip (python 3.6)   
 ```
   * [](https://stackoverflow.com/questions/1871549/determine-if-python-is-running-inside-virtualenv)
 
@@ -154,13 +148,10 @@ How to find my current environment path?
 
 
 ```
-    pip install pdftotext
+pip install pdftotext
     
-    you may need to install 
-        brew install poppler on Mac
-        
-        
-
+you may need to install 
+brew install poppler on Mac
 ```
   * [Ref](https://stackoverflow.com/questions/45912641/unable-to-install-pdftotext-on-python-3-6-missing-poppler)
 
@@ -175,24 +166,24 @@ How to revert a single file to its previous commit
 
 
 
-
-```
 How to upload a custom emoji on Slack
-    https://tryshift.com/blog/apps-hub/how-to-add-custom-emoji-to-slack/
-
 ```
 
-
-
-
 ```
+* [Ref](https://tryshift.com/blog/apps-hub/how-to-add-custom-emoji-to-slack/)
+
+
+
+
 How to open Jupyter lab?
-    jupyter lab
-        http://localhost:8888/lab
-        
-    https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html
+```
+jupyter lab
+
+http://localhost:8888/lab
 
 ```
+* [](https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html)
+* []()
 
 
 
@@ -209,6 +200,10 @@ how to mirror github repo / how to git-mirror?
     
         https://help.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository
 ```
+* []()
+* []()
+* []()
+* []()
 
 
 
@@ -230,6 +225,11 @@ ssh key github
     https://help.github.com/en/enterprise/2.17/user/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account
     https://www.cyberciti.biz/faq/ubuntu-18-04-setup-ssh-public-key-authentication/
 ```
+* []()
+* []()
+* []()
+* []()
+* []()
 
 
 
@@ -243,7 +243,7 @@ virtualenv
     python --version
     https://stackoverflow.com/questions/1534210/use-different-python-version-with-virtualenv
 ```
-
+* []()
 
 
 
@@ -252,6 +252,8 @@ How to upload folder for beanstalk?
 cd /Users/yzabc/projects/eb-python-flask
 zip ../eb-python-flask -r * .[^.]*
 ```
+* []()
+
 
 
 
@@ -263,6 +265,8 @@ Image2Table / im2table / i2t / im2t / img2table / image 2 table
     more:
     image2table.txt
 ```
+* []()
+* []()
 
 
 
@@ -272,15 +276,16 @@ how to open jupyter notebook
 jupyter notebook
 or
 jupyter lab
-    https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
     
-    conda create -y python=3.6 --name py36az_jupyter
-    conda activate py36az_jupyter
-    conda deactivate
-    
-    /Users/yzabc/projects/jupyterville
-    
-    https://github.com/rajasgs/jupyterville
-    
-    https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.htm
+conda create -y python=3.6 --name py36az_jupyter
+conda activate py36az_jupyter
+conda deactivate
+
+/Users/yzabc/projects/jupyterville
+ 
 ```
+* [](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)
+* [](https://github.com/rajasgs/jupyterville)
+* [](https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.htm)
+* []()
+* []()
