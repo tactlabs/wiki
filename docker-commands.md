@@ -207,7 +207,7 @@ Ref: https://docs.docker.com/engine/reference/commandline/image_inspect/
 
 Docker fresh build and deploy:
 ```
-cd /Users/str-kwml0011/projects/docker-flask-reverse-string
+cd /Users/xyz-abc/projects/docker-flask-reverse-string
 
 docker build -t flask-reverse-string:latest .
 ```
