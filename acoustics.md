@@ -16,10 +16,10 @@
 
 
 #### DDEX - Digital Data Exchange (DDEX) :
-  * [](https://pypi.org/project/ddexreader/)
-  * [](https://github.com/ddexnet/dsrf)
-  * [](https://readthedocs.org/projects/ddexreader/downloads/pdf/latest/)
-  * [](https://kb.ddex.net/display/HBK/DDEX+Knowledge+Base)
+  * [DDEX Reader](https://pypi.org/project/ddexreader/)
+  * [DSRF](https://github.com/ddexnet/dsrf)
+  * [DDEX Reader](https://readthedocs.org/projects/ddexreader/downloads/pdf/latest/)
+  * [DDEX Knowledge Base](https://kb.ddex.net/display/HBK/DDEX+Knowledge+Base)
 
 
 #### ID3 :
