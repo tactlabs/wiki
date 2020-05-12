@@ -38,7 +38,7 @@ https://help.github.com/en/articles/adding-a-new-ssh-key-to-your-github-account
 add ssh agent
 ```
 ssh-add -K ~/.ssh/id_rsa
-ssh-add -K ~/.ssh/censhare-git.key
+ssh-add -K ~/.ssh/abc-git.key
 ```
 
 
@@ -59,5 +59,4 @@ then copy the file on Github/Gitlab
 
 More:
 https://apple.stackexchange.com/questions/48502/how-can-i-permanently-add-my-ssh-private-key-to-keychain-so-it-is-automatically	
-https://ecosphere.censhare.com/developer/docs/partner-git-access.html
 

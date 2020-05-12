@@ -5,19 +5,19 @@
 
 How to install SAM Cli in Mac?
 ```
-  brew tap aws/tap
-	brew install aws-sam-cli
+brew tap aws/tap
+brew install aws-sam-cli
 
 
-  You should see like this:
+You should see like this:
 
-			brew install aws-sam-cli
-			==> Installing aws-sam-cli from aws/tap
-			==> Downloading https://github.com/awslabs/aws-sam-cli/releases/download/v0.48.0//aws-sam-cli-0.48.0.sierra.bottle.tar.gz
-			==> Downloading from https://github-production-release-asset-2e65be.s3.amazonaws.com/92205085/ac235180-8a1a-11ea-8ee3-447dc40f0c02?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F
-			######################################################################## 100.0%
-			==> Pouring aws-sam-cli-0.48.0.sierra.bottle.tar.gz
-			🍺  /usr/local/Cellar/aws-sam-cli/0.48.0: 4,028 files, 64.8MB
+brew install aws-sam-cli
+==> Installing aws-sam-cli from aws/tap
+==> Downloading https://github.com/awslabs/aws-sam-cli/releases/download/v0.48.0//aws-sam-cli-0.48.0.sierra.bottle.tar.gz
+==> Downloading from https://github-production-release-asset-2e65be.s3.amazonaws.com/92205085/ac235180-8a1a-11ea-8ee3-447dc40f0c02?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F
+######################################################################## 100.0%
+==> Pouring aws-sam-cli-0.48.0.sierra.bottle.tar.gz
+🍺  /usr/local/Cellar/aws-sam-cli/0.48.0: 4,028 files, 64.8MB
 ```
 
 
