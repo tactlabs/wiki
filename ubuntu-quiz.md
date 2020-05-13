@@ -27,3 +27,10 @@
 #### How to participate?
 
 - Just email your details to info@talentaccurate.com including Your name, Your school/college name, Your location
+
+
+#### When is the deadline for this quiz?
+
+- Participant submission deadline - May 29
+- Round 1 : June 01 - June 05
+- Round 2 : June 06
