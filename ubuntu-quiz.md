@@ -1,6 +1,6 @@
-# Ubuntu 
+# Ubuntu Quiz
 
-**Note:** tbw
+**Note:** Nurturing School/College students on Ubuntu 
 
 
 
