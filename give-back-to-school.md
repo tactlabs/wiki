@@ -15,6 +15,7 @@
 
 #### 2020
 - Waiting for the next school to be funded as a part of Quarterly pool. If you think of any public school to be funded with a Ubnuntu Desktop, please let us know. We are happy to help.
+
 - We are targetting 2 schools per year
 
 
