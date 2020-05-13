@@ -71,3 +71,6 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 # Public Support
   * [Give Back To School](give-back-to-school.md)
+
+# Contest Time
+  * [Ubuntu Contest](ubuntu-quiz.md)
