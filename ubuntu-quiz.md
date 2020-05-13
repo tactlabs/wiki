@@ -23,3 +23,7 @@
 - We will explain the the Ubuntu Searching Game details during the game and start running the final round
 
 - Prize will be distributed to the winning team and certificates will be provided to all finalists
+
+#### How to participate?
+
+- Just email your details to info@talentaccurate.com including Your name, Your school/college name, Your location
