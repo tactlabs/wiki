@@ -1,9 +1,5 @@
 # Ubuntu Quiz
 
-**Note:** Nurturing School/College students on Ubuntu 
-
-
-
 ### Ubuntu 2020 Contest
 
 **Date**: June 06, 2020 - Saturday
