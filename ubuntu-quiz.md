@@ -10,7 +10,7 @@
 
 **Language of Learning**: English / Tamil
 
-**First Prize** - [Echo Dot](https://www.amazon.in/All-new-Echo-Dot-3rd-Gen/dp/B07PFFMP9P/ref=sr_1_1?dchild=1&keywords=alexa&qid=1589329705&sr=8-1)
+**First Prize** - [Raspberry PI full kit](https://www.amazon.in/India-Raspberry-Charger-Heatsink-Accessories/dp/B084V49XMP/ref=sr_1_2?crid=22FXARJAK2XC8&dchild=1&keywords=raspberry+pi+full+kit&qid=1589330815&s=computers&sprefix=raspberry+pi+ful%2Ccomputers%2C222&sr=1-2)
 
 - All you need to do is just start learning Ubuntu basic commands
 
@@ -26,4 +26,4 @@
 
 - We will explain the the Ubuntu Searching Game details during the game and start running the final round
 
-- Prize will be distributed to the winning team and certificates will be provided to all finalists.
+- Prize will be distributed to the winning team and certificates will be provided to all finalists
