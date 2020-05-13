@@ -10,7 +10,7 @@
 
 **Language of Learning**: English / Tamil
 
-**First Prize** - [Raspberry PI full kit](https://www.amazon.in/India-Raspberry-Charger-Heatsink-Accessories/dp/B084V49XMP/ref=sr_1_2?crid=22FXARJAK2XC8&dchild=1&keywords=raspberry+pi+full+kit&qid=1589330815&s=computers&sprefix=raspberry+pi+ful%2Ccomputers%2C222&sr=1-2)
+**First Prize** - [Raspberry PI Full Kit](https://www.amazon.in/India-Raspberry-Charger-Heatsink-Accessories/dp/B084V49XMP/ref=sr_1_2?crid=22FXARJAK2XC8&dchild=1&keywords=raspberry+pi+full+kit&qid=1589330815&s=computers&sprefix=raspberry+pi+ful%2Ccomputers%2C222&sr=1-2)
 
 - All you need to do is just start learning Ubuntu basic commands
 
