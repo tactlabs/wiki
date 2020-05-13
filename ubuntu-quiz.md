@@ -28,9 +28,13 @@
 
 - Just email your details to info@talentaccurate.com including Your name, Your school/college name, Your location
 
+#### When is the event happening?
+
+- Round 1     : June 01 - June 05
+- Final Quiz  : June 06
 
 #### When is the deadline for this quiz?
 
 - Participant submission deadline - May 29
-- Round 1 : June 01 - June 05
-- Round 2 : June 06
+- Round 1     : June 01 - June 05
+- Final Quiz  : June 06
