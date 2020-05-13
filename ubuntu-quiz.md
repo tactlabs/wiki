@@ -6,7 +6,7 @@
 
 ### Ubuntu 2020 Contest
 
-**Date**: May 07, 2020 - Wednesday
+**Date**: June 06, 2020 - Saturday
 
 **Language of Learning**: English / Tamil
 
