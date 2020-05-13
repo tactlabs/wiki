@@ -4,7 +4,7 @@
 
 
 
-# Ref :
+#### Basic Tools :
 
   * [Website IP](https://chrome.google.com/webstore/detail/website-ip/ghbmhlgniedlklkpimlibbaoomlpacmk)
   * [Zamzar](https://www.zamzar.com/)
@@ -41,7 +41,7 @@
   * [Screncastify - Screen Video Recorder](https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn)
   * [Get Pocket](https://getpocket.com/chrome/)
   * [Online timer / Online stopwatch](https://www.timeanddate.com/timer/)
-  * [Pyton Lib Hunt](https://python.libhunt.com/pillow-alternatives)
+
   * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   * [Random User](https://randomuser.me/photos)
   * [Audio Mack](https://audiomack.com/)
@@ -49,3 +49,9 @@
   * [Pixlr](https://pixlr.com/)
   * [TinEye Reverse Search Engine](https://tineye.com/)
   * [HMAC Generator](https://www.freeformatter.com/hmac-generator.html)
+
+
+
+#### Libraries
+  * [Libraries](https://libraries.io/)
+  * [Pyton Lib Hunt](https://python.libhunt.com/pillow-alternatives)

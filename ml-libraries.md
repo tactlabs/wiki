@@ -340,3 +340,10 @@
 
 #### Signal Processing
 * [Lecture Signal Processing](https://github.com/jakirkham/LecturesSignalProcessing)
+
+
+#### Transformers
+* [Simple Transformers](https://github.com/ThilinaRajapakse/simpletransformers)
+* [Simple Transformers — Introducing The Easiest Way To Use BERT, RoBERTa, XLNet, and XLM](https://towardsdatascience.com/simple-transformers-introducing-the-easiest-bert-roberta-xlnet-and-xlm-library-58bf8c59b2a3)
+* [simpletransformers](https://libraries.io/pypi/simpletransformers)
+* [Simple Transformers — Named Entity Recognition with Transformer Models](https://towardsdatascience.com/simple-transformers-named-entity-recognition-with-transformer-models-c04b9242a2a0)
