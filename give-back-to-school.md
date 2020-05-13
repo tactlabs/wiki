@@ -8,7 +8,7 @@
 
 - We have given Ubuntu OS based Desktop computer to one of the schools in Theni (Tamilnadu). Also, we have initiated a small monthly program to nurture the school students 
 
-- We have initiated our "Ubuntu on Schools" program in 2019 as a part of nurturing Next Generation Indian students
+- We have initiated our "Ubuntu in Schools" program in 2019 as a part of nurturing Next Generation Indian students
 
 - Initiated a monthly computer awareness programs in Indian public schools
 
