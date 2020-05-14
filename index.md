@@ -30,6 +30,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 # TACT ML / DL
   * [ML Libraries](ml-libraries.md)
+  * [ML DL Resources](ml-resources.md)
   * [ML/DL Deployments](ml-dl-deployments.md)
   * [Luigi](luigi.md)
   * [Jupyter Cheatsheet](jupyter-cheatsheet.md)
