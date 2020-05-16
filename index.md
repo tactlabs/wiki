@@ -41,7 +41,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Torch Basics](torch-basics.md)
   * [Cuda](cuda.md)
   * [Torch Samples](torch-samples.md)
-  * [Dask Basics](dask-basics.md)
+  * [Dask Basics](dask-basics.md)$$
   * [Julia Basics](julia-basics.md)
   * [Acoustics](acoustics.md)
 

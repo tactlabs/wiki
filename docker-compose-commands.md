@@ -39,7 +39,7 @@ docker-compose up
 
 Start with fresh build
 ```
-docker-compose up -d build
+docker-compose up -d --build
 ```
 
 
