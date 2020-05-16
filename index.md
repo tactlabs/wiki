@@ -28,6 +28,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Gush - One way quick Git Push](gush.md)
   * [Charts and Graphs](charts-and-graphs.md)
   * [TACT Tools](tact-tools.md)
+  * [Python Snippets](python-snippets.md)
 
 # TACT ML / DL
   * [ML Libraries](ml-libraries.md)
