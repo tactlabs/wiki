@@ -26,8 +26,6 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [CURL Basics](curl-basics.md)
   * [What is my IP - CURL and others](what-is-my-ip.md)
   * [Gush - One way quick Git Push](gush.md)
-  * [Charts and Graphs](charts-and-graphs.md)
-  * [TACT Tools](tact-tools.md)
   * [Python Snippets](python-snippets.md)
 
 # TACT ML / DL
