@@ -12,7 +12,7 @@
   * [Credit Card Generator](https://generator-credit-card.com/)
   * [JsonViewer](http://jsonviewer.stack.hu/)
   * [Check IP](https://chrome.google.com/webstore/detail/check-ip/obcihajiaphehdfilcjnhaebjdpnppnc)
-  * [Speeofme](https://speedof.me/)
+  * [Speeofme - Internet Speed Tester](https://speedof.me/)
   * [Snipboard](https://snipboard.io/)
   * [Ligthshot](https://app.prntscr.com/en/index.html)
   * [Jupyter](https://jupyter.org/)
