@@ -44,6 +44,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Julia Basics](julia-basics.md)
   * [Acoustics](acoustics.md)
   * [Recommender System](recommender-system.md)
+  * [Facial Attributes](facial-attributes.md)
 
 ## TACT PaaS / BaaS
   * [PaaS](paas.md)
