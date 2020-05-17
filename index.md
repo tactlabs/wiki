@@ -4,14 +4,14 @@ TactLabs is a research unit of Tactii (formerly TalentAccurate) dedicated to wor
 
 We do simple and smart apps mostly for POC purposes with scaling options which can be put it on PROD within a few hours.
 
-# Docker Projects / Tools :
+## Docker Projects / Tools :
 
   * [Docker Commands](docker-commands.md)
   * [Docker Compose Commands](docker-compose-commands.md)
   * [Docker Postgres Alpine](docker-postgres-alpine-commands.md)
   * [MySQL Docker](mysql-docker.md)
 
-# TACT General Tools
+## TACT General Tools
   * [Nginx Installation](nginx-installation-ubuntu.md)
   * [Git Commands](git-commands.md)
   * [How to Instlal Virtualenv](how-to-install-virtualenv.md)
@@ -28,7 +28,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Gush - One way quick Git Push](gush.md)
   * [Python Snippets](python-snippets.md)
 
-# TACT ML / DL
+## TACT ML / DL
   * [ML Libraries](ml-libraries.md)
   * [ML DL Resources](ml-resources.md)
   * [ML/DL Deployments](ml-dl-deployments.md)
@@ -44,35 +44,35 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Acoustics](acoustics.md)
   * [Recommender System](recommender-system.md)
 
-# TACT PaaS / BaaS
+## TACT PaaS / BaaS
   * [PaaS](paas.md)
   * [Heroku Basics](heroku-basics.md)
 
-# TACT Micro Brainstorming
+## TACT Micro Brainstorming
   * [Micro Brainstorming](micro-brainstorming.md)
   * [Howfication](howfication.md)
 
-# DB Resources
+## DB Resources
   * [MongoDB Installation](mongodb-installation.md)
   * [MongoDB  Commands](mongodb-commands.md)
   * [MySQL Docker](mysql-docker.md)
   * [Neo4j Basics](neo4j-basics.md)
 
-# Public Collections
+## Public Collections
   * [Research papers](research-papers.md)
   * [Testing Automation](https://reflect.run/)
   * [SQL ORM Library](https://github.com/absent1706/sqlalchemy-mixins)
   
 
-# Public Projects
+## Public Projects
   * [Flask Sample Projects](flask-sample-projects.md)
 
 
-# Reading
+## Reading
   * [HBR Readers' Club - Summary](hbr-readers-club.md)
 
-# Public Support
+## Public Support
   * [Give Back To School](give-back-to-school.md)
 
-# Contest Time
+## Contest Time
   * [Ubuntu Contest](ubuntu-quiz.md)
