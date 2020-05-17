@@ -13,6 +13,7 @@
   * [JsonViewer](http://jsonviewer.stack.hu/)
   * [Check IP](https://chrome.google.com/webstore/detail/check-ip/obcihajiaphehdfilcjnhaebjdpnppnc)
   * [Speeofme - Internet Speed Tester](https://speedof.me/)
+      ![Sample Speed](https://snipboard.io/bdiESA.jpg)
   * [Snipboard](https://snipboard.io/)
   * [Ligthshot](https://app.prntscr.com/en/index.html)
   * [Jupyter](https://jupyter.org/)
