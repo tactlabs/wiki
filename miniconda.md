@@ -22,6 +22,6 @@ Type miniconda in your "Windows app search box" and you will get something like 
 
 
 
-# Ref :
+### Ref :
 
   * [Name](file)
