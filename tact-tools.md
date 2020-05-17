@@ -14,6 +14,7 @@
   * [Check IP](https://chrome.google.com/webstore/detail/check-ip/obcihajiaphehdfilcjnhaebjdpnppnc)
   * [Speeofme - Internet Speed Tester](https://speedof.me/)
       ![Sample Speed](https://snipboard.io/bdiESA.jpg)
+      ![Sample Speed](https://github.com/tactlabs/wiki/blob/master/speedofme.png?raw=true)
   * [Snipboard](https://snipboard.io/)
   * [Ligthshot](https://app.prntscr.com/en/index.html)
   * [Jupyter](https://jupyter.org/)
