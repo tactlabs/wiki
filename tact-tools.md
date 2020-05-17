@@ -64,7 +64,7 @@
     ![Zoom](https://github.com/tactlabs/wiki/blob/master/images/zoom.png?raw=true)
 
   * [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg)
-    ![The Great Suspender](https://github.com/tactlabs/wiki/blob/master/images/zoom.png?raw=true)
+    ![The Great Suspender](https://github.com/tactlabs/wiki/blob/master/images/thegreatsuspender.png?raw=true)
 
   * [Loom for Chrome - Screen Recorder](https://chrome.google.com/webstore/detail/loom-for-chrome/liecbddmkiiihnedobmlmillhodjkdmb)
     ![Loom for Chrom](https://github.com/tactlabs/wiki/blob/master/images/loom.png?raw=true)
