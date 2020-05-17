@@ -716,13 +716,13 @@ https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/me
 
 how to mirror github repo?
 ```
-git clone --bare https://github.com/KwikeeLabs/PrinterSpecsETL.git
-cd PrinterSpecsETL.git
-git push --mirror https://github.com/rajasgs/PrinterSpecsETLDec2019.git
+git clone --bare https://github.com/tactLabs/tactKMNETL.git
+cd tactKMNETL.git
+git push --mirror https://github.com/rajasgs/tactKMNETLDec2019.git
 cd ..
-rm -rf PrinterSpecsETL.git
+rm -rf tactKMNETL.git
 ```
-https://github.com/KwikeeLabs/PrinterSpecsETL
+https://github.com/tactLabs/tactKMNETL
     
 https://help.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository
 

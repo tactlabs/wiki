@@ -23,6 +23,7 @@
   * [Soccer - ELO](https://github.com/rajatk16/Soccer-Elo)
   * [Trueskill](https://pypi.org/project/trueskill/)
   * [ELO vs Glicko](https://www.reddit.com/r/chess/comments/4ohuma/elo_vs_glicko/)
+  * [Face Mash](https://github.com/c7h/facemash)
 
 
 
