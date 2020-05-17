@@ -7,7 +7,7 @@
 #### Basic Tools :
 
   * [Website IP](https://chrome.google.com/webstore/detail/website-ip/ghbmhlgniedlklkpimlibbaoomlpacmk)
-    ![Website IP](https://github.com/tactlabs/wiki/blob/master/images/checkip.png?raw=true)
+    ![Website IP](https://github.com/tactlabs/wiki/blob/master/images/websiteip.png?raw=true)
 
   * [Zamzar](https://www.zamzar.com/)
     ![Zamzar](https://github.com/tactlabs/wiki/blob/master/images/zamzar.png?raw=true)
@@ -22,6 +22,7 @@
     ![JSON Viewer](https://github.com/tactlabs/wiki/blob/master/images/jsonviewer.png?raw=true)
 
   * [Check IP](https://chrome.google.com/webstore/detail/check-ip/obcihajiaphehdfilcjnhaebjdpnppnc)
+    ![Speeofme](https://github.com/tactlabs/wiki/blob/master/images/checkip.png?raw=true)
   
   * [Speeofme - Internet Speed Tester](https://speedof.me/)
     ![Speeofme](https://github.com/tactlabs/wiki/blob/master/images/speedofme.png?raw=true)
@@ -30,81 +31,82 @@
     ![Snipboard](https://github.com/tactlabs/wiki/blob/master/images/snipboard.png?raw=true)
 
   * [Ligthshot](https://app.prntscr.com/en/index.html)
+    ![Jupyter](https://github.com/tactlabs/wiki/blob/master/images/lightshot.png?raw=true)
 
   * [Jupyter](https://jupyter.org/)
-    ![abc](https://github.com/tactlabs/wiki/blob/master/images/jupyter.png?raw=true)
+    ![Jupyter](https://github.com/tactlabs/wiki/blob/master/images/jupyter.png?raw=true)
 
   * [VS Code](https://code.visualstudio.com/)
-    ![abc](https://github.com/tactlabs/wiki/blob/master/images/vscode.png?raw=true)
+    ![VS Code](https://github.com/tactlabs/wiki/blob/master/images/vscode.png?raw=true)
 
   * [Neo4j](https://neo4j.com/)
-    ![abc](https://github.com/tactlabs/wiki/blob/master/images/neo4j.png?raw=true)
+    ![Neo4j](https://github.com/tactlabs/wiki/blob/master/images/neo4j.png?raw=true)
 
   * [Docker](https://www.docker.com/)
-    ![abc](https://github.com/tactlabs/wiki/blob/master/images/docker.png?raw=true)
+    ![Docker](https://github.com/tactlabs/wiki/blob/master/images/docker.png?raw=true)
 
   * [Postman](https://www.postman.com/)
-    ![abc](https://github.com/tactlabs/wiki/blob/master/images/postman.png?raw=true)
+    ![Postman](https://github.com/tactlabs/wiki/blob/master/images/postman.png?raw=true)
 
   * [iTerm2](https://iterm2.com/)
-    ![abc](https://github.com/tactlabs/wiki/blob/master/images/iterm2.png?raw=true)
+    ![iTerm2](https://github.com/tactlabs/wiki/blob/master/images/iterm2.png?raw=true)
 
   * [SQLiteBrowser / DBBrowser for SQLite](https://sqlitebrowser.org/)
-    ![abc](https://github.com/tactlabs/wiki/blob/master/images/sqlitebrowser.png?raw=true)
+    ![SQLite Browser](https://github.com/tactlabs/wiki/blob/master/images/sqlitebrowser.png?raw=true)
 
   * [PostgreSQL](https://www.postgresql.org/)
-    ![abc](https://github.com/tactlabs/wiki/blob/master/images/postgres.png?raw=true)
+    ![PostgreSQL](https://github.com/tactlabs/wiki/blob/master/images/postgres.png?raw=true)
 
   * [MongoDB](https://www.mongodb.com/)
-    ![abc](https://github.com/tactlabs/wiki/blob/master/images/mongodb.png?raw=true)
+    ![MongoDB](https://github.com/tactlabs/wiki/blob/master/images/mongodb.png?raw=true)
 
   * [Zoom](https://zoom.us/)
-    ![abc](https://github.com/tactlabs/wiki/blob/master/images/.png?raw=true)
+    ![Zoom](https://github.com/tactlabs/wiki/blob/master/images/.png?raw=true)
 
   * [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg)
-    ![abc](https://github.com/tactlabs/wiki/blob/master/images/zoom.png?raw=true)
+    ![The Great Suspender](https://github.com/tactlabs/wiki/blob/master/images/zoom.png?raw=true)
 
   * [Loom for Chrome - Screen Recorder](https://chrome.google.com/webstore/detail/loom-for-chrome/liecbddmkiiihnedobmlmillhodjkdmb)
-    ![abc](https://github.com/tactlabs/wiki/blob/master/images/loom.png?raw=true)
+    ![Loom for Chrom](https://github.com/tactlabs/wiki/blob/master/images/loom.png?raw=true)
 
   * [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
-    ![abc](https://github.com/tactlabs/wiki/blob/master/images/full-page-screen-capture.png?raw=true)
+    ![Full Page Screen Capture](https://github.com/tactlabs/wiki/blob/master/images/full-page-screen-capture.png?raw=true)
 
   * [Screen Recorder](https://chrome.google.com/webstore/detail/screen-recorder/hniebljpgcogalllopnjokppmgbhaden)
-    ![abc](https://github.com/tactlabs/wiki/blob/master/images/screen-recorder.png?raw=true)
+    ![Screen Recorder](https://github.com/tactlabs/wiki/blob/master/images/screen-recorder.png?raw=true)
 
   * [ImTranslator](https://chrome.google.com/webstore/detail/imtranslator-translator-d/noaijdpnepcgjemiklgfkcfbkokogabh)
-    ![abc](https://github.com/tactlabs/wiki/blob/master/images/imtranslator.png?raw=true)
+    ![IM Translator](https://github.com/tactlabs/wiki/blob/master/images/imtranslator.png?raw=true)
 
   * [Source Graph](https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack)
-    ![abc](https://github.com/tactlabs/wiki/blob/master/images/source-graph.png?raw=true)
+    ![Source Graph](https://github.com/tactlabs/wiki/blob/master/images/source-graph.png?raw=true)
 
   * [Redux Dev Tools Extension](https://github.com/zalmoxisus/redux-devtools-extension)
-    ![abc](https://github.com/tactlabs/wiki/blob/master/images/redux-devtools.png?raw=true)
+    ![Redux Dev Tools](https://github.com/tactlabs/wiki/blob/master/images/redux-devtools.png?raw=true)
 
   * [JSONView - Chrome](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
-    ![abc](https://github.com/tactlabs/wiki/blob/master/images/jsonview.png?raw=true)
+    ![JSONView](https://github.com/tactlabs/wiki/blob/master/images/jsonview.png?raw=true)
     
   * [Postman Interceptor - Chrome](https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo)
-    ![abc](https://github.com/tactlabs/wiki/blob/master/images/postman-interceptor.png?raw=true)
+    ![Postman Interceptor](https://github.com/tactlabs/wiki/blob/master/images/postman-interceptor.png?raw=true)
 
   * [Grammarly - Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)
-    ![abc](https://github.com/tactlabs/wiki/blob/master/images/grammarly.png?raw=true)
+    ![Grammarly](https://github.com/tactlabs/wiki/blob/master/images/grammarly.png?raw=true)
 
   * [Mobile/Responsive Web Design Tester](https://chrome.google.com/webstore/detail/mobileresponsive-web-desi/elmekokodcohlommfikpmojheggnbelo)
-    ![abc](https://github.com/tactlabs/wiki/blob/master/images/mobile-responsive-web-design-tester.png?raw=true)
+    ![Mobile/Responsive Web Design Tester](https://github.com/tactlabs/wiki/blob/master/images/mobile-responsive-web-design-tester.png?raw=true)
 
   * [Mobile Browser Emulator](http://tools.diorama.ch/mbe_en.html)
-    ![abc](https://github.com/tactlabs/wiki/blob/master/images/mobile-browser-emulator.png?raw=true)
+    ![Mobile Browser Emulator](https://github.com/tactlabs/wiki/blob/master/images/mobile-browser-emulator.png?raw=true)
 
   * [Page Load Time - Chrome](https://chrome.google.com/webstore/detail/page-load-time/fploionmjgeclbkemipmkogoaohcdbig)
-    ![abc](https://github.com/tactlabs/wiki/blob/master/images/page-load-time.png?raw=true)
+    ![Page Load Time - Chrome](https://github.com/tactlabs/wiki/blob/master/images/page-load-time.png?raw=true)
 
   * [Screncastify - Screen Video Recorder](https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn)
-    ![abc](https://github.com/tactlabs/wiki/blob/master/images/screencastify.png?raw=true)
+    ![ScreenCasttify](https://github.com/tactlabs/wiki/blob/master/images/screencastify.png?raw=true)
 
   * [Get Pocket](https://getpocket.com/chrome/)
-    ![abc](https://github.com/tactlabs/wiki/blob/master/images/pocket.png?raw=true)
+    ![Get Pocket](https://github.com/tactlabs/wiki/blob/master/images/pocket.png?raw=true)
 
   * [Online timer / Online stopwatch](https://www.timeanddate.com/timer/)
 
