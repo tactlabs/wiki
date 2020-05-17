@@ -61,7 +61,7 @@
     ![MongoDB](https://github.com/tactlabs/wiki/blob/master/images/mongodb.png?raw=true)
 
   * [Zoom](https://zoom.us/)
-    ![Zoom](https://github.com/tactlabs/wiki/blob/master/images/.png?raw=true)
+    ![Zoom](https://github.com/tactlabs/wiki/blob/master/images/zoom.png?raw=true)
 
   * [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg)
     ![The Great Suspender](https://github.com/tactlabs/wiki/blob/master/images/zoom.png?raw=true)
@@ -109,14 +109,27 @@
     ![Get Pocket](https://github.com/tactlabs/wiki/blob/master/images/pocket.png?raw=true)
 
   * [Online timer / Online stopwatch](https://www.timeanddate.com/timer/)
+    ![Get Pocket](https://github.com/tactlabs/wiki/blob/master/images/.png?raw=true)
 
   * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
   * [Random User](https://randomuser.me/photos)
+    ![Get Pocket](https://github.com/tactlabs/wiki/blob/master/images/random-user.png?raw=true)
+
   * [Audio Mack](https://audiomack.com/)
+    ![Get Pocket](https://github.com/tactlabs/wiki/blob/master/images/audiomack.png?raw=true)
+
   * [SoundCloud](https://soundcloud.com/)
+    ![Get Pocket](https://github.com/tactlabs/wiki/blob/master/images/soundcloud.png?raw=true)
+
   * [Pixlr](https://pixlr.com/)
+    ![Get Pocket](https://github.com/tactlabs/wiki/blob/master/images/pixlr.png?raw=true)
+
   * [TinEye Reverse Search Engine](https://tineye.com/)
+    ![Get Pocket](https://github.com/tactlabs/wiki/blob/master/images/tineye.png?raw=true)
+
   * [HMAC Generator](https://www.freeformatter.com/hmac-generator.html)
+    ![Get Pocket](https://github.com/tactlabs/wiki/blob/master/images/freeformatter.png?raw=true)
 
 
 
