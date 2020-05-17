@@ -1,6 +1,6 @@
-# Tempalte
+# Heroku Basics
 
-**Note:** tbw
+**Note:** Play with Heroku by using these basic commands.
 
 
 

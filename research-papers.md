@@ -8,7 +8,7 @@
 
 This paper explains how to get the info from the curved text
 
-#### Ref :
+### Ref :
 
   * [TextTubes for Detecting Curved Text in the Wild](https://arxiv.org/pdf/1912.08990.pdf)
   * [Venturebeat](https://venturebeat.com/2019/12/26/amazon-researchers-use-ai-to-improve-ocr-for-curved-text/)

@@ -91,7 +91,19 @@
  * [IPL Stats](http://www.vinodlouis.com/demos/ipl-2008to2016-stats/)
  * [IPL Player statistics](http://www.vinodlouis.com/demos/ipl-player-stats-2008-2017/)
  * [Statistics India](http://www.vinodlouis.com/demos/suicide-stats-of-india/?i=1)
- * [Art Explorer]()
+ * [Art Explorer](http://arsexplorer.martinnadal.eu/#40037_Can%20You%20Se)
+ * [Replay Edits](https://cosmiclattes.github.io/wikireplay/player.html)
+ * [Programming Language Network](http://fatiherikli.github.io/programming-language-network/#language:Java)
+ * [Change Heatmap](http://50yearsofchange.com/)
+ * [Hackernews Stats](http://labs.im/hnstat/)
+ * [President Baloon](http://www.isbarackobamathepresident.com/)
+ * [Source](https://github.com/d3/d3/wiki/Gallery)
+ * []()
+ * []()
+ * []()
+ * []()
+ * []()
+ * []()
  * []()
  * []()
  * []()
@@ -99,26 +111,16 @@
 
 
 
-http://arsexplorer.martinnadal.eu/#40037_Can%20You%20Se
-
-Replay Edits
-https://cosmiclattes.github.io/wikireplay/player.html
-
-Programming Language Network
-http://fatiherikli.github.io/programming-language-network/#language:Java
-
-Change Heatmap
-http://50yearsofchange.com/
-
-Hackernews Stats
-http://labs.im/hnstat/
-
-President Baloon
-http://www.isbarackobamathepresident.com/
 
 
-Source
-https://github.com/d3/d3/wiki/Gallery
+
+
+
+
+
+
+
+
 
 ### Ref :
 
