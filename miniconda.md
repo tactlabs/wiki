@@ -20,6 +20,32 @@ Type miniconda in your "Windows app search box" and you will get something like 
 ```
 
 
+How to create a conda environment by using miniconda
+```
+Open Miniconda Prompt and run as admin
+You should see like this:
+
+(base) 
+
+Run this command:
+conda create -n py37 -y python=3.7
+
+To activate conda:
+conda activate py37
+
+To deactivate:
+conda deactivate
+```
+
+
+How to verify Python and version?
+```
+In your console (conda prompt), type this:
+python --version
+
+You should see
+python 3.7
+```
 
 
 ### Ref :

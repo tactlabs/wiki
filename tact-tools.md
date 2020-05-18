@@ -131,6 +131,8 @@
   * [HMAC Generator](https://www.freeformatter.com/hmac-generator.html)
     ![Get Pocket](https://github.com/tactlabs/wiki/blob/master/images/freeformatter.png?raw=true)
 
+  * [Feeback Form](https://delighted.com/)
+  * [Notepad++](https://notepad-plus-plus.org/)
 
 
 #### Libraries
