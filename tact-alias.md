@@ -6,7 +6,7 @@
 
 
 ```
-# CSP's alias
+# TACT's alias
 alias gad="git add ."
 alias gish="git push"
 alias gush="/Users/username/d/gitmagic/gu.sh"
@@ -22,6 +22,4 @@ alias wip="curl https://ifconfig.me/ -w '\n'"
 alias ip="curl https://ifconfig.me/ -w '\n'"
 ```
 
-### Ref :
 
-  * []()
