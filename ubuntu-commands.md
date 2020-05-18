@@ -40,24 +40,37 @@ Saving to: ‘Miniconda3-latest-Linux-x86_64.sh’
 
 
 
+How to run .sh file
+```
+chmod +x Miniconda3-latest-Linux-x86_64.sh
+./Miniconda3-latest-Linux-x86_64.sh
+```
+[How to run sh file](https://howtouselinux.net/how-to-run-sh-file-in-linux/)
+
+
+
+
+How to create ssh key for Github?
+```
+ssh-keygen -t rsa -b 4096 -C "abc@gmail.com"
+
+eval "$(ssh-agent -s)"
+
+ssh-add ~/.ssh/id_rsa
 ```
 
+[How to setup SSH key](https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+
+
+
+Where to check Nginx access logs
 ```
+/var/log/nginx/acces.log
 
-
-
-
-
-```
-
-```
-
-
-
-
-
-```
-
+check other logs
+/var/log/nginx/
+ls to see the latest logs
 ```
 
 
