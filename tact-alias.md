@@ -5,6 +5,7 @@
 
 
 
+
 ```
 # TACT's alias
 alias gad="git add ."
@@ -23,3 +24,8 @@ alias ip="curl https://ifconfig.me/ -w '\n'"
 ```
 
 
+
+How to update alias on Mac?
+```
+
+```

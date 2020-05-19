@@ -60,6 +60,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [MongoDB  Commands](mongodb-commands.md)
   * [MySQL Docker](mysql-docker.md)
   * [Neo4j Basics](neo4j-basics.md)
+  * [Postgres Commands](postgres-commands.md)
 
 ## Public Collections
   * [Research papers](research-papers.md)

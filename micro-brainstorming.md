@@ -55,3 +55,69 @@
 Ref Links :
 
   * [Lambda vs Fargate](https://www.bluematador.com/blog/serverless-in-aws-lambda-vs-fargate)
+
+
+
+### Session : 3
+
+**Date**: May 18, 2020 - Saturday
+
+**Title**: Docker Compose and Remote DB
+
+**Participants**: Raja CSP, Suresh
+
+**Summary**:
+**Docker Compose vs Kubernetes**:
+***Docker Compose***:
+- Compose is a tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application’s services. Then, with a single command, you create and start all the services from your configuration.
+- Compose has commands for managing the whole lifecycle of your application:
+  - Start, stop, and rebuild services
+  - View the status of running services
+  - Stream the log output of running services
+  - Run a one-off command on a service
+
+***Kubernetes***:
+- Kubernetes is a container orchestrator like Docker Swarm, Mesos Marathon, Amazon ECS, Hashicorp Nomad. Container orchestrators are the tools which group hosts together to form a cluster, and help us make sure applications:
+  - are fault-tolerant,
+  - can scale, and do this on-demand
+  - use resources optimally
+  - can discover other applications automatically, and communicate with each other
+  - are accessible from the external world
+  - can update/rollback without any downtime.
+
+
+**Docker Compose vs Docker Swarm**:
+***Similarities***:
+- Both Docker Swarm and Docker-Compose have the following similarities:
+  - They both take YAML formatted definitions of your application stack.
+  - They are both meant to deal with multi-container applications (microservices)
+  - They both have a scale parameter that allows you to run multiple containers of the same image allowing your microservice to scale horizontally.
+  - They are both maintained by the same company, i.e, Docker, Inc.
+
+***Differences***:
+- The few differences between Docker Swarm and Docker-Compose:
+  - Docker Swarm is used to scale your web app across one or more servers. Where as Docker-compose will simply run your web app on a single Docker host.
+  - Scaling your web app Docker Swarm offers serious high availability and fault tolerance. Scaling your web app using Docker-Compose on a single host is useful only for testing and development.
+  - Docker Swarm and related subcommands like Docker Swarm and Docker Stack are built into the Docker CLI itself. They are all part of the Docker binary that you call via your terminal.
+  - Docker-Compose is standalone binary in and of itself.
+
+**Kubernetes Small History**:
+- The original codename for Kubernetes within Google was Project Seven of Nine, a reference to a Star Trek character of the same name that is a "friendlier" Borg.
+
+
+**Remote RDS**:
+- brainstorming on Docker-compose vs Kubernetes
+- added inbound rule in RDS to connect from remote terminal/client
+- Connected RDS db via tableplus and local terminal
+- created test db and tested new db/tables via terminal
+
+
+Ref Links :
+
+  * [History of Kubernetes](https://blog.risingstack.com/the-history-of-kubernetes/)
+  * [Landscape](https://landscape.cncf.io/)
+  * [Docker compose ](https://linuxhint.com/docker_compose_vs_docker_swarm/)
+  * [Introduction to Kubernetes](https://www.edx.org/course/introduction-to-kubernetes)
+  * [What is the difference between Docker complse and Kubernetes](https://stackoverflow.com/questions/47536536/whats-the-difference-between-docker-compose-and-kubernetes)
+  * [Docker Compose vs Mesos](https://stackshare.io/stackups/docker-compose-vs-mesos)
+  * [Docker Swarm Kubernetes Apache Mesos](https://www.bogotobogo.com/DevOps/DevOps-Docker-Swarm-vs-Kubernetes-vs-Apache-Mesos.php)
