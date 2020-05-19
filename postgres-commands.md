@@ -6,7 +6,7 @@
 
 How to connect localhost DB?
 ```
-
+psql -U postgres -h localhost -p 5432 <db_name>
 ```
 
 

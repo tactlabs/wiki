@@ -60,11 +60,11 @@ Ref Links :
 
 ### Session : 3
 
-**Date**: May 18, 2020 - Saturday
+**Date**: May 18, 2020 - Monday
 
 **Title**: Docker Compose and Remote DB
 
-**Participants**: Raja CSP, Suresh
+**Participants**: Raja CSP, Suresh, & Murali
 
 **Summary**:
 **Docker Compose vs Kubernetes**:
