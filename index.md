@@ -47,6 +47,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Acoustics](acoustics.md)
   * [Recommender System](recommender-system.md)
   * [Facial Attributes](facial-attributes.md)
+  * [ML Research Papers](ml-research-papers.md)
 
 ## TACT PaaS / BaaS
   * [PaaS](paas.md)
