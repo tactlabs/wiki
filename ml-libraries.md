@@ -21,15 +21,11 @@
 
 * [Scipy](https://github.com/scipy/scipy)
 
-* [Numba](https://github.com/ /numba)
+* [Numba](https://github.com/numba/numba)
 
 * [YellowBrick](https://github.com/districtdatalabs/yellowbrick)
 
 * [StatsModel](https://github.com/statsmodels/statsmodels/)
-
-* [Numba](https://github.com/numba/numba)
-
-* [Scipy](https://github.com/scipy/scipy)
 
 * [Scikit Learn](https://github.com/scikit-learn/scikit-learn)
 
