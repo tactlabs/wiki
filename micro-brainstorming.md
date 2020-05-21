@@ -1,6 +1,16 @@
 # Micro Brainstorming
 
 **Note:** Do it quick but do it right!
+### BRAINSTORMING IDEAS
+-	Brainstorming combines a relaxed, informal approach to problem solving with lateral thinking.  
+-	People should avoid criticizing or rewarding ideas. 
+-	Brainstorming provides a free and open environment that encourages everyone to participate.
+-	Groups of five to seven people are usually most effective.
+-	Set up a comfortable environment for the session.
+-	Clearly define the problem that you want to solve, and lay out any criteria that you must meet. 
+-	Give people plenty of quiet time at the start of the session to write down as many of their own ideas as they can. 
+-	If the brainstorming session is lengthy, take plenty of breaks so that people can continue to concentrate.
+
 
 
 ### Session : 1
