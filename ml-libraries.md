@@ -343,3 +343,46 @@
 * [Simple Transformers — Introducing The Easiest Way To Use BERT, RoBERTa, XLNet, and XLM](https://towardsdatascience.com/simple-transformers-introducing-the-easiest-bert-roberta-xlnet-and-xlm-library-58bf8c59b2a3)
 * [simpletransformers](https://libraries.io/pypi/simpletransformers)
 * [Simple Transformers — Named Entity Recognition with Transformer Models](https://towardsdatascience.com/simple-transformers-named-entity-recognition-with-transformer-models-c04b9242a2a0)
+
+
+##### Various DS Resources
+https://www.datasciencecentral.com/profiles/blogs/deep-learning-definition-resources-comparison-with-machine-learni
+Deep Learning: Definition, Resources, Comparison with Machine Learning
+
+
+https://www.datasciencecentral.com/profiles/blogs/deep-learning-for-everyone-and-almost-free
+Deep Learning for Everyone – and (Almost) Free
+
+
+https://www.datasciencecentral.com/profiles/blogs/guide-to-deep-learning
+Guide to Deep Learning
+
+https://www.datasciencecentral.com/profiles/blogs/6448529:BlogPost:459267
+AI vs Deep Learning vs Machine Learning
+
+https://www.datasciencecentral.com/profiles/blogs/an-introduction-to-deep-learning-and-it-s-role-for-iot-future
+An Introduction to Deep Learning and it’s role for IoT/ future cities
+
+https://www.datasciencecentral.com/profiles/blogs/deep-learning-libraries-by-language
+Deep Learning Libraries by Language
+
+https://www.datasciencecentral.com/profiles/blogs/my-top-9-favorite-python-deep-learning-libraries
+My Top 9 Favorite Python Deep Learning Libraries
+
+https://www.datasciencecentral.com/profiles/blogs/how-to-start-learning-deep-learning
+How to Start Learning Deep Learning
+
+https://www.datasciencecentral.com/profiles/blogs/an-absolute-beginner-s-guide-to-machine-learning-deep-learning
+An absolute beginner’s guide to machine learning, deep learning, and AI
+
+https://www.datasciencecentral.com/profiles/blogs/applications-of-deep-learning
+Applications of Deep Learning
+
+https://www.datasciencecentral.com/profiles/blogs/applications-of-deep-learning
+Applications of Deep Learning
+
+https://www.datasciencecentral.com/profiles/blogs/10-deep-learning-terms-explained-in-simple-english
+10 Deep Learning Terms Explained in Simple English
+
+https://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms-1
+A Tour of Machine Learning Algorithms
