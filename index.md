@@ -49,6 +49,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Facial Attributes](facial-attributes.md)
   * [ML Research Papers](ml-research-papers.md)
   * [DS Interview Questions](ds-interview-questions)
+  * [DL Libraries](dl-libraries.md)
 
 ## TACT PaaS / BaaS
   * [PaaS](paas.md)
