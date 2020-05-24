@@ -25,10 +25,6 @@ sudo vi /usr/local/etc/my.cnf
 bind-address = 0.0.0.0
 brew services restart mysql
 
-sources:
-https://dba.stackexchange.com/questions/55958/cant-remote-access-mysql-server-running-on-mac-os-x
-	
-
 Create database tactdb;
 GRANT ALL PRIVILEGES ON tactdb.* TO 'root'@'localhost';
 flush privileges;
@@ -46,6 +42,9 @@ INSERT INTO CITY (NAME, STATE, COUNTRY) VALUES ('Toronto', 'Ontario', 'Canada');
 
 SELECT * FROM CITY;
 ```
+
+sources:
+https://dba.stackexchange.com/questions/55958/cant-remote-access-mysql-server-running-on-mac-os-x
 
 #### Test code in Python
 ```
