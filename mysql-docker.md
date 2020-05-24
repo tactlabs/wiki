@@ -50,8 +50,6 @@ https://dba.stackexchange.com/questions/55958/cant-remote-access-mysql-server-ru
 
 #### Test code in Python
 ```
-import mysql.connector
-from mysql.connector import Error 
 import MySQLdb
 
 db = MySQLdb.connect(host="127.0.0.1", 
