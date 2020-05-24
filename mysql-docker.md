@@ -46,7 +46,7 @@ SELECT * FROM CITY;
 ```
 
 ##### Ref:
-[MySQL Firewall Enable in MacOC](https://dba.stackexchange.com/questions/55958/cant-remote-access-mysql-server-running-on-mac-os-x)
+[MySQL Firewall Enable in MacOS](https://dba.stackexchange.com/questions/55958/cant-remote-access-mysql-server-running-on-mac-os-x)
 
 
 #### Test code in Python
