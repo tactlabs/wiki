@@ -19,8 +19,10 @@ docker run -d --name=mysql2 -e MYSQL_ROOT_PASSWORD=’mypassword’ -v /storage/
 docker run -p 3306:3306 --name tactmysql -e MYSQL_ROOT_PASSWORD=kaipulla -d mysql:latest
 
 mysql -uroot -pkaipulla -h127.0.0.1 -P3306
+```
 
-If any firewall issue, try this on Mac:
+#### If any firewall issue, try this on Mac:
+```
 sudo vi /usr/local/etc/my.cnf
 bind-address = 0.0.0.0
 brew services restart mysql
