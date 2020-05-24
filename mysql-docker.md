@@ -24,12 +24,14 @@ If any firewall issue, try this on Mac:
 sudo vi /usr/local/etc/my.cnf
 bind-address = 0.0.0.0
 brew services restart mysql
+```
 
+#### Create DB and Table
+```
 Create database tactdb;
 GRANT ALL PRIVILEGES ON tactdb.* TO 'root'@'localhost';
 flush privileges;
 use tactdb;
-
 
 CREATE TABLE CITY(
   ID SERIAL PRIMARY KEY,
