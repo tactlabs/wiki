@@ -45,8 +45,9 @@ INSERT INTO CITY (NAME, STATE, COUNTRY) VALUES ('Toronto', 'Ontario', 'Canada');
 SELECT * FROM CITY;
 ```
 
-sources:
-https://dba.stackexchange.com/questions/55958/cant-remote-access-mysql-server-running-on-mac-os-x
+##### Ref:
+[MySQL Firewall Enable in MacOC](https://dba.stackexchange.com/questions/55958/cant-remote-access-mysql-server-running-on-mac-os-x)
+
 
 #### Test code in Python
 ```
