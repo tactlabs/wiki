@@ -59,6 +59,9 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Micro Brainstorming](micro-brainstorming.md)
   * [Howfication](howfication.md)
 
+## TACT Training Programs
+  * [JSaaS - Job Shadowing as a Service](jsaas.md)
+
 ## DB Resources
   * [MongoDB Installation](mongodb-installation.md)
   * [MongoDB  Commands](mongodb-commands.md)
