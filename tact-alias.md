@@ -28,9 +28,3 @@ alias pipi="pip install -r requirements.txt"
 alias sshb="ssh-add -K ~/.ssh/id_rsa" # ssh base (for emergency purpose only)
 ```
 
-
-
-How to update alias on Mac?
-```
-
-```
