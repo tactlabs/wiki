@@ -28,7 +28,3 @@
 - Hour: 100-200 Hours of job shadowing.
 
 - We will be giving a small gift to ArunRaj as he is helping Ponnuthurai.
-
-### Ref :
-
-  * []()
