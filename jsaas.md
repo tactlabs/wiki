@@ -21,10 +21,10 @@
 
 - Candidate has to shadow someone who is good at their industry.
 
-- Sample: Ponnuthurai can shadow ArunRaj's job daily and learn from him.
+- Sample: Kevin can shadow Jonathan's job daily and learn from him.
 
-- Arun & Raja has to approve Ponnuthurai's learning after 1-2 months. Everything should be in Python alone.
+- Mark & Jonathan have to approve Kevin's learning after 1-2 months. Everything should be in Python alone.
 
 - Hour: 100-200 Hours of job shadowing.
 
-- We will be giving a small gift to ArunRaj as he is helping Ponnuthurai.
+- We will be giving a small gift to ArunRaj as he is helping Kevin.
