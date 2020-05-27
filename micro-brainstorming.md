@@ -129,3 +129,64 @@ Ref Links :
   * [What is the difference between Docker complse and Kubernetes](https://stackoverflow.com/questions/47536536/whats-the-difference-between-docker-compose-and-kubernetes)
   * [Docker Compose vs Mesos](https://stackshare.io/stackups/docker-compose-vs-mesos)
   * [Docker Swarm Kubernetes Apache Mesos](https://www.bogotobogo.com/DevOps/DevOps-Docker-Swarm-vs-Kubernetes-vs-Apache-Mesos.php)
+
+
+
+### Session : 3
+
+**Date**: May 26, 2020 - Tuesday
+
+**Title**: DL Text Processing (Keras, Tensorflow, and PyTorch)
+
+**Participants**: Raja CSP, Suresh, & Murali
+
+**Summary**:
+**Text Processing**:
+  * [Text Classification - Keras](https://github.com/ShawnyXiao/TextClassification-Keras)
+  * [Text Classification - Keras](https://github.com/jfilter/text-classification-keras)
+  * [Keras Text](https://github.com/raghakot/keras-text)
+  * [CNN Text Classification Keras](https://github.com/bhaveshoswal/CNN-text-classification-keras)
+  * [Keras Text Classification](https://github.com/sarweshsuman/keras-text-classification)
+  * [Keras Text Classificaiton](https://github.com/jolasman/keras-text-classification)
+  * [CNN Text Classifier Using Keras](https://github.com/diegoschapira/CNN-Text-Classifier-using-Keras)
+  * [CNN Text Classification with Keras](https://github.com/Jverma/cnn-text-classification-keras)
+  * [Text Classification](https://github.com/AlexYangLi/TextClassification)
+  * [Keras Text Classification](https://github.com/keon/keras-text-classification)
+  * [Keras Text Classification](https://github.com/stevewyl/keras_text_classification)
+  * [Nanonets - Text processing and more](https://app.nanonets.com)
+  * [DEEP LEARNING FOR NLP WITH PYTORCH](https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html)
+  * [Image and Text Recognition](https://www.altoros.com/blog/image-and-text-recognition-with-tensorflow-using-convolutional-neural-networks/)
+  * [CNN ANPR](https://matthewearl.github.io/2016/05/06/cnn-anpr/)
+  * [Deep ANPR - How to?](https://github.com/matthewearl/deep-anpr/blob/master/gen.py)
+  * [Keras Text CLS](https://github.com/titicaca/keras-text-cls)
+  * [Attention OCR](https://github.com/tensorflow/models/tree/master/research/attention_ocr)
+  * [Tensorflow Summarization](https://github.com/thunlp/TensorFlow-Summarization)
+  * [Text Summarization - Tensorflow](https://github.com/dongjun-Lee/text-summarization-tensorflow)
+  * [How to run text summarization with Tensorflow](https://medium.com/@surmenok/how-to-run-text-summarization-with-tensorflow-d4472587602d)
+  * [Text Classification](https://github.com/TobiasLee/Text-Classification)
+  * [Tensorflow Text Classification using CNN](https://github.com/AthulDilip/Tensorflow-Text-Classification-using-CNN)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
