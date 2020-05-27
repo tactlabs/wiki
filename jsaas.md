@@ -25,4 +25,4 @@
   - Kevin can shadow Jonathan's job daily and learn from him.
   - Mark & Jonathan have to approve Kevin's learning after 1-2 months. Everything should be in Python alone.
   - Hour: 100-200 Hours of job shadowing.
-  - We will be giving a small gift to ArunRaj as he is helping Kevin.
+  - We will be giving a small gift to Jonathan as he is helping Kevin.
