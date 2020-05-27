@@ -17,7 +17,7 @@
 - Capstone project and final exam with external validation - **weigh 20%**
 
 #### Details:
-- Someone has to get 60% to get the JSaaS Certificate
+- Candidate has to get 60% to get the JSaaS Certificate
 
 - Candidate has to shadow someone who is good at their industry.
 
