@@ -13,4 +13,4 @@ Also, if we find someone is similar to Simone, we are happy to nurture her and h
 #### Ref :
 
   * [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ)
-  * [Why you should make useless things | Simone Giertz](https://www.youtube.com/watch?v=c0bsKc4tiuY)
+  * [Why you should make useless things - Simone Giertz](https://www.youtube.com/watch?v=c0bsKc4tiuY)
