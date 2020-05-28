@@ -78,12 +78,12 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ## Public Projects
   * [Flask Sample Projects](flask-sample-projects.md)
 
-
 ## Reading
   * [HBR Readers' Club - Summary](hbr-readers-club.md)
 
-## Public Support
+## Public & Community Support
   * [Give Back To School](give-back-to-school.md)
+  * [Finding India's Simone Giertz](finding-simone-giertz-in-india.md)
 
 ## Contest Time
   * [Ubuntu Contest](ubuntu-quiz.md)
