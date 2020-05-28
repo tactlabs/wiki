@@ -86,4 +86,4 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Finding India's Simone Giertz](finding-simone-giertz-in-india.md)
 
 ## Contest Time
-  * [Ubuntu Contest](ubuntu-quiz.md)
+  * [Micro Hackathon - Internal](micro-hackthon.md)
