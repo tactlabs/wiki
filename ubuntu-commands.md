@@ -4,7 +4,7 @@
 
 
 
-Check Ubuhtu Version
+Check Ubuntu Version
 ```
 lsb_release -a
 
