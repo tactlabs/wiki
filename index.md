@@ -50,6 +50,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [ML Research Papers](ml-research-papers.md)
   * [DS Interview Questions](ds-interview-questions)
   * [DL Libraries](dl-libraries.md)
+  * [Hugo Commands](hugo-commands.md)
 
 ## TACT PaaS / BaaS
   * [PaaS](paas.md)
