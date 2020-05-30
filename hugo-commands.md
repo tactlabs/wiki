@@ -6,7 +6,13 @@
 Pre req:
 ```
 pip install runipy
+pip install jupyterlab
 ```
+
+How to install hugo in mac?
+```
+```
+
 
 
 How to start?
