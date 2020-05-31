@@ -21,9 +21,8 @@
 #### Setup Gmail password to Posfix
 
 1. Veriy myhostname
-	cat /etc/postfix/main.cf | grep "tactii"
-	
 ```
+cat /etc/postfix/main.cf | grep "tactii"
 myhostname = tactii.com
 ```
 
