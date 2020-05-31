@@ -30,7 +30,6 @@ myhostname = tactii.com
 2. Open sasl_password and update your Gmail app password
 ```
 vi /etc/postfix/sasl/sasl_passwd
-
 [smtp.gmail.com]:587 xyz@tactii.com:enssmudsibcssagu
 ```
 
