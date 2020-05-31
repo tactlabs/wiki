@@ -70,7 +70,7 @@ smtp_tls_security_level = encrypt
 smtp_tls_CAfile = /etc/ssl/certs/ca-certificates.crt
 ```
 
-1. Restart postfix
+7. Restart postfix
 ```
 sudo systemctl restart postfix
 ```
