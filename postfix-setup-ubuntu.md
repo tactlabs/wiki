@@ -50,6 +50,7 @@ sudo chmod 0600 /etc/postfix/sasl/sasl_passwd /etc/postfix/sasl/sasl_passwd.db
 ```
 
 6. Configure postfix relay server
+
 ```
 vi /etc/postfix/main.cf
 
@@ -69,7 +70,7 @@ smtp_tls_security_level = encrypt
 smtp_tls_CAfile = /etc/ssl/certs/ca-certificates.crt
 ```
 
-7. Restart postfix
+1. Restart postfix
 ```
 sudo systemctl restart postfix
 ```
