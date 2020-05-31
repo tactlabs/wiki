@@ -26,7 +26,7 @@ cat /etc/postfix/main.cf | grep "tactii"
 myhostname = tactii.com
 ```
 
-2. Open sasl_password and update your Gmail app password
+1. Open sasl_password and update your Gmail app password
 ```
 vi /etc/postfix/sasl/sasl_passwd
 
@@ -67,7 +67,6 @@ smtp_sasl_password_maps = hash:/etc/postfix/sasl/sasl_passwd
 smtp_tls_security_level = encrypt
 # Location of CA certificates
 smtp_tls_CAfile = /etc/ssl/certs/ca-certificates.crt
-
 ```
 
 7. Restart postfix
