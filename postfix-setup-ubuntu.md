@@ -1,4 +1,4 @@
-# Postfix Setup Ubuntu
+### Postfix Setup Ubuntu
 
 **Note:** You need email, right? then, follow these fudging guidelines!
 
