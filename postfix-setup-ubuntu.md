@@ -21,36 +21,35 @@ myhostname = tactii.com
 
 #### Setup Gmail password to Posfix
 
-1. Veriy myhostname
+**Veriy myhostname**
 ```
 cat /etc/postfix/main.cf | grep "tactii"
 myhostname = tactii.com
 ```
 
-2. Open sasl_password and update your Gmail app password
+**Open sasl_password and update your Gmail app password**
 ```
 vi /etc/postfix/sasl/sasl_passwd
 [smtp.gmail.com]:587 xyz@tactii.com:enssmudsibcssagu
 ```
 
-3. Create a hash db file for Postfix
+**Create a hash db file for Postfix**
 ```
 sudo postmap /etc/postfix/sasl/sasl_passwd
 ```
 
-4. Verify the newly created file:
+**Verify the newly created file**
 ```
 ls -hal /etc/postfix/sasl/sasl_passwd.db
 ```
 
-5. Change permissions for sasl_password
+**Change permissions for sasl_password**
 ```
 sudo chown root:root /etc/postfix/sasl/sasl_passwd /etc/postfix/sasl/sasl_passwd.db
 sudo chmod 0600 /etc/postfix/sasl/sasl_passwd /etc/postfix/sasl/sasl_passwd.db
 ```
 
-6. Configure postfix relay server
-
+**Configure postfix relay server**
 ```
 vi /etc/postfix/main.cf
 
@@ -70,12 +69,12 @@ smtp_tls_security_level = encrypt
 smtp_tls_CAfile = /etc/ssl/certs/ca-certificates.crt
 ```
 
-1. Restart postfix
+**Restart postfix**
 ```
 sudo systemctl restart postfix
 ```
 
-8. Verify by sending Email
+**Verify by sending Email**
 ```
 sendmail obama@gmail.com
 From: xyz@talentaccurate.com
