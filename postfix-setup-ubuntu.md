@@ -50,7 +50,6 @@ sudo chmod 0600 /etc/postfix/sasl/sasl_passwd /etc/postfix/sasl/sasl_passwd.db
 ```
 
 6. Configure postfix relay server
-
 ```
 vi /etc/postfix/main.cf
 
