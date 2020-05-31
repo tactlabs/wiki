@@ -74,6 +74,15 @@ smtp_tls_CAfile = /etc/ssl/certs/ca-certificates.crt
 sudo systemctl restart postfix
 ```
 
+8. Verify by sending Email
+```
+sendmail obama@gmail.com
+From: xyz@talentaccurate.com
+Subject: Fund us Obama
+We are doing awesome things, so fund us!
+.
+```
+
 
 
 ##### Ref :
