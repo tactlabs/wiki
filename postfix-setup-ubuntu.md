@@ -1,0 +1,83 @@
+# Postfix Setup Ubuntu
+
+**Note:** You need email, right? then, follow these fudging guidelines!
+
+
+#### Setup Postfix
+
+1. Install postfix and libasl module
+	sudo apt-get install libsasl2-modules postfix
+	
+2. Select 'Internet Site' General type of mail configuration
+	
+3. In system mail name, type your domain name
+	tactti.com
+	
+4. Once the installation is complete, confirm myhostname param in /etc/postfix/main.cf
+	myhostname = tactii.com
+
+
+
+#### Setup Gmail password to Posfix
+
+1. Veriy myhostname
+	cat /etc/postfix/main.cf | grep "tactii"
+	
+```
+myhostname = tactii.com
+```
+
+2. Open sasl_password and update your Gmail app password
+```
+vi /etc/postfix/sasl/sasl_passwd
+
+[smtp.gmail.com]:587 xyz@tactii.com:enssmudsibcssagu
+```
+
+3. Create a hash db file for Postfix
+```
+sudo postmap /etc/postfix/sasl/sasl_passwd
+```
+
+4. Verify the newly created file:
+```
+ls -hal /etc/postfix/sasl/sasl_passwd.db
+```
+
+5. Change permissions for sasl_password
+```
+sudo chown root:root /etc/postfix/sasl/sasl_passwd /etc/postfix/sasl/sasl_passwd.db
+sudo chmod 0600 /etc/postfix/sasl/sasl_passwd /etc/postfix/sasl/sasl_passwd.db
+```
+
+6. Configure postfix relay server
+```
+vi /etc/postfix/main.cf
+
+Update these:
+relayhost = [smtp.gmail.com]:587
+
+Add these at the end:
+# Enable SASL authentication
+smtp_sasl_auth_enable = yes
+# Disallow methods that allow anonymous authentication
+smtp_sasl_security_options = noanonymous
+# Location of sasl_passwd
+smtp_sasl_password_maps = hash:/etc/postfix/sasl/sasl_passwd
+# Enable STARTTLS encryption
+smtp_tls_security_level = encrypt
+# Location of CA certificates
+smtp_tls_CAfile = /etc/ssl/certs/ca-certificates.crt
+
+```
+
+7. Restart postfix
+```
+sudo systemctl restart postfix
+```
+
+
+
+##### Ref :
+
+  * [Postfix setup with Gmail App Password](https://www.linode.com/docs/email/postfix/configure-postfix-to-send-mail-using-gmail-and-google-apps-on-debian-or-ubuntu/)
