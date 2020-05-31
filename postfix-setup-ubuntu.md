@@ -14,8 +14,9 @@
 	tactti.com
 	
 4. Once the installation is complete, confirm myhostname param in /etc/postfix/main.cf
-	myhostname = tactii.com
-
+```
+myhostname = tactii.com
+```
 
 
 #### Setup Gmail password to Posfix
