@@ -26,5 +26,6 @@ alias bashin="sudo vi ~/.bash_profile"
 alias bashcat="cat ~/.bash_profile"
 alias pipi="pip install -r requirements.txt"
 alias sshb="ssh-add -K ~/.ssh/id_rsa" # ssh base (for emergency purpose only)
+alias tip="python /Users/rajacsp/d/kaipulla_space/pythonsamples/tactpip/tinstaller.py -p "
 ```
 
