@@ -32,6 +32,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Tact Alias](tact-alias.md)
   * [How to Gmail App Password](how-to-setup-gmail-app-password)
   * [Postfix Setup - Ubuntu](postfix-setup-ubuntu.md)
+  * [Nice Web Pages](nice-web-pages.md)
 
 ## TACT ML / DL
   * [ML Libraries](ml-libraries.md)
