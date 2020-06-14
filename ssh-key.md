@@ -51,7 +51,10 @@ eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/id_rsa
 
 pbcopy < ~/.ssh/id_rsa.pub
-or cat the public file
+or
+cat ~/.ssh/id_rsa.pub
+    (then copy the content)
+
 
 then copy the file on Github/Gitlab
 ```

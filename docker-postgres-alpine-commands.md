@@ -162,6 +162,8 @@ import psycopg2
 
 def startpy():
 
+    connection = None
+
     try:
         connection = psycopg2.connect(user = "postgres",
                                     password = "root",
