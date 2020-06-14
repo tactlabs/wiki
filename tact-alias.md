@@ -33,7 +33,7 @@ TACT alias - Ubuntu
 # TACT's alias - Ubuntu
 alias gad="git add ."
 alias gish="git push"
-alias gush="/home/chidam/gitmagic/gu.sh"
+alias gush="/home/xyzabc/gitmagic/gu.sh"
 alias cp36="conda activate py37"
 alias cact="conda activate"
 alias clist="conda env list"
