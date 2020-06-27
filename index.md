@@ -66,6 +66,9 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ## TACT Training Programs
   * [JSaaS - Job Shadowing as a Service](jsaas.md)
 
+## TACT Reserach
+  * [ReI - Research Ilaiyaraja](rei.md)
+
 ## DB Resources
   * [MongoDB Installation](mongodb-installation.md)
   * [MongoDB  Commands](mongodb-commands.md)
