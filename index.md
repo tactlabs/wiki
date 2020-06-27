@@ -33,6 +33,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [How to Gmail App Password](how-to-setup-gmail-app-password)
   * [Postfix Setup - Ubuntu](postfix-setup-ubuntu.md)
   * [Nice Web Pages](nice-web-pages.md)
+  * [Flask Migrate Commands](flask-migrate-commands.md)
 
 ## TACT ML / DL
   * [ML Libraries](ml-libraries.md)
