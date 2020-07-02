@@ -34,6 +34,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Postfix Setup - Ubuntu](postfix-setup-ubuntu.md)
   * [Nice Web Pages](nice-web-pages.md)
   * [Flask Migrate Commands](flask-migrate-commands.md)
+  * [Environment variable](env-variable.md)
 
 ## TACT ML / DL
   * [ML Libraries](ml-libraries.md)
