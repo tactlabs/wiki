@@ -4,7 +4,18 @@
 
 
 
-Settting environment variable
+Settting environment variable option 1
+```
+export TACT_ENV='local_tact_env'
+
+verify:
+printenv TACT_ENV
+
+verify:
+echo $TACT_ENV
+```
+
+Settting environment variable option 2
 ```
 echo "export RJ_ENV='this_is_my_env_variable'" > rj.env
 
@@ -12,6 +23,15 @@ source ./rj.env
 
 python
 	> import os;os.environ.get('RJ_ENV')
+```
+
+Unset environment variable
+```
+export TACT_ENV=
+
+unset TACT_ENV
+
+export -n TACT_ENV
 ```
 
 ##### Ref :
