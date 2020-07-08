@@ -69,7 +69,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [JSaaS - Job Shadowing as a Service](jsaas.md)
 
 ## TACT Reserach
-  * [ReI - Research Ilaiyaraja](rei.md)
+  * [Research Partnership](research-partnership.md)
 
 ## DB Resources
   * [MongoDB Installation](mongodb-installation.md)
