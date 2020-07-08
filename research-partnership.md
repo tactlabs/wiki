@@ -18,12 +18,15 @@ In the first 2 months, rigorous training will be provided on our Research Areas 
 + Other ML Algorithms
 + Advanced Statistics
 	
-#### Web Stack:
+#### Web, PASS & OS Stack:
 + ReactJs
 + HighCharts
 + Jinja & Flask
++ Ubuntu (18.04 / 20.04)
 + Postgres
 + SQLite
++ Docker
++ Docker compose
 + Amazon ECS (Fargate, EC2)
 + Amazon EC2
 + Kubernetes
