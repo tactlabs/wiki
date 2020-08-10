@@ -31,6 +31,13 @@ pip install jupyterlab
 
 How to install hugo in mac?
 ```
+brew install hugo
+
+check version:
+hugo version
+
+  	You should see something like this
+	  Hugo Static Site Generator v0.55.2/extended darwin/amd64 BuildDate: unknown
 ```
 
 
