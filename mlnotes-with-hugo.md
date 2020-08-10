@@ -28,7 +28,11 @@ https://gohugo.io/getting-started/installing/
 
 How to install hugo in mac?
 ```
-brew install hugo
+uninstall previous hugo
+    brew uninstall hugo
+
+install older version of hugo -
+    brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/5441fa16872c9a56bd5997558df45b808f13285b/Formula/hugo.rb
 
 check version:
 hugo version
