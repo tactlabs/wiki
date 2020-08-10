@@ -20,6 +20,7 @@ hugo version
 
 Ref:
 https://github.com/gohugoio/hugo/releases/tag/v0.50
+https://gohugo.io/getting-started/installing/
 ```
 
 
