@@ -62,6 +62,3 @@ baseURL = "https://<your-github-handle>.github.io/<your-repository-name>/"
 title = "Your Name"
 ```
 
-### Ref :
-
-  * []()
