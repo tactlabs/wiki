@@ -18,7 +18,7 @@ check version
 hugo version
 
   	You should see something like this
-	  Hugo Static Site Generator v0.55.2/extended darwin/amd64 BuildDate: unknown
+	  Hugo Static Site Generator v0.50/extended linux/amd64 BuildDate: 2018-10-29T10:09:56Z
 
 Ref:
 https://github.com/gohugoio/hugo/releases/tag/v0.50
