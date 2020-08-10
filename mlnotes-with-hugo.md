@@ -9,6 +9,7 @@ How to install Hugo in Ubuntu?
 First uninstall hugo (if you have installed previously)
 sudo apt-get remove hugo
 sudo apt-get purge hugo
+sudo snap remove hugo
 
 Install hugo
 wget https://github.com/gohugoio/hugo/releases/download/v0.50/hugo_extended_0.50_Linux-64bit.deb && sudo apt install ./hugo_extended_0.50_Linux-64bit.deb
@@ -50,6 +51,15 @@ How to start?
 runipy make.ipynb
 hugo server -D
 hugo
+```
+
+How to publish?
+```
+change the conf:
+
+go to conf.toml and change these:
+baseURL = "https://<your-github-handle>.github.io/<your-repository-name>/"
+title = "Your Name"
 ```
 
 ### Ref :
