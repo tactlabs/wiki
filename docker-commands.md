@@ -3,6 +3,19 @@
 **Note:** All Docker commands are documented here
 
 
+How to install docker on Ubuntu?
+```
+sudo apt-get update
+sudo apt-get remove docker docker-engine docker.io
+sudo apt install docker.io
+
+sudo systemctl start docker
+sudo systemctl enable docker
+
+docker --version
+```
+[How to install Docker on Ubunt](https://phoenixnap.com/kb/how-to-install-docker-on-ubuntu-18-04)
+
 
 Dockr Login
 ```

@@ -71,6 +71,9 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ## TACT Reserach
   * [Research Partnership](research-partnership.md)
 
+## AWS Section
+  * [AWS Configure](aws-configure.md)
+
 ## DB Resources
   * [MongoDB Installation](mongodb-installation.md)
   * [MongoDB  Commands](mongodb-commands.md)
