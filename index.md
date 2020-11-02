@@ -94,6 +94,16 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 ## Reading
   * [HBR Readers' Club - Summary](hbr-readers-club.md)
+  * [How I Did it - Brittannica](hbr-how-i-did-it-brittannica.md)
+  * [The 10 Most Popular New Businesses](hbr-the-10-most-popular-new-businesses.md)
+  * [What's in the Innovation Sandwich?]()
+  * [10 Ways to Discover Customer Sentiment About Your Business](hbr-10-ways-to-discover-sentiment-about-your-business.md)
+  * [15 Behaviors And Traits of Great Leaders](hbr-15-behaviors-and-traits-of-great-leaders.md)
+  * [How I Did it Brittannica](hbr-how-i-did-it-brittannica.md)
+  * [The 10 Most Popular Businesses](hbr-the-10-most-popular-new-businesses.md)
+  * [This App Wants You To Borrow](hbr-this-app-wants-you-to-borrow-money-from-friends.md)
+  * [Doc](https://docs.google.com/document/d/19DvBTox4pMTabZp4qIC3l10ydux5WhHM0qSI9AZVWN4)
+
 
 ## Public & Community Support
   * [Give Back To School](give-back-to-school.md)
