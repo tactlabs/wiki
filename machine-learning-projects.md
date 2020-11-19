@@ -9,11 +9,6 @@
 * [Autocorrect Keyboard with Python and Machine Learning](https://thecleverprogrammer.com/2020/10/04/autocorrect-with-python/)
 * [Deepfake Detection with Machine Learning](https://thecleverprogrammer.com/2020/10/03/deepfake-detection-with-python/)
 * [Predict US Elections with Python](https://thecleverprogrammer.com/2020/10/01/predict-us-elections-with-python/)
-* []()
-* []()
-* []()
-* []()
-
 
 ### Ref :
 
