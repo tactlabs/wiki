@@ -12,4 +12,4 @@
 
 ### Ref :
 
-  * [Medium](https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392)
+  * [Medium - ](https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392)
