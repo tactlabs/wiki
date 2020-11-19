@@ -57,6 +57,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [DL Libraries](dl-libraries.md)
   * [Hugo Commands](hugo-commands.md)
   * [ML Notes with Hugo](mlnotes-with-hugo.md)
+  * [Machine Learning Projects](machine-learning-projects.md)
 
 ## TACT PaaS / BaaS
   * [PaaS](paas.md)
@@ -103,7 +104,6 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [The 10 Most Popular Businesses](hbr-the-10-most-popular-new-businesses.md)
   * [This App Wants You To Borrow](hbr-this-app-wants-you-to-borrow-money-from-friends.md)
   * [Doc](https://docs.google.com/document/d/19DvBTox4pMTabZp4qIC3l10ydux5WhHM0qSI9AZVWN4)
-
 
 ## Public & Community Support
   * [Give Back To School](give-back-to-school.md)
