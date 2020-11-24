@@ -66,6 +66,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ## TACT Micro Brainstorming
   * [Micro Brainstorming](micro-brainstorming.md)
   * [Howfication](howfication.md)
+  * [Various Effects](various-effects.md)
 
 ## TACT Training Programs
   * [JSaaS - Job Shadowing as a Service](jsaas.md)
