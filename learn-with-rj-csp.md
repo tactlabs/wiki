@@ -13,7 +13,7 @@ Come and learn coding with RJ CSP. Let him make mistakes and you can learn from 
 
 Yes, **curiosity** will drive you both!
 
-**Make mistakes** and LEARN better.
+Make **mistakes** and LEARN better.
 
 Misktakes are the best way to learn things properly. This is what RJ CSP found out after 20 years of coding!
 
