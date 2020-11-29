@@ -6,11 +6,11 @@
 
 2020 Aug - Oct
 ```
-Alvis - DevOps & Tool Research
+Alvis F          - DevOps & Tool Research
 Vaishnavi Venkat - Leadership, Strategies, Organization and Mentoring
-Kamal - ML/DL Library and Tool Research
-Charles - ML/DL Library and Tool Research
-Yagan - Tool Research, NLP, Chatbot, Learning Analytics
+Kamal Khumar     - ML/DL Library and Tool Research
+Charles Samuel R - ML/DL Library and Tool Research
+Yagan Arun       - Tool Research, NLP, Chatbot, Learning Analytics
 ```
 
 
