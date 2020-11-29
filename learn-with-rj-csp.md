@@ -19,5 +19,5 @@ Misktakes are the best way to learn things properly. This is what RJ CSP found o
 
 Who the heck is RJ CSP?
 
-[Challenging days of Raja CSP](https://medium.com/@rajacsp/my-darkest-challenging-days-in-india-b03ddc625116)
+[Let's find out](https://medium.com/@rajacsp/my-darkest-challenging-days-in-india-b03ddc625116)
 
