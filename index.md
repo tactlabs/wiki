@@ -36,6 +36,9 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Flask Migrate Commands](flask-migrate-commands.md)
   * [Environment variable](env-variable.md)
 
+## Tact Rules
+  * [Tact OS and Git Rules](tact-os-and-git-rules.md)
+
 ## TACT ML / DL
   * [ML Libraries](ml-libraries.md)
   * [ML DL Resources](ml-resources.md)
