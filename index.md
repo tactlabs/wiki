@@ -39,6 +39,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 ## Tact Rules
   * [Tact OS and Git Rules](tact-os-and-git-rules.md)
+  * [Tact Rules](tact-rules.md)
 
 ## TACT ML / DL
   * [ML Libraries](ml-libraries.md)
