@@ -35,6 +35,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Nice Web Pages](nice-web-pages.md)
   * [Flask Migrate Commands](flask-migrate-commands.md)
   * [Environment variable](env-variable.md)
+  * [AWS Commands](aws-commands.md)
 
 ## Tact Rules
   * [Tact OS and Git Rules](tact-os-and-git-rules.md)
