@@ -5,7 +5,7 @@
 **Learn with RJ CSP:**
 (A new initiative from Tact Labs)
 
-Learning is hard when you do it alone. But there are some ways to learn them properly. Especially guy like RJ CSP is ready to learn with you by ROLE PLAYING of a fresher who is with curiosity but makes more mistakes!
+Learning is hard when you do it alone. But there are some ways to learn them properly. Especially guy like RJ CSP is ready to learn with you by **ROLE PLAYING** of a fresher and a fool who is with curiosity but makes more mistakes!
 
 Since his 11th grade C++ programming, RJ CSP found one thing: make mistake to learn thing properly and don't ever act like geek. Be like a fool! Being like fool is the best way to learn programming!
 
