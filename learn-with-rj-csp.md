@@ -17,6 +17,7 @@ Make **mistakes** and LEARN better.
 
 Misktakes are the best way to learn things properly. This is what RJ CSP found out after 20 years of coding!
 
+
 Who the heck is RJ CSP?
 
 [Let's find out](https://medium.com/@rajacsp/my-darkest-challenging-days-in-india-b03ddc625116)
