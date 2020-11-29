@@ -96,7 +96,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 ## Learning Research
   * [Learning with RJ CSP](learn-with-rj-csp.md)
-  * [Give 'em a Laptop] (give-them-a-laptop.md)
+  * [Give them a laptop](give-them-a-laptop.md)
 
 ## Reading
   * [HBR Readers' Club - Summary](hbr-readers-club.md)
