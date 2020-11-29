@@ -4,10 +4,22 @@
 
 
 
-2020 Aug
+2020 Aug - Oct
 ```
-Alvis
+Alvis F
 Vaishnavi Venkat
+Rakshmitha
 Aishwarya Ramaswamy
+Charles Sameul R
+Yagan Arun
+Sameena Fathima
+Gokul Prakash
+Karthik
+Augustin Dennis
+Vaishnavi Katikala
+Palaniappan
+Vignesh
+Sanjay
+Aavinash
 ```
 

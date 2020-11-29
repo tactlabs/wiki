@@ -126,5 +126,5 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Interactive Micro Learning](interactive-micro-learning.md)
 
 ## TactLab Interns
-  * [Tact Labs Interns History](interactive-micro-learning.md)
+  * [Tact Labs Interns History](tactlabs-interns-history.md)
   * [Interns with High GRIT Score](tactlabs-grittier-interns.md)
