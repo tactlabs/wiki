@@ -1,6 +1,6 @@
 # TactLabs GRITtier Interns
 
-**Note:** These are the students who outperformed our expectations and got the highest GRIT score during our Internship program. This is only applicable for Employer verification purposes.
+**Note:** These are the students who outperformed our expectations and got the high GRIT score during our Internship program. This is only applicable for Employer verification purposes.
 
 
 
