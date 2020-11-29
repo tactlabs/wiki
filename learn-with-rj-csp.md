@@ -17,4 +17,5 @@ Yes, **curiosity** will drive you both!
 Misktakes are the best way to learn things properly. This is what RJ CSP found out after 20 years of coding!
 
 Who the heck is RJ CSP?
-https://medium.com/@rajacsp/my-darkest-challenging-days-in-india-b03ddc625116
+[Challenging days of Raja CSP](https://medium.com/@rajacsp/my-darkest-challenging-days-in-india-b03ddc625116)
+
