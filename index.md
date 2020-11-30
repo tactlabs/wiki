@@ -35,6 +35,12 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Nice Web Pages](nice-web-pages.md)
   * [Flask Migrate Commands](flask-migrate-commands.md)
   * [Environment variable](env-variable.md)
+  * [AWS Commands](aws-commands.md)
+
+## Tact Rules / Core Values / Policies
+  * [Tact OS and Git Rules](tact-os-and-git-rules.md)
+  * [Tact Rules](tact-rules.md)
+  * [Equality] (equality.md)
 
 ## TACT ML / DL
   * [ML Libraries](ml-libraries.md)
@@ -66,6 +72,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ## TACT Micro Brainstorming
   * [Micro Brainstorming](micro-brainstorming.md)
   * [Howfication](howfication.md)
+  * [Various Effects](various-effects.md)
 
 ## TACT Training Programs
   * [JSaaS - Job Shadowing as a Service](jsaas.md)
@@ -93,6 +100,10 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ## Public Projects
   * [Flask Sample Projects](flask-sample-projects.md)
 
+## Learning Research
+  * [Learning with RJ CSP](learn-with-rj-csp.md)
+  * [Give them a laptop](give-them-a-laptop.md)
+
 ## Reading
   * [HBR Readers' Club - Summary](hbr-readers-club.md)
   * [How I Did it - Brittannica](hbr-how-i-did-it-brittannica.md)
@@ -114,3 +125,8 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 ## Programs
   * [Interactive Micro Learning](interactive-micro-learning.md)
+
+## TactLab Interns / Online Resumes
+  * [Tact Labs Interns History](tactlabs-interns-history.md)
+  * [Interns with High GRIT Score](tactlabs-grittier-interns.md)
+  * [Online Sample Resumes](online-sample-resumes.md)
