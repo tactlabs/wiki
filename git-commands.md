@@ -249,11 +249,11 @@ git clone abc.git branch abc_branch
 Merge branch with Master (puhsing branch's code into master): verified on Feb 10, 2017
 ```
 go inside master folder:
+git checkout master
 git pull origin master
 git merge branch_name
 git push origin master
 ```
-
 
 
 
@@ -287,6 +287,15 @@ git push
 ```
 
 
+How to delete a branch locally and remotely
+```
+// delete branch locally
+git branch -d localBranchName
+
+// delete branch remotely
+git push origin --delete remoteBranchName
+```
+[How to delete a branch](https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/)
 
 
 Find Git Version in cmd
