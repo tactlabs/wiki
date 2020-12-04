@@ -41,6 +41,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ## Tact Rules / Core Values / Policies
   * [Tact OS and Git Rules](tact-os-and-git-rules.md)
   * [Tact Rules](tact-rules.md)
+  * [Tact Deadline Rules](tact-deadline-rule.md)
   * [Equality](equality.md)
 
 ## TACT ML / DL
