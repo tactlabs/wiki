@@ -36,6 +36,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Flask Migrate Commands](flask-migrate-commands.md)
   * [Environment variable](env-variable.md)
   * [AWS Commands](aws-commands.md)
+  * [Tact S3 file upload and CloudFront](tact-s3-cloudfront.md)
 
 ## Tact Rules / Core Values / Policies
   * [Tact OS and Git Rules](tact-os-and-git-rules.md)
