@@ -745,7 +745,7 @@ git pull
 git pull https://github.com/rajasgs/merge-test feat-raja-one
 git push origin qa
 ```
-https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/merging-an-upstream-repository-into-your-fork
+[Merging an upstream repository into your fork](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/merging-an-upstream-repository-into-your-fork)
 
 
 
@@ -761,10 +761,7 @@ git push --mirror https://github.com/rajasgs/tactKMNETLDec2019.git
 cd ..
 rm -rf tactKMNETL.git
 ```
-https://github.com/tactLabs/tactKMNETL
-    
-https://help.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository
-
+[Duplicating a repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository)
 
 
 
@@ -776,7 +773,7 @@ https://help.github.com/en/github/creating-cloning-and-archiving-repositories/du
 git amend
 git commit --amend -m "Message"
 ```
-https://www.atlassian.com/git/tutorials/rewriting-history
+[Rewriting History](https://www.atlassian.com/git/tutorials/rewriting-history)
 
 
 
