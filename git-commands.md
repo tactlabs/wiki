@@ -286,6 +286,35 @@ git merge origin/K-develop
 git push
 ```
 
+Git Tags
+```
+git tag v1.0
+
+git tag -a v1.1 -m "Second version"
+
+git tag
+
+git show v1.0
+
+git tag -l "v1.*"
+
+git push origin v1.0
+
+git push origin --tags
+
+git push --tags
+
+git tag -d v1.0
+
+git push origin -d v.10
+
+git checkout tags/v1.0
+
+git fetch --all
+```
+[Git and GitHub Beginner Tutorial 7 - Git Tags - what, why, when and how](https://www.youtube.com/watch?v=govmXpDGLpo)
+[What is git tag, How to create tags & How to checkout git remote tag(s)](https://stackoverflow.com/questions/35979642/what-is-git-tag-how-to-create-tags-how-to-checkout-git-remote-tags)
+[How To Delete Local and Remote Tags on Git](https://devconnected.com/how-to-delete-local-and-remote-tags-on-git/)
 
 How to delete a branch locally and remotely
 ```
