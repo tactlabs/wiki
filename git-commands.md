@@ -4,7 +4,7 @@
 
 
 
-Basic flow: (basis status check, add, commit, push)
+### Basic flow: (basis status check, add, commit, push)
 ```
 git status
 git add .
@@ -21,7 +21,7 @@ git diff HEAD [filename]
 
 
 
-Configure user details on Git
+### Configure user details on Git
 ```
 git config --global user.email "abc@gmail.com"
 git config --global user.name "Your Name"
