@@ -30,7 +30,7 @@ git config --global user.name "Your Name"
 
 
 
-git cache / github password cache:
+### Git cache / github password cache:
 ```
 git config credential.helper store
 ```
@@ -38,7 +38,7 @@ git config credential.helper store
 
 
 
-reset a single file:
+### Reset a single file:
 ```
 git checkout filename
 ```
@@ -48,13 +48,13 @@ Ref:
 
 
 
-git commit some files
+### Git commit some files
 [Commit only some files](http://stackoverflow.com/questions/7239333/how-do-i-commit-only-some-files)
 
 
 
 
-end git diff
+### End git diff
 ```
 type q
 ```
@@ -62,7 +62,7 @@ type q
 
 
 
-revert last push
+### Revert last push
 ```
 git reset --hard <revision_id_of_last_known_good_commit>
 git push --force
@@ -72,7 +72,7 @@ git push --force
 
 
 
-add all except a single file
+### Add all except a single file
 ```
 git add .
 git reset filename
@@ -81,7 +81,7 @@ git reset filename
 
 
 
-Git logs:
+### Git logs:
 ```
 git log
 ```
@@ -89,7 +89,7 @@ git log
 
 
 
-Git logs with limit
+### Git logs with limit
 ```
 git log -n 2
 ```
@@ -97,7 +97,7 @@ git log -n 2
 
 
 
-Git previous logs one line
+### Git previous logs one line
 ```
 git log --pretty=oneline
 ```
@@ -105,7 +105,7 @@ git log --pretty=oneline
 
 
 
-Git stats
+### Git stats
 ```
 git log --stat
 git log --stat -n 2
@@ -114,7 +114,7 @@ git log --stat -n 2
 
 
 
-Git log for particular author
+### Git log for particular author
 ```
 git log --author="rajacsp" -n 2
 ```
@@ -122,7 +122,7 @@ git log --author="rajacsp" -n 2
 
 
 
-Git log graph
+### ### Git log graph
 ```
 git log --graph --decorate --oneline
 ```
@@ -134,7 +134,7 @@ Ref:
 
 
 
-Revert all uncommitted changes including new files
+### Revert all uncommitted changes including new files
 Revert changes to modified files
 ```
 git reset --hard
@@ -143,7 +143,7 @@ git reset --hard
 
 
 
-Remove all untracked files and directories. (`-f` is `force`, `-d` is `remove directories`)
+### Remove all untracked files and directories. (`-f` is `force`, `-d` is `remove directories`)
 ```
 git clean -fd
 ```
@@ -151,7 +151,7 @@ git clean -fd
 
 
 
-Undo a last add before commit
+### Undo a last add before commit
 ```
 git reset
 ```
@@ -159,7 +159,7 @@ git reset
 
 
 
-Revert a single file
+### Revert a single file
 ```
 git checkout filename
 ```
@@ -168,7 +168,7 @@ git checkout filename
 
 
 
-Git add all but ignore one file
+### Git add all but ignore one file
 ```
 git add -u
 git reset -- filename.txt
@@ -177,7 +177,7 @@ git reset -- filename.txt
 
 
 
-revert one uncommitted file git
+### Revert one uncommitted file git
 ```
 git checkout abc.php
 ```
@@ -186,7 +186,7 @@ git checkout abc.php
 
 
 
-clone
+### Clone
 ```
 git clone https://github.com/rajacsp/drivercheck
 ```
@@ -194,7 +194,7 @@ git clone https://github.com/rajacsp/drivercheck
 
 
 
-ignore class files git
+### Ignore class files git
 ```
 /*.class in gitignore
 ```
@@ -202,7 +202,7 @@ ignore class files git
 
 
 
-Short log
+### Short log
 ```
 git shortlog -s 
 ```
@@ -211,7 +211,7 @@ will get all users' commit by count
 
 
 
-Total commits count in Head, Branch and All
+### Total commits count in Head, Branch and All
 ```
 git rev-list --count HEAD
 	- will get the total commits in head
@@ -224,12 +224,12 @@ git rev-list --count origin/K-develop
 
 
 
-Caching your GitHub password in Git:
+### Caching your GitHub password in Git:
 [Cache Password](https://help.github.com/articles/caching-your-github-password-in-git/)
 
 
 
-Take branch
+### Take branch
 ```
 git checkout -b branch_name
 ```
@@ -238,7 +238,7 @@ git checkout -b branch_name
 
 
 
-Clone the right branch
+### Clone the right branch
 ```
 git clone abc.git branch abc_branch
 ```
@@ -246,7 +246,7 @@ git clone abc.git branch abc_branch
 
 
 
-Merge branch with Master (puhsing branch's code into master): verified on Feb 10, 2017
+### Merge branch with Master (puhsing branch's code into master): verified on Feb 10, 2017
 ```
 go inside master folder:
 git checkout master
@@ -257,7 +257,7 @@ git push origin master
 
 
 
-if conflict occurs, fix them using method below:
+### If conflict occurs, fix them using method below:
 ```
  <<<<<<< HEAD - old code start
  =======      - old code end 
@@ -269,6 +269,7 @@ if conflict occurs, fix them using method below:
 
 
 
+### How to merge a new branch with master?
 ```
 git checkout master
 git pull origin master
@@ -286,7 +287,7 @@ git merge origin/K-develop
 git push
 ```
 
-Git Tags
+### Git Tags
 ```
 git tag v1.0
 
@@ -316,7 +317,8 @@ git fetch --all
 [What is git tag, How to create tags & How to checkout git remote tag(s)](https://stackoverflow.com/questions/35979642/what-is-git-tag-how-to-create-tags-how-to-checkout-git-remote-tags)
 [How To Delete Local and Remote Tags on Git](https://devconnected.com/how-to-delete-local-and-remote-tags-on-git/)
 
-How to delete a branch locally and remotely
+
+### How to delete a branch locally and remotely
 ```
 // delete branch locally
 git branch -d localBranchName
@@ -327,7 +329,7 @@ git push origin --delete remoteBranchName
 [How to delete a branch](https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/)
 
 
-Find Git Version in cmd
+### Find Git Version in cmd
 ```
 git --version
 git version 2.16.2.windows.1
@@ -337,13 +339,12 @@ if you get "command not found", it simply means that you haven't installed
 
 
 
-Pull Request:
+### Pull Request:
 [pull-request](https://help.github.com/articles/about-pull-requests/
 
 
+### Git Cherry pick
 ```
-Git Cherry pick
-
 git cherry-pick <commit-id>
 ```
 * [Cherry pick](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/git-cherry-pick.html)
@@ -354,7 +355,7 @@ git cherry-pick <commit-id>
 
 
 
-Rewrite old history in GIT
+### Rewrite old history in GIT
 ```
 java -jar c:/bfg/bfg-1.13.0.jar --delete-file *.mp3 pythonsamples.git
 java -jar c:/bfg/bfg-1.13.0.jar --strip-blobs-bigger-than 30M pythonsamples.git
@@ -366,7 +367,7 @@ git reflog expire --expire=now --all && git gc --prune=now --aggressive
 
 
 
-Rename previous commit
+### Rename previous commit
 ```
 git commit --amend -m "TACT-436: Script alignment made"
 ```
@@ -374,7 +375,7 @@ git commit --amend -m "TACT-436: Script alignment made"
 
 
 
-change commit message after git push
+### Change commit message after git push
 ```
 git commit --amend -m "Message"
 git push --force-with-lease
@@ -392,7 +393,7 @@ git rebase -i eb5661a8e4de761d2af79c5ecbdbc875c34481fa
 
 
 
-Stash existing changes
+### Stash existing changes
 ```
 git stash     (will stash your existing changes)
 git pull      (pull all of your new changes from central repository)
@@ -404,7 +405,7 @@ git stash apply (bring back your old changes on top of new code)
 
 
 
-View stash files
+### View stash files
 ```
 git stash show
 ```
@@ -413,13 +414,13 @@ git stash show
 * [Git credentials](https://stackoverflow.com/questions/11693074/git-credential-cache-is-not-a-git-command)
 
 
-List stash
+### List stash
 ```
 git stash list
 ```
 
 
-Save/Apply Stash by Name
+### Save/Apply Stash by Name
 ```
 git stash save <stash_name>
 git status apply stash^{/stash_name}
@@ -430,7 +431,7 @@ git stash apply stash^{/abc}
 [more](https://stackoverflow.com/questions/11269256/how-to-name-and-retrieve-a-stash-by-name-in-git)
 
 
-Delete a branch
+### Delete a branch
 ```
 git push -d <remote_name> <branch_name>
 git branch -d <branch_name>
@@ -468,7 +469,7 @@ git status -uno
 
 
 
-get all commits
+### Get all commits
 ```
 git rev-list --all --pretty=oneline
 ```
@@ -480,7 +481,7 @@ https://stackoverflow.com/questions/1314950/git-get-all-commits-and-blobs-they-c
 
 
 
-how to cherry pick
+### How to cherry pick
 ```
 git checkout p (target branch)
 git cherry-pick <commit_id>
@@ -494,7 +495,7 @@ https://stackoverflow.com/questions/436362/how-to-diff-a-commit-with-its-parent/
 
 
 
-How to find the parent branch?
+### How to find the parent branch?
 ```
 git parent
 ```
@@ -506,7 +507,7 @@ https://stackoverflow.com/questions/3161204/find-the-parent-branch-of-a-git-bran
 
 
 
-When did I create a branch?
+### When did I create a branch?
 ```
 git reflog --date=local
 git reflog --date=local feat-feature-endpoint-p
@@ -519,7 +520,7 @@ https://stackoverflow.com/questions/2255416/how-to-determine-when-a-git-branch-w
 
 
 
-Create a branch from another branch
+### Create a branch from another branch
 ```
 git checkout -b myfeature dev
 ```
@@ -530,7 +531,7 @@ https://stackoverflow.com/questions/4470523/create-a-branch-in-git-from-another-
 
 
 
-How to rename a branch name?
+### How to rename a branch name?
 https://stackoverflow.com/questions/6591213/how-do-i-rename-a-local-git-branch
 
 
@@ -538,7 +539,7 @@ https://stackoverflow.com/questions/6591213/how-do-i-rename-a-local-git-branch
 
 
 
-Git diff and apply
+### Git diff and apply
 ```
 git diff new-feature..new-feature2 | git apply -
 ```
@@ -549,7 +550,7 @@ git diff new-feature..new-feature2 | git apply -
 
 
 
-Find the parent branch: (buggy as well)
+### Find the parent branch: (buggy as well)
 ```
 git for-each-ref --format='%(refname:short)' refs/heads/* | while read b; do if r=$(git config --get branch.$b.remote); then m=$(git config --get branch.$b.merge); echo "$b -> $r/${m##*/}"; fi; done
 ```
@@ -560,7 +561,7 @@ https://blog.liplex.de/git-show-parent-branch/
 
 
 
-Git Rebase
+### Git Rebase
 https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase
 
 
@@ -596,7 +597,7 @@ https://stackoverflow.com/questions/2472254/when-should-i-use-git-pull-rebase
 
 
 
-merge vs pull
+### Merge vs pull
 ```
 git pull origin master
 is same as
@@ -611,7 +612,7 @@ https://stackoverflow.com/questions/21756614/difference-between-git-merge-origin
 
 
 
-Merge another branch changes into mine
+### Merge another branch changes into mine
 ```
 https://help.github.com/en/articles/merging-an-upstream-repository-into-your-fork
 ```
@@ -622,7 +623,7 @@ https://help.github.com/en/articles/merging-an-upstream-repository-into-your-for
 
 
 
-Show which files have been changed from another branch
+### Show which files have been changed from another branch
 ```
 git diff --name-status another_branch
 git diff --name-status feat-product-apply-permission-K20-1382-latest
@@ -635,7 +636,7 @@ https://stackoverflow.com/questions/822811/showing-which-files-have-changed-betw
 
 
 
-delete a branch
+### Delete a branch
 ```
 git branch -D branch_name
 ```
@@ -647,7 +648,7 @@ https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally
 
 
 
-Git stash
+### Git stash
 ```
 git stash list 
 ```
@@ -661,7 +662,7 @@ https://git-scm.com/docs/git-stash
 
 
 
-Show git username
+### Show git username
 ```
 git config user.name
 git config --list
@@ -674,21 +675,21 @@ https://alvinalexander.com/git/git-show-change-username-email-address
 
 
 
-View file in another branch
+### View file in another branch
 https://stackoverflow.com/questions/7856416/view-a-file-in-a-different-git-branch-without-changing-branches
 
 
 
-Undo pushed commits
+### Undo pushed commits
 https://stackoverflow.com/questions/22682870/git-undo-pushed-commits
 
 
 
-How to revoke last pushed commit?
+### How to revoke last pushed commit?
 (ref needed)
 
 
-Get the old check point
+### Get the old check point
 ```
 git checkout 85d29a6c0853f85303f87091efd8b3ac9ca69766
 ```
@@ -712,7 +713,7 @@ git push origin HEAD:master -f
 
 
 
-how to merge my branch to master in git?
+### How to merge my branch to master in git?
 ```
 git checkout master
 git pull https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git BRANCH_NAME
@@ -736,7 +737,7 @@ git push --set-upstream origin feat-raja-one
 
 
 
-merge branch to qa
+### Merge branch to qa
 ```
 git pull
 git checkout qa
@@ -752,7 +753,7 @@ https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/me
 
 
 
-how to mirror github repo?
+### How to mirror github repo?
 ```
 git clone --bare https://github.com/tactLabs/tactKMNETL.git
 cd tactKMNETL.git
@@ -770,7 +771,7 @@ https://help.github.com/en/github/creating-cloning-and-archiving-repositories/du
 
 
 
-How to change the committed message?
+### How to change the committed message?
 ```
 git amend
 git commit --amend -m "Message"
@@ -779,14 +780,14 @@ https://www.atlassian.com/git/tutorials/rewriting-history
 
 
 
-How to change the remote url?
+### How to change the remote url?
 ```
 git remote set-url origin git@github.com:username/reponame.git
 ```
 
 
 
-How to check your current remote url?
+### How to check your current remote url?
 ```
 git remote -v
 
