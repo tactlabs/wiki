@@ -28,7 +28,6 @@ Verify
 docker --version
 ```
 
-
 ### Ref :
 
   * [How to install Docker in Ubuntu](https://snapcraft.io/install/docker/ubuntu)
