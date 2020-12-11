@@ -1,6 +1,6 @@
 # Tact Rules
 
-**Note:** tbw
+**Note:** Yes, we have simple 3 line rules
 
 
 
