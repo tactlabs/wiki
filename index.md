@@ -11,7 +11,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Docker Compose Commands](docker-compose-commands.md)
   * [Docker Postgres Alpine](docker-postgres-alpine-commands.md)
   * [MySQL Docker](mysql-docker.md)
-  * [Kubenetes Coammnds](kubernetes-commands.md)
+  * [Kubenetes Commnads](kubernetes-commands.md)
 
 ## TACT General Tools
   * [Nginx Installation](nginx-installation-ubuntu.md)
