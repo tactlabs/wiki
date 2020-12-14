@@ -5,7 +5,7 @@
 
 
 
-```
+
 https://www.notion.so/
 
 https://prakhar.me/
@@ -48,6 +48,9 @@ https://www.youracclaim.com/skills/scikit-learn
 https://www.youracclaim.com/
 
 https://devonzuegel.com/page/about-me
-```
+
+https://falvis.netlify.app/
+
+https://varshathgupta.github.io/portfolio/
 
 
