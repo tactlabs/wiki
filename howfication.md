@@ -3,7 +3,7 @@
 **Note:** Simple answer(s) for most of the TACT's questions
 
 
-How to install SAM Cli in Mac?
+**How to install SAM Cli in Mac?**
 ```
 brew tap aws/tap
 brew install aws-sam-cli
@@ -21,7 +21,7 @@ You should see like this:
 
 
 
-How to upgrade AWS SAM Cli?
+**How to upgrade AWS SAM Cli?**
 ```
 brew upgrade aws-sam-cli
 	
@@ -32,14 +32,14 @@ Warning: aws/tap/aws-sam-cli 0.48.0 already installed
 
 
 
-How to give an user to docker group access?
+**How to give an user to docker group access?**
 ```
 sudo usermod -a -G docker ec2-user
 ```
 
 
 
-How to find ubuntu version?
+**How to find ubuntu version?**
 ```
 lsb_release -a
 cat /etc/lsb-release
@@ -48,7 +48,7 @@ cat /etc/issue
 
 
 
-How to start xampp in Mac:
+**How to start xampp in Mac?**
 ```
 cd /Applications/XAMPP/
 
@@ -63,35 +63,35 @@ https://snipboard.io/taCmuV.jpg
 
 
 
-How to connect remote DB in Postgres?
+**How to connect remote DB in Postgres?**
 ```
 psql -h rdspg2.ccforlwma7t3.ca-central-1.rds.amazonaws.com -U postgres
 ```
 
 
 
-How to delete a cluster in AWS ECS?
+**How to delete a cluster in AWS ECS?**
 ```
 aws ecs delete-cluster --cluster flask-ecs
 ```
 
 
 
-How to open a website from terminal?
+**How to open a website from terminal?**
 ```
 open -a "Google Chrome"  http://127.0.0.1:5000/
 ```
 
 
 
-How to do a simple curl?
+**How to do a simple curl?**
 ```
 curl http://127.0.0.1:5000/
 ```
 
 
 
-How to install opencv4?
+**How to install opencv4?**
 ```
 TBW 
 ```
@@ -99,7 +99,7 @@ TBW
 
 
 
-How to add CircleCI status badges in Readme file?
+**How to add CircleCI status badges in Readme file?**
 ```
     
 ```
@@ -109,7 +109,7 @@ How to add CircleCI status badges in Readme file?
 
 
 
-How to add CircleCI status badges in Readme file?
+**How to add CircleCI status badges in Readme file?**
 ```
 git pull
 git checkout qa-current
@@ -120,7 +120,7 @@ git push origin qa-current
 
 
 
-How to kill a port in Mac?
+**How to kill a port in Mac?**
 ```
 sudo lsof -i tcp:3000 
 ```
@@ -128,7 +128,7 @@ sudo lsof -i tcp:3000
 
 
 
-How to rename a git branch?
+**How to rename a git branch?**
 ```
 git branch -m new-name        
 ```
@@ -136,7 +136,7 @@ git branch -m new-name
 
 
 
-How to find my current environment path?
+**How to find my current environment path?**
 ```
 pip -V
 pip 19.0.3 from /Users/yzabc/anaconda3/envs/py36/lib/python3.6/site-packages/pip (python 3.6)   
@@ -156,7 +156,7 @@ brew install poppler on Mac
 
 
 
-How to revert a single file to its previous commit
+**How to revert a single file to its previous commit?**
 ```
 TBW 
 ```
@@ -164,7 +164,7 @@ TBW
 
 
 
-How to upload a custom emoji on Slack
+**How to upload a custom emoji on Slack?**
 ```
 TBW
 ```
@@ -173,7 +173,7 @@ TBW
 
 
 
-How to open Jupyter lab?
+**How to open Jupyter lab?**
 ```
 jupyter lab
 
@@ -184,22 +184,21 @@ http://localhost:8888/lab
 
 
 
-```
-how to mirror github repo / how to git-mirror?
-    
-    git clone --bare https://github.com/tactLabs/tactKMNETL.git
-    cd tactKMNETL.git
-    git push --mirror https://github.com/rajasgs/tactKMNETLDec2019.git
-    cd ..
-    rm -rf tactKMNETL.git    
+**How to mirror github repo / how to git-mirror?**
+``` 
+git clone --bare https://github.com/tactLabs/tactKMNETL.git
+cd tactKMNETL.git
+git push --mirror https://github.com/rajasgs/tactKMNETLDec2019.git
+cd ..
+rm -rf tactKMNETL.git    
 ```
 * [How to Mirror Sample repo](https://github.com/tactLabs/tactKMNETL)
 * [Duplicating a Repo](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository)
 
 
 
+**How to fix "Failed to fetch"?**
 ```
-how to fix "Failed to fetch"?
     find the list in /etc/apt/sources.list.d
     and then remove it
     then apt-get update
@@ -207,10 +206,9 @@ how to fix "Failed to fetch"?
 
 
 
-
+**SSH key github**
 ```
-ssh key github
-    generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+TBW
 ```
 * [Authenticating to GitHub](https://help.github.com/en/enterprise/2.17/user/authenticating-to-github/)
 * [Adding a new ssh key to your Github account](https://help.github.com/en/enterprise/2.17/user/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account)
@@ -218,20 +216,20 @@ ssh key github
 
 
 
-```
 virtualenv
-    mkdir /envs
-    virtualenv --python=/usr/bin/python3.6 /envs/py36
-    cd /envs
-    source py36/bin/activate   
-    python --version
+```
+mkdir /envs
+virtualenv --python=/usr/bin/python3.6 /envs/py36
+cd /envs
+source py36/bin/activate   
+python --version
 ```
 * [Use different python version with virtualenv](https://stackoverflow.com/questions/1534210/use-different-python-version-with-virtualenv)
 
 
 
+**How to upload folder for beanstalk?**
 ```
-How to upload folder for beanstalk?
 cd /Users/yzabc/projects/eb-python-flask
 zip ../eb-python-flask -r * .[^.]*
 ```
@@ -240,9 +238,8 @@ zip ../eb-python-flask -r * .[^.]*
 
 
 
-
+**Image2Table / im2table / i2t / im2t / img2table / image 2 table**
 ```
-Image2Table / im2table / i2t / im2t / img2table / image 2 table
     https://snipboard.io/K9TYXf.jpg
 
     more:
@@ -253,8 +250,8 @@ Image2Table / im2table / i2t / im2t / img2table / image 2 table
 
 
 
+**How to open jupyter notebook?**
 ```
-how to open jupyter notebook
 jupyter notebook
 or
 jupyter lab
@@ -274,7 +271,7 @@ conda deactivate
 
 
 
-How to switch between two tabs in Ubunut/Mac?
+**How to switch between two tabs in Ubunut/Mac?**
 ```
 Command + Left arrow/Right arrow
 ```
@@ -289,7 +286,7 @@ https://unix.stackexchange.com/questions/67861/switch-between-tabs-in-gnome-term
 
 
 
-How to uninstall docker in ubuntu?
+**How to uninstall docker in ubuntu?**
 ```
 
 ```
@@ -298,14 +295,14 @@ https://askubuntu.com/questions/935569/how-to-completely-uninstall-docker
 
 
 
-How to add a company in Crunchbase
+**How to add a company in Crunchbase?**
 https://www.crunchbase.com/add-new
 
 
 
 
 
-Rename files in a folder?
+**Rename files in a folder?**
 ```
 pythonsamples/files_work/rename_files.py
 ```
@@ -314,7 +311,7 @@ pythonsamples/files_work/rename_files.py
 
 
 
-How to change ps1:
+**How to change ps1?**
 ```
 
 ```
@@ -324,7 +321,7 @@ https://www.cyberciti.biz/tips/howto-linux-unix-bash-shell-setup-prompt.html
 
 
 
-How to install Hugo
+**How to install Hugo?**
 ```
 
 ```
@@ -334,7 +331,7 @@ https://www.thelinuxfaq.com/ubuntu/ubuntu-17-04-zesty-zapus/hugo?type=uninstall
 
 
 
-How to delete Garageband from mac?
+**How to delete Garageband from mac?**
 ```
 	Macintosh HD/Applications/GarageBand.app (1.16GB)
 	Macintosh HD/Library/Application Support/GarageBand (995MB)
@@ -346,7 +343,7 @@ https://www.techjunkie.com/delete-garageband/
 
 
 
-How to enable/disable beautify in vscod
+**How to enable/disable beautify in vscod?**
 
 https://stackoverflow.com/questions/38057725/turn-off-auto-formatting-for-json-files-in-visual-studio-code
 
@@ -354,7 +351,7 @@ https://stackoverflow.com/questions/38057725/turn-off-auto-formatting-for-json-f
 
 
 
-how to install jupyterlab
+**How to install jupyterlab?**
 ```
 TBW
 ```
@@ -363,7 +360,7 @@ https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html
 
 
 
-How to run gush file for another repo?
+**How to run gush file for another repo?**
 ```
 /Users/rajacsp/d/gitmagic/gu.sh
 just this command above
@@ -373,7 +370,7 @@ just this command above
 
 
 
-how to change bash as your default shell?
+**How to change bash as your default shell?**
 ```
 
 ```
@@ -383,7 +380,7 @@ https://support.apple.com/en-ca/HT208050
 
 
 
-How to run jupyter
+**How to run jupyter?**
 ```
 jupyter notebook
 ```
@@ -392,7 +389,7 @@ jupyter notebook
 
 
 
-How to install virtualvenv
+**How to install virtualvenv?**
 ```
 https://gist.github.com/frfahim/73c0fad6350332cef7a653bcd762f08d
 ```
@@ -401,7 +398,7 @@ https://gist.github.com/frfahim/73c0fad6350332cef7a653bcd762f08d
 
 
 
-How to run luigi?
+**How to run luigi?**
 ```
   luigid
 	http://localhost:8082/
@@ -411,7 +408,7 @@ How to run luigi?
 
 
 
-how to convert ppk to pem?
+**How to convert ppk to pem?**
 ```
 	brew install putty
 	puttygen key.ppk -O private-openssh -o key.pem
@@ -422,7 +419,7 @@ how to convert ppk to pem?
 
 
 
-ssh options
+**ssh options**
 ```
 ssh -i
 https://www.ssh.com/ssh/command
@@ -432,7 +429,7 @@ https://www.ssh.com/ssh/command
 
 
 
-scp
+**scp**
 ```
 
 ```
