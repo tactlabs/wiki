@@ -93,7 +93,7 @@ curl http://127.0.0.1:5000/
 
 How to install opencv4?
 ```
-	
+TBW 
 ```
   * [OpenCV4 on Mac](https://www.pyimagesearch.com/2018/08/17/install-opencv-4-on-macos/)
 
@@ -116,7 +116,6 @@ git checkout qa-current
 git pull
 git pull https://github.com/rajasgs/merge-test feat-raja-one
 git push origin qa-current
-
 ```
 
 
@@ -125,7 +124,7 @@ How to kill a port in Mac?
 ```
 sudo lsof -i tcp:3000 
 ```
-  * [](https://stackoverflow.com/questions/3855127/find-and-kill-process-locking-port-3000-on-mac)
+  * [Find and Kill proces](https://stackoverflow.com/questions/3855127/find-and-kill-process-locking-port-3000-on-mac)
 
 
 
@@ -133,7 +132,7 @@ How to rename a git branch?
 ```
 git branch -m new-name        
 ```
-  * [](https://multiplestates.wordpress.com/2015/02/05/rename-a-local-and-remote-branch-in-git/)
+  * [Rename a Local and Remote Branch](https://multiplestates.wordpress.com/2015/02/05/rename-a-local-and-remote-branch-in-git/)
 
 
 
@@ -142,7 +141,7 @@ How to find my current environment path?
 pip -V
 pip 19.0.3 from /Users/yzabc/anaconda3/envs/py36/lib/python3.6/site-packages/pip (python 3.6)   
 ```
-  * [](https://stackoverflow.com/questions/1871549/determine-if-python-is-running-inside-virtualenv)
+  * [Determine if you Python is running inside Virtualenv](https://stackoverflow.com/questions/1871549/determine-if-python-is-running-inside-virtualenv)
 
 
 
@@ -153,24 +152,23 @@ pip install pdftotext
 you may need to install 
 brew install poppler on Mac
 ```
-  * [Ref](https://stackoverflow.com/questions/45912641/unable-to-install-pdftotext-on-python-3-6-missing-poppler)
+  * [Unable to install pdftotext on Python 3.6](https://stackoverflow.com/questions/45912641/unable-to-install-pdftotext-on-python-3-6-missing-poppler)
 
 
 
 How to revert a single file to its previous commit
 ```
-    
-
+TBW 
 ```
-  * [Ref](https://stackoverflow.com/questions/2733873/reverting-a-single-file-to-a-previous-version-in-git/2734035)
+  * [Reverting a single file to a previous version](https://stackoverflow.com/questions/2733873/reverting-a-single-file-to-a-previous-version-in-git/2734035)
 
 
 
 How to upload a custom emoji on Slack
 ```
-
+TBW
 ```
-* [Ref](https://tryshift.com/blog/apps-hub/how-to-add-custom-emoji-to-slack/)
+* [How to add custom emoji to Slack](https://tryshift.com/blog/apps-hub/how-to-add-custom-emoji-to-slack/)
 
 
 
@@ -180,10 +178,9 @@ How to open Jupyter lab?
 jupyter lab
 
 http://localhost:8888/lab
-
 ```
-* [](https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html)
-* []()
+* [How to start Jupyer](https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html)
+
 
 
 
@@ -194,18 +191,10 @@ how to mirror github repo / how to git-mirror?
     cd tactKMNETL.git
     git push --mirror https://github.com/rajasgs/tactKMNETLDec2019.git
     cd ..
-    rm -rf tactKMNETL.git
-    
-        https://github.com/tactLabs/tactKMNETL
-    
-        https://help.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository
+    rm -rf tactKMNETL.git    
 ```
-* []()
-* []()
-* []()
-* []()
-
-
+* [How to Mirror Sample repo](https://github.com/tactLabs/tactKMNETL)
+* [Duplicating a Repo](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository)
 
 
 
@@ -221,16 +210,11 @@ how to fix "Failed to fetch"?
 
 ```
 ssh key github
-    https://help.github.com/en/enterprise/2.17/user/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
-    https://help.github.com/en/enterprise/2.17/user/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account
-    https://www.cyberciti.biz/faq/ubuntu-18-04-setup-ssh-public-key-authentication/
+    generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 ```
-* []()
-* []()
-* []()
-* []()
-* []()
-
+* [Authenticating to GitHub](https://help.github.com/en/enterprise/2.17/user/authenticating-to-github/)
+* [Adding a new ssh key to your Github account](https://help.github.com/en/enterprise/2.17/user/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account)
+* [Ubuntu 18 - Setup ssh pulic key](https://www.cyberciti.biz/faq/ubuntu-18-04-setup-ssh-public-key-authentication/)
 
 
 
@@ -241,9 +225,8 @@ virtualenv
     cd /envs
     source py36/bin/activate   
     python --version
-    https://stackoverflow.com/questions/1534210/use-different-python-version-with-virtualenv
 ```
-* []()
+* [Use different python version with virtualenv](https://stackoverflow.com/questions/1534210/use-different-python-version-with-virtualenv)
 
 
 
@@ -252,7 +235,7 @@ How to upload folder for beanstalk?
 cd /Users/yzabc/projects/eb-python-flask
 zip ../eb-python-flask -r * .[^.]*
 ```
-* []()
+
 
 
 
@@ -265,8 +248,7 @@ Image2Table / im2table / i2t / im2t / img2table / image 2 table
     more:
     image2table.txt
 ```
-* []()
-* []()
+
 
 
 
@@ -282,10 +264,179 @@ conda activate py36az_jupyter
 conda deactivate
 
 /Users/yzabc/projects/jupyterville
- 
 ```
-* [](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)
-* [](https://github.com/rajasgs/jupyterville)
-* [](https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.htm)
-* []()
-* []()
+* [Jupyter Notebook - Beginner Guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)
+* [Jupyterwork samples](https://github.com/rajasgs/jupyterville)
+* [Jupyter Notebook - Getting Started](https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.htm)
+
+
+
+
+
+
+How to switch between two tabs in Ubunut/Mac?
+```
+Command + Left arrow/Right arrow
+```
+https://unix.stackexchange.com/questions/67861/switch-between-tabs-in-gnome-terminal-with-keyboard
+
+
+
+
+
+
+
+
+
+
+How to uninstall docker in ubuntu?
+```
+
+```
+https://askubuntu.com/questions/935569/how-to-completely-uninstall-docker
+
+
+
+
+How to add a company in Crunchbase
+https://www.crunchbase.com/add-new
+
+
+
+
+
+Rename files in a folder?
+```
+pythonsamples/files_work/rename_files.py
+```
+
+
+
+
+
+How to change ps1:
+```
+
+```
+https://www.cyberciti.biz/tips/howto-linux-unix-bash-shell-setup-prompt.html
+
+
+
+
+
+How to install Hugo
+```
+
+```
+https://www.thelinuxfaq.com/ubuntu/ubuntu-17-04-zesty-zapus/hugo?type=uninstall
+
+
+
+
+
+How to delete Garageband from mac?
+```
+	Macintosh HD/Applications/GarageBand.app (1.16GB)
+	Macintosh HD/Library/Application Support/GarageBand (995MB)
+	Macintosh HD/Library/Application Support/Logic (880MB)
+	Macintosh HD/Library/Audio/Apple Loops (up to 10GB)*
+```
+https://www.techjunkie.com/delete-garageband/
+
+
+
+
+How to enable/disable beautify in vscod
+
+https://stackoverflow.com/questions/38057725/turn-off-auto-formatting-for-json-files-in-visual-studio-code
+
+
+
+
+
+how to install jupyterlab
+```
+TBW
+```
+https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html
+
+
+
+
+How to run gush file for another repo?
+```
+/Users/rajacsp/d/gitmagic/gu.sh
+just this command above
+```
+
+
+
+
+
+how to change bash as your default shell?
+```
+
+```
+https://support.apple.com/en-ca/HT208050
+
+
+
+
+
+How to run jupyter
+```
+jupyter notebook
+```
+
+
+
+
+
+How to install virtualvenv
+```
+https://gist.github.com/frfahim/73c0fad6350332cef7a653bcd762f08d
+```
+
+
+
+
+
+How to run luigi?
+```
+  luigid
+	http://localhost:8082/
+```
+
+
+
+
+
+how to convert ppk to pem?
+```
+	brew install putty
+	puttygen key.ppk -O private-openssh -o key.pem
+	http://www.codeblocq.com/2016/05/Convert-a-putty-ppk-key-to-a-pem-file-on-OSX/	
+```
+
+
+
+
+
+ssh options
+```
+ssh -i
+https://www.ssh.com/ssh/command
+```
+
+
+
+
+
+scp
+```
+
+```
+https://askubuntu.com/questions/312697/copy-files-from-remote-ubuntu-to-local-mac
+
+
+
