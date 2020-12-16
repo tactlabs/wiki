@@ -14,6 +14,8 @@ They help you organise your time and set priorities.
 They make you get going when you might not feel like it.
 ```
 
+<br/><br/>
+
 **What are the rules for setting a deadline?**
 
 Never ever say abstract deadlines.
@@ -35,6 +37,7 @@ Good examples:
 * 4th december 9:00AM CST
 ```
 
+<br/><br/>
 
 **A small tip:**
 ```
