@@ -1,6 +1,6 @@
 # Tact Deadline Rule
 
-**Note:** tbw
+**Note:** Without a concrete deadline, we can't make any progress~
 
 
 
