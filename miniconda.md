@@ -3,6 +3,17 @@
 **Note:** notes
 
 
+Install Miniconda in Ubuntu
+```
+cd /tmp
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+chmod +x Miniconda3-latest-Linux-x86_64.sh
+./Miniconda3-latest-Linux-x86_64.sh
+
+conda config --set auto_activate_base false
+```
+
+
 
 Install Miniconda in windows
 ```

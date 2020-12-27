@@ -1,0 +1,5 @@
+2020.12.17 04:40:13 INFO  Started: Metals version 0.9.7 in workspace '/Users/rajacsp/d/kaipulla_space/wiki' for client vscode.
+2020.12.17 04:40:21 INFO  time: initialize in 8.28s
+2020.12.17 04:40:23 WARN  Build server is not auto-connectable.
+2020.12.17 04:40:23 WARN  no build tool detected in workspace '/Users/rajacsp/d/kaipulla_space/wiki'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.17 04:46:56 INFO  shutting down Metals
