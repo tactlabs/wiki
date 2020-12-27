@@ -39,7 +39,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [AWS Commands](aws-commands.md)
   * [Tact S3 file upload and CloudFront](tact-s3-cloudfront.md)
   * [Conda Commands](conda-commands.md)
-  * [MiniConda Commands](miniconda.md)
+  * [Miniconda Commands](miniconda.md)
 
 ## Tact Rules / Core Values / Policies
   * [Tact OS and Git Rules](tact-os-and-git-rules.md)
