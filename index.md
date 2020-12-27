@@ -40,6 +40,8 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Tact S3 file upload and CloudFront](tact-s3-cloudfront.md)
   * [Conda Commands](conda-commands.md)
   * [Miniconda Commands](miniconda.md)
+  * [Linux Misc Commands](linux-misc-commands.md)
+  * [PM2 Commands](pm2-commands.md)
 
 ## Tact Rules / Core Values / Policies
   * [Tact OS and Git Rules](tact-os-and-git-rules.md)
