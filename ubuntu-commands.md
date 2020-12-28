@@ -76,7 +76,7 @@ ls to see the latest logs
 
 
 
-
+Basic Linux/Ubuntu Commands
 ```
 
 ```
@@ -84,7 +84,7 @@ ls to see the latest logs
 
 
 
-
+How to check disk space in Linux/Ubuntu
 ```
 
 ```

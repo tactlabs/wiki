@@ -97,6 +97,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Neo4j Basics](neo4j-basics.md)
   * [Postgres Commands](postgres-commands.md)
   * [AWS DB Pricing](aws-db-pricing.md)
+  * [Influx DB Commands](influxdb-commands.md)
 
 ## Public Collections
   * [Research papers](research-papers.md)
