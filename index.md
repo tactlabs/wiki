@@ -14,6 +14,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Kubenetes Commnads](kubernetes-commands.md)
 
 ## TACT General Tools
+  * [Ubuntu Installation & Issues](Ubuntu-Installation-and-Issues.md) 
   * [Nginx Installation](nginx-installation-ubuntu.md)
   * [Git Commands](git-commands.md)
   * [How to Instlal Virtualenv](how-to-install-virtualenv.md)
