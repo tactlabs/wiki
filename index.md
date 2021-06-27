@@ -42,6 +42,8 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Miniconda Commands](miniconda.md)
   * [Linux Misc Commands](linux-misc-commands.md)
   * [PM2 Commands](pm2-commands.md)
+  * [Min Browser](min-browser.md)
+  * [Elastic Search](elastic-search.md)
 
 
 ## AWS 
