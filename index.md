@@ -44,6 +44,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [PM2 Commands](pm2-commands.md)
   * [Min Browser](min-browser.md)
   * [Elastic Search](elastic-search.md)
+  * [Postgres client setup](postgres-client.md)
 
 
 ## AWS 
