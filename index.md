@@ -57,6 +57,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Tact Git Conventions](tact-git-conventions.md)
   * [Tact Deadline Rules](tact-deadline-rule.md)
   * [Equality](equality.md)
+  * [Intern Checklist](intern-checklist.md)
 
 ## TACT ML / DL
   * [ML Libraries](ml-libraries.md)
