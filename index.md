@@ -47,6 +47,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Postgres client setup](postgres-client.md)
   * [Install Guide for freshers](install-guide-fresher.md)
   * [Zoom Rules](zoom-rules.md)
+  * [Hadoop Setup](hadoop-setup.md)
 
 
 ## AWS 
