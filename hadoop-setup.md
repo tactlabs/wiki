@@ -98,3 +98,9 @@ See if there's a process on port 9000
 Then go to:
 
 http://localhost:9870/
+
+## Stopping Services
+
+```
+stop-all.sh
+```
