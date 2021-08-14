@@ -20,7 +20,7 @@ tar -zxvf hadoop-3.3.1.tar.gz
 sudo gedit ~/.zshrc
 
 Add the below code & make sure the path is right:
-
+```
 export JAVA_HOME=/usr/lib/jvm/java-1.11.0-openjdk-amd64
 export HADOOP_HOME=/home/vedha/softwares/apache/hadoop-3.3.1
 export HADOOP_INSTALL=$HADOOP_HOME
@@ -31,7 +31,7 @@ export YARN_HOME=$HADOOP_HOME
 export PATH=$PATH:$HADOOP_HOME/sbin:$HADOOP_HOME/bin
 export HADOOP_COMMON_LIB_NATIVE_DIR=$HADOOP_HOME/lib/native
 export HADOOP_OPTS="-Djava.library.path=$HADOOP_HOME/lib"
-
+```
 ```
 cd hadoop-3.3.1/etc/hadoop/ 
 ```
