@@ -48,6 +48,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Install Guide for freshers](install-guide-fresher.md)
   * [Zoom Rules](zoom-rules.md)
   * [Hadoop Setup](hadoop-setup.md)
+  * [PySpark Setup](pyspark-setup.md)
 
 
 ## AWS 
