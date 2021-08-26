@@ -50,6 +50,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Hadoop Setup](hadoop-setup.md)
   * [PySpark Setup](pyspark-setup.md)
   * [Applied ML](applied-ml.md)
+  * [Adding Course from Zoom](adding-zoom-course.md)
 
 
 ## AWS 
