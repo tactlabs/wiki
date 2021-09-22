@@ -52,6 +52,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Applied ML](applied-ml.md)
   * [Adding Course from Zoom](adding-zoom-course.md)
   * [Ubuntu Errors](ubuntu-errors.md)
+  * [Jina AI Challenge](jina-ai.md)
 
 
 ## AWS 
