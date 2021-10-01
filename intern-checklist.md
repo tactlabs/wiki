@@ -5,7 +5,7 @@
 - SSH
 - Docker
 - Ubuntu
-- Learning Analytics
+- Learning Analytics (https://chrome.google.com/webstore/detail/learning-analytics/jghnmnbocllgpppgnafiipnjcanfgcdm)
 - Hugo
 - Trello
 - Postman
