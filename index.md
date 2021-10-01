@@ -65,7 +65,6 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Tact Git Conventions](tact-git-conventions.md)
   * [Tact Deadline Rules](tact-deadline-rule.md)
   * [Equality](equality.md)
-  * [Intern Checklist](intern-checklist.md)
 
 ## TACT ML / DL
   * [ML Libraries](ml-libraries.md)
@@ -89,6 +88,10 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Hugo Commands](hugo-commands.md)
   * [ML Notes with Hugo](mlnotes-with-hugo.md)
   * [Machine Learning Projects](machine-learning-projects.md)
+
+## Tact Internship
+  * [Intern Opportunity](tact-internship.md)
+  * [Intern Checklist](intern-checklist.md)
 
 ## TACT PaaS / BaaS
   * [PaaS](paas.md)
