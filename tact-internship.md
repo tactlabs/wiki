@@ -12,7 +12,7 @@ TactLabs hire students as a part of social support (like Social Internship), car
 
 We care about REAL Interest rather than TRENDY interest. If you think ML is very trendy and you want to be part of it, TactLabs might not be for you.
 
-### How to get TactLabs Intern?
+### How to get TactLabs Intern Offer?
 * We don't need your resume. As resume is useless for us, we don't have time to parse that.
 * Just send your Github, Kaggle, Medium, Website links to info@tactii.com and saying "Intern Opportunity" as a subject.
 * If we find you are fit for TactLabs, we will do a first round of interview for 15-30 mins.
