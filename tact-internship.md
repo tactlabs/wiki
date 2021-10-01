@@ -1,6 +1,6 @@
 # Intern Opportunity at TactLabs
 
-**Note:** Start your career with us~
+Start your career with us~
 
 
 
