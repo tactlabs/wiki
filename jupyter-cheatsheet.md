@@ -2,6 +2,14 @@
 
 **Note:** 
 
+How install Jupyter lab?
+```
+conda activate <yourenv>
+pip install jupyterlab
+jupyter lab
+```
+
+
 
 
 Change input to Markdown
