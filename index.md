@@ -48,6 +48,12 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Install Guide for freshers](install-guide-fresher.md)
   * [Zoom Rules](zoom-rules.md)
   * [Hadoop Setup](hadoop-setup.md)
+  * [PySpark Setup](pyspark-setup.md)
+  * [Applied ML](applied-ml.md)
+  * [Adding Course from Zoom](adding-zoom-course.md)
+  * [Ubuntu Errors](ubuntu-errors.md)
+  * [Jina AI Challenge](jina-ai.md)
+  * [Youth Investors Club](yic.md)
 
 
 ## AWS 
@@ -60,7 +66,6 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Tact Git Conventions](tact-git-conventions.md)
   * [Tact Deadline Rules](tact-deadline-rule.md)
   * [Equality](equality.md)
-  * [Intern Checklist](intern-checklist.md)
 
 ## TACT ML / DL
   * [ML Libraries](ml-libraries.md)
@@ -84,6 +89,10 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Hugo Commands](hugo-commands.md)
   * [ML Notes with Hugo](mlnotes-with-hugo.md)
   * [Machine Learning Projects](machine-learning-projects.md)
+
+## Tact Internship
+  * [Intern Opportunity](tact-internship.md)
+  * [Intern Checklist](intern-checklist.md)
 
 ## TACT PaaS / BaaS
   * [PaaS](paas.md)
@@ -140,6 +149,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ## Public & Community Support
   * [Give Back To School](give-back-to-school.md)
   * [Finding India's Simone Giertz](finding-simone-giertz-in-india.md)
+  * [Hustlers' Club](hustlers-club.md)
 
 ## Contest Time
   * [Micro Hackathon - Internal](micro-hackthon.md)
