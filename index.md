@@ -59,6 +59,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ## AWS 
   * [AWS Commands](aws-commands.md)
   * [AWS ECS Commands](aws-ecs-commands.md)
+  * [AWS Components](aws-components.md)
 
 ## Tact Rules / Core Values / Policies
   * [Tact OS and Git Rules](tact-os-and-git-rules.md)
