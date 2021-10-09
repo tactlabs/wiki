@@ -1,6 +1,6 @@
 # Drum Effect
 
-When we do the social analytics on "Opportunity Index", we found a new thing: only two communities suffer in South India.
+When we do the social analytics on "Opportunity Index", we found a new thing: only two communities suffer the most in South India.
 
 First you obviously know SC/ST. Everyone is blaming this community and reservation is a number one thing which affecting Indian growth blah blah blah. SC/ST become a mocking term and even mentioned in public news papers when they search for bride/bridegroom (like "Caste no bar excluding SC/ST").
 
