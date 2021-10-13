@@ -54,6 +54,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Ubuntu Errors](ubuntu-errors.md)
   * [Jina AI Challenge](jina-ai.md)
   * [Youth Investors Club](yic.md)
+  * [Updating PyPi Package](pypi.md)
 
 
 ## AWS 
