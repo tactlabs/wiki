@@ -24,4 +24,4 @@ twine check dist/*
 twine upload --repository-url https://upload.pypi.org/legacy/ dist/*
 ```
 
-- Check if Changes have been updated on https://pypi.org/project/prettymetrics/
+- Check if Changes have been updated on [prettymetrics PyPi](https://pypi.org/project/prettymetrics/)
