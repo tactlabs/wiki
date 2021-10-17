@@ -708,11 +708,11 @@ Pros:
 - A decision tree is one of the quickest ways to identify relationships between variables and the most significant variable. 
 
 Cons:
-1) Overfitting is one of the practical difficulties for decision tree models. It happens when the learning algorithm continues developing hypotheses that reduce the training set error but at the cost of increasing test set error. But this issue can be resolved by pruning and setting constraints on the model parameters. 
-2) Decision trees cannot be used well with continuous numerical variables. 
-3) A small change in the data tends to cause a big difference in the tree structure, which causes instability. 
-4) Calculations involved can also become complex compared to other algorithms, and it takes a longer time to train the model. 
-5) It is also relatively expensive as the amount of time taken and the complexity levels are greater.
+- Overfitting is one of the practical difficulties for decision tree models. It happens when the learning algorithm continues developing hypotheses that reduce the training set error but at the cost of increasing test set error. But this issue can be resolved by pruning and setting constraints on the model parameters. 
+- Decision trees cannot be used well with continuous numerical variables. 
+- A small change in the data tends to cause a big difference in the tree structure, which causes instability. 
+- Calculations involved can also become complex compared to other algorithms, and it takes a longer time to train the model. 
+- It is also relatively expensive as the amount of time taken and the complexity levels are greater.
 
 
 ### 11) LinearRegression 
