@@ -55,6 +55,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Jina AI Challenge](jina-ai.md)
   * [Youth Investors Club](yic.md)
   * [Updating PyPi Package](pypi.md)
+  * [Pretty Metrics](prettymetrics.md)
 
 
 ## AWS 
