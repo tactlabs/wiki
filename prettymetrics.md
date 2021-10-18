@@ -2,8 +2,7 @@
 
 ## Classifier:
 ### 1) SGDC Classifier
-Reference links:
-- https://medium.com/@divakar_239/stochastic-vs-batch-gradient-descent-8820568eada1
+
  
 Pros:
 - It is easier to fit into memory due to a single training sample being processed by the network.
@@ -18,9 +17,10 @@ Cons:
 - Frequent updates are computationally expensive due to using all resources for processing one training sample at a time.
 - It loses the advantage of vectorized operations as it deals with only a single example at a time
 
+Reference links:
+  * [1](https://medium.com/@divakar_239/stochastic-vs-batch-gradient-descent-8820568eada1)
+
 ### 2) Logistic Regression
-Reference Links:
-- https://www.geeksforgeeks.org/advantages-and-disadvantages-of-logistic-regression/
 
 Pros:
 - Logistic regression is easier to implement, interpret, and very efficient to train.
@@ -36,9 +36,10 @@ Cons:
 - It can only be used to predict discrete functions. Hence, the dependent variable of Logistic Regression is bound to the discrete number set.
 - Non-linear problems can't be solved with logistic regression because it has a linear decision surface. Linearly separable data is rarely found in real-world scenarios.
 
+Reference links:
+  * [1](https://www.geeksforgeeks.org/advantages-and-disadvantages-of-logistic-regression/)
+
 ### 3) LabelPropagation 
-Reference Links:
-- https://towardsdatascience.com/how-to-get-away-with-few-labels-label-propagation-f891782ada5c
 
 Pros:
 - Easy to understand and implement
@@ -53,10 +54,10 @@ Cons:
 - Linear time complexity.
 - Uncertainty and randomness in the label propagation process, which may affect the stability and accuracy of community detection.
 
+Reference links:
+  * [1](https://towardsdatascience.com/how-to-get-away-with-few-labels-label-propagation-f891782ada5c)
+
 ### 4) Random Forest Classifier
-Reference Links:
-- https://towardsai.net/p/machine-learning/why-choose-random-forest-and-not-decision-trees
--  https://medium.datadriveninvestor.com/random-forest-pros-and-cons-c1c42fb64f04
 
 Pros:
 - Robust to outliers.
@@ -67,6 +68,10 @@ Pros:
 - Random Forests can be used for both classification and regression tasks
 - Random Forests can handle linear and non-linear relationships well
 
+Reference links:
+  * [1](https://towardsai.net/p/machine-learning/why-choose-random-forest-and-not-decision-trees)
+  * [2](https://medium.datadriveninvestor.com/random-forest-pros-and-cons-c1c42fb64f04)
+
 Cons:
 - Slow Training
 - Random forests are found to be biased while dealing with categorical variables.
@@ -76,8 +81,6 @@ Cons:
 - Random Forests are not easily interpretable. They provide feature importance but it does not provide complete visibility into the coefficients as linear regression.
 
 ### 5) GradientBoostingClassifier 
-Reference Links:
-- https://blog.paperspace.com/gradient-boosting-for-classification/
 
 Pros:
 - Build trees one at a time, where each new tree helps to correct errors made by previously trained tree. 
@@ -93,9 +96,10 @@ Cons:
 - Less interpretative in nature, although this is easily addressed with various tools.
 - The high flexibility results in many parameters that interact and influence heavily the behavior of the approach (number of iterations, tree depth, regularization parameters, etc.). This requires a large grid search during tuning.
 
+Reference links:
+  * [1](https://blog.paperspace.com/gradient-boosting-for-classification/)
+
 ### 6) AdaBoostClassifier             
-Reference Links:
-- https://www.jigsawacademy.com/blogs/data-science/adaboost/
 
 Pros:
 - AdaBoost has many advantages due to its ease of use and less parameter tweaking when compared with the SVM algorithms.
@@ -107,7 +111,11 @@ Cons:
 - It is also very sensitive to outliers and noise in data requiring the elimination of these factors before using the data
 - It is also much slower than the XGBoost algorithm.
 
+Reference links:
+  * [1](https://www.jigsawacademy.com/blogs/data-science/adaboost/)
+
 ### 7) BaggingClassifier
+
 Pros:
 - Helps in the reduction of variance, hence eliminating the overfitting of models in the procedure.
 - Net error is evaluated in each learning steps. It works good with interactions.
@@ -119,9 +127,10 @@ Cons:
 - Bagging is not helpful in case of bias or underfitting in the data.
 - Bagging ignores the value with the highest and the lowest result which may have a wide difference and provides an average result.
 
+Reference links:
+  * [1]()
+
 ### 8) BernoulliNB 
-Reference Links:
-- https://iq.opengenus.org/bernoulli-naive-bayes/
 
 Pros:
 - They are extremely fast as compared to other classification models
@@ -135,11 +144,10 @@ Cons:
 - If at times the features are dependent on each other then Naive Bayes assumptions can affect the prediction and accuracy of the model and is sensitive to the given input data.
 - If there is a categorial variable which is not present in training dataset, it results in zero frequency problem. This problem can be easily solved by Laplace estimation.
 
-### 9) Linear Discriminant Analysis 
+Reference links:
+  * [1](https://iq.opengenus.org/bernoulli-naive-bayes/)
 
-Reference Links:
-- https://medium.com/analytics-vidhya/pros-and-cons-of-popular-supervised-learning-algorithms-d5b3b75d9218
-- https://www.knowledgehut.com/blog/data-science/linear-discriminant-analysis-for-machine-learning
+### 9) Linear Discriminant Analysis
 
 Pros:
 - It is simple, fast and portable algorithm. It still beats some algorithms (logistic regression) when its assumptions are met.
@@ -151,11 +159,12 @@ Cons:
 - Sometimes not good for few categories variables.
 - Gaussian assumptions training time complex matix ops.
 
+Reference links:
+  * [1](https://medium.com/analytics-vidhya/pros-and-cons-of-popular-supervised-learning-algorithms-d5b3b75d9218)
+  * [2](https://www.knowledgehut.com/blog/data-science/linear-discriminant-analysis-for-machine-learning)
+
 
 ### 10) GaussianNB
-Reference Links:
-- https://www.upgrad.com/blog/naive-bayes-classifier/
-- https://www.kaggle.com/c/springleaf-marketing-response/discussion/16639
 
 Pros:
 - This algorithm works very fast and can easily predict the class of a test dataset. 
@@ -170,6 +179,10 @@ Cons:
 - It assumes that all the features are independent. While it might sound great in theory, in real life, you'll hardly find a set of independent features. 
 - It consider every feature independent which is not the case everytime.
 - Limited Application Case
+
+Reference links:
+  * [1](https://www.upgrad.com/blog/naive-bayes-classifier/)
+  * [2](https://www.kaggle.com/c/springleaf-marketing-response/discussion/16639)
 
 ### 11) DecisionTreeClassifier
 
@@ -190,6 +203,8 @@ Cons:
 - Decision tree training is relatively expensive as the complexity and time has taken are more.
 - The Decision Tree algorithm is inadequate for applying regression and predicting continuous values.
 
+Reference links:
+  * [1]()
 
 ##Regression
 
@@ -217,6 +232,8 @@ CONS:
 - In cases where the number of features for each data point exceeds the number of training data samples, the SVM will underperform.
 - Choosing an appropriate Kernel function is difficult: Choosing an appropriate Kernel function (to handle the non-linear data) is not an easy task. It could be tricky and complex. In case of using a high dimension Kernel, you might generate too many support vectors which reduce the training speed drastically. 
 
+Reference links:
+  * [1]()
 
 ### 2) Bagging Regressor:
 REFERENCE LINKS:
