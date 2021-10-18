@@ -18,7 +18,7 @@ Cons:
 - It loses the advantage of vectorized operations as it deals with only a single example at a time
 
 Reference links:
-  * [1](https://medium.com/@divakar_239/stochastic-vs-batch-gradient-descent-8820568eada1)
+  * [https://medium.com/@divakar_239/stochastic-vs-batch-gradient-descent-8820568eada1](https://medium.com/@divakar_239/stochastic-vs-batch-gradient-descent-8820568eada1)
 
 ### 2) Logistic Regression
 
@@ -37,7 +37,7 @@ Cons:
 - Non-linear problems can't be solved with logistic regression because it has a linear decision surface. Linearly separable data is rarely found in real-world scenarios.
 
 Reference links:
-  * [1](https://www.geeksforgeeks.org/advantages-and-disadvantages-of-logistic-regression/)
+  * [https://www.geeksforgeeks.org/advantages-and-disadvantages-of-logistic-regression/](https://www.geeksforgeeks.org/advantages-and-disadvantages-of-logistic-regression/)
 
 ### 3) LabelPropagation 
 
@@ -55,7 +55,7 @@ Cons:
 - Uncertainty and randomness in the label propagation process, which may affect the stability and accuracy of community detection.
 
 Reference links:
-  * [1](https://towardsdatascience.com/how-to-get-away-with-few-labels-label-propagation-f891782ada5c)
+  * [https://towardsdatascience.com/how-to-get-away-with-few-labels-label-propagation-f891782ada5c](https://towardsdatascience.com/how-to-get-away-with-few-labels-label-propagation-f891782ada5c)
 
 ### 4) Random Forest Classifier
 
@@ -69,8 +69,8 @@ Pros:
 - Random Forests can handle linear and non-linear relationships well
 
 Reference links:
-  * [1](https://towardsai.net/p/machine-learning/why-choose-random-forest-and-not-decision-trees)
-  * [2](https://medium.datadriveninvestor.com/random-forest-pros-and-cons-c1c42fb64f04)
+  * [https://towardsai.net/p/machine-learning/why-choose-random-forest-and-not-decision-trees](https://towardsai.net/p/machine-learning/why-choose-random-forest-and-not-decision-trees)
+  * [https://medium.datadriveninvestor.com/random-forest-pros-and-cons-c1c42fb64f04](https://medium.datadriveninvestor.com/random-forest-pros-and-cons-c1c42fb64f04)
 
 Cons:
 - Slow Training
@@ -97,7 +97,7 @@ Cons:
 - The high flexibility results in many parameters that interact and influence heavily the behavior of the approach (number of iterations, tree depth, regularization parameters, etc.). This requires a large grid search during tuning.
 
 Reference links:
-  * [1](https://blog.paperspace.com/gradient-boosting-for-classification/)
+  * [https://blog.paperspace.com/gradient-boosting-for-classification/](https://blog.paperspace.com/gradient-boosting-for-classification/)
 
 ### 6) AdaBoostClassifier             
 
@@ -112,7 +112,7 @@ Cons:
 - It is also much slower than the XGBoost algorithm.
 
 Reference links:
-  * [1](https://www.jigsawacademy.com/blogs/data-science/adaboost/)
+  * [https://www.jigsawacademy.com/blogs/data-science/adaboost/](https://www.jigsawacademy.com/blogs/data-science/adaboost/)
 
 ### 7) BaggingClassifier
 
