@@ -1,7 +1,7 @@
-# How to signup Featureprenur
+# How to signup Featurepreneur
 
 How to signup to Featurepreneur?
-* [Featureprenur](https://featurepreneur.com/) 
+* [Featurepreneur](https://featurepreneur.com/) 
 
 Creating a new account
     * Click on the signup option and signup using google account.
