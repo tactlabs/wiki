@@ -145,7 +145,7 @@ Cons:
 - If there is a categorial variable which is not present in training dataset, it results in zero frequency problem. This problem can be easily solved by Laplace estimation.
 
 Reference links:
-  * [1](https://iq.opengenus.org/bernoulli-naive-bayes/)
+  * [https://iq.opengenus.org/bernoulli-naive-bayes/](https://iq.opengenus.org/bernoulli-naive-bayes/)
 
 ### 9) Linear Discriminant Analysis
 
@@ -160,8 +160,8 @@ Cons:
 - Gaussian assumptions training time complex matix ops.
 
 Reference links:
-  * [1](https://medium.com/analytics-vidhya/pros-and-cons-of-popular-supervised-learning-algorithms-d5b3b75d9218)
-  * [2](https://www.knowledgehut.com/blog/data-science/linear-discriminant-analysis-for-machine-learning)
+  * [https://medium.com/analytics-vidhya/pros-and-cons-of-popular-supervised-learning-algorithms-d5b3b75d9218](https://medium.com/analytics-vidhya/pros-and-cons-of-popular-supervised-learning-algorithms-d5b3b75d9218)
+  * [https://www.knowledgehut.com/blog/data-science/linear-discriminant-analysis-for-machine-learning](https://www.knowledgehut.com/blog/data-science/linear-discriminant-analysis-for-machine-learning)
 
 
 ### 10) GaussianNB
@@ -181,13 +181,10 @@ Cons:
 - Limited Application Case
 
 Reference links:
-  * [1](https://www.upgrad.com/blog/naive-bayes-classifier/)
-  * [2](https://www.kaggle.com/c/springleaf-marketing-response/discussion/16639)
+  * [https://www.upgrad.com/blog/naive-bayes-classifier/](https://www.upgrad.com/blog/naive-bayes-classifier/)
+  * [https://www.kaggle.com/c/springleaf-marketing-response/discussion/16639](https://www.kaggle.com/c/springleaf-marketing-response/discussion/16639)
 
 ### 11) DecisionTreeClassifier
-
-Reference Links:
-- https://dhirajkumarblog.medium.com/top-5-advantages-and-disadvantages-of-decision-tree-algorithm-428ebd199d9a
 
 Pros:
 - Compared to other algorithms decision trees requires less effort for data preparation during pre-processing.
@@ -204,18 +201,11 @@ Cons:
 - The Decision Tree algorithm is inadequate for applying regression and predicting continuous values.
 
 Reference links:
-  * [1]()
+  * [https://dhirajkumarblog.medium.com/top-5-advantages-and-disadvantages-of-decision-tree-algorithm-428ebd199d9a](https://dhirajkumarblog.medium.com/top-5-advantages-and-disadvantages-of-decision-tree-algorithm-428ebd199d9a)
 
 ##Regression
 
 ### 1) SVR:
-REFERENCE LINKS:
-- https://medium.com/coinmonks/support-vector-regression-or-svr-8eb3acf6d0ff
-- https://medium.com/analytics-vidhya/machine-learning-support-vector-regression-181aea35bedf
-- https://medium.com/swlh/support-vector-regression-explained-for-beginners-2a8d14ba6e5d
-- https://medium.com/@bhartendudubey/what-is-support-vector-regression-svr-760b501b6141
-- https://towardsdatascience.com/unlocking-the-true-power-of-support-vector-regression-847fd123a4a0
-- https://towardsdatascience.com/support-vector-regression-svr-one-of-the-most-flexible-yet-robust-prediction-algorithms-4d25fbdaca60
 
 PROS:
 - It is robust to outliers.
@@ -233,16 +223,14 @@ CONS:
 - Choosing an appropriate Kernel function is difficult: Choosing an appropriate Kernel function (to handle the non-linear data) is not an easy task. It could be tricky and complex. In case of using a high dimension Kernel, you might generate too many support vectors which reduce the training speed drastically. 
 
 Reference links:
-  * [1]()
+  * [https://medium.com/coinmonks/support-vector-regression-or-svr-8eb3acf6d0ff](https://medium.com/coinmonks/support-vector-regression-or-svr-8eb3acf6d0ff)
+  * [https://medium.com/analytics-vidhya/machine-learning-support-vector-regression-181aea35bedf](https://medium.com/analytics-vidhya/machine-learning-support-vector-regression-181aea35bedf)
+  * [https://medium.com/swlh/support-vector-regression-explained-for-beginners-2a8d14ba6e5d](https://medium.com/swlh/support-vector-regression-explained-for-beginners-2a8d14ba6e5d)
+  * [https://medium.com/@bhartendudubey/what-is-support-vector-regression-svr-760b501b6141](https://medium.com/@bhartendudubey/what-is-support-vector-regression-svr-760b501b6141)
+  * [https://towardsdatascience.com/unlocking-the-true-power-of-support-vector-regression-847fd123a4a0](https://towardsdatascience.com/unlocking-the-true-power-of-support-vector-regression-847fd123a4a0)
+  * [https://towardsdatascience.com/support-vector-regression-svr-one-of-the-most-flexible-yet-robust-prediction-algorithms-4d25fbdaca60](https://towardsdatascience.com/support-vector-regression-svr-one-of-the-most-flexible-yet-robust-prediction-algorithms-4d25fbdaca60)
 
 ### 2) Bagging Regressor:
-REFERENCE LINKS:
-- https://medium.com/swlh/boosting-and-bagging-explained-with-examples-5353a36eb78d
-- https://medium.com/rapids-ai/100x-faster-machine-learning-model-ensembling-with-rapids-cuml-and-scikit-learn-meta-estimators-d869788ee6b1
-- https://medium.com/all-about-ml/bagging-random-forests-and-boosting-8c728e91a85d
-- https://medium.com/@uttam94/bagging-and-boosting-3fabc20bd9a5
-- https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205
-- https://medium.com/@ruhi3929/bagging-and-boosting-method-c036236376eb
 
 PROS:
 - Bagging method helps when we face variance or overfitting in the model. It provides an environment to deal with variance by using N learners of same size on same algorithm.
@@ -259,14 +247,16 @@ CONS:
 - It introduces a loss of interpretability of a model
 - Bagging ignores the value with the highest and the lowest result which may have a wide difference and provides an average result.
 
+Reference links:
+  * [https://medium.com/swlh/boosting-and-bagging-explained-with-examples-5353a36eb78d](https://medium.com/swlh/boosting-and-bagging-explained-with-examples-5353a36eb78d)
+  * [https://medium.com/rapids-ai/100x-faster-machine-learning-model-ensembling-with-rapids-cuml-and-scikit-learn-meta-estimators-d869788ee6b1](https://medium.com/rapids-ai/100x-faster-machine-learning-model-ensembling-with-rapids-cuml-and-scikit-learn-meta-estimators-d869788ee6b1)
+  * [https://medium.com/all-about-ml/bagging-random-forests-and-boosting-8c728e91a85d](https://medium.com/all-about-ml/bagging-random-forests-and-boosting-8c728e91a85d)
+  * [https://medium.com/@uttam94/bagging-and-boosting-3fabc20bd9a5](https://medium.com/@uttam94/bagging-and-boosting-3fabc20bd9a5)
+  * [https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)
+  * [https://medium.com/@ruhi3929/bagging-and-boosting-method-c036236376eb](https://medium.com/@ruhi3929/bagging-and-boosting-method-c036236376eb)
+
 
 ### 3) NuSVR:
-REFERENCE LINKS:
-- https://towardsdatascience.com/15-lesser-known-useful-sklearn-models-you-should-use-now-a1a566e680a6
-- https://stackoverflow.com/questions/20507809/nusvr-vs-svr-in-scikit-learn
-- https://www.programcreek.com/python/example/99109/sklearn.svm.NuSVR\
-- https://www.datatechnotes.com/2020/07/regression-example-with-nusvr-in-python.html
-- https://www.kaggle.com/tunguz/trends-with-sklearn-nusvr
 
 Pros:
 - Parameters are provided for adjustment of the vector machine that is used to assist in estimation of the regression problem
@@ -283,14 +273,15 @@ Cons:
 - In cases where the number of features for each data point exceeds the number of training data samples, it'll underperform.
 - Choosing a “good” kernel function is not easy.
 
+Reference links:
+  * [https://towardsdatascience.com/15-lesser-known-useful-sklearn-models-you-should-use-now-a1a566e680a6](https://towardsdatascience.com/15-lesser-known-useful-sklearn-models-you-should-use-now-a1a566e680a6)
+  * [https://stackoverflow.com/questions/20507809/nusvr-vs-svr-in-scikit-learn](https://stackoverflow.com/questions/20507809/nusvr-vs-svr-in-scikit-learn)
+  * [https://www.programcreek.com/python/example/99109/sklearn.svm.NuSVR\](https://www.programcreek.com/python/example/99109/sklearn.svm.NuSVR\)
+  * [https://www.datatechnotes.com/2020/07/regression-example-with-nusvr-in-python.html](https://www.datatechnotes.com/2020/07/regression-example-with-nusvr-in-python.html)
+  * [https://www.kaggle.com/tunguz/trends-with-sklearn-nusvr](https://www.kaggle.com/tunguz/trends-with-sklearn-nusvr)
+
 
 ### 4) RandomForestRegressor:
-REFERENCE LINKS:
-- https://medium.com/swlh/random-forest-and-its-implementation-71824ced454f
-- https://medium.com/@sametgirgin/random-forest-regression-in-5-steps-with-python-ee4259eca0de
-- https://towardsdatascience.com/a-quick-and-dirty-guide-to-random-forest-regression-52ca0af157f8
-- https://towardsdatascience.com/machine-learning-basics-random-forest-regression-be3e1e3bb91a
-- https://medium.datadriveninvestor.com/random-forest-regression-9871bc9a25eb
 
 Pros:
 - Robust to outliers.
@@ -306,14 +297,15 @@ Cons:
 - It requires much computational power as well as resources as it builds numerous trees to combine their outputs.
 - Due to the ensemble of decision trees, it also suffers interpretability and fails to determine the significance of each variable.
 
+Reference links:
+  * [https://medium.com/swlh/random-forest-and-its-implementation-71824ced454f](https://medium.com/swlh/random-forest-and-its-implementation-71824ced454f)
+  * [https://medium.com/@sametgirgin/random-forest-regression-in-5-steps-with-python-ee4259eca0de](https://medium.com/@sametgirgin/random-forest-regression-in-5-steps-with-python-ee4259eca0de)
+  * [https://towardsdatascience.com/a-quick-and-dirty-guide-to-random-forest-regression-52ca0af157f8](https://towardsdatascience.com/a-quick-and-dirty-guide-to-random-forest-regression-52ca0af157f8)
+  * [https://towardsdatascience.com/machine-learning-basics-random-forest-regression-be3e1e3bb91a](https://towardsdatascience.com/machine-learning-basics-random-forest-regression-be3e1e3bb91a)
+  * [https://medium.datadriveninvestor.com/random-forest-regression-9871bc9a25eb](https://medium.datadriveninvestor.com/random-forest-regression-9871bc9a25eb)
+
 
 ### 5) XGBRegressor:
-REFERENCE LINKS:
-- https://towardsdatascience.com/predicting-electricity-consumption-with-xgbregressor-a11b71104754
-- https://towardsdatascience.com/predicting-weekly-hotel-cancellations-with-xgbregressor-d73eb74a8624
-- https://medium.com/sfu-cspmp/xgboost-a-deep-dive-into-boosting-f06c9c41349
-- https://medium.com/mlearning-ai/forecast-with-xgboost-model-in-python-87d4b6cada98
-- https://medium.com/@gautam.karmakar/xgboost-model-to-win-kaggle-e12b35cd1aad
 
 Pros:
 - Effective with large data sets. 
@@ -329,14 +321,15 @@ Cons:
 - The overall method is hardly scalable. 
 - The estimators base their correctness on previous predictors, hence the procedure involves a lot of struggle to streamline. 
 
+Reference links:
+  * [https://towardsdatascience.com/predicting-electricity-consumption-with-xgbregressor-a11b71104754](https://towardsdatascience.com/predicting-electricity-consumption-with-xgbregressor-a11b71104754)
+  * [https://towardsdatascience.com/predicting-weekly-hotel-cancellations-with-xgbregressor-d73eb74a8624](https://towardsdatascience.com/predicting-weekly-hotel-cancellations-with-xgbregressor-d73eb74a8624)
+  * [https://medium.com/sfu-cspmp/xgboost-a-deep-dive-into-boosting-f06c9c41349](https://medium.com/sfu-cspmp/xgboost-a-deep-dive-into-boosting-f06c9c41349)
+  * [https://medium.com/mlearning-ai/forecast-with-xgboost-model-in-python-87d4b6cada98](https://medium.com/mlearning-ai/forecast-with-xgboost-model-in-python-87d4b6cada98)
+  * [https://medium.com/@gautam.karmakar/xgboost-model-to-win-kaggle-e12b35cd1aad](https://medium.com/@gautam.karmakar/xgboost-model-to-win-kaggle-e12b35cd1aad)
+
 
 ### 6) GradientBoostingRegressor 
-REFERENCE LINKS:
-- https://medium.datadriveninvestor.com/gradient-boosting-for-regression-539fa8aa4b00
-- https://medium.com/analytics-vidhya/minimize-your-errors-by-learning-gradient-boosting-regression-2c002c65a064
-- https://medium.com/analytics-vidhya/introduction-to-the-gradient-boosting-algorithm-c25c653f826b
-- https://medium.com/@ladkarsamisha123/gradient-boosting-in-machine-learning-visually-explained-55b8c2099d19
-- https://ankitnitjsr13.medium.com/gradient-boosting-algorithm-800e5b2bb3e4
 
 Pros:
 - Often provides predictive accuracy that cannot be trumped.
@@ -352,16 +345,14 @@ Cons:
 - Less interpretative in nature, although this is easily addressed with various tools.
 - Sensitive to outliers
 
+Reference links:
+  * [https://medium.datadriveninvestor.com/gradient-boosting-for-regression-539fa8aa4b00](https://medium.datadriveninvestor.com/gradient-boosting-for-regression-539fa8aa4b00)
+  * [https://medium.com/analytics-vidhya/minimize-your-errors-by-learning-gradient-boosting-regression-2c002c65a064](https://medium.com/analytics-vidhya/minimize-your-errors-by-learning-gradient-boosting-regression-2c002c65a064)
+  * [https://medium.com/analytics-vidhya/introduction-to-the-gradient-boosting-algorithm-c25c653f826b](https://medium.com/analytics-vidhya/introduction-to-the-gradient-boosting-algorithm-c25c653f826b)
+  * [https://medium.com/@ladkarsamisha123/gradient-boosting-in-machine-learning-visually-explained-55b8c2099d19](https://medium.com/@ladkarsamisha123/gradient-boosting-in-machine-learning-visually-explained-55b8c2099d19)
+  * [https://ankitnitjsr13.medium.com/gradient-boosting-algorithm-800e5b2bb3e4](https://ankitnitjsr13.medium.com/gradient-boosting-algorithm-800e5b2bb3e4)
 
 ### 7) HistGradientBoostingRegressor
-REFERENCE LINKS:
-- https://medium.com/@mqofori/a-first-look-at-sklearns-histgradientboostingclassifier-9f5bea611c6a
-- https://medium.com/mlearning-ai/how-i-improved-my-score-on-kaggles-june-2021-tabular-competition-by-using-bab6bbd0d803
-- https://towardsdatascience.com/the-10-best-new-features-in-scikit-learn-0-24-f45e49b6741b
-- https://towardsdatascience.com/new-features-in-scikit-learn-f0ceb7e9d2ad
-- https://www.kaggle.com/carlmcbrideellis/histogram-gradient-boosting-regression-example
-- https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingRegressor.html
-- https://machinelearningmastery.com/histogram-based-gradient-boosting-ensembles/
 
 Pros:
 - This estimator is much faster than GradientBoostingRegressor for big datasets
@@ -377,14 +368,16 @@ Cons:
 - Can overemphasize outliers 
 - Sensitive to outliers
 
+Reference links:
+  * [https://medium.com/@mqofori/a-first-look-at-sklearns-histgradientboostingclassifier-9f5bea611c6a](https://medium.com/@mqofori/a-first-look-at-sklearns-histgradientboostingclassifier-9f5bea611c6a)
+  * [https://medium.com/mlearning-ai/how-i-improved-my-score-on-kaggles-june-2021-tabular-competition-by-using-bab6bbd0d803](https://medium.com/mlearning-ai/how-i-improved-my-score-on-kaggles-june-2021-tabular-competition-by-using-bab6bbd0d803)
+  * [https://towardsdatascience.com/the-10-best-new-features-in-scikit-learn-0-24-f45e49b6741b](https://towardsdatascience.com/the-10-best-new-features-in-scikit-learn-0-24-f45e49b6741b)
+  * [https://towardsdatascience.com/new-features-in-scikit-learn-f0ceb7e9d2ad](https://towardsdatascience.com/new-features-in-scikit-learn-f0ceb7e9d2ad)
+  * [https://www.kaggle.com/carlmcbrideellis/histogram-gradient-boosting-regression-example](https://www.kaggle.com/carlmcbrideellis/histogram-gradient-boosting-regression-example)
+  * [https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingRegressor.html](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingRegressor.html)
+  * [https://machinelearningmastery.com/histogram-based-gradient-boosting-ensembles/](https://machinelearningmastery.com/histogram-based-gradient-boosting-ensembles/)
 
 ### 8) PoissonRegressor
-REFERENCE LINKS:
-- https://medium.com/@kn12/poisson-regression-implementation-python-28d15e95dc15
-- https://timeseriesreasoning.com/contents/poisson-regression-model/
-- https://www.kaggle.com/gauravduttakiit/explore-the-poisson-regression
-- https://ml.dask.org/modules/generated/dask_ml.linear_model.PoissonRegression.html
-- https://www.statisticshowto.com/poisson-regression/
 
 Pros:
 - The Poisson model is estimated by the maximum likelihood method, the estimates are adapted to the actual data. 
@@ -401,14 +394,14 @@ Cons:
 - It can produce out-of-range predictions.
 - Poisson regression assumes that the mean and variance are the same
 
+Reference links:
+  * [https://medium.com/@kn12/poisson-regression-implementation-python-28d15e95dc15](https://medium.com/@kn12/poisson-regression-implementation-python-28d15e95dc15)
+  * [https://timeseriesreasoning.com/contents/poisson-regression-model/](https://timeseriesreasoning.com/contents/poisson-regression-model/)
+  * [https://www.kaggle.com/gauravduttakiit/explore-the-poisson-regression](https://www.kaggle.com/gauravduttakiit/explore-the-poisson-regression)
+  * [https://ml.dask.org/modules/generated/dask_ml.linear_model.PoissonRegression.html](https://ml.dask.org/modules/generated/dask_ml.linear_model.PoissonRegression.html)
+  * [https://www.statisticshowto.com/poisson-regression/](https://www.statisticshowto.com/poisson-regression/)
 
 ### 9) LGBMRegressor
-REFERENCE LINKS:
-- https://machinelearningmastery.com/light-gradient-boosted-machine-lightgbm-ensemble/
-- https://www.programcreek.com/python/example/88794/lightgbm.LGBMRegressor
-- https://lightgbm.readthedocs.io/en/latest/pythonapi/lightgbm.LGBMRegressor.html
-- https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc
-- https://medium.com/analytics-vidhya/lightgbm-for-regression-with-categorical-data-b08eaff501d1
 
 Pros:
 - Faster training speed and higher efficiency: Light GBM use histogram based algorithm i.e it buckets continuous feature values into discrete bins which fasten the training procedure.
@@ -425,10 +418,14 @@ Cons:
 - There is no threshold on the number of rows
 - Need to use tuning to avoid overfitting, or speeding up the task and to achieve good accuracy.
 
+Reference links:
+  * [https://machinelearningmastery.com/light-gradient-boosted-machine-lightgbm-ensemble/](https://machinelearningmastery.com/light-gradient-boosted-machine-lightgbm-ensemble/)
+  * [https://www.programcreek.com/python/example/88794/lightgbm.LGBMRegressor](https://www.programcreek.com/python/example/88794/lightgbm.LGBMRegressor)
+  * [https://lightgbm.readthedocs.io/en/latest/pythonapi/lightgbm.LGBMRegressor.html](https://lightgbm.readthedocs.io/en/latest/pythonapi/lightgbm.LGBMRegressor.html)
+  * [https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc](https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc)
+  * [https://medium.com/analytics-vidhya/lightgbm-for-regression-with-categorical-data-b08eaff501d1](https://medium.com/analytics-vidhya/lightgbm-for-regression-with-categorical-data-b08eaff501d1)
 
 ### 10) Decision Tree Regression : 	
-REFERENCE LINKS: 
-- https://www.upgrad.com/blog/pros-and-cons-of-decision-tree-regression-in-machine-learning/
    			   
 Pros:
 - The decision tree model can be used for both classification and regression problems, and it is easy to interpret, understand, and visualize. 
@@ -444,10 +441,12 @@ Cons:
 4) Calculations involved can also become complex compared to other algorithms, and it takes a longer time to train the model. 
 5) It is also relatively expensive as the amount of time taken and the complexity levels are greater.
 
+Reference links:
+  * [https://www.upgrad.com/blog/pros-and-cons-of-decision-tree-regression-in-machine-learning/](https://www.upgrad.com/blog/pros-and-cons-of-decision-tree-regression-in-machine-learning/)
+  * [2]()
+  * [3]()
 
 ### 11) LinearRegression 
-REFERENCE LINKS: 
-- https://medium.com/@satyavishnumolakala/linear-regression-pros-cons-62085314aef0              
 
 Pros:
 - Simple model : 
@@ -472,12 +471,11 @@ Linear regression looks at a relationship between the mean of the predictor/depe
 As discussed in the "Assumes independent variables" point, in cases of high multicollinearity, 2 features that have high correlation will affect each other's weight. 
 If we run stochastic linear regression multiple times, the result may be different weights each time for these 2 features. So, it's we cannot really interpret the importance of these features.
 
+Reference links:
+  * [https://medium.com/@satyavishnumolakala/linear-regression-pros-cons-62085314aef0](https://medium.com/@satyavishnumolakala/linear-regression-pros-cons-62085314aef0)
 
 ### 12) LARS : 
-REFERENCE LINKS: 
-- https://venali.medium.com/conventional-guide-to-supervised-learning-with-scikit-learn-least-angle-regression-generalized-11b4ce2dec89
-- https://www.physio-pedia.com/Ligament_Augmentation_and_Reconstruction_System_(LARS)
-   			   
+			   
 Pros:
 - Computationally as fast as forward selection but may sometimes be more accurate.
 - Numerically very efficient when the number of features is much larger than the number of data instances.
@@ -492,19 +490,16 @@ Cons:
 - Residual post-operative laxity still present
 - Requires tissue remnants of the ACL to be used in reconstruction
 
+Reference links:
+  * [https://venali.medium.com/conventional-guide-to-supervised-learning-with-scikit-learn-least-angle-regression-generalized-11b4ce2dec89](https://venali.medium.com/conventional-guide-to-supervised-learning-with-scikit-learn-least-angle-regression-generalized-11b4ce2dec89)
+  * [https://www.physio-pedia.com/Ligament_Augmentation_and_Reconstruction_System_(LARS)](https://www.physio-pedia.com/Ligament_Augmentation_and_Reconstruction_System_(LARS))
+
 
 ### 13) SGD : 	
 REFERENCE LINKS:  
 - https://www.quora.com/What-are-the-pro##Regression
 
 ### 1) SVR:
-REFERENCE LINKS:
-- https://medium.com/coinmonks/support-vector-regression-or-svr-8eb3acf6d0ff
-- https://medium.com/analytics-vidhya/machine-learning-support-vector-regression-181aea35bedf
-- https://medium.com/swlh/support-vector-regression-explained-for-beginners-2a8d14ba6e5d
-- https://medium.com/@bhartendudubey/what-is-support-vector-regression-svr-760b501b6141
-- https://towardsdatascience.com/unlocking-the-true-power-of-support-vector-regression-847fd123a4a0
-- https://towardsdatascience.com/support-vector-regression-svr-one-of-the-most-flexible-yet-robust-prediction-algorithms-4d25fbdaca60
 
 PROS:
 - It is robust to outliers.
@@ -521,15 +516,15 @@ CONS:
 - In cases where the number of features for each data point exceeds the number of training data samples, the SVM will underperform.
 - Choosing an appropriate Kernel function is difficult: Choosing an appropriate Kernel function (to handle the non-linear data) is not an easy task. It could be tricky and complex. In case of using a high dimension Kernel, you might generate too many support vectors which reduce the training speed drastically. 
 
+Reference links:
+  * [https://medium.com/coinmonks/support-vector-regression-or-svr-8eb3acf6d0ff](https://medium.com/coinmonks/support-vector-regression-or-svr-8eb3acf6d0ff)
+  * [https://medium.com/analytics-vidhya/machine-learning-support-vector-regression-181aea35bedf](https://medium.com/analytics-vidhya/machine-learning-support-vector-regression-181aea35bedf)
+  * [https://medium.com/swlh/support-vector-regression-explained-for-beginners-2a8d14ba6e5d](https://medium.com/swlh/support-vector-regression-explained-for-beginners-2a8d14ba6e5d)
+  * [https://medium.com/@bhartendudubey/what-is-support-vector-regression-svr-760b501b6141](https://medium.com/@bhartendudubey/what-is-support-vector-regression-svr-760b501b6141)
+  * [https://towardsdatascience.com/support-vector-regression-svr-one-of-the-most-flexible-yet-robust-prediction-algorithms-4d25fbdaca60](https://towardsdatascience.com/unlocking-the-true-power-of-support-vector-regression-847fd123a4a0)
+  
 
 ### 2) Bagging Regressor:
-REFERENCE LINKS:
-- https://medium.com/swlh/boosting-and-bagging-explained-with-examples-5353a36eb78d
-- https://medium.com/rapids-ai/100x-faster-machine-learning-model-ensembling-with-rapids-cuml-and-scikit-learn-meta-estimators-d869788ee6b1
-- https://medium.com/all-about-ml/bagging-random-forests-and-boosting-8c728e91a85d
-- https://medium.com/@uttam94/bagging-and-boosting-3fabc20bd9a5
-- https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205
-- https://medium.com/@ruhi3929/bagging-and-boosting-method-c036236376eb
 
 PROS:
 - Bagging method helps when we face variance or overfitting in the model. It provides an environment to deal with variance by using N learners of same size on same algorithm.
@@ -546,14 +541,15 @@ CONS:
 - It introduces a loss of interpretability of a model
 - Bagging ignores the value with the highest and the lowest result which may have a wide difference and provides an average result.
 
+Reference links:
+  * [https://medium.com/swlh/boosting-and-bagging-explained-with-examples-5353a36eb78d](https://medium.com/swlh/boosting-and-bagging-explained-with-examples-5353a36eb78d)
+  * [https://medium.com/rapids-ai/100x-faster-machine-learning-model-ensembling-with-rapids-cuml-and-scikit-learn-meta-estimators-d869788ee6b1](https://medium.com/rapids-ai/100x-faster-machine-learning-model-ensembling-with-rapids-cuml-and-scikit-learn-meta-estimators-d869788ee6b1)
+  * [https://medium.com/all-about-ml/bagging-random-forests-and-boosting-8c728e91a85d](https://medium.com/all-about-ml/bagging-random-forests-and-boosting-8c728e91a85d)
+  * [https://medium.com/@uttam94/bagging-and-boosting-3fabc20bd9a5](https://medium.com/@uttam94/bagging-and-boosting-3fabc20bd9a5)
+  * [https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)
+  * [https://medium.com/@ruhi3929/bagging-and-boosting-method-c036236376eb](https://medium.com/@ruhi3929/bagging-and-boosting-method-c036236376eb)
 
 ### 3) NuSVR:
-REFERENCE LINKS:
-- https://towardsdatascience.com/15-lesser-known-useful-sklearn-models-you-should-use-now-a1a566e680a6
-- https://stackoverflow.com/questions/20507809/nusvr-vs-svr-in-scikit-learn
-- https://www.programcreek.com/python/example/99109/sklearn.svm.NuSVR\
-- https://www.datatechnotes.com/2020/07/regression-example-with-nusvr-in-python.html
-- https://www.kaggle.com/tunguz/trends-with-sklearn-nusvr
 
 Pros:
 - Parameters are provided for adjustment of the vector machine that is used to assist in estimation of the regression problem
@@ -570,14 +566,14 @@ Cons:
 - In cases where the number of features for each data point exceeds the number of training data samples, it'll underperform.
 - Choosing a “good” kernel function is not easy.
 
+Reference links:
+  * [https://towardsdatascience.com/15-lesser-known-useful-sklearn-models-you-should-use-now-a1a566e680a6](https://towardsdatascience.com/15-lesser-known-useful-sklearn-models-you-should-use-now-a1a566e680a6)
+  * [https://stackoverflow.com/questions/20507809/nusvr-vs-svr-in-scikit-learn](https://stackoverflow.com/questions/20507809/nusvr-vs-svr-in-scikit-learn)
+  * [https://www.datatechnotes.com/2020/07/regression-example-with-nusvr-in-python.html](https://www.programcreek.com/python/example/99109/sklearn.svm.NuSVR\)
+  * [https://www.kaggle.com/tunguz/trends-with-sklearn-nusvr](https://www.kaggle.com/tunguz/trends-with-sklearn-nusvr)
+
 
 ### 4) RandomForestRegressor:
-REFERENCE LINKS:
-- https://medium.com/swlh/random-forest-and-its-implementation-71824ced454f
-- https://medium.com/@sametgirgin/random-forest-regression-in-5-steps-with-python-ee4259eca0de
-- https://towardsdatascience.com/a-quick-and-dirty-guide-to-random-forest-regression-52ca0af157f8
-- https://towardsdatascience.com/machine-learning-basics-random-forest-regression-be3e1e3bb91a
-- https://medium.datadriveninvestor.com/random-forest-regression-9871bc9a25eb
 
 Pros:
 - Robust to outliers.
@@ -593,14 +589,15 @@ Cons:
 - It requires much computational power as well as resources as it builds numerous trees to combine their outputs.
 - Due to the ensemble of decision trees, it also suffers interpretability and fails to determine the significance of each variable.
 
+Reference links:
+  * [https://medium.com/swlh/random-forest-and-its-implementation-71824ced454f](https://medium.com/swlh/random-forest-and-its-implementation-71824ced454f)
+  * [https://medium.com/@sametgirgin/random-forest-regression-in-5-steps-with-python-ee4259eca0de](https://medium.com/@sametgirgin/random-forest-regression-in-5-steps-with-python-ee4259eca0de)
+  * [https://towardsdatascience.com/a-quick-and-dirty-guide-to-random-forest-regression-52ca0af157f8](https://towardsdatascience.com/a-quick-and-dirty-guide-to-random-forest-regression-52ca0af157f8)
+  * [https://towardsdatascience.com/machine-learning-basics-random-forest-regression-be3e1e3bb91a](https://towardsdatascience.com/machine-learning-basics-random-forest-regression-be3e1e3bb91a)
+  * [https://medium.datadriveninvestor.com/random-forest-regression-9871bc9a25eb](https://medium.datadriveninvestor.com/random-forest-regression-9871bc9a25eb)
+
 
 ### 5) XGBRegressor:
-REFERENCE LINKS:
-- https://towardsdatascience.com/predicting-electricity-consumption-with-xgbregressor-a11b71104754
-- https://towardsdatascience.com/predicting-weekly-hotel-cancellations-with-xgbregressor-d73eb74a8624
-- https://medium.com/sfu-cspmp/xgboost-a-deep-dive-into-boosting-f06c9c41349
-- https://medium.com/mlearning-ai/forecast-with-xgboost-model-in-python-87d4b6cada98
-- https://medium.com/@gautam.karmakar/xgboost-model-to-win-kaggle-e12b35cd1aad
 
 Pros:
 - Effective with large data sets. 
@@ -616,14 +613,15 @@ Cons:
 - The overall method is hardly scalable. 
 - The estimators base their correctness on previous predictors, hence the procedure involves a lot of struggle to streamline. 
 
+Reference links:
+  * [https://towardsdatascience.com/predicting-electricity-consumption-with-xgbregressor-a11b71104754](https://towardsdatascience.com/predicting-electricity-consumption-with-xgbregressor-a11b71104754)
+  * [https://towardsdatascience.com/predicting-weekly-hotel-cancellations-with-xgbregressor-d73eb74a8624](https://towardsdatascience.com/predicting-weekly-hotel-cancellations-with-xgbregressor-d73eb74a8624)
+  * [https://medium.com/sfu-cspmp/xgboost-a-deep-dive-into-boosting-f06c9c41349](https://medium.com/sfu-cspmp/xgboost-a-deep-dive-into-boosting-f06c9c41349)
+  * [https://medium.com/mlearning-ai/forecast-with-xgboost-model-in-python-87d4b6cada98](https://medium.com/mlearning-ai/forecast-with-xgboost-model-in-python-87d4b6cada98)
+  * [https://medium.com/@gautam.karmakar/xgboost-model-to-win-kaggle-e12b35cd1aad](https://medium.com/@gautam.karmakar/xgboost-model-to-win-kaggle-e12b35cd1aad)
+
 
 ### 6) GradientBoostingRegressor 
-REFERENCE LINKS:
-- https://medium.datadriveninvestor.com/gradient-boosting-for-regression-539fa8aa4b00
-- https://medium.com/analytics-vidhya/minimize-your-errors-by-learning-gradient-boosting-regression-2c002c65a064
-- https://medium.com/analytics-vidhya/introduction-to-the-gradient-boosting-algorithm-c25c653f826b
-- https://medium.com/@ladkarsamisha123/gradient-boosting-in-machine-learning-visually-explained-55b8c2099d19
-- https://ankitnitjsr13.medium.com/gradient-boosting-algorithm-800e5b2bb3e4
 
 Pros:
 - Often provides predictive accuracy that cannot be trumped.
@@ -639,16 +637,15 @@ Cons:
 - Less interpretative in nature, although this is easily addressed with various tools.
 - Sensitive to outliers
 
+Reference links:
+  * [https://medium.datadriveninvestor.com/gradient-boosting-for-regression-539fa8aa4b00](https://medium.datadriveninvestor.com/gradient-boosting-for-regression-539fa8aa4b00)
+  * [https://medium.com/analytics-vidhya/minimize-your-errors-by-learning-gradient-boosting-regression-2c002c65a064](https://medium.com/analytics-vidhya/minimize-your-errors-by-learning-gradient-boosting-regression-2c002c65a064)
+  * [https://medium.com/analytics-vidhya/introduction-to-the-gradient-boosting-algorithm-c25c653f826b](https://medium.com/analytics-vidhya/introduction-to-the-gradient-boosting-algorithm-c25c653f826b)
+  * [https://medium.com/@ladkarsamisha123/gradient-boosting-in-machine-learning-visually-explained-55b8c2099d19](https://medium.com/@ladkarsamisha123/gradient-boosting-in-machine-learning-visually-explained-55b8c2099d19)
+  * [https://ankitnitjsr13.medium.com/gradient-boosting-algorithm-800e5b2bb3e4](https://ankitnitjsr13.medium.com/gradient-boosting-algorithm-800e5b2bb3e4)
+  
 
 ### 7) HistGradientBoostingRegressor
-REFERENCE LINKS:
-- https://medium.com/@mqofori/a-first-look-at-sklearns-histgradientboostingclassifier-9f5bea611c6a
-- https://medium.com/mlearning-ai/how-i-improved-my-score-on-kaggles-june-2021-tabular-competition-by-using-bab6bbd0d803
-- https://towardsdatascience.com/the-10-best-new-features-in-scikit-learn-0-24-f45e49b6741b
-- https://towardsdatascience.com/new-features-in-scikit-learn-f0ceb7e9d2ad
-- https://www.kaggle.com/carlmcbrideellis/histogram-gradient-boosting-regression-example
-- https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingRegressor.html
-- https://machinelearningmastery.com/histogram-based-gradient-boosting-ensembles/
 
 Pros:
 - This estimator is much faster than GradientBoostingRegressor for big datasets
@@ -664,14 +661,16 @@ Cons:
 - Can overemphasize outliers 
 - Sensitive to outliers
 
+Reference links:
+  * [https://medium.com/@mqofori/a-first-look-at-sklearns-histgradientboostingclassifier-9f5bea611c6a](https://medium.com/@mqofori/a-first-look-at-sklearns-histgradientboostingclassifier-9f5bea611c6a)
+  * [https://medium.com/mlearning-ai/how-i-improved-my-score-on-kaggles-june-2021-tabular-competition-by-using-bab6bbd0d803](https://medium.com/mlearning-ai/how-i-improved-my-score-on-kaggles-june-2021-tabular-competition-by-using-bab6bbd0d803)
+  * [https://towardsdatascience.com/the-10-best-new-features-in-scikit-learn-0-24-f45e49b6741b](https://towardsdatascience.com/the-10-best-new-features-in-scikit-learn-0-24-f45e49b6741b)
+  * [https://towardsdatascience.com/new-features-in-scikit-learn-f0ceb7e9d2ad](https://towardsdatascience.com/new-features-in-scikit-learn-f0ceb7e9d2ad)
+  * [https://www.kaggle.com/carlmcbrideellis/histogram-gradient-boosting-regression-example](https://www.kaggle.com/carlmcbrideellis/histogram-gradient-boosting-regression-example)
+  * [https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingRegressor.html](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingRegressor.html)
+  * [https://machinelearningmastery.com/histogram-based-gradient-boosting-ensembles/](https://machinelearningmastery.com/histogram-based-gradient-boosting-ensembles/)
 
 ### 8) PoissonRegressor
-REFERENCE LINKS:
-- https://medium.com/@kn12/poisson-regression-implementation-python-28d15e95dc15
-- https://timeseriesreasoning.com/contents/poisson-regression-model/
-- https://www.kaggle.com/gauravduttakiit/explore-the-poisson-regression
-- https://ml.dask.org/modules/generated/dask_ml.linear_model.PoissonRegression.html
-- https://www.statisticshowto.com/poisson-regression/
 
 Pros:
 - The Poisson model is estimated by the maximum likelihood method, the estimates are adapted to the actual data. 
@@ -688,14 +687,14 @@ Cons:
 - It can produce out-of-range predictions.
 - Poisson regression assumes that the mean and variance are the same
 
+Reference links:
+  * [https://medium.com/@kn12/poisson-regression-implementation-python-28d15e95dc15](https://medium.com/@kn12/poisson-regression-implementation-python-28d15e95dc15)
+  * [https://timeseriesreasoning.com/contents/poisson-regression-model/](https://timeseriesreasoning.com/contents/poisson-regression-model/)
+  * [https://www.kaggle.com/gauravduttakiit/explore-the-poisson-regression](https://www.kaggle.com/gauravduttakiit/explore-the-poisson-regression)
+  * [https://ml.dask.org/modules/generated/dask_ml.linear_model.PoissonRegression.html](https://ml.dask.org/modules/generated/dask_ml.linear_model.PoissonRegression.html)
+  * [https://www.statisticshowto.com/poisson-regression/](https://www.statisticshowto.com/poisson-regression/)
 
-### 9) LGBMRegressor
-REFERENCE LINKS:
-- https://machinelearningmastery.com/light-gradient-boosted-machine-lightgbm-ensemble/
-- https://www.programcreek.com/python/example/88794/lightgbm.LGBMRegressor
-- https://lightgbm.readthedocs.io/en/latest/pythonapi/lightgbm.LGBMRegressor.html
-- https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc
-- https://medium.com/analytics-vidhya/lightgbm-for-regression-with-categorical-data-b08eaff501d1
+### 9) LGBMRegressor 
 
 Pros:
 - Faster training speed and higher efficiency: Light GBM use histogram based algorithm i.e it buckets continuous feature values into discrete bins which fasten the training procedure.
@@ -712,11 +711,15 @@ Cons:
 - There is no threshold on the number of rows
 - Need to use tuning to avoid overfitting, or speeding up the task and to achieve good accuracy.
 
+Reference links:
+  * [https://machinelearningmastery.com/light-gradient-boosted-machine-lightgbm-ensemble/](https://machinelearningmastery.com/light-gradient-boosted-machine-lightgbm-ensemble/)
+  * [https://www.programcreek.com/python/example/88794/lightgbm.LGBMRegressor](https://www.programcreek.com/python/example/88794/lightgbm.LGBMRegressor)
+  * [https://lightgbm.readthedocs.io/en/latest/pythonapi/lightgbm.LGBMRegressor.html](https://lightgbm.readthedocs.io/en/latest/pythonapi/lightgbm.LGBMRegressor.html)
+  * [https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc](https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc)
+  * [https://medium.com/analytics-vidhya/lightgbm-for-regression-with-categorical-data-b08eaff501d1](https://medium.com/analytics-vidhya/lightgbm-for-regression-with-categorical-data-b08eaff501d1)
 
 ### 10) Decision Tree Regression : 	
-REFERENCE LINKS: 
-- https://www.upgrad.com/blog/pros-and-cons-of-decision-tree-regression-in-machine-learning/
-   			   
+			   
 Pros:
 - The decision tree model can be used for both classification and regression problems, and it is easy to interpret, understand, and visualize. 
 - The output of a decision tree can also be easily understood. 
@@ -731,10 +734,11 @@ Cons:
 - Calculations involved can also become complex compared to other algorithms, and it takes a longer time to train the model. 
 - It is also relatively expensive as the amount of time taken and the complexity levels are greater.
 
+Reference links:
+  * [https://www.upgrad.com/blog/pros-and-cons-of-decision-tree-regression-in-machine-learning/](https://www.upgrad.com/blog/pros-and-cons-of-decision-tree-regression-in-machine-learning/)
+
 
 ### 11) LinearRegression 
-REFERENCE LINKS: 
-- https://medium.com/@satyavishnumolakala/linear-regression-pros-cons-62085314aef0              
 
 Pros:
 - Simple model : 
@@ -759,12 +763,11 @@ Linear regression looks at a relationship between the mean of the predictor/depe
 As discussed in the "Assumes independent variables" point, in cases of high multicollinearity, 2 features that have high correlation will affect each other's weight. 
 If we run stochastic linear regression multiple times, the result may be different weights each time for these 2 features. So, it's we cannot really interpret the importance of these features.
 
+Reference links:
+  * [https://medium.com/@satyavishnumolakala/linear-regression-pros-cons-62085314aef0](https://medium.com/@satyavishnumolakala/linear-regression-pros-cons-62085314aef0)
 
 ### 12) LARS : 
-REFERENCE LINKS: 
-- https://venali.medium.com/conventional-guide-to-supervised-learning-with-scikit-learn-least-angle-regression-generalized-11b4ce2dec89
-- https://www.physio-pedia.com/Ligament_Augmentation_and_Reconstruction_System_(LARS)
-   			   
+			   
 Pros:
 - Computationally as fast as forward selection but may sometimes be more accurate.
 - Numerically very efficient when the number of features is much larger than the number of data instances.
@@ -779,11 +782,12 @@ Cons:
 - Residual post-operative laxity still present
 - Requires tissue remnants of the ACL to be used in reconstruction
 
+Reference links:
+  * [https://venali.medium.com/conventional-guide-to-supervised-learning-with-scikit-learn-least-angle-regression-generalized-11b4ce2dec89](https://venali.medium.com/conventional-guide-to-supervised-learning-with-scikit-learn-least-angle-regression-generalized-11b4ce2dec89)
+  * [https://www.physio-pedia.com/Ligament_Augmentation_and_Reconstruction_System_(LARS)](https://www.physio-pedia.com/Ligament_Augmentation_and_Reconstruction_System_(LARS))
 
 ### 13) SGD : 	
-REFERENCE LINKS:  
-- https://www.quora.com/What-are-the-pros-and-cons-of-stochastic-gradient-descent-versus-Adam-as-optimisation-algorithms-used-in-Keras-machine-learning
-   			   
+			   
 Pros:
 - In stochastic Gradient descent (SGD),s-and-cons-of-stochastic-gradient-descent-versus-Adam-as-optimisation-algorithms-used-in-Keras-machine-learning
    			   
@@ -801,10 +805,11 @@ Cons:
 - Frequent updates are computationally expensive because of using all resources for processing one training sample at a time.
 - It loses the advantage of vectorized operations as it deals with only a single example at a time.
 
+Reference links:
+  * [https://www.quora.com/What-are-the-pros-and-cons-of-stochastic-gradient-descent-versus-Adam-as-optimisation-algorithms-used-in-Keras-machine-learning](https://www.quora.com/What-are-the-pros-and-cons-of-stochastic-gradient-descent-versus-Adam-as-optimisation-algorithms-used-in-Keras-machine-learning)
+
 
 ### 14) Lasso Regression : 
-REFERENCE LINKS: 
-- https://www.quora.com/What-are-the-pros-and-cons-of-lasso-regression
 
 Pros: 
 - As any regularization method, it can avoid overfitting. It can be applied even when number of features is larger than number of data.
@@ -820,4 +825,6 @@ Cons:
 - Based on my experience, its prediction performance is usually worse than ridge regression in terms of mse.
 - Prediction performance is worse than Ridge regression.
 
+Reference links:
+  * [https://www.quora.com/What-are-the-pros-and-cons-of-lasso-regression](https://www.quora.com/What-are-the-pros-and-cons-of-lasso-regression)
 
