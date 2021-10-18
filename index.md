@@ -56,6 +56,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Youth Investors Club](yic.md)
   * [Updating PyPi Package](pypi.md)
   * [Pretty Metrics](prettymetrics.md)
+  * [Learning Analytics](Learning-analytics.md)
 
 
 ## AWS 
