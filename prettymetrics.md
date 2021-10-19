@@ -203,6 +203,70 @@ Cons:
 Reference links:
   * [https://dhirajkumarblog.medium.com/top-5-advantages-and-disadvantages-of-decision-tree-algorithm-428ebd199d9a](https://dhirajkumarblog.medium.com/top-5-advantages-and-disadvantages-of-decision-tree-algorithm-428ebd199d9a)
 
+### 12) MLP Classifier
+
+PROS:
+- It can be applied to complex non-linear problems.
+- It works well with large input data.
+- It provides quick predictions after training.
+- The same accuracy ratio can be achieved even with smaller data.
+- It has the capability to learn models in real-time (on-line learning).
+
+CONS:
+- It is not known to what extent each independent variable is affected by the dependent variable. 
+- Computations are difficult and time consuming.
+- The proper functioning of the model depends on the quality of the training.
+- It is sensitive to feature scaling
+- It requires tuning a number of hyperparameters such as the number of hidden neurons, layers, and iterations.
+
+Reference links:
+* [https://www.researchgate.net/figure/Multilayer-Perceptron-Advantages-and-Disadvantages_tbl4_338950098] (https://www.researchgate.net/figure/Multilayer-Perceptron-Advantages-and-Disadvantages_tbl4_338950098)
+* [https://scikit-learn.org/stable/modules/neural_networks_supervised.html]
+(https://scikit-learn.org/stable/modules/neural_networks_supervised.html)
+
+### 13) SVC
+
+PROS:
+- It works best for low-dimensional data.
+- It provides specialized algorithms for computing the clusters by only computing a subset of the edges in the adjacency matrix.
+- It is insensitive to penalty factor C.
+- It has on-line learning ability.
+- It restrains the effect of outliers
+
+CONS:
+- It requires an extra preprocessing step for high-dimensional data.
+- It requires pricey storage for kernel matrix.
+- It is a complex model with a number of parameters.
+- Degraded ability of shrinking contour in profiling cluster.
+- There is limited improvements on effiency for non-SVs retained.
+
+Reference links:
+* [http://www.scholarpedia.org/article/Support_vector_clustering] (http://www.scholarpedia.org/article/Support_vector_clustering)
+* [https://www.researchgate.net/publication/267512308_Recent_Advances_in_Support_Vector_Clustering_Theory_and_Applications] (https://www.researchgate.net/publication/267512308_Recent_Advances_in_Support_Vector_Clustering_Theory_and_Applications)
+
+### 14) KNeighborsClassifier
+
+PROS:
+- It is faster than most algorithms as it is simple and intutive.
+- It does not require additional training when new data is provided.
+- It is easy to implement it for multi-class problems.
+- It does not explicitly build a model and thus there is no training step.
+- It gives the user flexibility to choose the proximity.
+
+CONS:
+- It results in poor performance on imbalanced data.
+- If the K value is chosen incorrectly, the model will be under or overfitted to the data.
+- We must explicitly mention the Eucledian distance to find the proximity.
+- It is imperative to scale the data.
+- It demands for high memory.
+
+Reference links:
+* [https://towardsdatascience.com/k-nearest-neighbours-explained-7c49853633b6] (https://towardsdatascience.com/k-nearest-neighbours-explained-7c49853633b6)
+* [https://towardsdatascience.com/k-nearest-neighbor-python-2fccc47d2a55] (https://towardsdatascience.com/k-nearest-neighbor-python-2fccc47d2a55)
+* [https://www.fromthegenesis.com/pros-and-cons-of-k-nearest-neighbors/] (https://www.fromthegenesis.com/pros-and-cons-of-k-nearest-neighbors/)
+
+
+
 ##Regression
 
 ### 1) SVR:
@@ -827,4 +891,24 @@ Cons:
 
 Reference links:
   * [https://www.quora.com/What-are-the-pros-and-cons-of-lasso-regression](https://www.quora.com/What-are-the-pros-and-cons-of-lasso-regression)
+
+### 15) ExtraTreesRegressor
+
+PROS:
+- It reduces the variance of the model to a great extent.
+- The execution time is faster.
+- It adds randomisation but still has optimization.
+- There is no repetition of data.
+- Has high performance with noisy features.
+
+CONS:
+- There is a greater increase in bias.
+- It randomly chooses the split point and not the optimal one.
+- It involves higher number of iterations.
+
+Reference links:
+* [https://scikit-learn.org/stable/modules/ensemble.html#forest](https://scikit-learn.org/stable/modules/ensemble.html#forest)
+* [https://scikit-learn.org/stable/modules/ensemble.html#forest](https://scikit-learn.org/stable/modules/ensemble.html#forest)
+* [https://stats.stackexchange.com/questions/175523/difference-between-random-forest-and-extremely-randomized-trees](https://stats.stackexchange.com/questions/175523/difference-between-random-forest-and-extremely-randomized-trees)
+* [https://www.kaggle.com/hkapoor/random-forest-vs-extra-trees] (https://www.kaggle.com/hkapoor/random-forest-vs-extra-trees)
 
