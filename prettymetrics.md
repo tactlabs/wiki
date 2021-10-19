@@ -782,7 +782,7 @@ Reference links:
   * [https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc](https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc)
   * [https://medium.com/analytics-vidhya/lightgbm-for-regression-with-categorical-data-b08eaff501d1](https://medium.com/analytics-vidhya/lightgbm-for-regression-with-categorical-data-b08eaff501d1)
 
-### 10) Decision Tree Regression : 	
+### 10) Decision Tree Regression 
 			   
 Pros:
 - The decision tree model can be used for both classification and regression problems, and it is easy to interpret, understand, and visualize. 
@@ -830,7 +830,7 @@ If we run stochastic linear regression multiple times, the result may be differe
 Reference links:
   * [https://medium.com/@satyavishnumolakala/linear-regression-pros-cons-62085314aef0](https://medium.com/@satyavishnumolakala/linear-regression-pros-cons-62085314aef0)
 
-### 12) LARS : 
+### 12) LARS 
 			   
 Pros:
 - Computationally as fast as forward selection but may sometimes be more accurate.
@@ -850,7 +850,7 @@ Reference links:
   * [https://venali.medium.com/conventional-guide-to-supervised-learning-with-scikit-learn-least-angle-regression-generalized-11b4ce2dec89](https://venali.medium.com/conventional-guide-to-supervised-learning-with-scikit-learn-least-angle-regression-generalized-11b4ce2dec89)
   * [https://www.physio-pedia.com/Ligament_Augmentation_and_Reconstruction_System_(LARS)](https://www.physio-pedia.com/Ligament_Augmentation_and_Reconstruction_System_(LARS))
 
-### 13) SGD : 	
+### 13) SGD 
 			   
 Pros:
 - In stochastic Gradient descent (SGD),s-and-cons-of-stochastic-gradient-descent-versus-Adam-as-optimisation-algorithms-used-in-Keras-machine-learning
@@ -873,7 +873,7 @@ Reference links:
   * [https://www.quora.com/What-are-the-pros-and-cons-of-stochastic-gradient-descent-versus-Adam-as-optimisation-algorithms-used-in-Keras-machine-learning](https://www.quora.com/What-are-the-pros-and-cons-of-stochastic-gradient-descent-versus-Adam-as-optimisation-algorithms-used-in-Keras-machine-learning)
 
 
-### 14) Lasso Regression : 
+### 14) Lasso Regression 
 
 Pros: 
 - As any regularization method, it can avoid overfitting. It can be applied even when number of features is larger than number of data.
@@ -892,7 +892,7 @@ Cons:
 Reference links:
   * [https://www.quora.com/What-are-the-pros-and-cons-of-lasso-regression](https://www.quora.com/What-are-the-pros-and-cons-of-lasso-regression)
 
-### 15) ExtraTreesRegressor
+### 15) ExtraTreesRegressor 
 
 PROS:
 - It reduces the variance of the model to a great extent.
@@ -911,4 +911,27 @@ Reference links:
 * [https://scikit-learn.org/stable/modules/ensemble.html#forest](https://scikit-learn.org/stable/modules/ensemble.html#forest)
 * [https://stats.stackexchange.com/questions/175523/difference-between-random-forest-and-extremely-randomized-trees](https://stats.stackexchange.com/questions/175523/difference-between-random-forest-and-extremely-randomized-trees)
 * [https://www.kaggle.com/hkapoor/random-forest-vs-extra-trees] (https://www.kaggle.com/hkapoor/random-forest-vs-extra-trees)
+
+### 16) Kernel Ridge 
+
+PROS:
+- There exists formulas to computer the leave-one-out mean-squared error.
+- It handles the problem of overfitting.
+- It works really well with datasets having large number of features than training samples.
+- It improves the least square estimate.
+- The computational effiency for lower dimensional data is high.
+- It maintains the magnitude of the coefficient as small as possible.
+
+
+CONS:
+- It uses all the input features in the dataset, unlike step-wise methods that only select a few important features for regression.
+- It reduces the coefficients theta to very low values if the feature is not important, but it won't completely make them zero.
+- The output is not unbiased.
+- It is not the best option for collinear data.
+- Bias-variance tradeoff must be used if regularisation is performed.
+
+Reference links:
+* [http://clopinet.com/isabelle/Projects/ETH/KernelRidge.pdf](http://clopinet.com/isabelle/Projects/ETH/KernelRidge.pdf)
+* [https://iq.opengenus.org/ridge-regression/](https://iq.opengenus.org/ridge-regression/)
+* [https://www.quora.com/What-are-the-advantages-and-disadvantages-of-using-regularization-methods-like-Ridge-regression](https://www.quora.com/What-are-the-advantages-and-disadvantages-of-using-regularization-methods-like-Ridge-regression)
 
