@@ -57,7 +57,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Updating PyPi Package](pypi.md)
   * [Pretty Metrics](prettymetrics.md)
   * [Learning Analytics](Learning-analytics.md)
-
+  * [AWS Exam](aws_exam.md)
 
 ## AWS 
   * [AWS Commands](aws-commands.md)
