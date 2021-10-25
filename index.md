@@ -173,3 +173,4 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 ## Featurepreneur
  * [Featurepreneur Responsibilities and Beneifits](featurepreneur-benefits-and-responsibilities.md)
+ * [How to view courses on Featurepreneur](how-to-view-courses.md)
