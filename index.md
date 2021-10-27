@@ -162,6 +162,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 ## Programs
   * [Interactive Micro Learning](interactive-micro-learning.md)
+  * [AWS Cohort Season 1](aws-cohort-s01.md)
 
 ## TactLab Interns / Online Resumes
   * [Tact Labs Interns History](tactlabs-interns-history.md)
