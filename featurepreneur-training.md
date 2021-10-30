@@ -14,3 +14,42 @@ Student Mentor Benefits:
  - Regualar trendy courses
  - Biweekly wishlist
  - Mentor certificate
+
+Features:
+- emphasis on industrial and error scenarios, error logs
+
+- non tech events - 30%
+
+- engagement based scoring system
+
+- student referral discount
+
+- upgrade mentors from level 1-5
+
+- data, machine learning, cloud computing, microservices and cloud native
+
+- MLOps, DevOps, backend engineer, data scientist paths
+
+- hybrid learning ( live and recorded session) 
+
+- gamified learning
+
+- macro-hackathon for learners 
+
+- 1-2 capstone projects
+
+- strategic games - age of empires
+
+- orientation + 2 day free trial classes
+
+- errorathon event
+
+- focus on communication skills
+
+- mentors - extra tact coins (based on learners votes)
+
+- learners get diff tasks  
+
+- diff levels for learners (level based learning)
+
+- course video management system
