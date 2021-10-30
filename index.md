@@ -110,6 +110,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 ## TACT Training Programs
   * [JSaaS - Job Shadowing as a Service](jsaas.md)
+  * [Featurepreneur Training](featurepreneur-training.md)
 
 ## TACT Reserach
   * [Research Partnership](research-partnership.md)
