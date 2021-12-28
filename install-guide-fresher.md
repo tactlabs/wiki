@@ -63,6 +63,9 @@ sudo apt install git
 ```
 
 
+
+
+
 Add ssh:
 ```
 ssh-keygen -t rsa -b 4096 -C "youremail@gmail.com"
@@ -82,16 +85,30 @@ wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 chmod +x Miniconda3-latest-Linux-x86_64.sh
 ./Miniconda3-latest-Linux-x86_64.sh
 ```
+
 Once you're done with the above steps, close the terminal and open it again. Then type in the following command:
 ```
 conda config --set auto_activate_base false
 ```
+
 To create a new environment, follow the command below:
 ```
 conda create -n py38 -y python=3.8
 ```
+
 To activate and deactivate the environment, type in the commands below:
 ```
 conda activate py38
 conda deactivate
+```
+
+
+Install jupyter lab on Conda:
+```
+pip install jupyterlab
+```
+
+Once, you have installed jupyter lab, use this command on Conda to open:
+```
+jupyter lab
 ```
