@@ -14,6 +14,8 @@ sudo apt update
 sudo apt install snapd
 sudo snap install joplin-desktop
 ```
+
+
 Docker:
 ```
 sudo apt install docker.io
@@ -22,31 +24,45 @@ Type in the following to verify if docker has been installed:
 ```
 sudo docker
 ```
+
+
 Postman:
 ```
 sudo snap install postman
 ```
+
+
 Apt installation:
 ```
 sudo apt update
 sudo apt install snapd
 ```
+
+
 Install Visual Studio Code:
 ```
 sudo snap install --classic code
 ```
+
+
 Install zoom:
 ```
 sudo snap install zoom-client
 ```
+
+
 Install slack:
 ```
 sudo snap install slack --classic
 ```
+
+
 Install git:
 ```
 sudo apt install git
 ```
+
+
 Add ssh:
 ```
 ssh-keygen -t rsa -b 4096 -C "youremail@gmail.com"
@@ -57,6 +73,7 @@ cat ~/.ssh/id_rsa.pub
 Once you're done with the above commands, copy the SSH key generated and add it in GitHub.
 
 To do so, go to settings on GitHub, then you will find SSH and GPG keys on the left hand side panel. Go into it and add in the SSH key generated and name it.
+
 
 Mini conda installation:
 ```
