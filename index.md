@@ -140,6 +140,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ## Learning Research
   * [Learning with RJ CSP](learn-with-rj-csp.md)
   * [Give them a laptop](give-them-a-laptop.md)
+  * [Convenfiaga - Code Night with RJ CSP](convenfiaga.md)
 
 ## Reading
   * [HBR Readers' Club - Summary](hbr-readers-club.md)

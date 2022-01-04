@@ -1,6 +1,6 @@
 # Job Shadowing as a Certificate  (JSaaC)
 
-**Note:** Get the Industrial Glimpse a peek!
+**Note:** Get the Industrial Glimpse!
 
 ### Job Shadowing:
 - Watch how our team members solve everyday technical problems
@@ -14,13 +14,13 @@
 - Once you finished, you will have to write an article about JSaaC on Medium
 - You need to share the Learning Analytics, DailyLog, ErrorLog, GitHub handle, Ubuntu history
 - You need to share the timesheet (Google Sheet)
-
-
+- You need to write 5 Medium articles on the technologies you learned in JoSh
 
 ### Benefits:
 - Top 2-5 members will be selected for Internship
 - Whover finished 100 hours with minimum score will get the JSaaS Certificate and will be given higher priority in our upcoming Intern hiring process.
 
-
 ### Fee:
-59800 Tact Credits
+50 Hours  - 50,000 Tact Credits
+100 Hours - 60,000 Tact Credits
+500 Hours - 300,000 Tact Credits
