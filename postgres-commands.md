@@ -1,6 +1,6 @@
 / [Home](index.md)
 
-# Tempalte
+# Postgres Commands
 
 **Note:** tbw
 

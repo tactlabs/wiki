@@ -1,6 +1,6 @@
 / [Home](index.md)
 
-# Tempalte
+# Public APIs
 
 **Note:** notes
 

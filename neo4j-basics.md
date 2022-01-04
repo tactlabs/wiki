@@ -1,6 +1,6 @@
 / [Home](index.md)
 
-# Tempalte
+# Neo4J Basics
 
 **Note:** notes
 

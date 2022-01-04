@@ -1,6 +1,6 @@
 / [Home](index.md)
 
-# Tempalte
+# How to Install Ubuntu
 
 **Note:** tbw
 

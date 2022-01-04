@@ -1,6 +1,6 @@
 / [Home](index.md)
 
-# Tempalte
+# pbcopy on Ubuntu
 
 **Note:** notes
 

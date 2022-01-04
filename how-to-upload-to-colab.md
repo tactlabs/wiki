@@ -1,6 +1,6 @@
 / [Home](index.md)
 
-# Tempalte
+# How to Upload to Colab?
 
 **Note:** notes
 

@@ -1,6 +1,6 @@
 / [Home](index.md)
 
-# Tempalte
+# How to Show File Extension in Windows?
 
 **Note:** notes
 

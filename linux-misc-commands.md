@@ -1,6 +1,6 @@
 / [Home](index.md)
 
-# Tempalte
+# Linux Misc Commands
 
 **Note:** tbw
 
