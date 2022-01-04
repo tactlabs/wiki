@@ -13,3 +13,8 @@
 
 <embed src="http://africau.edu/images/default/sample.pdf" width="500" height="375" type="application/pdf">
 
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
