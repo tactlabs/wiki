@@ -5,7 +5,6 @@
 **Note:** Everyone is Born Equal!
 
 
-
 We believe in EiE!!
 ```
 Everyone is Equal.
