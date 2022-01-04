@@ -2,7 +2,7 @@
 
 # Equality
 
-**Note:** tbw
+**Note:** Everyone is Born Equal!
 
 
 
