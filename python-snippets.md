@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # Python Snippets
 
 **Note:** All python snippets come here

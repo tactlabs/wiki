@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # Tact Rules
 
 **Note:** Yes, we have simple 3 line rules

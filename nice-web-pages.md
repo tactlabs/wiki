@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # Nice Web Pages
 
 **Note:** Cutes pages come here

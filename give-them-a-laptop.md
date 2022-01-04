@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # Give 'em a Laptop
 
 **Note:** a new initiative from Tact Labs

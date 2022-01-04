@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # Jina AI Challenge
 
 Build and deploy your AI-powered search applications in seconds with Jina’s open-source tech stack

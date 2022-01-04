@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # MLNotes with Hugo
 
 **Note:** Create your ML Notes with Hugo Server

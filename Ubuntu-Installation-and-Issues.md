@@ -1,4 +1,6 @@
-Ubuntu Installation & Issues
+/ [Home](index.md)
+
+# Ubuntu Installation & Issues
 
 -------------------------------------------------------------------
 ### Ubuntu Installation

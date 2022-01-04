@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # Tact OS and Git Rules
 
 **Note:** We apply these rules every day!

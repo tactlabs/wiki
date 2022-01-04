@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # Influx DB Commands
 
 **Note:** Got some measurements for us?

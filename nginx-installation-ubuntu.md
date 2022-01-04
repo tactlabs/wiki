@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # Nginx Installation - Ubuntu
 
 **Note:** nginx is a load balancer

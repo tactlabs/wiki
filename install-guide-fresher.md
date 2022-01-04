@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # Installation guide for Freshers
 
 A guide to help you through the basic installation for ubuntu!

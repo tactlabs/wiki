@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # MinIO Commands
 
 **Note:** notes

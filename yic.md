@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # YIC
 
 ## Youth Investors Club

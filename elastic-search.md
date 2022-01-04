@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # How to setup Elastic Search?
 
 **Note:** Go Elastic when you search local

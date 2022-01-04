@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # Intern day off
 
 ## Steps to follow when taking a day off:

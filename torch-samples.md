@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # Torch Samples
 
 **Note:** Basics Torch Samples come here

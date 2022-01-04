@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # Hustlers' Club
 
 **Note:** Hustle until you get it, whatever the hell it is!

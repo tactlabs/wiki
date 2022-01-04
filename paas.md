@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # Tempalte
 
 **Note:** notes

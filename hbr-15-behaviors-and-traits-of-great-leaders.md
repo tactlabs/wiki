@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # HBR Readers Club
 
 **Note:** All discussions and summary about HBR articles

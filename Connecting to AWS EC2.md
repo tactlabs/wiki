@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # Connecting to AWS EC2
 
 **Note :** .pem file is required.Keep the .pem file inside a directory

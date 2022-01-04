@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # AWS Configure
 
 **Note:** All configuration related to AWS

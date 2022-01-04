@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # Instagram Downloader
 
 **Note:** just dload

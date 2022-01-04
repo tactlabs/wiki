@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # Hugo Commands
 
 **Note:** Hugo

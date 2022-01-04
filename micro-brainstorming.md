@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # Micro Brainstorming
 
 **Note:** Do it quick but do it right!

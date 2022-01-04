@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # Ubuntu Errors
 
 ## When Ubuntu Login defaults to Terminal Instead of desktop:

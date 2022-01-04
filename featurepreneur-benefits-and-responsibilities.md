@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # Featurepreneur Benefits and Responsibilities
 
 ## Responsibilities:

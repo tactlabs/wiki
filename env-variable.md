@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # How to set evironment variable in Ubuntu
 
 **Note:** You need an environment variable, right?

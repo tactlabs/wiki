@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # applied-ml
 Curated papers, articles, and blogs on **data science & machine learning in production**. ⚙️
 

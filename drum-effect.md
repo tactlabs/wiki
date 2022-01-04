@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # Drum Effect
 
 When we do the social analytics on "Opportunity Index", we found a new thing: only two communities suffer the most in South India.

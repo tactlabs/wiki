@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # Online Sample Resumes
 
 **Note:** Make your online footprint hard

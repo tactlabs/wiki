@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # Luigi
 
 **Note:** notes

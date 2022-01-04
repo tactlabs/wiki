@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # Tact GIT Conventions
 
 **Note:** code like a pro~

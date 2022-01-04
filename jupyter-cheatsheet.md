@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # Jupyter Cheatsheet
 
 **Note:** 

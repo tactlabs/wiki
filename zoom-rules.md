@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # Zoom Rules
 
 1. Do not Open or Close Breakout Rooms without authorization

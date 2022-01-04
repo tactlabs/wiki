@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # TACT Labs Wiki
 
 ## TactLabs

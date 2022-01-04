@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # Gush
 
 **Note:** quick git push for one-way commits

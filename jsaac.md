@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # Job Shadowing as a Certificate  (JSaaC)
 
 **Note:** Get the Industrial Glimpse!
@@ -21,6 +23,6 @@
 - Whover finished 100 hours with minimum score will get the JSaaS Certificate and will be given higher priority in our upcoming Intern hiring process.
 
 ### Fee:
-50 Hours  - 50,000 Tact Credits
-100 Hours - 60,000 Tact Credits
-500 Hours - 300,000 Tact Credits
+- 50 Hours  - 50,000 Tact Credits
+- 100 Hours - 60,000 Tact Credits
+- 500 Hours - 300,000 Tact Credits

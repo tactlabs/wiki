@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # Zsh Terminal 
 
 Zsh Terminal

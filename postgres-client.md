@@ -1,3 +1,5 @@
+/ [Home](index.md)
+
 # Postgres client
 
 sudo curl https://www.pgadmin.org/static/packages\_pgadmin\_org.pub | sudo apt-key add
