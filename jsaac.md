@@ -1,0 +1,26 @@
+# Job Shadowing as a Certificate  (JSaaC)
+
+**Note:** Get the Industrial Glimpse a peek!
+
+### Job Shadowing:
+- Watch how our team members solve everyday technical problems
+- Get the assignments done if our team members give you anything
+- Our team members might give their routine work to you to save their time as they focus on bigger things. You need to finish them on time
+
+### Rules:
+- You can use Tact Credits for JSaaC (Job Shadowing As a Certificate)
+- You need to install Ubuntu
+- You need finish 100 Hours/500 Hours of JoSh (Job Shadowing)
+- Once you finished, you will have to write an article about JSaaC on Medium
+- You need to share the Learning Analytics, DailyLog, ErrorLog, GitHub handle, Ubuntu history
+- You need to share the timesheet (Google Sheet)
+
+
+
+### Benefits:
+- Top 2-5 members will be selected for Internship
+- Whover finished 100 hours with minimum score will get the JSaaS Certificate and will be given higher priority in our upcoming Intern hiring process.
+
+
+### Fee:
+59800 Tact Credits
