@@ -98,7 +98,6 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ## Tact Internship/Certificates
   * [Intern Opportunity](tact-internship.md)
   * [Intern Checklist](intern-checklist.md)
-  * [Job Shadowing as a Certificate / JSaaC](jsaac.md)
 
 ## TACT PaaS / BaaS
   * [PaaS](paas.md)
@@ -110,7 +109,8 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Various Effects](various-effects.md)
 
 ## TACT Training Programs
-  * [JSaaS - Job Shadowing as a Service](jsaas.md)
+  * [JSaaS - Job Shadowing as a Service - Legacy](jsaas.md)
+  * [JSaaC - Job Shadowing as a Certificate](jsaac.md)
   * [Featurepreneur Training](featurepreneur-training.md)
 
 ## TACT Reserach
