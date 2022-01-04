@@ -56,7 +56,6 @@ IVQ:
 ------------------------/
 
 
-https://github.com/chrisalbon/notes
 
 ------------------------
 https://github.com/tactlabs/CNERgy
@@ -85,11 +84,6 @@ https://www.youtube.com/watch?v=DsC-cEMJVCk
 ------------------------/
 
 
-------------------------
-We meet many people every day, but only some leave an impression, and one of them is Smriti.
-Her expertise as a developer is considerable, and it helped our team come up with more efficient solutions on different projects.
-We reached out to her for an AMA session at the Featurepreneur community to which she responded with enthusiasm and motivated our students into exploring their respective domains. They had an amazing time with her and she maintained a comfortable environment throughout the session. She showcased and encouraged all of the participants into prioritizing their mental health. She definitely fits the Student-Icon model. She is a very down-to-earth, knowledgable and kind person who is very open to answering inquisitive minds.
-------------------------/
 
 ML Posts
 https://www.linkedin.com/posts/justmarkham_python-machinelearning-datascience-activity-6853694966024286209-AZXJ
