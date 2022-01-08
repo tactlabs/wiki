@@ -60,6 +60,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [AWS Exam](aws_exam.md)
   * [Daily Log](daily-log.md)
   * [Error Log / Error Archive](error-log.md)
+  * [New Profile creation in Terminal](tact-terminal-profile.md)
 
 ## AWS 
   * [AWS Commands](aws-commands.md)
