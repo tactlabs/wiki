@@ -61,6 +61,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Daily Log](daily-log.md)
   * [Error Log / Error Archive](error-log.md)
   * [New Profile creation in Terminal](tact-terminal-profile.md)
+  * [Snap Issues](snap-issues.md)
 
 ## AWS 
   * [AWS Commands](aws-commands.md)
