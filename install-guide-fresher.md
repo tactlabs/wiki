@@ -2,6 +2,9 @@
 
 # Installation guide for Freshers
 
+Note:
+Mac Users, please scroll down and check the bottom
+
 A guide to help you through the basic installation for ubuntu!
 Brave installation:
 
@@ -135,3 +138,48 @@ Once, you have installed jupyter lab, use this command on Conda to open:
 ```
 jupyter lab
 ```
+
+
+
+
+### Applicably only for Mac Users:
+
+Homebrew
+```
+xcode-select --install
+
+for High Sierra, Sierra, El Capitan:
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+for Catalina, Mojave, or Big Sur or updated:
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+
+verify:
+brew --version
+
+ref:
+https://phoenixnap.com/kb/install-homebrew-on-mac
+```
+
+
+Wget:
+```
+brew install wget
+
+ref:
+https://www.fossmint.com/install-and-use-wget-on-mac/
+```
+
+
+VSCode
+```
+brew update
+brew tap caskroom/cask
+brew cask search visual-studio-code
+
+brew cask install visual-studio-code 
+
+ref:
+https://tecadmin.net/install-visual-studio-code-on-macos/
+```
+
