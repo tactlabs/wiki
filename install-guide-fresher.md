@@ -17,6 +17,14 @@ sudo apt install snapd
 sudo snap install joplin-desktop
 ```
 
+Install cURL:
+```
+sudo apt update
+sudo apt -y install curl
+```
+
+
+
 
 Docker:
 ```
@@ -25,6 +33,13 @@ sudo apt install docker.io
 Type in the following to verify if docker has been installed:
 ```
 sudo docker
+```
+
+
+Docker compose:
+```
+sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+sudo chmod +x /usr/local/bin/docker-compose
 ```
 
 
