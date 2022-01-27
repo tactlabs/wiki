@@ -20,7 +20,7 @@ conda config --set auto_activate_base false
 Install Miniconda in windows
 ```
 Go to https://docs.conda.io/en/latest/miniconda.html
-Select Python 3.7
+Select Python 3.8
 ```
 [ref](https://docs.conda.io/en/latest/miniconda.html)
 
@@ -41,10 +41,10 @@ You should see like this:
 (base) 
 
 Run this command:
-conda create -n py37 -y python=3.7
+conda create -n py38 -y python=3.8
 
 To activate conda:
-conda activate py37
+conda activate py38
 
 To deactivate:
 conda deactivate
@@ -57,7 +57,7 @@ In your console (conda prompt), type this:
 python --version
 
 You should see
-python 3.7
+python 3.8
 ```
 
 
