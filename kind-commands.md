@@ -101,9 +101,7 @@ get all running nodes :
 kind get nodes
 ```
 ----------------
-```
 
-```
 
 ### Ref :
 
