@@ -48,43 +48,55 @@ kubectl rollout restart deployment/(app-name)
 
 ```
 
+
 kind loading an image:
+
 ```
 kind load docker-image finance-app --name cluster-name
-
+```
 
 kind creating a cluster:
+
 ```
 kind create cluster --name mycluster
 ```
+
 
 ```
 kubectl cluster-info --context kind-myclustergcp
 ```
 
 get all images in kind:
+
 ```
 docker exec -it my-node-name crictl images
 ```
 
 
 rollout:
+
 ```
 kubectl rollout restart deployment/finance-app 
 ```
 
+
 delete kind cluster:
+
 ```
 kind delete cluster --name mycluster
 ```
 
 
+
 get all running clusters :
+
 ```
 kind get clusters
 ```
 
+
 get all running nodes :
+
 ```
 kind get nodes
 ```
