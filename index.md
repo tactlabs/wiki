@@ -63,7 +63,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Error Log / Error Archive](error-log.md)
   * [New Profile creation in Terminal](tact-terminal-profile.md)
   * [Snap Issues](snap-issues.md)
-  * [React Native Installation](react-native-installation-commands.md)
+
 ## AWS 
   * [AWS Commands](aws-commands.md)
   * [AWS ECS Commands](aws-ecs-commands.md)
@@ -76,6 +76,10 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Tact Deadline Rules](tact-deadline-rule.md)
   * [Equality](equality.md)
   * [Tact Intern Day Off](Intern-day-off.md)
+
+## React Native
+  * [React Native Installation](react-native-installation-commands.md)
+  * [APK File Generation](apk-file.md)
 
 ## TACT ML / DL
   * [ML Libraries](ml-libraries.md)
