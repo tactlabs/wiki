@@ -65,7 +65,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Snap Issues](snap-issues.md)
   * [Journalctl](journalctl.md)
   * [Zoom Installation](zoom.md)
-  * [Spark](spark.md)
+  * [Spark Installation](spark.md)
 
 
 ## AWS 
