@@ -31,7 +31,7 @@ Anonymous Atlanta:
 ```
 Anonymous TCE'an Pune       - 20,000$CAD  - Jun 2020
 MechKey Anonymous           - 200$CAD     - Dec 2020
-The Phoenix (TCE'an)        - 40$CAD      - Dec 2020
+The Phoenix (TCE'an)        - 400$CAD     - Dec 2020
 Anonymous Atlanta (TCE'an)  - 8000$CAD    - Nov 2021
 Gokul                       - 200$CAD     - Mar 2022
 ```
