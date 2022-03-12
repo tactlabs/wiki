@@ -69,12 +69,13 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Spark Installation on Mac M1](spark-on-mac-m1.md)
   * [Accessing TREB data](treb-data-access.md)
   * [SBT Installation](sbtInstall.md)
+  
 
 ## AWS 
   * [AWS Commands](aws-commands.md)
   * [AWS ECS Commands](aws-ecs-commands.md)
   * [AWS Components](aws-components.md)
-  * [AWS Cloudwatch Logs for Ubuntu instance](aws-log.md)
+  * [Jenkins setup in AWS EC2](aws-ec2-jenkins.md)
 
 ## Tact Rules / Core Values / Policies
   * [Tact OS and Git Rules](tact-os-and-git-rules.md)
