@@ -68,6 +68,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [AWS Commands](aws-commands.md)
   * [AWS ECS Commands](aws-ecs-commands.md)
   * [AWS Components](aws-components.md)
+  * [AWS Cloudwatch Logs for Ubuntu instance](aws-log.md)
 
 ## Tact Rules / Core Values / Policies
   * [Tact OS and Git Rules](tact-os-and-git-rules.md)
@@ -132,6 +133,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Postgres Commands](postgres-commands.md)
   * [AWS DB Pricing](aws-db-pricing.md)
   * [Influx DB Commands](influxdb-commands.md)
+  * [Caasandra DB Commands](cassandra-DB-commands.md)
 
 ## Public Collections
   * [Research papers](research-papers.md)
