@@ -13,6 +13,11 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 docker-compose --version
 ```
+Or
+
+```
+sudo apt install docker-compose
+```
 [Ref](https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-18-04)
 
 

@@ -63,6 +63,12 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Error Log / Error Archive](error-log.md)
   * [New Profile creation in Terminal](tact-terminal-profile.md)
   * [Snap Issues](snap-issues.md)
+  * [Journalctl](journalctl.md)
+  * [Zoom Installation](zoom.md)
+  * [Spark Installation](spark.md)
+  * [Spark Installation on Mac M1](spark-on-mac-m1.md)
+  * [Accessing TREB data](treb-data-access.md)
+  * [SBT Installation](sbtInstall.md)
 
 ## AWS 
   * [AWS Commands](aws-commands.md)
@@ -77,6 +83,10 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Tact Deadline Rules](tact-deadline-rule.md)
   * [Equality](equality.md)
   * [Tact Intern Day Off](Intern-day-off.md)
+
+## React Native
+  * [React Native Installation](react-native-installation-commands.md)
+  * [APK File Generation](apk-file.md)
 
 ## TACT ML / DL
   * [ML Libraries](ml-libraries.md)
@@ -185,3 +195,8 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ## Featurepreneur
  * [Featurepreneur Responsibilities and Beneifits](featurepreneur-benefits-and-responsibilities.md)
  * [How to view courses on Featurepreneur](how-to-view-courses.md)
+ * [Micro Investor Contibution Framework](micro-investor-contribution-framework.md)
+
+## Mythraki Languages
+  *[Mythraki languages for building event names](mythraki_languages.md)
+ * [Micro Investors Contibution Framework](micro-investor-contribution-framework.md)

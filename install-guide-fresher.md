@@ -72,9 +72,11 @@ sudo snap install --classic code
 
 
 Install zoom:
-```
-sudo snap install zoom-client
-```
+
+Use the following link :
+
+ * [Zoom Installation](zoom.md)
+
 
 
 Install slack:
