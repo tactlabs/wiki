@@ -19,7 +19,15 @@ Yagan Arun       - Tool Research, NLP, Chatbot, Learning Analytics
 
 2020 Nov - Jan
 ```
-TBW
+TBD
+```
+
+2021 Nov - Jan
+```
+Talha - AWS DevOps
+Vedha - AWS DevOps
+Ajesh - Python Backend
+Prakash - Backend, Microservices
 ```
 
 
