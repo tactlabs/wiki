@@ -122,3 +122,24 @@ Slack bot
 
 RaSa bot
 
+AWS Lambda
+
+
+
+
+**Q: How is my coding contribution being evaluated?**
+
+A: Our mentors will check your coding contribution and give you an assignment to verify your learning. Once they verified your learning, they will request our admins to give a Learning Badge for you. Learning badge might be reflected on your profile within 48 hours.
+
+
+**Q: What is Serkinti?**
+
+A: TBW
+
+
+**Q: What is Serkinti?**
+
+A: TBW
+
+
+
