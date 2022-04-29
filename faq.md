@@ -124,6 +124,14 @@ RaSa bot
 
 AWS Lambda
 
+Curl
+
+AWS Athena
+
+AWS Sagemaker
+
+MLflow
+
 
 
 
@@ -140,6 +148,13 @@ A: TBW
 **Q: What is Serkinti?**
 
 A: TBW
+
+
+**Q: Can I do internship with Windows OS?**
+
+A: Unfortunately, No. All of our work needs either Linux (Ubuntu/CentOs) or MacOS. So, we don't recommend you using Windows. We can help you out to install dual boot along with Windows so you won't have to worry about it.
+
+
 
 
 
