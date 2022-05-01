@@ -6,155 +6,92 @@
 
 
 
-**Q: How do I subscribe courses without paying money?**
+1. What are the courses we can access using the tact credits ?
+    You can access the courses in Featureprenuer website.
 
-A: Some basics courses might cost you only 6000 Tact Credits (equivalent around 200 INR). You can contribute to Code and Data Society (CaDS) and collect credits. Or you can join any of our events to win Tact credits. Once you have collected enough credits for the course, you can subscribe the courses.
+2. What is job shadowing ?
+    Job shadowing is when you observe and learn from other interns work and help them.
 
+3. Why do tactii prefer linux (ubuntu ) Operating system ?
+    As it is easier to program and operate with linux. Windows is only used by people with no programming background.
 
-**Q: How much Tact Credits can I earn for 1 hour data collection?**
+4. What are the basic knowledge required to join tact labs as an intern ?
+    Basic programming skills in python, HTML, JS
 
-A: All basic level of data collection work might get you 2000 Tact Credits for an hour. However, as some data collection is tough, you can get up to 5000 Tact credits for an hour. You can talk to our team members to get to know how much your data contribution might get you. We
+5. When will I be elligible for the tact labs internship's certificate ?
+    you will have to work for 550 hours for 3 months or more and 10 medium articles on the topic you have learned.
 
-**Q: What are leanring badges?**
+6. How long can we take break as an intern ?
+    Weekly once on week days and extended break if there are exams 
 
-A: Based on your contribution hours on the specific topic, you will get the learning badges. Learning Badges leveling from 1 to 7 where 1 is considered as the least and 7 is considered as the most. 
+7. How many hours should I work for a week ?
+    35 hours minimum 
 
-Badged Levels:
+8. At what time should i join the meet daily ?
+    Based on your availability 
 
-L1 - 10 Hours contribution
+9. What is tamzhai ?
+    Tamizhai is an app that translates tamil conversation between two people
 
-L2 - 25 Hours contribution
+10. What is social team ?
+    The social team discuss about current social and political issues
 
-L3 - 50 Hours contribution
+11. Is there any certain holidays in tactii ?
+    No, there aren't specific holidays in tact
 
-L4 - 100 Hours contribution
+12. Do I have to work on weekends ?
+    Interns are expected to work more on weekends
 
-L5 - 250 Hours contribution
+13. When can I be eligible to use the MAC SHIFT ?
+    You are eligible to use the MAC SHIFT if you have completed 1000 hours and completed 10 medium articles
 
-L6 - 500 Hours contribution
+14. How many days can I use the MAC BOOK ?
+    2 weeks
 
-L7 - 1000 Hours contribution
+15. Does tactii conduct any competitions ?
+    Yes, we conduct competitions once in 2 weeks
 
+16. How is serkinti competition played ?
+    Serkinti is a 2 player game where one person starts the game by saying a word and the other replies with a related word. The game goes till a player says a two letter word or a unrelated word
 
-**Q: How do I get an Internship with TactLabs?**
+17. What is AOE ?
+    AGE OF EMPIRES is a strategic game on building kingdoms. It is used to help improve team coordination
 
-A: You can start contributing to our CaD Society and start earning Tact Credits. Then you can subscribe to our courses online by using those credits. Once you finished those courses, you can appear for our test which can be either a 20 minutes interview or one day assignment or any other form of testing which TactLabs considers reasonable. 
+18. Does tactii empower women ?
+    Yes. 60% of the interns in tactii are women
 
-Some of you might be asked to job shadow our existing interns for 100 hours to make sure that you are consistent in learning and exploring new things. 
+19. What are the apps developed by tactlabs ?
+    Serkinti, chromatuis, tact info, tact timer, tact wheel, learning analytics extension, tamizhai
 
-During those 100 hours job shadowing, we will evaluate your commitment and learning. We might get you an offer letter on or before 100 hours of job shadowing. 
+20. What is the difference between tactlabs and feartureprenuer ?
+    Featurepreneur is a community that is for people who are interested in coding and programming whereas tactlabs is a Canadian based startup company
 
+21. How often hackathons are conducted in tactii ?
+    Every other week
 
-**Q: What is Learning Analytics (LA)?**
+22. Do I get stipend for working as an intern ?
+    Depends on your performance after your 550 hours and 10 medium articles 
 
-A: Learning Analytics (shortly LA) is a simple bookmarking tool (Chrome extension) where you can book mark all of your technical finding/articles. Also, it will show a heat map of your collection so you can verify how consistent you in learning a specific topic.
+23. What are the benefits of job shadowing ?
+    You get to learn about new technologies by observing and helping the interns
 
-Also, we will evaluate your learning and consider for our Internship hiring proces.
+24. Is job shadowing considered as a task ?
+    Yes it is considered as a task.
 
+25. What happens if my laptop crashes while installing ubuntu ?
+    We will help you fix it, but if there is any further damage we will cover the cost
 
-**Q: What are the basic topics I can learn from TactLabs?**
+26. Do I get certificate for completing tact courses ?
+    No, you dont get a certificate
 
-A: Python
+27. Can I share my tact credits with my friends ?
+    Yes, you can donate upto 70% of your tact credits to your friends
 
-Jenkins
+28. Can I quit tact labs without completing 550 hours of time span ?
+    Yes you can quit but you would not get your certificate
 
-CircleCI
+29. Will the social team get any extra credits ?
+    Yes, people who are a part of the social team get extra credits
 
-Docker
-
-Ubuntu
-
-Elastic Search
-
-AWS
-
-EC2
-
-ECS
-
-Machine Learning
-
-Postgres
-
-SQL Server
-
-Flask
-
-FastAPI
-
-MySQL
-
-Java
-
-Scala
-
-Selenium
-
-Scrapy
-
-React Native
-
-AWS App Runner
-
-Cloud Formation
-
-Kibana
-
-S3
-
-Azure Data Explorer
-
-AWS RDS
-
-AWS CloudFormation
-
-Scikit Learn
-
-Numpy
-
-Databricks
-
-AWS Transcribe
-
-K8s
-
-Slack bot
-
-RaSa bot
-
-AWS Lambda
-
-Curl
-
-AWS Athena
-
-AWS Sagemaker
-
-MLflow
-
-
-
-
-**Q: How is my coding contribution being evaluated?**
-
-A: Our mentors will check your coding contribution and give you an assignment to verify your learning. Once they verified your learning, they will request our admins to give a Learning Badge for you. Learning badge might be reflected on your profile within 48 hours.
-
-
-**Q: What is Serkinti?**
-
-A: TBW
-
-
-**Q: What is Serkinti?**
-
-A: TBW
-
-
-**Q: Can I do internship with Windows OS?**
-
-A: Unfortunately, No. All of our work needs either Linux (Ubuntu/CentOs) or MacOS. So, we don't recommend you using Windows. We can help you out to install dual boot along with Windows so you won't have to worry about it.
-
-
-
-
-
+30. What is CaDs or CaDs society ?
+    CaDs stands for code and data society. They are people who contribute in data collection and building features in featurepreneur. They will earn extra credits based on the work they do. 
