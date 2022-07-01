@@ -207,3 +207,6 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 ## ReD
   *[ReD Brainstorming 1](red.md)
+
+## Badges
+  *[Badges](badges.md)
