@@ -71,6 +71,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [SBT Installation](sbtInstall.md)
   * [FAQ / Frequently Asked Questions](faq.md)
   * [Changing zsh terminal color](tact-terminal-color.md)
+  * [Weekly macbook rental](macbook-rental.md)
   
 
 ## AWS 
