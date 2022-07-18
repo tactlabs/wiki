@@ -3,13 +3,14 @@
 # SWAT Team
 
 multiple Level
--Level_1- Basic exercises
--Level_2- Will be updated soon
--Level_3- Will be updated soon
--Level_4- working on projects
+    -Level_1- Basic exercises
+    -Level_2- Will be updated soon
+    -Level_3- Will be updated soon
+    -Level_4- SWAT Team
+    
 
 
-SWAT Team consists of 6 members(maximum), Intern should have completed atleast 500 hrs to be part of SWAT Team.
+SWAT Team consists of 6 members(maximum), Intern should have completed atleast 550 hrs to be part of SWAT Team. They will be working on projects.
 
 ### Benefits of being in SWAT Team:
 
