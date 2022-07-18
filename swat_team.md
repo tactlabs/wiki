@@ -2,11 +2,12 @@
 
 # SWAT Team
 
-multiple Level
-    -Level_1- Basic exercises
-    -Level_2- Will be updated soon
-    -Level_3- Will be updated soon
-    -Level_4- SWAT Team
+multiple Level  
+
+        -Level_1- Basic exercises  
+        -Level_2- Will be updated soon  
+        -Level_3- Will be updated soon  
+        -Level_4- SWAT Team  
     
 
 
