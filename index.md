@@ -118,6 +118,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ## Tact Internship/Certificates
   * [Intern Opportunity](tact-internship.md)
   * [Intern Checklist](intern-checklist.md)
+  * [Intern SWAT Team](swat_team.md)
 
 ## TACT PaaS / BaaS
   * [PaaS](paas.md)
