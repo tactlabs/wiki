@@ -16,6 +16,10 @@ sudo snap install docker
 
 How to install Docker in Mac
 ```
+brew install --cask docker
+
+or
+
 brew cask install docker
 ```
 
