@@ -159,6 +159,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 ## Public Projects
   * [Flask Sample Projects](flask-sample-projects.md)
+  * [CNERgy Projects](CNERgy-deployment.md)
 
 ## Learning Research
   * [Learning with RJ CSP](learn-with-rj-csp.md)
