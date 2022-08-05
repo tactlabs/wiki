@@ -86,6 +86,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Tact OS and Git Rules](tact-os-and-git-rules.md)
   * [Tact Git Conventions](tact-git-conventions.md)
   * [Gush - One way quick Git Push](gush.md)
+  * [Repository rules](repository-rules.md)
 
 ## Tact Rules / Core Values / Policies
   * [Tact Rules](tact-rules.md)
