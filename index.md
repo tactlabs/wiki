@@ -93,6 +93,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Tact Deadline Rules](tact-deadline-rule.md)
   * [Equality](equality.md)
   * [Tact Intern Day Off](Intern-day-off.md)
+  * [Updates - How to Ask?](how-to-ask-for-updates.md)
 
 ## React Native
   * [React Native Installation](react-native-installation-commands.md)
