@@ -17,7 +17,6 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ## TACT General Tools
   * [Ubuntu Installation & Issues](Ubuntu-Installation-and-Issues.md) 
   * [Nginx Installation](nginx-installation-ubuntu.md)
-  * [Git Commands](git-commands.md)
   * [How to Instlal Virtualenv](how-to-install-virtualenv.md)
   * [Tail Commands](tail-commands.md)
   * [VI Commands](vi-commands.md)
@@ -29,7 +28,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [TACT Tools](tact-tools.md)
   * [CURL Basics](curl-basics.md)
   * [What is my IP - CURL and others](what-is-my-ip.md)
-  * [Gush - One way quick Git Push](gush.md)
+  
   * [Python Snippets](python-snippets.md)
   * [Markdown Cheatsheet](markdown-cheatsheet.md)
   * [Tact Alias](tact-alias.md)
@@ -84,13 +83,20 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [AWS Cloudwatch](aws-cloudwatch.md)
 
 
-## Tact Rules / Core Values / Policies
+## Git
+  * [Git Commands](git-commands.md)
+  * [Git Ignore Sample content](gitignore.md)
   * [Tact OS and Git Rules](tact-os-and-git-rules.md)
-  * [Tact Rules](tact-rules.md)
   * [Tact Git Conventions](tact-git-conventions.md)
+  * [Gush - One way quick Git Push](gush.md)
+  * [Repository rules](repository-rules.md)
+
+## Tact Rules / Core Values / Policies
+  * [Tact Rules](tact-rules.md)
   * [Tact Deadline Rules](tact-deadline-rule.md)
   * [Equality](equality.md)
   * [Tact Intern Day Off](Intern-day-off.md)
+  * [Updates - How to Ask?](how-to-ask-for-updates.md)
 
 ## React Native
   * [React Native Installation](react-native-installation-commands.md)

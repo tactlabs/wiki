@@ -138,6 +138,8 @@
   * [Free pics - Unsplash]([file](https://unsplash.com/))
   * [Curl What is my ip](https://ifconfig.me/)
 
+  * [Warp Terminal - MacOS](https://www.warp.dev/)
+  * [Alacritty Terminal ](https://alacritty.org/)
 
 #### Libraries
   * [Libraries](https://libraries.io/)
