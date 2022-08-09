@@ -80,6 +80,9 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [AWS ECS Commands](aws-ecs-commands.md)
   * [AWS Components](aws-components.md)
   * [Jenkins setup in AWS EC2](aws-ec2-jenkins.md)
+  * [AWS Configure](aws-configure.md)
+  * [AWS Cloudwatch](aws-cloudwatch.md)
+
 
 ## Tact Rules / Core Values / Policies
   * [Tact OS and Git Rules](tact-os-and-git-rules.md)
@@ -138,8 +141,6 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ## TACT Reserach
   * [Research Partnership](research-partnership.md)
 
-## AWS Section
-  * [AWS Configure](aws-configure.md)
 
 ## DB Resources
   * [MongoDB Installation](mongodb-installation.md)
