@@ -3,7 +3,7 @@
 # AWS Cloudwatch:
 1.1 Launch the EC2 instance\
 1.2 Create IAM role with CloudWatchAgentServerPolicy   
-1.3 Attach the create IAM role to the EC2 instance
+1.3 Attach the create IAM role to the EC2 instance  
 1.4 SSH into the instance
 
 ## Install cloudwatch agent
@@ -230,7 +230,7 @@ sudo /opt/aws/amazon-cloudwatch-agent/bin/amazon-cloudwatch-agent-ctl -a fetch-c
 
 
 ## Verify Status of CloudWatch Agent
-1. 
+13. 
 ```
     sudo /opt/aws/amazon-cloudwatch-agent/bin/amazon-cloudwatch-agent-ctl -a status
 ```
