@@ -4,7 +4,7 @@
 
 
 ### Rules 
-- You can update your availability here: https://bit.ly/tact-upcoming-schedule
+- You can update your availability here: [GS - Tact Availability Schedule](https://bit.ly/tact-upcoming-schedule)
 
 - You should update your schedule 12 hours before your next cycle starts.
 

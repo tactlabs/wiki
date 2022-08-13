@@ -18,8 +18,8 @@
 **Participants**: Raja CSP
 
 ##### Summary:
-Encyclopedia Britannica’s pr
-esident on killing of a 244 year old product:
+Encyclopedia Britannica’s president on killing of a 244 year old product:
+
 Reports cited Wikipedia as a disruptive force. In fact, Wikipedia helped us sharpen our business strategy. Our content model was dismissed as “vintage”, but it is actually anything but: We update our content continually, with community input, reaching tens of millions of people every day - and they pay for it.
 
 In 1994 Britannica produced its own CD-ROM encyclopedia. It was originally priced at ```$1,200```, about the same as the bound set. But by then Microsoft was bundling its CD-ROM encyclopedia, Encarta, with the vast majority of Wintel computers as a loss leader to increase the sales of home PCs by positioning them as a learning tool and a homework helper. It was a brilliant move by Microsoft and a very damaging one for Britannica. Regardless of quality, it was hard for a $1,200 CD-ROM to compete with a free one bundled with a PC.
