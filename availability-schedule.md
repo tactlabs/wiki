@@ -4,7 +4,6 @@
 
 
 ### Rules 
-```
 - You can update your availability here: https://bit.ly/tact-upcoming-schedule
 
 - You should update your schedule 12 hours before your next cycle starts.
@@ -14,6 +13,5 @@
 - If you come 1 min late, you are late. Tardiness is NOT okay at TactLabs. You should be on your mentioned time according to the schedule. 
 
 - If any emergency and you can't make it on time for the time you mentioned, you should reach your Team Lead and share the situation.
-```
 
 
