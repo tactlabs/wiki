@@ -131,6 +131,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Intern Opportunity](tact-internship.md)
   * [Intern Checklist](intern-checklist.md)
   * [Intern Levels](intern-levels.md)
+  * [Commonality Test](commonality-test.md)
 
 ## TACT PaaS / BaaS
   * [PaaS](paas.md)
