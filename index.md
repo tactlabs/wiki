@@ -99,6 +99,8 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Equality](equality.md)
   * [Tact Intern Day Off](Intern-day-off.md)
   * [Updates - How to Ask?](how-to-ask-for-updates.md)
+  * [Learning Report](learning-report.md)
+  
 
 ## React Native
   * [React Native Installation](react-native-installation-commands.md)
@@ -210,16 +212,16 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Zsh Terminal](zshterminal.md)
 
 ## Featurepreneur
- * [Featurepreneur Responsibilities and Beneifits](featurepreneur-benefits-and-responsibilities.md)
- * [How to view courses on Featurepreneur](how-to-view-courses.md)
- * [Micro Investor Contibution Framework](micro-investor-contribution-framework.md)
+  * [Featurepreneur Responsibilities and Beneifits](featurepreneur-benefits-and-responsibilities.md)
+  * [How to view courses on Featurepreneur](how-to-view-courses.md)
+  * [Micro Investor Contibution Framework](micro-investor-contribution-framework.md)
 
 ## Mythraki Languages
-  *[Mythraki languages for building event names](mythraki_languages.md)
- * [Micro Investors Contibution Framework](micro-investor-contribution-framework.md)
+  * [Mythraki languages for building event names](mythraki_languages.md)
+  * [Micro Investors Contibution Framework](micro-investor-contribution-framework.md)
 
 ## ReD
-  *[ReD Brainstorming 1](red.md)
+  * [ReD Brainstorming 1](red.md)
 
 ## Badges
-  *[Badges](badges.md)
+  * [Badges](badges.md)
