@@ -73,6 +73,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Changing zsh terminal color](tact-terminal-color.md)
   * [Weekly macbook rental](macbook-rental.md)
   * [macOS](macos.md)
+  * [Python Code Template](python-code-template.md)
   
 
 ## AWS 
@@ -95,9 +96,12 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ## Tact Rules / Core Values / Policies
   * [Tact Rules](tact-rules.md)
   * [Tact Deadline Rules](tact-deadline-rule.md)
+  * [Availability Schedule](availability-schedule.md)
   * [Equality](equality.md)
   * [Tact Intern Day Off](Intern-day-off.md)
   * [Updates - How to Ask?](how-to-ask-for-updates.md)
+  * [Learning Report](learning-report.md)
+  
 
 ## React Native
   * [React Native Installation](react-native-installation-commands.md)
@@ -130,6 +134,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Intern Opportunity](tact-internship.md)
   * [Intern Checklist](intern-checklist.md)
   * [Intern Levels](intern-levels.md)
+  * [Commonality Test](commonality-test.md)
 
 ## TACT PaaS / BaaS
   * [PaaS](paas.md)
@@ -208,16 +213,16 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Zsh Terminal](zshterminal.md)
 
 ## Featurepreneur
- * [Featurepreneur Responsibilities and Beneifits](featurepreneur-benefits-and-responsibilities.md)
- * [How to view courses on Featurepreneur](how-to-view-courses.md)
- * [Micro Investor Contibution Framework](micro-investor-contribution-framework.md)
+  * [Featurepreneur Responsibilities and Beneifits](featurepreneur-benefits-and-responsibilities.md)
+  * [How to view courses on Featurepreneur](how-to-view-courses.md)
+  * [Micro Investor Contibution Framework](micro-investor-contribution-framework.md)
 
 ## Mythraki Languages
-  *[Mythraki languages for building event names](mythraki_languages.md)
- * [Micro Investors Contibution Framework](micro-investor-contribution-framework.md)
+  * [Mythraki languages for building event names](mythraki_languages.md)
+  * [Micro Investors Contibution Framework](micro-investor-contribution-framework.md)
 
 ## ReD
-  *[ReD Brainstorming 1](red.md)
+  * [ReD Brainstorming 1](red.md)
 
 ## Badges
-  *[Badges](badges.md)
+  * [Badges](badges.md)

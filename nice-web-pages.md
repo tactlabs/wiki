@@ -194,8 +194,9 @@ https://www.grantthornton.ca/
 
 
 Landing page
-	https://sightengine.com/
-	https://sightengine.com/nudity-detection-api
+https://sightengine.com/
+
+https://sightengine.com/nudity-detection-api
 
 Nice pricing page
 https://shieldapp.ai/pricing/
@@ -205,14 +206,14 @@ https://redash.io/pricing/
 
 
 Simple docs:
-	https://help.jasmin.ac.uk/category/158-getting-started
+https://help.jasmin.ac.uk/category/158-getting-started
 	
-	https://linuxize.com/post/how-to-install-ffmpeg-on-ubuntu-18-04/
+https://linuxize.com/post/how-to-install-ffmpeg-on-ubuntu-18-04/
 	
-	https://help.jasmin.ac.uk/
+https://help.jasmin.ac.uk/
 
 Purchase page
-	https://mergr.com/purchase
+https://mergr.com/purchase
 
 
 Nice web page
