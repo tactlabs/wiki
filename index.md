@@ -13,6 +13,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [MySQL Docker](mysql-docker.md)
   * [Kubenetes Commands](kubernetes-commands.md)
   * [Kind Commands](kind-commands.md)
+  * [Krew Commands](krew-commands.md)
 
 ## TACT General Tools
   * [Ubuntu Installation & Issues](Ubuntu-Installation-and-Issues.md) 
