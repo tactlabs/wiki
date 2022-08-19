@@ -16,6 +16,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Krew Commands](krew-commands.md)
   * [Kubectx Commands](kubectx-commands.md)
   * [Commands to remove sudo](remove-sudo-commands.md)
+  * [Commands to delete Docker](delete-docker-commands.md)
 
 ## TACT General Tools
   * [Ubuntu Installation & Issues](Ubuntu-Installation-and-Issues.md) 
