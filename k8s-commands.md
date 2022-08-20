@@ -140,7 +140,9 @@ Delete all services
 kubectl delete --all services --namespace=default
 ```
 
+```
 
+```
 
 
 

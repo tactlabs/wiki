@@ -104,6 +104,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Tact Intern Day Off](Intern-day-off.md)
   * [Updates - How to Ask?](how-to-ask-for-updates.md)
   * [Learning Report](learning-report.md)
+  * [Tact Interview Process: TIP](interview-process.md)
   
 
 ## React Native
