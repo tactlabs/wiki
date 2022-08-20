@@ -11,7 +11,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Docker Compose Commands](docker-compose-commands.md)
   * [Docker Postgres Alpine](docker-postgres-alpine-commands.md)
   * [MySQL Docker](mysql-docker.md)
-  * [Kubenetes Commands](kubernetes-commands.md)
+  * [Kubernetes /K8s Commands](k8s-commands.md)
   * [Kind Commands](kind-commands.md)
   * [Krew Commands](krew-commands.md)
   * [Kubectx Commands](kubectx-commands.md)
