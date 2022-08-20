@@ -140,8 +140,12 @@ Delete all services
 kubectl delete --all services --namespace=default
 ```
 
+Cleanup
 ```
+kubectl -n default delete services reverser-be reverser-fe
 
+kubectl -n default delete deployment flask-app
+kubectl -n default delete deployment reverser-be reverser-fe
 ```
 
 
@@ -587,6 +591,33 @@ https://kubernetes.io/docs/tutorials/hello-minikube/
 
 
 
+debugging:
+```
+kubectl get event -n reverser-dev
+```
+
+misc commands
+```
+kubectl get svc --all-namespaces -o wide
+
+kubectl get nodes -o wide
+
+kubectl get nodes --show-labels
+
+aws eks list-nodegroups --cluster-name rj-test-cluster
+
+kubectl -n reverser-dev get nodes
+
+eksctl get nodegroups --cluster rj-test-cluster
+
+eksctl scale nodegroup --cluster=rj-test-cluster --nodes=2 --name=rj-test-ng
+
+eksctl drain nodegroup --cluster=rj-test-cluster  --name=rj-test-ng
+
+kubectl get all
+
+cat ~/.kube/config
+```
 
 
 
