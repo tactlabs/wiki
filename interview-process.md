@@ -8,6 +8,7 @@
   Github Score
   Kaggle Score (ML Only)
   Error Archive Score
+  Medium Score
 
 Social Equity Test (SET)
   How do they view caste system? Is it an issue or we can live with it?
