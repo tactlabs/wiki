@@ -77,7 +77,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Weekly macbook rental](macbook-rental.md)
   * [macOS](macos.md)
   * [Python Code Template](python-code-template.md)
-  * [DBeaver Installation](DBeaver.md)
+  * [DBeaver Installation](dbeaver.md)
   
 
 ## AWS 
