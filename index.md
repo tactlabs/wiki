@@ -78,6 +78,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [macOS](macos.md)
   * [Python Code Template](python-code-template.md)
   * [DBeaver Installation](dbeaver.md)
+  * [Pbcopy](Pbcopy.md)
   
 
 ## AWS 
