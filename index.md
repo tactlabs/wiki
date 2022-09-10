@@ -79,6 +79,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [DBeaver Installation](dbeaver.md)
   * [Pbcopy](Pbcopy.md)
   * [NAS Drive](nas-drive.md)
+  * [MacOs - M1 Issues](mac-m1-issues.md)
 
 ## Ubuntu 
 
