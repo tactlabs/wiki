@@ -78,6 +78,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Python Code Template](python-code-template.md)
   * [DBeaver Installation](dbeaver.md)
   * [Pbcopy](Pbcopy.md)
+  * [NAD Drive](nas-drive.md)
 
 ## Ubuntu 
 
