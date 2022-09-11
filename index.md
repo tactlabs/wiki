@@ -32,7 +32,6 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [TACT Tools](tact-tools.md)
   * [CURL Basics](curl-basics.md)
   * [What is my IP - CURL and others](what-is-my-ip.md)
-  
   * [Python Snippets](python-snippets.md)
   * [Markdown Cheatsheet](markdown-cheatsheet.md)
   * [Tact Alias](tact-alias.md)
@@ -78,7 +77,16 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [macOS](macos.md)
   * [Python Code Template](python-code-template.md)
   * [DBeaver Installation](dbeaver.md)
+  * [Pbcopy](Pbcopy.md)
+  * [NAS Drive](nas-drive.md)
+  * [MacOs - M1 Issues](mac-m1-issues.md)
+
+## Ubuntu 
+
+### Ubuntu Errors
+  * [disk space full](disk-space-full.md)
   
+
 
 ## AWS 
   * [AWS Commands](aws-commands.md)
@@ -106,6 +114,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Updates - How to Ask?](how-to-ask-for-updates.md)
   * [Learning Report](learning-report.md)
   * [Tact Interview Process: TIP](interview-process.md)
+  * [How To Avoid a Tourist Learner](tourist-learner.md)
   
 
 ## React Native
