@@ -202,7 +202,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Hustlers' Club](hustlers-club.md)
   * [Drum Effect](drum-effect.md)
 
-## Evnets
+## Events
   * [Micro Hackathon - Internal](micro-hackthon.md)
   * [Aprencio](aprencio.md)
 
@@ -222,6 +222,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Featurepreneur Responsibilities and Beneifits](featurepreneur-benefits-and-responsibilities.md)
   * [How to view courses on Featurepreneur](how-to-view-courses.md)
   * [Micro Investor Contibution Framework](micro-investor-contribution-framework.md)
+  * [Featurepreneur 2.0 Rules](featurepreneur-2.0-rules.md)
 
 ## Mythraki Languages
   * [Mythraki languages for building event names](mythraki_languages.md)
