@@ -104,6 +104,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Tact Git Conventions](tact-git-conventions.md)
   * [Gush - One way quick Git Push](gush.md)
   * [Repository rules](repository-rules.md)
+  * [Git ssh connection error fix](git-ssh-fix.md)
 
 ## Tact Rules / Core Values / Policies
   * [Tact Rules](tact-rules.md)
@@ -115,6 +116,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Learning Report](learning-report.md)
   * [Tact Interview Process: TIP](interview-process.md)
   * [How To Avoid a Tourist Learner](tourist-learner.md)
+  * [Featurepreneur 2.0 Rules](featurepreneur-2.0-rules.md)
   
 
 ## React Native
@@ -231,7 +233,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Featurepreneur Responsibilities and Beneifits](featurepreneur-benefits-and-responsibilities.md)
   * [How to view courses on Featurepreneur](how-to-view-courses.md)
   * [Micro Investor Contibution Framework](micro-investor-contribution-framework.md)
-  * [Featurepreneur 2.0 Rules](featurepreneur-2.0-rules.md)
+
 
 ## Mythraki Languages
   * [Mythraki languages for building event names](mythraki_languages.md)
