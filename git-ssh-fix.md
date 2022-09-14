@@ -4,7 +4,7 @@
 
 ### Problem
 
-After adding ssh key to your github. You might face an error while cloning private repositories, when you give git clone, it might take longtime than usual and throws an error such as
+After adding ssh key to your github. You might face an error while cloning private repositories, when you give git clone, it might take longtime than usual and throws an error as
 
 > - Cloning into 'daily-logs'...  
     ssh: connect to host github.com port 22: Connection timed out  
@@ -17,7 +17,7 @@ After adding ssh key to your github. You might face an error while cloning priva
 
 ### Solution:
 
-- go to your terminal
+- go to terminal
 
 ``` 
 sudo nano ~/.ssh/config
