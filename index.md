@@ -145,6 +145,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Hugo Commands](hugo-commands.md)
   * [ML Notes with Hugo](mlnotes-with-hugo.md)
   * [Machine Learning Projects](machine-learning-projects.md)
+  * [Feature Engineering Learning](feature-engineering-learning.md)
 
 ## Tact Internship/Certificates
   * [Intern Opportunity](tact-internship.md)
