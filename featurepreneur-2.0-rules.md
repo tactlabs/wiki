@@ -130,6 +130,10 @@ and finally merged to featurepreneur
 > - 2 months testing period with interns
 > - After approval, will be deployed to Featurepreneur
 
-### 21.Medium article:
+### 22.Medium article:
 
 > - Atleast 3 medium article must be published every week in featurepreneur
+
+### 23.Hackathon:
+
+> - No one should pariticipate in hackathon during the period of internship.
