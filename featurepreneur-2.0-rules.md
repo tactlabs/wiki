@@ -137,3 +137,5 @@ and finally merged to featurepreneur
 ### 23.Hackathon:
 
 > - No one should pariticipate in hackathon during the period of internship.
+
+> - However, there is an option for you to do both. If you are really interested in Hackathon, take 4 months break and re-apply for next season Internship.
