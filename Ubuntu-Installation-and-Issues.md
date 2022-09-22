@@ -181,6 +181,8 @@ Esc + F9
 
 Reference - https://discourse.ubuntu.com/t/ubuntu-installation-on-computers-with-intel-r-rst-enabled/15347
 
+Reference - http://triplescomputers.com/blog/uncategorized/solution-switch-windows-10-from-raidide-to-ahci-operation/
+
 * Run Command Prompt as Administrator
 * bcdedit /set {current} safeboot minimal
 * Install Ubuntu
