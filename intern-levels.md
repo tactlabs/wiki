@@ -21,3 +21,12 @@ SWAT Team consists of 6 members(maximum), Intern should have completed atleast 5
 - Chance to appear for exam - 1 person - every 6 month
 - Weekly aws training
 - Once a month SWAT team can work with Alumni on Internal Featurethon
+
+
+### Mentor and AWS Benefits
+- Every 10 consecutive mentoring (at least 4 mentoring sessions in a week)
+  1 AWS Credits
+
+- After 10 AWS Credits, they are eligible for AWS Exams
+
+- Mentor should have finished 100 sessions.

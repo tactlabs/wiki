@@ -80,6 +80,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Pbcopy](Pbcopy.md)
   * [NAS Drive](nas-drive.md)
   * [MacOs - M1 Issues](mac-m1-issues.md)
+  * [HTTP response status code](http_response.md)
 
 ## Ubuntu 
 
