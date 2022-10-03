@@ -3,11 +3,9 @@
 ## Tact Alumni list
 
 
-
 ### Season 1
 ```
 Divya
-
 ```
 
 
@@ -66,4 +64,20 @@ Kishore
 Roshan
 Ashmi
 Darince
+```
+
+
+### Interns who have worked with us
+```
+Rajarajeswari
+Roughit
+Saaisri
+Elakia
+Nagul
+Santhosh
+Vikram
+Snekha
+Jeevitha
+Shevanie
+Kishore
 ```
