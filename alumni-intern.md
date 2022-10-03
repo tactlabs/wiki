@@ -34,23 +34,34 @@ Gokul
 ### Season 5
 ```
 Ajesh
+Roughit
 Prakash
 Vedha
 Talha
 Ishitha
-Harini
 ```
 
 
 ### Season 6
 ```
+Harini
 Sanjju
 Chaaya
+Rajarajeswari
+Saaisri
+Elakia
 ```
 
 
 ### Season 7
 ```
+Nagul
+Santhosh
+Vikram
+Snekha
+Jeevitha
+Shevanie
+Kishore
 Sivaraam
 Sudhir
 Vikram
@@ -64,20 +75,4 @@ Kishore
 Roshan
 Ashmi
 Darince
-```
-
-
-### Interns who have worked with us
-```
-Rajarajeswari
-Roughit
-Saaisri
-Elakia
-Nagul
-Santhosh
-Vikram
-Snekha
-Jeevitha
-Shevanie
-Kishore
 ```
