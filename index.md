@@ -119,7 +119,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [How To Avoid a Tourist Learner](tourist-learner.md)
   * [Featurepreneur 2.0 Rules](featurepreneur-2.0-rules.md)
   * [Tact Alumni Interns](alumni-intern.md)
-  
+  * [Show And Tell](show-and-tell.md)
 
 ## React Native
   * [React Native Installation](react-native-installation-commands.md)
