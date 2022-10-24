@@ -61,10 +61,10 @@ chsh -s /bin/zsh
 
 Log out from ubuntu. Log in and paste these commands :
 ```
-source ~/.oh-my-zsh/custom/themes/powerlevel10k/powerlevel10k.zsh-theme >>~/.zshrc
+source ~/.oh-my-zsh/custom/themes/powerlevel10k/powerlevel10k.zsh-theme >> ~/.zshrc
 
 
-echo 'source ~/.oh-my-zsh/custom/themes/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
+echo 'source ~/.oh-my-zsh/custom/themes/powerlevel10k/powerlevel10k.zsh-theme' >> ~/.zshrc
 ```
 
 
