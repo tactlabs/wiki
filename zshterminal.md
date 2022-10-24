@@ -31,6 +31,14 @@ git clone https://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
 ```
 
 
+Make sure you have a custom folder
+```
+echo $ZSH_CUSTOM
+
+it should should show like this
+/Users/tactlabs/.oh-my-zsh/custom
+```
+
 
 ```
 cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
