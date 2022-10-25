@@ -169,6 +169,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [JSaaS - Job Shadowing as a Service - Legacy](jsaas.md)
   * [JSaaC - Job Shadowing as a Certificate](jsaac.md)
   * [Featurepreneur Training](featurepreneur-training.md)
+  * [DevOps Bootcamp](devops-bootcamp.md)
 
 ## TACT Reserach
   * [Research Partnership](research-partnership.md)
