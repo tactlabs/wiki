@@ -81,7 +81,6 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [NAS Drive](nas-drive.md)
   * [MacOs - M1 Issues](mac-m1-issues.md)
   * [HTTP response status code](http_response.md)
-  * [Featurepreneur Games](games.md)
 
 ## Ubuntu 
 
@@ -232,7 +231,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Juz-Google-it](juzgoogleit.md)
   * [Phase-Genius](phasegenius.md)
   * [Guess-BTS](guessbts.md)
-  * [Fernero](fernero.md)
+  * [Franero](franero.md)
   * [Handcricket](handcricket.md)
   * [Mithrayaki](mithrayaki.md)
 
