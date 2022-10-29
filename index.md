@@ -222,6 +222,20 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Micro Hackathon - Internal](micro-hackthon.md)
   * [Aprencio](aprencio.md)
 
+
+## Featurepreneur Games 
+  * [Serkinti](serkinti.md)
+  * [Chromatius](chromatius.md)
+  * [K-Object](kobject.md)
+  * [Tact-Say](tactsay.md)
+  * [Scapanza](scapanza.md)
+  * [Juz-Google-it](juzgoogleit.md)
+  * [Phase-Genius](phasegenius.md)
+  * [Guess-BTS](guessbts.md)
+  * [Fernero](fernero.md)
+  * [Handcricket](handcricket.md)
+  * [Mithrayaki](mithrayaki.md)
+
 ## Programs
   * [Interactive Micro Learning](interactive-micro-learning.md)
   * [AWS Cohort Season 1](aws-cohort-s01.md)

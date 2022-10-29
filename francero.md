@@ -1,8 +1,6 @@
 / [Home](index.md)
 
-# Games
+# Game
 
 
 * [Franero](https://github.com/tactlabs/franero)
-
-
