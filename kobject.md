@@ -2,9 +2,9 @@
 
 # Game
 
-* [K-object](https://github.com/tactlabs/k-object)
 
-## Descriptions  
+
+## Description
 
 - Just say what you see.   
 
@@ -15,3 +15,7 @@
 - Every presented picture will have a specific name
 and you have to guess it correctly.   
 
+
+### Reference
+
+* [K-object](https://github.com/tactlabs/k-object)

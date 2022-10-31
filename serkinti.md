@@ -2,15 +2,7 @@
 
 # Game
 
-
-* [Serkinti-API](https://github.com/tactlabs/serkinti-api)
-* [Serkinti-UI](https://github.com/tactlabs/serkinti-ui)
-* [Serkinti-deployment](https://github.com/tactlabs/serkinti-deployment)
-
-
-![image](images/serkinti.png)
-
-## Descriptions  
+## Description
 
 - This is a really simple game with very few rules, but make sure you dont forget the rules of the game on the go. This is a two player game. 
 
@@ -18,4 +10,9 @@
 
 - You are not suppose to use shortforms or abbrivations. The loop will continue until someone breaks the rule.
 
+![image](images/serkinti.png)
+### Reference  
 
+* [Serkinti-API](https://github.com/tactlabs/serkinti-api)
+* [Serkinti-UI](https://github.com/tactlabs/serkinti-ui)
+* [Serkinti-deployment](https://github.com/tactlabs/serkinti-deployment)

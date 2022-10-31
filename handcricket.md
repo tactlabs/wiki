@@ -2,9 +2,7 @@
 
 # Games
 
-* [Hand-Cricket]
-
-## Descriptions  
+## Description 
 
 - Lets go back to our school days and break the records of all international players. 
 
@@ -13,3 +11,12 @@
 - Batsman can enter any number between 1 to 6 and add his scores, bowler should guess the batsman move and if the batsman and bowler enters the same number the batsman is out.  
 
 - Hurry up to the ground guys.
+
+
+![image](images/tactcricket.png)
+
+### Reference
+
+* [Hand-Cricket]
+
+

@@ -229,7 +229,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Tact-Say](tactsay.md)
   * [Scapanza](scapanza.md)
   * [Juz-Google-it](juzgoogleit.md)
-  * [Phase-Genius](phasegenius.md)
+  * [Story-weaving](storyweaving.md)
   * [Guess-BTS](guessbts.md)
   * [Franero](franero.md)
   * [Handcricket](handcricket.md)
