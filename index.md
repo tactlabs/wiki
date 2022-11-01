@@ -233,7 +233,8 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Guess-BTS](guessbts.md)
   * [Franero](franero.md)
   * [Handcricket](handcricket.md)
-  * [Mithrayaki](mithrayaki.md)
+  * [Mithraki](mithraki.md)
+  * [Tech-Battle](techbattle.md)
 
 ## Programs
   * [Interactive Micro Learning](interactive-micro-learning.md)
