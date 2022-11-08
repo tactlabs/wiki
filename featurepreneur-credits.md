@@ -22,7 +22,3 @@
 ```
 - Write medium article
 ```
-
-### Ref :
-
-  * []()
