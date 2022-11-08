@@ -19,7 +19,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Commands to delete Docker](delete-docker-commands.md)
 
 ## TACT General Tools
-  * [Ubuntu Installation & Issues](Ubuntu-Installation-and-Issues.md) 
+  * [Ubuntu Installation & Issues](ubuntu-installation-and-issues.md) 
   * [Nginx Installation](nginx-installation-ubuntu.md)
   * [How to Instlal Virtualenv](how-to-install-virtualenv.md)
   * [Tail Commands](tail-commands.md)
@@ -81,8 +81,6 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [NAS Drive](nas-drive.md)
   * [MacOs - M1 Issues](mac-m1-issues.md)
   * [HTTP response status code](http_response.md)
-
-## Ubuntu 
 
 ### Ubuntu Errors
   * [disk space full](disk-space-full.md)
@@ -220,7 +218,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ## Events
   * [Micro Hackathon - Internal](micro-hackthon.md)
   * [Aprencio](aprencio.md)
-
+  * [Spin Time] (spin-time.md)
 
 ## Featurepreneur Games 
   * [Serkinti](serkinti.md)
