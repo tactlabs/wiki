@@ -4,20 +4,6 @@ TactLabs is a research unit of Tactii (formerly TalentAccurate) dedicated to wor
 
 We do simple and smart apps mostly for POC purposes with scaling options which can be put it on PROD within a few hours.
 
-## Docker Projects / Tools :
-
-  * [Docker - How to Install?](docker-how-to-install.md)
-  * [Docker Commands](docker-commands.md)
-  * [Docker Compose Commands](docker-compose-commands.md)
-  * [Docker Postgres Alpine](docker-postgres-alpine-commands.md)
-  * [MySQL Docker](mysql-docker.md)
-  * [Kubernetes /K8s Commands](k8s-commands.md)
-  * [Kind Commands](kind-commands.md)
-  * [Krew Commands](krew-commands.md)
-  * [Kubectx Commands](kubectx-commands.md)
-  * [Commands to remove sudo](remove-sudo-commands.md)
-  * [Commands to delete Docker](delete-docker-commands.md)
-
 ## TACT General Tools
   * [Ubuntu Installation & Issues](ubuntu-installation-and-issues.md) 
   * [Nginx Installation](nginx-installation-ubuntu.md)
@@ -81,6 +67,19 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [NAS Drive](nas-drive.md)
   * [MacOs - M1 Issues](mac-m1-issues.md)
   * [HTTP response status code](http_response.md)
+
+## Docker Projects / Tools :
+  * [Docker - How to Install?](docker-how-to-install.md)
+  * [Docker Commands](docker-commands.md)
+  * [Docker Compose Commands](docker-compose-commands.md)
+  * [Docker Postgres Alpine](docker-postgres-alpine-commands.md)
+  * [MySQL Docker](mysql-docker.md)
+  * [Kubernetes /K8s Commands](k8s-commands.md)
+  * [Kind Commands](kind-commands.md)
+  * [Krew Commands](krew-commands.md)
+  * [Kubectx Commands](kubectx-commands.md)
+  * [Commands to remove sudo](remove-sudo-commands.md)
+  * [Commands to delete Docker](delete-docker-commands.md)
 
 ### Ubuntu Errors
   * [disk space full](disk-space-full.md)
