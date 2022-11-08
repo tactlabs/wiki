@@ -10,7 +10,7 @@
 - Our team members might give their routine work to you to save their time as they focus on bigger things. You need to finish them on time
 
 ### Rules:
-- You can use Tact Credits for JSaaC (Job Shadowing As a Certificate)
+- You can use Featurepreneur Credits for JSaaC (Job Shadowing As a Certificate)
 - You need to install Ubuntu
 - You need finish 100 Hours/500 Hours of JoSh (Job Shadowing)
 - Once you finished, you will have to write an article about JSaaC on Medium
@@ -23,6 +23,6 @@
 - Whover finished 100 hours with minimum score will get the JSaaS Certificate and will be given higher priority in our upcoming Intern hiring process.
 
 ### Fee:
-- 50 Hours  - 50,000 Tact Credits
-- 100 Hours - 60,000 Tact Credits
-- 500 Hours - 300,000 Tact Credits
+- 50 Hours  - 50,000 Featurepreneur Credits
+- 100 Hours - 60,000 Featurepreneur Credits
+- 500 Hours - 300,000 Featurepreneur Credits

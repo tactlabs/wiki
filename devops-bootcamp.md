@@ -46,7 +46,7 @@ Slack Notification
 
 Benefits:
 ```
-After 1000 hours, you can stay with us as Mentors/Junior Mentors and start making 3000 Tact Credits per session
+After 1000 hours, you can stay with us as Mentors/Junior Mentors and start making 3000 Featurepreneur Credits per session
 ```
 
 

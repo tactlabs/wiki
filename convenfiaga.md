@@ -16,4 +16,4 @@
 Starts usually at Friday 7pm IST
 
 ### Fee:
-15,000 Tact Credits
+15,000 Featurepreneur Credits

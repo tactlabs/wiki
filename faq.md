@@ -6,7 +6,7 @@
 
 
 
-1. What are the courses we can access using the tact credits ?
+1. What are the courses we can access using the Featurepreneur Credits ?
     You can access the courses in Featureprenuer website.
 
 2. What is job shadowing ?
@@ -84,8 +84,8 @@
 26. Do I get certificate for completing tact courses ?
     No, you dont get a certificate
 
-27. Can I share my tact credits with my friends ?
-    Yes, you can donate upto 70% of your tact credits to your friends
+27. Can I share my Featurepreneur Credits with my friends ?
+    Yes, you can donate upto 70% of your Featurepreneur Credits to your friends
 
 28. Can I quit tact labs without completing 550 hours of time span ?
     Yes you can quit but you would not get your certificate
