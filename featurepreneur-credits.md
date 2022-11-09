@@ -22,3 +22,9 @@
 ```
 - Write medium article
 ```
+
+
+### Option 4:
+```
+- Play games (AOE 2, Poker, Any Tact Games) with our Tech Experts and get Tact Credits
+```
