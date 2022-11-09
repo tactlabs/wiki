@@ -29,6 +29,9 @@ AWS ECS
 AWS ECR
 Kubernetes
 AWS EKS
+AWS Athena
+AWS Redshift
+AWS Glue
 Keda
 Jenkins
 CircleCI
