@@ -146,6 +146,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [ML Notes with Hugo](mlnotes-with-hugo.md)
   * [Machine Learning Projects](machine-learning-projects.md)
   * [Feature Engineering Learning](feature-engineering-learning.md)
+  * [Rasa documentation](rasa-documentation.md)
 
 ## Tact Internship/Certificates
   * [Intern Opportunity](tact-internship.md)
@@ -218,7 +219,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ## Events
   * [Micro Hackathon - Internal](micro-hackthon.md)
   * [Aprencio](aprencio.md)
-  * [Spin Time] (spin-time.md)
+  * [Spin Time](spin-time.md)
 
 ## Featurepreneur Games 
   * [Serkinti](serkinti.md)
