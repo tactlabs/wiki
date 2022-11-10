@@ -98,7 +98,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 ## Git
   * [Git Commands](git-commands.md)
-  * [Git Ignore Sample content](gitignore.md)
+  * [gitignore Sample content](gitignore.md)
   * [Tact OS and Git Rules](tact-os-and-git-rules.md)
   * [Tact Git Conventions](tact-git-conventions.md)
   * [Gush - One way quick Git Push](gush.md)
