@@ -246,3 +246,17 @@ docker run -d -p 4000:5000 flask-reverse-string:latest
 docker commit <containerid> username/flask-reverse-string:latest
 docker push username/flask-reverse-string
 ```
+
+
+how to remove sudo form the docker commands ?
+
+```
+sudo groupadd docker
+
+sudo usermod -aG docker $USER
+
+newgrp docker
+
+docker run hello-world
+
+```
