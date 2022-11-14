@@ -15,6 +15,9 @@ sudo systemctl start docker
 sudo systemctl enable docker
 
 docker --version
+
+How to verify?
+docker run hello-world
 ```
 [How to install Docker on Ubuntu](https://phoenixnap.com/kb/how-to-install-docker-on-ubuntu-18-04)
 
