@@ -16,7 +16,7 @@ sudo systemctl enable docker
 
 docker --version
 ```
-[How to install Docker on Ubunt](https://phoenixnap.com/kb/how-to-install-docker-on-ubuntu-18-04)
+[How to install Docker on Ubuntu](https://phoenixnap.com/kb/how-to-install-docker-on-ubuntu-18-04)
 
 
 Dockr Login
