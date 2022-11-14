@@ -52,6 +52,8 @@ git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerl
 
 
 ```
+code ~/.zshrc
+or
 gedit ~/.zshrc
 
 ZSH_THEME="agnoster"
