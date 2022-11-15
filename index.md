@@ -124,7 +124,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [APK File Generation](apk-file.md)
 
 ## TACT ML / DL
-  * [TACT ML Wiki](https://tactlabs.github.io/mlwiki/)
+  * [TACT ML Wiki / mlwiki](https://tactlabs.github.io/mlwiki/)
   * [ML Libraries](ml-libraries.md)
   * [ML DL Resources](ml-resources.md)
   * [ML/DL Deployments](ml-dl-deployments.md)
