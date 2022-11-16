@@ -289,6 +289,17 @@ git merge origin/K-develop
 git push
 ```
 
+### Gitk
+```
+How to install gitk in MacOs?
+brew update
+brew install git
+brew install git-gui
+
+How to install gitk on Ubuntu?
+<TBD>
+```
+
 ### Git Tags
 ```
 git tag v1.0
