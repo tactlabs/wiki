@@ -296,6 +296,9 @@ brew update
 brew install git
 brew install git-gui
 
+	ref:
+	https://stackoverflow.com/questions/17582685/install-gitk-on-mac
+
 How to install gitk on Ubuntu?
 <TBD>
 ```
