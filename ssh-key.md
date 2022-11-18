@@ -61,7 +61,15 @@ cat ~/.ssh/id_rsa.pub
 then copy the file on Github/Gitlab
 ```
 
+How to add your local ssh key in remote AWS EC2 machine?
+```
+1. Copy the local ssh key
+2. Paste it under ~/.ssh/authorized_keys in EC2 machine
+```
 
-More:
-https://apple.stackexchange.com/questions/48502/how-can-i-permanently-add-my-ssh-private-key-to-keychain-so-it-is-automatically	
+
+### More:
+  * [1](https://apple.stackexchange.com/questions/48502/)
+  * [2](how-can-i-permanently-add-my-ssh-private-key-to-keychain-so-it-is-automatically	)
+
 
