@@ -52,13 +52,24 @@ eval "$(ssh-agent -s)"
 
 ssh-add ~/.ssh/id_rsa
 
-pbcopy < ~/.ssh/id_rsa.pub
-or
 cat ~/.ssh/id_rsa.pub
     (then copy the content)
 
+copy and paste the ssh key on Github/Gitlab
+```
 
-then copy the file on Github/Gitlab
+How to generate ssh key on MacOs?
+```
+ssh-keygen -t rsa -b 4096 -C "email@gmail.com"
+
+eval "$(ssh-agent -s)"
+
+ssh-add ~/.ssh/id_rsa
+
+pbcopy < ~/.ssh/id_rsa.pub
+    (it will automatically copy the ssh key and keep them in the clipboard)
+
+then paste the file on Github/Gitlab
 ```
 
 
