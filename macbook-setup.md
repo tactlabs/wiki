@@ -53,7 +53,7 @@ https://medium.com/featurepreneur/how-to-apply-agnoster-theme-in-mac-zshrc-876f3
 
 ```
 
-### 5. Install Power10K
+### 6. Install Power10K
 ```
 verify:
 echo $ZSH_CUSTOM
@@ -85,5 +85,66 @@ p10k configure
 ref:
 https://medium.com/featurepreneur/how-to-beautify-your-terminal-with-powerlevel10k-87cffcfdcfb4
 ```
+
+
+
+
+### 7. Miniconda
+```
+brew install --cask visual-studio-code
+
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
+
+ref:
+https://docs.conda.io/en/latest/miniconda.html
+```
+
+
+
+### 8. Docker
+```
+brew install docker
+
+brew install docker-compose
+```
+
+### 9. sublime
+```
+
+```
+
+
+### 10. Zoom
+```
+
+```
+
+
+### 11. Postman
+```
+
+```
+
+
+### 12. sublime
+```
+
+```
+
+### 13. Slack
+```
+
+https://slack.com/downloads/mac
+
+```
+
+### 14. PGAdmin
+```
+
+https://www.pgadmin.org/download/pgadmin-4-macos/
+
+```
+
+
 
 
