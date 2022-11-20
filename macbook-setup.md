@@ -97,9 +97,9 @@ https://medium.com/featurepreneur/how-to-beautify-your-terminal-with-powerlevel1
 
 ### 7. Miniconda
 ```
-brew install --cask visual-studio-code
-
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
+chmod 777 Miniconda3-latest-MacOSX-x86_64.sh
+./Miniconda3-latest-MacOSX-x86_64.sh
 
 ref:
 https://docs.conda.io/en/latest/miniconda.html
