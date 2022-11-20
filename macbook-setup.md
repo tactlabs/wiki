@@ -19,6 +19,12 @@ brew install --cask brave-browser
 brew install --cask iterm2
 ```
 
+
+### 3.1. wget
+```
+brew install wget
+```
+
 ### 4. Install vscode
 ```
 brew install --cask visual-studio-code
