@@ -6,6 +6,8 @@
 ### 1. Install Brew
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+brew --version
 ```
 
 
@@ -134,7 +136,7 @@ brew install docker-compose
 
 ### 12. sublime
 ```
-
+brew install --cask sublime-text
 ```
 
 ### 13. Slack
