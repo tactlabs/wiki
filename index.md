@@ -234,7 +234,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Guess-BTS](guessbts.md)
   * [Franero](franero.md)
   * [Handcricket](handcricket.md)
-  * [Mithraki](mithraki.md)
+  * [Mythraki](mythraki.md)
   * [Tech-Battle](techbattle.md)
 
 ## Programs
