@@ -259,6 +259,9 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Mythraki languages for building event names](mythraki_languages.md)
   * [Micro Investors Contibution Framework](micro-investor-contribution-framework.md)
 
+## Opportunities
+  * [Marketing Associate](marketing-associate.md)
+
 ## ReD
   * [ReD Brainstorming 1](red.md)
 
