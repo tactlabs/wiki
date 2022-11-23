@@ -7,10 +7,11 @@ Featurepeneur creating a Learning Empire regardless of age, gender, race, caste 
 Featurepreneur is an open Code enthusiasts platform where anyone can create features (simple apps) for anyone (company or person) and publish it with us. We hav 50 dedicated mentors to teach everything right down to the basics
 
 We have published many creative features/games like seen below:
-http://turtlescore.featurepreneur.com/
+[Turtle Score](http://turtlescore.featurepreneur.com/)
 
-Serkinti - Lexical Brawl
-https://www.youtube.com/watch?v=p6BJzeEvWRI
+
+Serkinti - Lexical Brawl:
+[Serkinti](https://www.youtube.com/watch?v=p6BJzeEvWRI)
 
 Besides our strength in technical knowledge, we are looking for someone to provide us with tactical and marketing knowledge. 
 
