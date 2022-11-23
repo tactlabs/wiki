@@ -8,9 +8,6 @@ Featurepreneur is an open Code enthusiasts platform where anyone can create feat
 
 We have published many creative features/games like seen below:
 
-[Turtle Score](http://turtlescore.featurepreneur.com/)
-
-
 Serkinti - Lexical Brawl:
 
 [Serkinti](https://www.youtube.com/watch?v=p6BJzeEvWRI)
