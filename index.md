@@ -149,6 +149,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Machine Learning Projects](machine-learning-projects.md)
   * [Feature Engineering Learning](feature-engineering-learning.md)
   * [Rasa documentation](rasa-documentation.md)
+  * [Learners' Note](learners-note.md)
 
 ## Tact Internship/Certificates
   * [Intern Opportunity](tact-internship.md)
