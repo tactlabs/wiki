@@ -16,7 +16,7 @@ They help you organise your time and set priorities.
 They make you get going when you might not feel like it.
 ```
 
-<br/><br/>
+<br/>
 
 **What are the rules for setting a deadline?**
 
@@ -37,9 +37,26 @@ Format: Day/Date time timezone
 Good examples:
 * Tuesday 8:00PM IST
 * 4th december 9:00AM CST
+* ETA Today 9PM EST
 ```
 
-<br/><br/>
+
+
+**What is ETA?**
+```
+ETA stands for estimated time of arrival
+
+This is a very common phrase that is frequently seen in many forms of text based communication as well as spoken aloud. This term is often used to ask someone when they think they are going to arrive at a previously agreed upon location. 
+
+This can either be responded to with an exact time, or with a range of time. For example, if someone asks another person when they are going to arrive to pick them up, they could say, "My GPS says my ETA is 7:05" or they could say, "My ETA is 15 minutes." 
+
+This slang term initialism is often seen in text messaging and on social media.
+
+Ref:
+https://thewordcounter.com/meaning-of-eta/
+```
+
+<br/>
 
 **A small tip:**
 ```
