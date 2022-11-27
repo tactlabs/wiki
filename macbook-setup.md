@@ -122,6 +122,14 @@ brew install docker-compose
 
 Docker desktop:
 https://www.docker.com/products/docker-desktop/
+
+How to open Docker Desktop from command?
+open -a Docker
+
+Verify Docker
+docker run hello-world
+or
+docker run -d -p 80:80 docker/getting-started
 ```
 
 ### 9. sublime
