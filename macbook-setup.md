@@ -118,19 +118,24 @@ brew install docker-compose
 
 ### 9. sublime
 ```
-
+brew install --cask sublime-text
 ```
 
 
 ### 10. Zoom
 ```
+brew install --cask zoom
 
+or
+
+download from
+https://zoom.us/support/download
 ```
 
 
 ### 11. Postman
 ```
-
+brew install --cask postman
 ```
 
 
