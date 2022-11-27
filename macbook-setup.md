@@ -144,9 +144,9 @@ brew install --cask postman
 ```
 
 
-### 12. sublime
+### 12. ?
 ```
-brew install --cask sublime-text
+
 ```
 
 ### 13. Slack
