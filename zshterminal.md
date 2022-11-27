@@ -117,3 +117,23 @@ nano ~/.bashrc
 Copy your conda setup from .bashrc and paste it in .zshrc
 
 ```
+
+
+Zsh plugins
+```
+plugins=(
+	git
+	copypath
+  	copyfile
+  	cp
+  	docker
+  	docker-machine
+  	docker-compose
+  	grunt
+  	gulp
+  	node
+  	npm
+  	history
+  	n98-magerun
+)
+```
