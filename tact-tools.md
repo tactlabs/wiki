@@ -12,6 +12,9 @@
   * [Tact Meme](https://tactmeme.herokuapp.com/meme)
   * [Tact Meme Admin](https://tactmeme.herokuapp.com/)
   * [Tact Timer](https://tacttimer.herokuapp.com/)
+  * [Learning Analytics](https://chrome.google.com/webstore/detail/learning-analytics/jghnmnbocllgpppgnafiipnjcanfgcdm)
+  
+  
 
 #### Tact External Tools :
 
