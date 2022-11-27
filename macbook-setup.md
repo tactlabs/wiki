@@ -155,9 +155,9 @@ brew install --cask postman
 ```
 
 
-### 12. ?
+### 12. Firefox
 ```
-
+brew install --cask firefox
 ```
 
 ### 13. Slack
