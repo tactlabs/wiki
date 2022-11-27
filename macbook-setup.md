@@ -103,6 +103,8 @@ wget https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
 chmod 777 Miniconda3-latest-MacOSX-x86_64.sh
 ./Miniconda3-latest-MacOSX-x86_64.sh
 
+conda config --set auto_activate_base false
+
 ref:
 https://docs.conda.io/en/latest/miniconda.html
 ```
@@ -112,8 +114,11 @@ https://docs.conda.io/en/latest/miniconda.html
 ### 8. Docker
 ```
 brew install docker
+    docker --version
 
 brew install docker-compose
+
+    docker-compose --version
 ```
 
 ### 9. sublime
