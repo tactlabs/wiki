@@ -23,7 +23,7 @@ git push
 
 Change mod
 ```
-chmode u+x gu.sh
+chmod u+x gu.sh
 ```
 
 
