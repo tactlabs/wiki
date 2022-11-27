@@ -119,6 +119,9 @@ brew install docker
 brew install docker-compose
 
     docker-compose --version
+
+Docker desktop:
+https://www.docker.com/products/docker-desktop/
 ```
 
 ### 9. sublime
