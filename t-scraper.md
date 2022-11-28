@@ -13,7 +13,7 @@
     sudo apt install openjdk-11-jdk
     sudo apt install openjdk-11-jre
 ```
-4. Download browsermob-proxy zip file from: http://bmp.lightbody.net/
+4. Download browsermob-proxy zip file from: [http://bmp.lightbody.net/](http://bmp.lightbody.net/)
 5. Extract the zip file
 6. Open the `t-scraper` repo
 7. Activate the Python Environment (miniconda)
@@ -44,7 +44,7 @@ psql -h 0.0.0.0 -p 5432 -U postgres
 13. Run all the Queries in `init.sql`
 14. Exit out of the container (using ```exit``` command twice)
 15. Run ```python app.py```
-16. Open http://192.168.1.150:5000/ in browser
+16. Open [http://192.168.1.150:5000/](http://192.168.1.150:5000/) in browser
 17. Click Scrape Template on the Left Navigation Bar
 18. Click Add More
 19. Enter the Required Details and Click save  
@@ -140,13 +140,13 @@ Scrape Variables:
                 }
       ]
 ```
-23. Go back to http://192.168.1.150:5000/
+23. Go back to [http://192.168.1.150:5000/](http://192.168.1.150:5000/)
 24. Click Batch Scan  on the Left Navigation Bar
 25. Enter the name of the Scanner Template in Template Name and The links to be Scanned in URLs  
       (Incase of multiple links separate them by one line per line)
 26. Click Save
 27. Wait for the page to redirect to the Scanned URLs page
-28.  Go back to http://192.168.1.150:5000/
+28.  Go back to [http://192.168.1.150:5000/](http://192.168.1.150:5000/)
 29. Click Parse  on the Left Navigation bar
 30. Enter the name of the Parser Template in Template Name and The link to be Scanned in URL
 31. Click Save and Parsed output will be displayed below in JSON format
