@@ -143,7 +143,7 @@ Scrape Variables:
 23. Go back to [http://192.168.1.150:5000/](http://192.168.1.150:5000/)
 24. Click Batch Scan  on the Left Navigation Bar
 25. Enter the name of the Scanner Template in Template Name and The links to be Scanned in URLs  
-      (Incase of multiple links separate them by one line per line)
+      (Incase of multiple links separate them by one link per line)
 26. Click Save
 27. Wait for the page to redirect to the Scanned URLs page
 28.  Go back to [http://192.168.1.150:5000/](http://192.168.1.150:5000/)
