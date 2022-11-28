@@ -48,14 +48,11 @@ psql -h 0.0.0.0 -p 5432 -U postgres
 17. Click Scrape Template on the Left Navigation Bar
 18. Click Add More
 19. Enter the Required Details and Click save  
-For example,
+For example:
 ```
 Template Name = test-scanner-template
-
 Retailer = Target
-
 Scrape Type = Product
-
 DriverExtras Override:
 {
       "variables" : [
@@ -91,7 +88,6 @@ DriverExtras Override:
       "compress_photos" : 1,
       "photos_dump" : 1
 }
-
 Scrape Variables:
 [
       "title",
@@ -101,7 +97,6 @@ Scrape Variables:
       "specifications",
       "description"
 ]
-
 ```
 20.  Click Parse Template on the Left Navigation Bar
 21. Click Add More
@@ -109,13 +104,10 @@ Scrape Variables:
 for example,
 ```
 Template Name = test-parser-template
-
 Retailer = Target
-
 Scrape Type = Product
-
-Scrape Variables: 
-                          [
+Scrape Variables:
+      [
                 {
                     "field": "title",
                     "type": "xpath",
@@ -146,7 +138,7 @@ Scrape Variables:
                     "path": "//*[@data-test='item-details-description']/text()",
                     "endpoint": ""
                 }
-            ]
+      ]
 ```
 23. Go back to http://192.168.1.150:5000/
 24. Click Batch Scan  on the Left Navigation Bar
