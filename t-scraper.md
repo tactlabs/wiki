@@ -154,7 +154,8 @@ Scrape Variables:
 ---
 
 **Note:**  
-To use LocalStack S3 in .env file set HAR_DUMP_TYPE=2 and set the AWS credentials as given in above .env example  
-Or for AWS S3 set HAR_DUMP_TYPE=3 and set the AWS credentials of your AWS account in .env file
+To use LocalStack S3 in .env file set HAR_DUMP_TYPE=2 and the AWS credentials as given in above .env example and run ```docker-compose up ``` or ```docker-compose up -d``` from the root folder of the repo in another terminal
+
+Or for AWS S3 set HAR_DUMP_TYPE=3 and the AWS credentials as Access keys of AWS account with S3 access in .env file
 
 ---
