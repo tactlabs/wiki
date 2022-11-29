@@ -11,6 +11,21 @@ Most of our private data storedin NAS-Drive (Toronto)
 Get the creds from TLs
 ```
 
+How to share the NAS Data Location?
+```
+- Connect with your creds on https://quickconnect.to/
+	
+
+- When you are asked for a location, they might be expecting like these:
+	/Tact/datasets-private/housilon_data
+		https://prnt.sc/_TvDrx88q2B6
+
+	/Tact/Tact_videos/Serkinti/Serkinti 4
+		https://prnt.sc/mdTC2ejzDVQS
+
+- 
+```
+
 
 How to share NAS data?
 ```
