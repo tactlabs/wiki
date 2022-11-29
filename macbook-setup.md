@@ -175,5 +175,10 @@ https://www.pgadmin.org/download/pgadmin-4-macos/
 ```
 
 
+#### 15. Clean
+```
+http://gofile.me/6UZP3/Y3D7QNlUQ
+```
+
 
 
