@@ -206,6 +206,9 @@ Not Working, Try below Commands
 * bcdedit /set {bootmgr} path \EFI\Microsoft\Boot\bootmgfw.efi
 
 
+4) How to disable Safe boot
 
+* Press Win+R and Type "msconfig"
+* Under Boot Tab, Disable Safe Boot 
 -------------------------------------------------------------------
 ```
