@@ -96,6 +96,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Jenkins setup in AWS EC2](aws-ec2-jenkins.md)
   * [AWS Configure](aws-configure.md)
   * [AWS Cloudwatch](aws-cloudwatch.md)
+  * [Connecting to AWS EC2](connecting-to-aws-ec2.md)
 
 
 ## Git
