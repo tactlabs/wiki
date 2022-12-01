@@ -5,7 +5,7 @@ TactLabs is a research unit of Tactii (formerly TalentAccurate) dedicated to wor
 We do simple and smart apps mostly for POC purposes with scaling options which can be put it on PROD within a few hours.
 
 ## TACT General Tools
-  * [Ubuntu Installation & Issues](ubuntu-installation-and-issues.md) 
+  * [Ubuntu Installation & Issues](ubuntu-installation-and-issues-1.md) 
   * [Nginx Installation](nginx-installation-ubuntu.md)
   * [How to Instlal Virtualenv](how-to-install-virtualenv.md)
   * [Tail Commands](tail-commands.md)
