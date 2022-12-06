@@ -2,7 +2,7 @@
 
 ## Tact Repo Info
 
-  * []()
+  * [FPR 11 Logs](https://github.com/tactlabs/fpr11-logs)
   * []()
   * []()
   * []()
