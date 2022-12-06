@@ -257,8 +257,9 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [How to view courses on Featurepreneur](how-to-view-courses.md)
   * [Micro Investor Contibution Framework](micro-investor-contribution-framework.md)
 
-## Tact Deployment
+## Tact Deployment / Repos
   * [Tact AWS Accounts](tact-aws-accounts.md)
+  * [Tact Repo Info](tact-repo-into.md)
 
 ## Mythraki Languages
   * [Mythraki languages for building event names](mythraki_languages.md)
