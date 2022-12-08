@@ -243,6 +243,8 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   14. [CronMe](cronme.md)
   15. [Regexpresso](regexpresso.md)
   16. [LinRights](linrights.md)
+  17. [Insights Journal](insightsjournal.md)
+  18. [IAM Policy Expert](iampolicyexpert.md)
 
    [Tech-Battle](techbattle.md)
 
