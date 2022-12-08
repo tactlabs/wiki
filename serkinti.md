@@ -1,8 +1,8 @@
 / [Home](index.md)
 
-# Game
+## Serkinti
 
-## Description
+### Description
 
 - This is a really simple game with very few rules, but make sure you dont forget the rules of the game on the go. This is a two player game. 
 
