@@ -121,6 +121,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Featurepreneur 2.0 Rules](featurepreneur-2.0-rules.md)
   * [Tact Alumni Interns](alumni-intern.md)
   * [Show And Tell](show-and-tell.md)
+  * [Tact Repo Standard](tact-repo-standard.md)
 
 ## React Native
   * [React Native Installation](react-native-installation-commands.md)
