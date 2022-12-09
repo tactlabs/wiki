@@ -7,6 +7,7 @@
 
 
 ### Repo Standard
+- Every repo should be in lowercase and - should be used instead of _ or space
 - Every repo should have readme.md file
 - readme.md should explain about the project in 2-3 lines
 - readme.md should explain how to run the project
