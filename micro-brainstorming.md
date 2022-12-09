@@ -168,6 +168,22 @@ Ref Links :
   * [Text Classification](https://github.com/TobiasLee/Text-Classification)
   * [Tensorflow Text Classification using CNN](https://github.com/AthulDilip/Tensorflow-Text-Classification-using-CNN)
 
+### Session : 4
+
+**Date**: December 9, 2022 - Friday
+
+**Title**: Good attitude reward system
+
+**Participants**: Raja CSP, Bagiya and Chaaya
+
+**Summary**:
+- How to identify people with good attitude and how to reward them.
+    - the way the person talks 
+    - people who are not just here for certificate and not for experience
+
+- What rewards to give them  
+    - letter of recommendation 
+    - 3000 INR gift card 
 
 
 
