@@ -22,6 +22,20 @@ docker run hello-world
 [How to install Docker on Ubuntu](https://phoenixnap.com/kb/how-to-install-docker-on-ubuntu-18-04)
 
 
+How to remove sudo form the docker commands ?
+
+```
+sudo groupadd docker
+
+sudo usermod -aG docker $USER
+
+newgrp docker
+
+docker run hello-world
+
+```
+
+
 Dockr Login
 ```
 docker login --username=rajacsp
@@ -251,15 +265,3 @@ docker push username/flask-reverse-string
 ```
 
 
-how to remove sudo form the docker commands ?
-
-```
-sudo groupadd docker
-
-sudo usermod -aG docker $USER
-
-newgrp docker
-
-docker run hello-world
-
-```
