@@ -22,7 +22,28 @@ githistory
 
 docker
 
+Git Graph
 
+Live Server
+
+cdnjs
+
+Regex Previewer
+
+ES7 snippets
+
+Prettier
+
+Turbo console log
+
+Polacode
+
+Better Comments
+
+Markdown PDF
+
+admin:
+  NAS:/Tact/datasets-private/linkedin-notes/vscode-extensions.pdf
 ```
 
 
