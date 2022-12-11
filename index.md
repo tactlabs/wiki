@@ -83,6 +83,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Kubectx Commands](kubectx-commands.md)
   * [Commands to remove sudo](remove-sudo-commands.md)
   * [Commands to delete Docker](delete-docker-commands.md)
+  * [Jenkins setup](jenkins-local.md)
 
 ### Ubuntu Errors
   * [disk space full](disk-space-full.md)
@@ -175,7 +176,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Featurepreneur Training](featurepreneur-training.md)
   * [DevOps Bootcamp](devops-bootcamp.md)
 
-## TACT Reserach
+## TACT Research
   * [Research Partnership](research-partnership.md)
 
 
