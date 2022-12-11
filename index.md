@@ -92,7 +92,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 ## AWS 
   * [AWS Commands](aws-commands.md)
-  * [AWS Client installation](aws-cli.md)
+  * [AWS CLI installation](aws-cli.md)
   * [AWS ECS Commands](aws-ecs-commands.md)
   * [AWS Components](aws-components.md)
   * [Jenkins setup in AWS EC2](aws-ec2-jenkins.md)
