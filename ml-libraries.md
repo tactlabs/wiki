@@ -121,55 +121,55 @@
 
 ### NLP Custom Annotation
 
-* [Doccano](https://github.com/doccano/doccano)
+1. [Doccano](https://github.com/doccano/doccano)
 
-* [Doccano Transformer](https://github.com/doccano/doccano-transformer)
+2. [Doccano Transformer](https://github.com/doccano/doccano-transformer)
 
-* [NLP Rating](https://github.com/Ismail-therap/NLP-rating-customer-review)
+3. [NLP Rating](https://github.com/Ismail-therap/NLP-rating-customer-review)
 
-* [Spacy NER Annotator](https://github.com/ManivannanMurugavel/spacy-ner-annotator)
+4. [Spacy NER Annotator](https://github.com/ManivannanMurugavel/spacy-ner-annotator)
 
-* [How to make your own NER Model with Contextual Word Embedding](https://medium.com/saarthi-ai/how-to-make-your-own-ner-model-with-contexual-word-embeddings-5086276e04a0)
+5. [How to make your own NER Model with Contextual Word Embedding](https://medium.com/saarthi-ai/how-to-make-your-own-ner-model-with-contexual-word-embeddings-5086276e04a0)
 
-* [Spacy NER Custom Entities](https://gist.github.com/kaustumbh7/6dc0b909dbdfea4ae2428fb77e18273f)
+6. [Spacy NER Custom Entities](https://gist.github.com/kaustumbh7/6dc0b909dbdfea4ae2428fb77e18273f)
 
-* [Named Entity Recognition NER with BERT](https://towardsdatascience.com/named-entity-recognition-ner-with-bert-in-spark-nlp-874df20d1d77)
+7. [Named Entity Recognition NER with BERT](https://towardsdatascience.com/named-entity-recognition-ner-with-bert-in-spark-nlp-874df20d1d77)
 
-* [Vietnamese NLP Toolkit for Node](https://github.com/vunb/vntk)
+8. [Vietnamese NLP Toolkit for Node](https://github.com/vunb/vntk)
 
-* [Spacy](https://github.com/ConflictingTheories/spacy_ws)
+9. [Spacy](https://github.com/ConflictingTheories/spacy_ws)
 
-* [Tutorial for building your own Sous Chef Bot](https://github.com/mvielkind/sous-chef-bot)
+10. [Tutorial for building your own Sous Chef Bot](https://github.com/mvielkind/sous-chef-bot)
 
-* [Train Spacy ner with custom dataset](https://github.com/ManivannanMurugavel/spacy-ner-annotator)
+11. [Train Spacy ner with custom dataset](https://github.com/ManivannanMurugavel/spacy-ner-annotator)
 
-* [Named Entity Recognition for standard entities and sentiment analysis. ](https://github.com/rickeydas/corespace-ner)
+12. [Named Entity Recognition for standard entities and sentiment analysis. ](https://github.com/rickeydas/corespace-ner)
 
-* [SpaCy NER Model Creation With Custom Training Data](https://github.com/kayasanoori/Spacy_NER)
+13. [SpaCy NER Model Creation With Custom Training Data](https://github.com/kayasanoori/Spacy_NER)
 
-* [Drug Named Entity Recognition using spaCy](https://github.com/hurcy/drug_ner)
+14. [Drug Named Entity Recognition using spaCy](https://github.com/hurcy/drug_ner)
 
-* [distributions of keywords](https://github.com/fabriziomiano/VocabularyAnalyzer)
+15. [distributions of keywords](https://github.com/fabriziomiano/VocabularyAnalyzer)
 
-* [Entity Extraction Using Spacy](https://github.com/niraj1234567890/entity_extraction_spaCy)
+16. [Entity Extraction Using Spacy](https://github.com/niraj1234567890/entity_extraction_spaCy)
 
-* [spaCy text mining and NLP](https://github.com/SCK22/TextMining)
+17. [spaCy text mining and NLP](https://github.com/SCK22/TextMining)
 
-* [Build a deep learning model for predicting the named entities from text.](https://github.com/floydhub/named-entity-recognition-template)
+18. [Build a deep learning model for predicting the named entities from text.](https://github.com/floydhub/named-entity-recognition-template)
 
-* [MITIE: library and tools for information extraction](https://github.com/mit-nlp/MITIE)
+19. [MITIE: library and tools for information extraction](https://github.com/mit-nlp/MITIE)
 
-* [NER](https://github.com/NervanaSystems/nlp-architect/blob/master/tutorials/ner/ner_demo.ipynb)
+20. [NER](https://github.com/NervanaSystems/nlp-architect/blob/master/tutorials/ner/ner_demo.ipynb)
 
-* [A spaCy pipeline and model for NLP on unstructured legal text](https://github.com/ICLRandD/Blackstone)
+21. [A spaCy pipeline and model for NLP on unstructured legal text](https://github.com/ICLRandD/Blackstone)
 
-* [Named Entity Recognition](https://github.com/deepmipt/ner)
+22. [Named Entity Recognition](https://github.com/deepmipt/ner)
 
-* [Natural Language Processing Best Practices & Examples](https://github.com/microsoft/nlp-recipes)
+23. [Natural Language Processing Best Practices & Examples](https://github.com/microsoft/nlp-recipes)
 
-* [Named Entity Recognition – NERClassifierCombiner](https://stanfordnlp.github.io/CoreNLP/ner.html)
+24. [Named Entity Recognition – NERClassifierCombiner](https://stanfordnlp.github.io/CoreNLP/ner.html)
 
-* [Create your own Labels for NER tagging using Stanford Corde-NLP](https://github.com/mridultuteja/Custom-Labelled-NER-tagger)
+25. [Create your own Labels for NER tagging using Stanford Corde-NLP](https://github.com/mridultuteja/Custom-Labelled-NER-tagger)
 
 
 
@@ -245,15 +245,15 @@
 	
 	
 ### NLP
-* [NLTK](https://github.com/nltk/nltk)
+1. [NLTK](https://github.com/nltk/nltk)
 
-* [Spacy](https://github.com/explosion/spaCy)
+2. [Spacy](https://github.com/explosion/spaCy)
 
-* [Bokeh](https://github.com/bokeh/bokeh)
+3. [Bokeh](https://github.com/bokeh/bokeh)
 
-* [Gensim](https://github.com/RaRe-Technologies/gensim)
+4. [Gensim](https://github.com/RaRe-Technologies/gensim)
 
-* [Word2Vec](https://github.com/tmikolov/word2vec)
+5. [Word2Vec](https://github.com/tmikolov/word2vec)
 
 
 ### Parallel computing in Python
