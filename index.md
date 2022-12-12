@@ -69,7 +69,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [HTTP response status code](http_response.md)
   * [Featurepreneur Credits](featurepreneur-credits.md)
   * [Macbook Setup](macbook-setup.md)
-  * [VSCde](vscode.md)
+  * [VScode and Extensions](vscode-and-extensions.md)
 
 ## Docker Projects / Tools :
   * [Docker - How to Install?](docker-how-to-install.md)
