@@ -36,7 +36,7 @@ html: webinar-one.html - is right
 
 * .gitignore
 
-    - You can get the sample .gitignore content from http://wiki.tactii.com/gitignore.html
+    - You can get the sample .gitignore content from [.gitignore](https://wiki.tactii.com/gitignore.html)
     - Make sure .env is in .gitignore file when you have .env file available in your project
     <br>
 * .env.sample if the project has an env
