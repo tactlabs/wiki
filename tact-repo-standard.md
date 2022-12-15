@@ -19,3 +19,14 @@
 - Team leads should take the responsibility to make sure the team is following the standards
 
 
+Examples:
+```
+	branch: Testimonial-page - is wrong
+	branch: testimonial-page - is right
+
+	html: Quote.html - is wrong
+	html: quote.html - is right
+
+	html: Webinar_one.html - is wrong
+	html: webinar-one.html - is right
+```
