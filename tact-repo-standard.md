@@ -21,14 +21,14 @@
 
 Examples:
 ```
-	branch: Testimonial-page - is wrong
-	branch: testimonial-page - is right
+branch: Testimonial-page - is wrong
+branch: testimonial-page - is right
 
-	html: Quote.html - is wrong
-	html: quote.html - is right
+html: Quote.html - is wrong
+html: quote.html - is right
 
-	html: Webinar_one.html - is wrong
-	html: webinar-one.html - is right
+html: Webinar_one.html - is wrong
+html: webinar-one.html - is right
 ```
 
 
