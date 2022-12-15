@@ -103,11 +103,10 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 ## Git
   * [Git Commands](git-commands.md)
-  * [gitignore Sample content](gitignore.md)
+  * [.gitignore Template](gitignore.md)
   * [Tact OS and Git Rules](tact-os-and-git-rules.md)
   * [Tact Git Conventions](tact-git-conventions.md)
   * [Gush - One way quick Git Push](gush.md)
-  * [Repository rules](repository-rules.md)
   * [Git ssh connection error fix](git-ssh-fix.md)
 
 ## Tact Rules / Core Values / Policies
@@ -123,7 +122,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Featurepreneur 2.0 Rules](featurepreneur-2.0-rules.md)
   * [Tact Alumni Interns](alumni-intern.md)
   * [Show And Tell](show-and-tell.md)
-  * [Tact Repo Standard](tact-repo-standard.md)
+  * [Tact Repo Standard / Rules](tact-repo-standard.md)
 
 ## React Native
   * [React Native Installation](react-native-installation-commands.md)
