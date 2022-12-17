@@ -43,7 +43,7 @@ Better Comments
 Markdown PDF
 
 admin:
-  NAS:/Tact/datasets-private/linkedin-notes/vscode-extensions.pdf
+  NALs:/Tact/datasets-private/linkedin-notes/vscode-extensions.pdf
 ```
 
 
