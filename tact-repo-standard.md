@@ -19,3 +19,39 @@
 - Team leads should take the responsibility to make sure the team is following the standards
 
 
+Examples:
+```
+branch: Testimonial-page - is wrong
+branch: testimonial-page - is right
+
+html: Quote.html - is wrong
+html: quote.html - is right
+
+html: Webinar_one.html - is wrong
+html: webinar-one.html - is right
+```
+
+
+### Always include these files when we create a python repository:
+
+* .gitignore
+
+    - You can get the sample .gitignore content from [.gitignore](https://wiki.tactii.com/gitignore.html)
+    - Make sure .env is in .gitignore file when you have .env file available in your project
+    <br>
+* .env.sample if the project has an env
+
+* requirements.txt
+
+    - Include modules used in the project along with its version
+
+    - Sample:
+        <br>
+        Flask - is wrong
+        <br>
+        Flask==2.2.2  - is right
+
+
+* readme.md 
+
+    - A proper documentation of the project 

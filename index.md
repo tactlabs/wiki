@@ -69,7 +69,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [HTTP response status code](http_response.md)
   * [Featurepreneur Credits](featurepreneur-credits.md)
   * [Macbook Setup](macbook-setup.md)
-  * [VSCde](vscode.md)
+  * [VScode and Extensions](vscode-and-extensions.md)
 
 ## Docker Projects / Tools :
   * [Docker - How to Install?](docker-how-to-install.md)
@@ -105,11 +105,10 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 ## Git
   * [Git Commands](git-commands.md)
-  * [gitignore Sample content](gitignore.md)
+  * [.gitignore Template](gitignore.md)
   * [Tact OS and Git Rules](tact-os-and-git-rules.md)
   * [Tact Git Conventions](tact-git-conventions.md)
   * [Gush - One way quick Git Push](gush.md)
-  * [Repository rules](repository-rules.md)
   * [Git ssh connection error fix](git-ssh-fix.md)
 
 ## Tact Rules / Core Values / Policies
@@ -125,7 +124,8 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Featurepreneur 2.0 Rules](featurepreneur-2.0-rules.md)
   * [Tact Alumni Interns](alumni-intern.md)
   * [Show And Tell](show-and-tell.md)
-  * [Tact Repo Standard](tact-repo-standard.md)
+  * [Tact Repo Standard / Rules](tact-repo-standard.md)
+  * [.env.sample template](env.sample.md)
 
 ## React Native
   * [React Native Installation](react-native-installation-commands.md)
@@ -133,8 +133,10 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 ## TACT ML / DL
   * [TACT ML Wiki / mlwiki](https://tactlabs.github.io/mlwiki/)
+  * [100 ML Libraries](100-ml-libraries.md)
   * [ML Libraries](ml-libraries.md)
   * [ML DL Resources](ml-resources.md)
+  * [ML Issues](ml-issues.md)
   * [ML/DL Deployments](ml-dl-deployments.md)
   * [Luigi](luigi.md)
   * [Jupyter Cheatsheet](jupyter-cheatsheet.md)
@@ -250,6 +252,8 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   16. [LinRights](linrights.md)
   17. [Insights Journal](insightsjournal.md)
   18. [IAM Policy Expert](iampolicyexpert.md)
+  19. [?]
+  20. [BeatGPT](beatgpt.md)
 
    [Tech-Battle](techbattle.md)
 
@@ -287,6 +291,9 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ## Misc
   * [Hinglish](hinglish.md)
   * [TV shows to watch to improve communication skills](improving-communication-skills.md)
+
+## Data
+  * [100 Datasets](100-datasets.md)
 
 ## Badges
   * [Badges](badges.md)

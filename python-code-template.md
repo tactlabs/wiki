@@ -7,11 +7,10 @@
 '''
 Created on 
 
-@author: raja.raman
+@author: Raja CSP Raman
 
 source:
     https://stackoverflow.com/questions/370357/python-variable-scope-error
-    https://stackoverflow.com/questions/10851906/python-3-unboundlocalerror-local-variable-referenced-before-assignment
 '''
 
 def startpy():
