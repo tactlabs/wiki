@@ -4,7 +4,7 @@
 
 Choose a card - select an attribute (example issues) - opponent can match or not - if match
 
-Math or Catalyst Card:
+#### Math or Catalyst Card:
   1. Higher points wins 
   
   2. Lower points win 
@@ -28,7 +28,7 @@ Math or Catalyst Card:
 
 
 
-How to play?
+#### How to play?
  - 2 Players can get 10 (or more) general cards (Lib cards)
 
  - Player 1 gets the Catalyst card and follow the procedure
