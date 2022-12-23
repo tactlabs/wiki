@@ -33,9 +33,9 @@ Choose a card - select an attribute (example issues) - opponent can match or not
 
  - Player 1 gets the Catalyst card and follow the procedure
     ```
- 		Example:
- 		if option 1 (Higher points win), she has to pick the higher card to beat the player
- 		if the player 2 has higher number on the specific key, player 2 wins
+Example:
+if option 1 (Higher points win), she has to pick the higher card to beat the player
+if the player 2 has higher number on the specific key, player 2 wins
     ```
 
  - Player 2 gets the Catalyst card and follow the procedure
