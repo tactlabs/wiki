@@ -12,3 +12,8 @@
 1. Every room should have a decent name (pick random topics like islands)
 2. 8-20 rooms should be created
 3. Private room must be there
+4. Room number count should be a prime number
+    ```
+    Top 20 prime Numbers:
+    2	3	5	7	11	13	17	19	23	29	31	37	41	43	47	53	59	61	67	71
+    ```
