@@ -40,4 +40,15 @@ if the player 2 has higher number on the specific key, player 2 wins
 
  - Player 2 gets the Catalyst card and follow the procedure
 
+
+### Player feedbacks
+
+
+  - catalyst card wording should be improved
+
+  - Rules should be conveyed in simplier terms
+
+  - Lose/regain/get should be specified clearly catalyst cards
+
+  - Single/Duel should be specified
   
