@@ -6,8 +6,7 @@
 ### Weekend Battle
 
 - Battle with your fellow learners
-- Winner gets the prize
-- 30 minutes to 1 hour battle
+- 30 - 60 minutes battle
 - LA will make eligibility
 - Any one of 20 Tact Games will be conducted
 
@@ -22,8 +21,6 @@
 
 #### Weekend Prize:
 14500 TC
-
-
 
 
 ### Monthly Battle
