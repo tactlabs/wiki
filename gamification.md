@@ -13,7 +13,7 @@
 
 
 #### How to be eligible?
-- LA will get you 50 out of 100
+- [LA](Learning-analytics.md) will get you 50 out of 100
 - Medium (max 2) will get you 30 out of 100
 - Github Turtle score will get you 20 out f 100
 - Total: 100
