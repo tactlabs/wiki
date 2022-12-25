@@ -182,8 +182,8 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [DevOps Bootcamp](devops-bootcamp.md)
 
 ## TACT Research
+  * [Tact Research](tact-research.md)
   * [Research Partnership](research-partnership.md)
-
 
 ## DB Resources
   * [MongoDB Installation](mongodb-installation.md)
