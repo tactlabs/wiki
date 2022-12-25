@@ -234,6 +234,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Spin Time](spin-time.md)
 
 ## Featurepreneur Games 
+  [Gamification](gamification.md)
   01. [Serkinti](serkinti.md)
   02. [Mythraki](mythraki.md)
   03. [Tact-Say](tactsay.md)
@@ -254,8 +255,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   18. [IAM Policy Expert](iampolicyexpert.md)
   19. [Pymon](pymon.md)
   20. [BeatGPT](beatgpt.md)
-
-   [Tech-Battle](techbattle.md)
+  21. [Tech-Battle](techbattle.md)
 
 ## Programs
   * [Interactive Micro Learning](interactive-micro-learning.md)
