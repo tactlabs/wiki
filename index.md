@@ -159,6 +159,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Feature Engineering Learning](feature-engineering-learning.md)
   * [Rasa documentation](rasa-documentation.md)
   * [Learners' Note](learners-note.md)
+  * [Pelican Setup](pelican-setup.md)
 
 ## Tact Internship/Certificates
   * [Intern Opportunity](tact-internship.md)
