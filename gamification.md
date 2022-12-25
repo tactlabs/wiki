@@ -21,5 +21,14 @@
 - Top 10 learners will be eligible for the game
 
 #### Weekend Prize:
-145000 TC
+14500 TC
+
+
+
+
+#### Monthly Battle
+- Last weekend battle will be considered as Monthly Battle
+
+Month end Battle Prize:
+29000 TC
 
