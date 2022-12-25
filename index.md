@@ -5,14 +5,12 @@ TactLabs is a research unit of Tactii (formerly TalentAccurate) dedicated to wor
 We do simple and smart apps mostly for POC purposes with scaling options which can be put it on PROD within a few hours.
 
 ## TACT General Tools
-  * [Ubuntu Installation & Issues](ubuntu-installation-and-issues-1.md) 
   * [Nginx Installation](nginx-installation-ubuntu.md)
   * [How to Instlal Virtualenv](how-to-install-virtualenv.md)
   * [Tail Commands](tail-commands.md)
   * [VI Commands](vi-commands.md)
   * [SSH Key](ssh-key.md)
   * [APScheduler](apscheduler.md)
-  * [Ubuntu Commands](ubuntu-commands.md)
   * [MinIO](minio-commands.md)
   * [RabbitMQ Commands](rabbitmq-commands.md)
   * [TACT Tools](tact-tools.md)
@@ -40,7 +38,6 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [PySpark Setup](pyspark-setup.md)
   * [Applied ML](applied-ml.md)
   * [Adding Course from Zoom](adding-zoom-course.md)
-  * [Ubuntu Errors](ubuntu-errors.md)
   * [Jina AI Challenge](jina-ai.md)
   * [Youth Investors Club](yic.md)
   * [Updating PyPi Package](pypi.md)
@@ -86,7 +83,10 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Jenkins setup](jenkins-local.md)
 
 ### Ubuntu Errors
-  * [disk space full](disk-space-full.md)
+  * [Ubuntu Commands](ubuntu-commands.md)
+  * [Ubuntu Installation & Issues](ubuntu-installation-and-issues-1.md)
+  * [Ubuntu Errors](ubuntu-errors.md)
+  * [Ubuntu Errors - disk space full](disk-space-full.md)
   
 ### Postman Errors 
   * [Evaluating the Pre-request Script](pre-request-script.md)
