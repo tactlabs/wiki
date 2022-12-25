@@ -3,7 +3,7 @@
 ## Gamified Learning
 
 
-#### Weekend Battle
+### Weekend Battle
 
 - Battle with your fellow learners
 - Winner gets the prize
@@ -26,9 +26,9 @@
 
 
 
-#### Monthly Battle
+### Monthly Battle
 - Last weekend battle will be considered as Monthly Battle
 
-Month end Battle Prize:
+#### Month end Battle Prize:
 29000 TC
 
