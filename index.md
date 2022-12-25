@@ -234,7 +234,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Spin Time](spin-time.md)
 
 ## Featurepreneur Games 
-  [Gamification](gamification.md)
+  [Gamification / How do we gamify Learning](gamification.md)
   01. [Serkinti](serkinti.md)
   02. [Mythraki](mythraki.md)
   03. [Tact-Say](tactsay.md)
