@@ -82,10 +82,10 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Commands to delete Docker](delete-docker-commands.md)
   * [Jenkins setup](jenkins-local.md)
 
-### Ubuntu Errors
+### Ubuntu
   * [Ubuntu Commands](ubuntu-commands.md)
   * [Ubuntu Installation & Issues](ubuntu-installation-and-issues-1.md)
-  * [Ubuntu Errors](ubuntu-errors.md)
+  * [Ubuntu Errors - General](ubuntu-errors.md)
   * [Ubuntu Errors - disk space full](disk-space-full.md)
   
 ### Postman Errors 
