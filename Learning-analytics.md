@@ -5,12 +5,12 @@
 
 ### How to signup Featurepreneur
 
-How to signup to Featurepreneur?
+#### How to signup to Featurepreneur?
 * [Featurepreneur](https://featurepreneur.com/) 
 
-Creating a new account
-    * Click on the signup option and signup using google account.
-    * Enter the email id and password to login.
+#### Creating a new account
+* Click on the signup option and signup using google account.
+* Enter the email id and password to login.
 
 ### Extensions in Learning Analytics
 
