@@ -43,7 +43,6 @@ if the player 2 has higher number on the specific key, player 2 wins
 
 ### Player feedbacks
 
-
   - catalyst card wording should be improved
 
   - Rules should be conveyed in simplier terms
@@ -52,3 +51,10 @@ if the player 2 has higher number on the specific key, player 2 wins
 
   - Single/Duel should be specified
   
+  - Would be better in physical mode
+
+  - Some more mechanics
+### Target
+
+ - 50 library card
+ - 50 catalyst
