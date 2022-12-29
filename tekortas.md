@@ -1,8 +1,27 @@
 / [Home](index.md)
 
-# Pymon
+# Tekortas
 
 Choose a card - select an attribute (example issues) - opponent can match or not - if match
+
+### Mythraki name:
+
+- Languages used:
+  1. Norwegian
+  2. Spanish
+
+- Words used:
+  1. Technology
+    * teknologi - Norwegian
+  2. cards
+    * kort - Norwegian
+    * tarjetas - Spanish
+    * combination:
+      - kortas
+      - tarkort
+
+- Final combination:
+  - tekortas
 
 #### Math or Catalyst Card:
   1. Higher points wins 
