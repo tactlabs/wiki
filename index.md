@@ -257,6 +257,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   19. [Tekortas](tekortas.md)
   20. [BeatGPT](beatgpt.md)
   21. [Tech-Battle](techbattle.md)
+  22. [Data Bee Game](index.md)
 
 ## Programs
   * [Interactive Micro Learning](interactive-micro-learning.md)
