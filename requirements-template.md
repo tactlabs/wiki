@@ -15,5 +15,6 @@ authclient==1.0
 Flask-PyMongo==2.3.0
 Authlib==1.2.0
 requests==2.28.1
+python-dotenv==0.21.0
 ```
 
