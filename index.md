@@ -297,7 +297,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 ## Data
   * [100 Datasets](100-datasets.md)
-  * [Data Collection](data-collection.md)
+  * [Poses- Data Collection](data-collection.md)
 
 ## Badges
   * [Badges](badges.md)
