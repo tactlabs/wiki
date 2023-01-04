@@ -17,4 +17,3 @@ Authlib==1.2.0
 requests==2.28.1
 python-dotenv==0.21.0
 ```
-
