@@ -4,7 +4,7 @@
 Images Collected
 
 
-#### Day1 #  - December 22, 2022 - Friday
+#### Day 1 #  - December 22, 2022 - Friday
 
 ```
 Santhosh    488
@@ -23,7 +23,7 @@ Manoj       ?
 Mukesh      ?
 ```
 
-#### Day2 #  - January 03, 2023 - Tuesday
+#### Day 2 #  - January 03, 2023 - Tuesday
 ```
 Santhosh    -  ?
 ```
