@@ -51,23 +51,26 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Journalctl](journalctl.md)
   * [Zoom Installation](zoom.md)
   * [Spark Installation](spark.md)
-  * [Spark Installation on Mac M1](spark-on-mac-m1.md)
+  * 
   * [Accessing TREB data](treb-data-access.md)
   * [SBT Installation](sbtInstall.md)
   * [FAQ / Frequently Asked Questions](faq.md)
   * [Changing zsh terminal color](tact-terminal-color.md)
-  * [Weekly macbook rental](macbook-rental.md)
-  * [macOS](macos.md)
   * [Python Code Template](python-code-template.md)
   * [Requirements Template](requirements-template.md)
   * [DBeaver Installation](dbeaver.md)
   * [Pbcopy](Pbcopy.md)
   * [NAS Drive](nas-drive.md)
-  * [MacOs - M1 Issues](mac-m1-issues.md)
   * [HTTP response status code](http_response.md)
   * [Featurepreneur Credits](featurepreneur-credits.md)
-  * [Macbook Setup](macbook-setup.md)
   * [VScode and Extensions](vscode-and-extensions.md)
+
+## Mac
+  * [macOS](macos.md)
+  * [Spark Installation on Mac M1](spark-on-mac-m1.md)
+  * [Weekly macbook rental](macbook-rental.md)
+  * [MacOs - M1 Issues](mac-m1-issues.md)
+  * [Macbook Setup](macbook-setup.md)
 
 ## Docker Projects / Tools :
   * [Docker - How to Install?](docker-how-to-install.md)
