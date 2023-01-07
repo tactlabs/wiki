@@ -71,6 +71,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Weekly macbook rental](macbook-rental.md)
   * [MacOs - M1 Issues](mac-m1-issues.md)
   * [Macbook Setup](macbook-setup.md)
+  * [FPR Color Theme - Macbook](fpr-color-theme-macbook.md)
 
 ## Docker Projects / Tools :
   * [Docker - How to Install?](docker-how-to-install.md)
