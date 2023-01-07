@@ -51,7 +51,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Journalctl](journalctl.md)
   * [Zoom Installation](zoom.md)
   * [Spark Installation](spark.md)
-  * 
+  * [Topic Summary](topic-summary.md)
   * [Accessing TREB data](treb-data-access.md)
   * [SBT Installation](sbtInstall.md)
   * [FAQ / Frequently Asked Questions](faq.md)
