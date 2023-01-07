@@ -131,6 +131,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Show And Tell](show-and-tell.md)
   * [Tact Repo Standard / Rules](tact-repo-standard.md)
   * [.env.sample template](env.sample.md)
+  * [feedback-41pi.md](feedback-41pi.md)
 
 ## React Native
   * [React Native Installation](react-native-installation-commands.md)
