@@ -18,6 +18,15 @@ sudo service nginx start
 sudo service nginx restart
 ```
 
+Check the status
+```
+sudo service nginx status
+
+or
+
+
+```
+
 Where to check logs
 ```
 /var/log/nginx/error.log
