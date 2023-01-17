@@ -241,6 +241,8 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Aprencio](aprencio.md)
   * [Spin Time](spin-time.md)
 
+## Course
+
 ## Featurepreneur Games 
   [Gamification / How do we gamify Learning](gamification.md)
   01. [Serkinti](serkinti.md)
