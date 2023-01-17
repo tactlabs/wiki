@@ -26,3 +26,4 @@ Featurepreneur Games
   20. [BeatGPT](beatgpt.md)
   21. [Tech-Battle](techbattle.md)
   22. [Data Bee Game](index.md)
+  23. [Book Reading Game](book-reading-game.md)

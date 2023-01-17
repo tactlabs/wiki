@@ -284,6 +284,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ## Misc
   * [Hinglish](hinglish.md)
   * [TV shows to watch to improve communication skills](improving-communication-skills.md)
+  * [Linfluencers](linfluencers.md)
 
 ## Data
   * [100 Datasets](100-datasets.md)
