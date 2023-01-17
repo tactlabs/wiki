@@ -8,7 +8,8 @@ NuvoML is a quick ML deployment tool where you can convert your basic Machine Le
 
 Also, NuoML comes with plugins where you can monitor your app visitors and visitor statistics.
 
-Pricing:
+### Pricing:
+
 #### Free:
 - Upload 2 models
 - Share with your audience/friends/customers
