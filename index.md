@@ -65,6 +65,8 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Featurepreneur Credits](featurepreneur-credits.md)
   * [VScode and Extensions](vscode-and-extensions.md)
 
+
+
 ## Mac
   * [macOS](macos.md)
   * [Spark Installation on Mac M1](spark-on-mac-m1.md)
@@ -207,12 +209,14 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Research papers](research-papers.md)
   * [Testing Automation](https://reflect.run/)
   * [SQL ORM Library](https://github.com/absent1706/sqlalchemy-mixins)
-  
+
+## Products
+  * [NuvoML](nuvoml.md)
+  * [CNERgy](CNERgy-deployment.md)
 
 ## Public Projects
   * [Flask Sample Projects](flask-sample-projects.md)
-  * [CNERgy Projects](CNERgy-deployment.md)
-
+  
 ## Learning Research
   * [Learning with RJ CSP](learn-with-rj-csp.md)
   * [Give them a laptop](give-them-a-laptop.md)
