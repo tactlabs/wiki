@@ -246,13 +246,11 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Spin Time](spin-time.md)
 
 ## Course
+  * [Python Basics](course-python-basics.md)
 
 ## Featurepreneur Games 
-  [Gamification / How do we gamify Learning](gamification.md)
-
-  [FPR Games](fpr-games.md)
-
-
+  * [Gamification / How do we gamify Learning](gamification.md)
+  * [FPR Games](fpr-games.md)
 
 ## Programs
   * [Interactive Micro Learning](interactive-micro-learning.md)
