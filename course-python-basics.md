@@ -126,12 +126,12 @@
 ### Chapter: 16 | Modules & Packages
 1. Differenttypesofmodules 
 2. Inbuilt modules
-	a. OS
-	b. Sys
-	c. Statistics 
-	d. Math
-	e. String
-	f. Random
+	1. OS
+	2. Sys
+	3. Statistics 
+	4. Math
+	5. String
+	6. Random
 3. Create your own module
 4. Building Packages
 5. Build your own python module and deploy it on pip

@@ -6,6 +6,7 @@
 
 
 ```
+
 https://github.com/tactlabs/fpr12-logs
 	Purchased: Jan 03, 2023 - Wednesday
 
@@ -23,5 +24,6 @@ https://github.com/tactlabs/fpr04-logs
 
 https://github.com/tactlabs/fpr02-logs
 
-git@github.com:rajacsp/fpr0-logs-template.git
+Template:
+https://github.com/tactlabs/fpr0-logs-template
 ```
