@@ -6,9 +6,14 @@
 
 
 ```
+https://github.com/tactlabs/fpr14-logs
+	Received: Jan 18, 2023 - Wednesday
+
+https://github.com/tactlabs/fpr13-logs
+	Received: Jan ?, 2023 - ?
 
 https://github.com/tactlabs/fpr12-logs
-	Purchased: Jan 03, 2023 - Wednesday
+	Received: Jan 03, 2023 - Wednesday
 
 https://github.com/tactlabs/fpr11-logs
 
