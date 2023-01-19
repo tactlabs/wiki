@@ -127,7 +127,6 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Tact Intern Day Off](Intern-day-off.md)
   * [Updates - How to Ask?](how-to-ask-for-updates.md)
   * [Learning Report](learning-report.md)
-  * [Tact Interview Process: TIP](interview-process.md)
   * [How To Avoid a Tourist Learner](tourist-learner.md)
   * [Featurepreneur 2.0 Rules](featurepreneur-2.0-rules.md)
   * [Tact Alumni Interns](alumni-intern.md)
@@ -136,6 +135,10 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [.env.sample template](env.sample.md)
   * [Feedback - 41 PI](feedback-41pi.md)
   * [Break Rules](break-rules.md)
+
+## Interview
+  * [Tact Interview Process: TIP](interview-process.md)
+  * [Interview Assignments](interview-assignments.md)
 
 ## React Native
   * [React Native Installation](react-native-installation-commands.md)
