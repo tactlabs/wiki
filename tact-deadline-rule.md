@@ -60,9 +60,10 @@ https://thewordcounter.com/meaning-of-eta/
 
 **A small tip:**
 ```
-It is okay to push your deadline. 
+It is okay to push your deadline.
 But always remember "it is better to push your limits than your deadline"
+Make sure to inform the updated deadline atleast 30 minutes before the deadline.
 ```
-  
+
 
 
