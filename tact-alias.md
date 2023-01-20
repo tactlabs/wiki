@@ -56,12 +56,13 @@ alias sshb="ssh-add -K ~/.ssh/id_rsa" # ssh base (for emergency purpose only)
 CSP Alias
 ```
 alias gad="git add ."
+alias gcm="git commit -m"
 alias gish="git push"
 alias gush="/Users/tactlabs/d/gitmagic/gu.sh"
-alias py36="conda activate py36"
+alias py39="conda activate py39"
 alias py37="conda activate py37"
-alias c37="conda activate py37"
-alias ml37="conda activate ml37"
+alias c39="conda activate py39"
+alias ml39="conda activate ml39"
 alias cact="conda activate"
 alias clist="conda env list"
 alias py="python"
@@ -77,9 +78,9 @@ alias txt="cd /Users/tactlabs/d/txts"
 alias tactxi="cd /Users/tactlabs/d/tact_space/tact_txts"
 alias wip="curl https://ifconfig.me/ -w '\n'"
 alias ip="curl https://ifconfig.me/ -w '\n'"
-alias bashing="nano ~/.zshrc"
-alias bashin="nano ~/.zshrc"
-alias zsin="nano ~/.zshrc"
+alias bashing="code ~/.zshrc"
+alias bashin="code ~/.zshrc"
+alias zsin="code ~/.zshrc"
 alias bashcat="cat ~/.bash_profile"
 alias pipi="pip install -r requirements.txt"
 alias piper="pipi"
@@ -118,3 +119,24 @@ alias dexec="docker exec -it"
 alias goprod="ssh -i ~/.tact/creds/tact1_key.pem ubuntu@54.186.8.196"
 alias co="code"
 ```
+
+
+CSP Zshrc plugins
+```
+plugins=(
+	git
+	copypath
+  copyfile
+  cp
+  docker
+  docker-machine
+  docker-compose
+  grunt
+  gulp
+  node
+  npm
+  history
+  n98-magerun
+)
+```
+
