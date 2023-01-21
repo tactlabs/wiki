@@ -46,3 +46,8 @@ Upload a Course:
 * Download the sheet and upload it in 'http://admin.featurepreneur.com/' - Courses
 * Update the upload-history sheet and the base sheet must be empty.
 -------------------------------------------------
+
+### Error while Uploading "Course Migration 2022" gsheet 
+
+- If you face an error while uploading "Course Migration 2022" gsheet, 
+    - Try creating new google sheet -> copy the contents and paste in new gheet -> download -> upload
