@@ -1,8 +1,10 @@
 / [Home](index.md)
 
-# Featurepreneur Credits
+# Tact Credits
 
 **Note:** Make your way to get credits
+
+**Conversion** 1 INR = 29 TC
 
 
 ### Option 1

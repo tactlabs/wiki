@@ -62,7 +62,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Pbcopy](Pbcopy.md)
   * [NAS Drive](nas-drive.md)
   * [HTTP response status code](http_response.md)
-  * [Featurepreneur Credits](featurepreneur-credits.md)
+  * [Tact Credits](tact-credits.md)
   * [VScode and Extensions](vscode-and-extensions.md)
 
 
