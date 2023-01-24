@@ -253,6 +253,9 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ## Course
   * [Python Basics](course-python-basics.md)
 
+## Shadow Course
+  * [DOP-C01 DevOps Engineer Exam Prep](dop-c01-devops-engineer-exam-prep.md)
+
 ## Featurepreneur Games 
   * [Gamification / How do we gamify Learning](gamification.md)
   * [FPR Games](fpr-games.md)

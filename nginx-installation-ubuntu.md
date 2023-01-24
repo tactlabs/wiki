@@ -16,6 +16,9 @@ Stop Start Restart
 sudo service nginx stop
 sudo service nginx start
 sudo service nginx restart
+
+reload:
+sudo nginx -s reload
 ```
 
 Check the status
