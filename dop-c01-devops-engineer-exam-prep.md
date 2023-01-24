@@ -581,7 +581,7 @@
 
 200. ASG - CodeDeploy Integration
 
-201. 
+201. ASG - CodeDeploy Integration Troubleshooting
 
 203. ASG - Deployment Strategies
 
@@ -589,9 +589,21 @@
 
 #### DOP-C01-Part-17:
 
-204. Dynamo DB - Review Part 1
+204. Dynamo DB - Review Part I
 
-..
+205. Dynamo DB - Review Part II
+
+206. Dynamo DB - Patterns
+
+207. S3 - Review
+
+208. Multi AZ - Overview
+
+209. Multi Region - Overview
+
+210. StackSets - Warning
+
+211. Mutl Region - CloudFormation StackSets
 
 212. Multi Region - CodePipeline
 
@@ -600,15 +612,16 @@
 
 213. Disaster Recovery - Overview
 
-..
+214. Disaster Recovery - DevOps Checklist
 
-218. Multi Account - Service Integration
+215. On-Premise Strategies with AWS
 
-..
+216. Multi Account - AWS Organization Overview
 
-220. AWS Control Towern - Hands On
+217. Multi Account - AWS Organization Hands On
 
+218. Multi Account - Services Integration
 
-..
+219. AWS Control Tower
 
-225. Bonus Lecture
+220. AWS Control Tower - Hands On
