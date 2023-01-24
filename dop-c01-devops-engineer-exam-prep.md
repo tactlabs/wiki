@@ -154,33 +154,42 @@
 
 #### DOP-C01-Part-6:
 73. CloudFormation - DependsOn 
+	<br>
 	3 min
 
 74. CloudFormation - Deploying Lambda Functions
+	<br>
 	10 min
 
 75. CloudFormation - Custom Resources
+	<br>
 	9 min
 
 76. CloudFormation - Drift Detection
+	<br>
 	4 min
 
 77. CloudFormation - Status Codes Deep Div
+	<br>
 	4 min 
 
 78. CloudFormation - InsufficientCapabilitiesException
+	<br>
 	3 min
 
 79. CloudFormation - cfn-hup & cfn-metadata
+	<br>
 	12 min
 
 80. CloudFormation - Stack Policies
+	<br>
 	6 min
 
 
 #### DOP-C01-Part-7:
 
 81. Elastic Beanstalk - EB CLI
+	<br>
 	12 min
 
 82. Elastic Beanstalk - Saved Configurations
@@ -382,168 +391,220 @@
 
 #### DOP-C01-Part-12:
 133. CloudWatch Metrics - Overview
+	<br>
 	4 min / 4 min
 
 134. CloudWatch Metrics - Metrics to Know
+	<br>
 	7 min / 11 min
 
 135. CloudWatch Metrics - Custom Metrics
+	<br>
 	3 min / 14 min
 
 136. CloudWatch Metrics - Exports
+	<br>
 	4 min / 18 min
 
 137. CloudWatch Alarams - Overview
+	<br>
 	8 min / 26 min
 
 138. CloudWatch Alarms - Billing Alarms
+	<br>
 	3 min
 
 139. CloudWatch Logs - Console Overview
+	<br>
 	3 min
 
 140. CloudWatch - Unified CloudWatch Agent
+	<br>
 	17 min
 
 141. CloudWatch Logs - Metric Filters & Alarms
+	<br>
 	6 min
 
 142. CloudWatch Logs - Exports to S3
+	<br>
 	4 min
 
 143. CloudWatch Logs - Logs Subscriptions + Kinesis Data Firehose Hands On
+	<br>
 	11 min
 
 144. All Kind Of Logs
+	<br>
 	5 min
 
 145. CloudWatch Events - Overview
+	<br>
 	7 min
 
 146. CloudWatch Events - Integration with CloudTrail API
+	<br>
 	3 min
 
 147. CloudWatch Events - vs S3 Events
+	<br>
 	6 min
 
 148. CloudWatch Dashboards - Overview
+	<br>
 	3 min
 
 149. X-Ray - Overview
+	<br>
 	7 min
 
 150. X-Ray - DevOps automation
+	<br>
 	3 min
 
 151. Amazon ES - ElasticSearch + Logstash + Kibana
+	<br>
 	5 min
 
 152. Amazon ES - Hands On
+	<br>
 	11 min
 
 153. Tagging in AWS
+	<br>
 	5 min
 
 
 
 #### DOP-C01-Part-13:
 154. Reference Links for Domain 4 - AWS Certified DevOps Engineer Professional
+	<br>
 	1 min / 1 min
 
 155. SSM - Overview & Quick Setup
+	<br>
 	4 min / 5 min
 
 156. SSM - EC2 Setup
+	<br>
 	4 min / 9 min
 
 157. SSM - On-Premise Setup
+	<br>
 	8 min / 17 min
 
 158. SSM - Resource Groups
+	<br>
 	2 min / 19 min
 
 159. SSM - Run Commands
+	<br>
 	7 min / 26 min
 
 160. SSM - Parameter Store
+	<br>
 	5 min / 31 min
 
 161. SSM - Patch Manager
+	<br>
 	10 min / 41 min
 
 162. SSM - Inventory
+	<br>
 	2 min / 43 min
 
 163. SSM - Automations
+	<br>
 	10 min / 53 min
 
 164. SSM - Session Manager & Cleanup
+	<br>
 	2 min / 55 min
 
 
 
 #### DOP-C01-Part-14:
 165. Config - WARNING
+	<br>
 	1 min / 1 min
 
 166. Config - Overview
+	<br>
 	8 min / 9 min
 
 167. Config - Rules
+	<br>
 	8 min / 17 min
 
 168. Config - Automations
+	<br>
 	6 min / 23 min
 
 169. Config - Multi Account
+	<br>
 	3 min / 26 min
 
 170. Service Catalog - Overview
+	<br>
 	4 min / 30 min
 
 171. Service Catalog - Hands On
+	<br>
 	7 min / 37 min
 
 172. Inspector - Setup & run
+	<br>
 	6 min / 43 min
 
 173. EC2 Instance Compliance
+	<br>
 	4 min / 47 min
 
 174. Health - Service Health Dashboard & Personal Health Dashboard
+	<br>
 	12 min / 59 min
 
 175. Trusted Advisor - Overview
+	<br>
 	5 min / 64 min
 
 176. Trusted Advisor - Automations
+	<br>
 	8 min / 72 min
 
 177. Trusted Advisor - Automating Refreshes
+	<br>
 	3 min / 75 min
 
 178. GuardDuty - Overview
+	<br>
 	5 min / 80 min
 
 179. GuardDuty - Automations
+	<br>
 	1 min / 81 min
 
 180. Macie - Hands On
+	<br>
 	8 min / 89 min
 
 181. Secrets Manager - Hands On
+	<br>
 	6 min / 95 min
 
 182. License Manager - Hands On
+	<br>
 	3 min / 98 min
 
 
 #### DOP-C01-Part-15:
 
 183. Cost Allocation Tags
+	<br>
 	4 min / 102 min
 
 184. Data Protection & Network Protection in AWS
+	<br>
 	6 min / 108 min
 
 
