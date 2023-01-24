@@ -211,131 +211,171 @@
 #### DOP-C01-Part-8:
 
 93. Lambda - Overview
+	<br>
 	12 min / 12 min
 
 94. Lambda - Sources and Use Cases
+	<br>
 	4 min / 16 min
 
 95. Lambda - Security, Environment Variables, KMS and SSM
+	<br>
 	6 min / 22 min
 
 96. Lambda - Versions, Aliases and Canary Routing
+	<br>
 	12 min / 34 min
 
 97. Lambda - SAM Framework
+	<br>
 	9 min / 43 min
 
 98. Lambda - SAM and CodeDeploy
+	<br>
 	7 min / 50 min
 
 99. Step Functions - Overview
+	<br>
 	8 min / 58 min
 
 
 
 #### DOP-C01-Part-9:
 100. API Gateway - Overview
+	<br>
 	9 min
 
 101. API Gateway - Integration with Lambda
+	<br>
 	5 min
 
 102. API Gateway - Stages and Deployments
+	<br>
 	4 min
 
 103. API Gateway - Canary Deployments
+	<br>
 	1 min
 
 104. API Gateway - Deployments and Canary Testing
+	<br>
 	5 min
 
 105. API Gateway - Throttles
+	<br>
 	3 min
 
 106. API Gateway - Fronting Step Functions
+	<br>
 	6 min
 
 107. ECS Lectures from Certified Developer Course
+	<br>
 	1 min
 
 108. What is Docker?
+	<br>
 	8 min
 
 109. ECS Clusters
+	<br>
 	11 min
 
 110. ECS Task Definition
+	<br>
 	7 min
 
 111. ECS Service
+	<br>
 	8 min
 
 112. ECS Service with Load Balancers
+	<br>
 	11 min
 
 113. ECR - Part I
+	<br>
 	8 min
 
 114. ECR - Part II
+	<br>
 	6 min
 
 115. Fargate
+	<br>
 	9 min
 
 116. ECS & Multi Docker Beanstalk
+	<br>
 	6 min
 
 117. ECS - IAM Roles
+	<br>
 	3 min
 
 118. ECS - Auto Scaling
+	<br>
 	5 min
 
 119. ECS - CloudWatch Integrations
+	<br>
 	7 min
 
 120. ECS - CodePipeline CICD
+	<br>
 	4 min
 
 
 #### DOP-C01-Part-10:
 121. OpsWorks - Getting Started Part 1
+	<br>
 	9 min
 
 122. OpsWorks - Getting Started Part 2
+	<br>
 	8 min
 
 123. OpsWorks - Lifecycle Events
+	<br>
 	6 min
 
 124. OpsWorks - Auto Healing & CloudWatch Events
+	<br>
 	2 min
 
 125. OpsWorks - Summary & Cleanup
+	<br>
 	2 min
 
 
 
 #### DOP-C01-Part-11:
 126. Reference Links for Domain 3 - AWS Certified DevOps Engineer Professional
+	<br>
 	1 min
 
 127. CloudTrail - Overview
+	<br>
 	9 min
 
 128. CloudTrail - Log Integrity
+	<br>
 	4 min
 
 129. CloudTrail - Cross Account Logging
+	<br>
 	3 min
 
 130. Kinesis - Data Streams Overview
+	<br>
 	8 min
 
 131. Kinesis - Data Firehose & Analytics Overview
+	<br>
 	3 min
 
 132. Kinesis - Data Firehose Hands On
+	<br>
 	7 min
 
 
