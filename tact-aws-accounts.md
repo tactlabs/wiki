@@ -4,9 +4,9 @@
 
 
 
-- Spadina   - Prod
-- Hyd       - Experiment (Budget 200$/month)
-- Whitby    - Experiment (Budget 100$/month)
-- Richmond  - Experiment (Budget 50$/month)
+- Spadina (1723)   - Prod
+- Hyd     (6597)  - Experiment (Budget 200$/month)
+- Whitby  (4866)  - Experiment (Budget 100$/month)
+- Richmond ()  - Experiment (Budget 50$/month)
 
 
