@@ -27,7 +27,7 @@ Whoever collecting thousands of data by manually or semi-automated mode. Data co
 	- 50000 Tact Credits
 	- 1 Month Mac Shift
 
-#### What is Job Shadowing:
+#### What is Job Shadowing?
   You can job shadow our employees and get to know our work culture, tech-stack and our working environment. This will help you understand whether you are interested in joining us in future.
 
 

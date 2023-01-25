@@ -214,6 +214,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Research papers](research-papers.md)
   * [Testing Automation](https://reflect.run/)
   * [SQL ORM Library](https://github.com/absent1706/sqlalchemy-mixins)
+  * [Public APIs](public-apis.md)
 
 ## Products
   * [NuvoML](nuvoml.md)
