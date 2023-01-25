@@ -252,6 +252,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 ## Course
   * [Python Basics](course-python-basics.md)
+  * [Python for Oshawa Learners](course-python-for-oshawa-learners.md)
 
 ## Shadow Course
   * [DOP-C01 DevOps Engineer Exam Prep](dop-c01-devops-engineer-exam-prep.md)
