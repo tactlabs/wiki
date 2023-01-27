@@ -136,6 +136,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [.env.sample template](env.sample.md)
   * [Feedback - 41 PI](feedback-41pi.md)
   * [Break Rules](break-rules.md)
+  * [Python coding standard](coding-standard.md)
 
 ## Interview
   * [Tact Interview Process: TIP](interview-process.md)
