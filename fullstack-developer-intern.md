@@ -18,7 +18,7 @@ Featurepreneur is helping ML Enthusiasts on bringing their custom ML model to be
 - Creating Testcases for our REST API by using Postman
 
 ### Required Skills:
-- No experience needed. Must be willing to learn things quickly.
+- Experience is not a mandatory. Must be willing to learn things quickly.
 - Technical knowledge of application development lifecycle and testing methodologies
 - Technical knowledge of languages like Javascript, HTML, CSS3, Python, Flask
 - Working knowledge of Github, Linux (Ubuntu)
