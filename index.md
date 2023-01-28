@@ -290,6 +290,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 ## Opportunities
   * [Marketing Associate](marketing-associate.md)
+  * [Fullstack Developer](fullstack-developer-intern.md)
 
 ## ReD
   * [ReD Brainstorming 1](red.md)

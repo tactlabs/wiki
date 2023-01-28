@@ -4,14 +4,12 @@
 
 1. Coding Offline Test
 
-2. Error Analysis (20 minutes)
+2. Error Analysis (20 minutes Online Test)
 
 3. Social Intelligence Test (SIT)
-    - How do they view caste system? Is it an issue or we can live with it?
-    - What's their thoughts on intercaste marriages?
 
 4. Listening Test
-  - We will play 10 minutes Standup meeting audio and they will have to summarize it
+  - We will play 10 minutes Standup meeting audio and they will have to summarize it.
     
 5. - Reading Comprehension Test: 
     - HBR Article
@@ -27,5 +25,5 @@
     - Medium Score
 
 7. Puzzle Meter
-  How puzzled are they in learning?
-```
+  How puzzled are they in learning during the last 6 tests.
+
