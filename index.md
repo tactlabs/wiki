@@ -149,6 +149,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ## TACT ML / DL
   * [TACT ML Wiki / mlwiki](https://tactlabs.github.io/mlwiki/)
   * [100 ML Libraries](100-ml-libraries.md)
+  * [100 Python Libraries](100-python-libraries.md)
   * [ML Libraries](ml-libraries.md)
   * [ML DL Resources](ml-resources.md)
   * [ML Issues](ml-issues.md)
