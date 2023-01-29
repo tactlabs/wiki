@@ -65,5 +65,9 @@ But always remember "it is better to push your limits than your deadline"
 Make sure to inform the updated deadline atleast 30 minutes before the deadline.
 ```
 
+```
+If you can't complete a task in 3 hrs, you can ask help from Manager and then procede
+```
+
 
 
