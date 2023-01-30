@@ -137,6 +137,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Feedback - 41 PI](feedback-41pi.md)
   * [Break Rules](break-rules.md)
   * [Python coding standard](coding-standard.md)
+  * [Admin publishing Medium](publish-medium.md)
 
 ## Interview
   * [Tact Interview Process: TIP](interview-process.md)
