@@ -36,3 +36,6 @@ Price:3$/month/model
 - Versioning for your APIs/Apps
 
 Price: 5$/month/model
+
+#### NuvoML competitor analysis
+ * [MLFlow](nuvoml-mlflow-competitor-analysis.md)
