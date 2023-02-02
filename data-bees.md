@@ -7,27 +7,30 @@
 #### Who is Data Bee?
 Whoever collecting thousands of data by manually or semi-automated mode. Data collection task can be done by any flexible time.
 
-### Levels:
-#### 50 Hours Certificate
-  - 10 Hour Job Shadowing
-  - 7000 Tact Credits 
+```
+Work:
+- Image collection
+- from Academic torrent
+	https://academictorrents.com/
+- Content Bank (ML Post)
+	10K content
 
-#### 100 Hours Certificate
-  - 20 Hour Job Shadowing
-	- 14000 Tact Credits
-	- 1 Week Mac Shift
+Perks:
+- 1500 Credits / Hr
 
-#### 250 Hours Certificate
-  - 30 Hour Job Shadowing
-	- 20000 Tact Credits
-	- 2 Week Mac Shift
+- 2 Python sessions (Mentors)
 
-#### 500 Hours Certificate
-  - 50 Hour Job Shadowing
-	- 50000 Tact Credits
-	- 1 Month Mac Shift
+- Industrial topic
+	2 session/week
 
-#### What is Job Shadowing?
-  You can job shadow our employees and get to know our work culture, tech-stack and our working environment. This will help you understand whether you are interested in joining us in future.
+- Saturday night 
+	7250 Credits (250 INR)
+
+- 1 Technical game (50) - Weekly/Biwkeekly
+	14500 Credits (500 INR)
+
+Convert Gift:
+	14500 minimum
+```
 
 
