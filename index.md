@@ -284,6 +284,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 ## Tact Deployment / Repos
   * [Tact AWS Accounts](tact-aws-accounts.md)
+  * [Tact AWS Rules](tact-aws-rules.md)
   * [Tact Repo Info](tact-repo-into.md)
 
 ## Mythraki Languages
