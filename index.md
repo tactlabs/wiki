@@ -177,6 +177,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Rasa documentation](rasa-documentation.md)
   * [Learners' Note](learners-note.md)
   * [Pelican Setup](pelican-setup.md)
+  * [Deeplearning Courses](deeplearning-courses.md)
 
 ## Tact Internship/Certificates
   * [Intern Opportunity](tact-internship.md)

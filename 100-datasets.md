@@ -15,4 +15,17 @@
 11. [Food-101](https://academictorrents.com/details/470791483f8441764d3b01dbc4d22b3aa58ef46f)
 12. [HARRISON Dataset v1](https://academictorrents.com/details/62457023e0de1009d7bf49541d4cf09c68f66339)
 13. [LUNA16-subset6](https://academictorrents.com/details/11b702cca1dc12694344f2f9140c1283331668c4)
+14. [𝗦𝘂𝗽𝗲𝗿𝗺𝗮𝗿𝗸𝗲𝘁 𝗦𝗮𝗹𝗲𝘀 - Historical record of sales data in 3 different supermarkets](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
+15. [𝗖𝗿𝗲𝗱𝗶𝘁 𝗖𝗮𝗿𝗱 𝗙𝗿𝗮𝘂𝗱 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 - Anonymized credit card transactions labeled as fraudulent or genuine.](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+16. [𝗙𝗜𝗙𝗔 𝟮𝟮 𝗰𝗼𝗺𝗽𝗹𝗲𝘁𝗲 𝗽𝗹𝗮𝘆𝗲𝗿 𝗱𝗮𝘁𝗮𝘀𝗲𝘁](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset)
+17. [𝗪𝗮𝗹𝗺𝗮𝗿𝘁 𝗦𝘁𝗼𝗿𝗲 𝗦𝗮𝗹𝗲𝘀 𝗙𝗼𝗿𝗲𝗰𝗮𝘀𝘁𝗶𝗻𝗴](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data)
+18. [𝗡𝗲𝘁𝗳𝗹𝗶𝘅 𝗠𝗼𝘃𝗶𝗲𝘀 𝗮𝗻𝗱 𝗧𝗩 𝗦𝗵𝗼𝘄𝘀](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+19. [𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 𝗷𝗼𝗯𝘀 𝗹𝗶𝘀𝘁𝗶𝗻𝗴𝘀](https://www.kaggle.com/datasets/cedricaubin/linkedin-data-analyst-jobs-listings)
+20. [𝗧𝗼𝗽 𝟱𝟬 𝗙𝗮𝘀𝘁-𝗙𝗼𝗼𝗱 𝗖𝗵𝗮𝗶𝗻𝘀 𝗶𝗻 𝗨𝗦𝗔](https://www.kaggle.com/datasets/iamsouravbanerjee/top-50-fastfood-chains-in-usa)
+21. [𝗔𝗺𝗮𝘇𝗼𝗻 𝗮𝗻𝗱 𝗕𝗲𝘀𝘁 𝗕𝘂𝘆 𝗘𝗹𝗲𝗰𝘁𝗿𝗼𝗻𝗶𝗰𝘀](https://data.world/datafiniti/amazon-and-best-buy-electronics)
+22. [𝗙𝗼𝗿𝗲𝗰𝗮𝘀𝘁𝗶𝗻𝗴 𝗕𝗼𝗼𝗸 𝗦𝗮𝗹𝗲𝘀](https://www.kaggle.com/datasets/oscarm524/forecasting-book-sales)
+
+
+
+
 
