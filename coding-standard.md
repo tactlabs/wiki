@@ -7,7 +7,9 @@
 1. Create .gitignore file and use this template for gitignore
 	- [](https://wiki.tactii.com/gitignore.html)
 
-2. 
+2. If any secrets are present, use .env file and add .env in the .gitignore file
+
+3. Update readme.mad file with how to run the files and what should be done to see the output
 
 ### Don'ts:
 1. Never commit these
