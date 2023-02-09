@@ -10,3 +10,4 @@
 6. [Deep Learning — University of Waterloo](https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE)
 7. [CS294–129 Designing, Visualizing, and Understanding Deep Neural Networks — UC Berkeley](https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks)
 8. [Deep Unsupervised Learning — UC Berkeley](https://sites.google.com/view/berkeley-cs294-158-sp20/home?pli=1)
+9. [Deeplearning Fundamentals](https://lightning.ai/pages/courses/deep-learning-fundamentals/)
