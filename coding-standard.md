@@ -5,7 +5,7 @@
 
 ### Dos:
 1. Create .gitignore file and use this template for gitignore
-	- [](https://wiki.tactii.com/gitignore.html)
+	- [https://wiki.tactii.com/gitignore.html](https://wiki.tactii.com/gitignore.html)
 
 2. If any secrets are present, use .env file and add .env in the .gitignore file
 
