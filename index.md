@@ -125,6 +125,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Tact Deadline Rules](tact-deadline-rule.md)
   * [Availability Schedule](availability-schedule.md)
   * [Intern Working Hours](intern-working-hours.md)
+  * [Recording Session](recording-session.md)
   * [Equality](equality.md)
   * [Tact Intern Day Off](Intern-day-off.md)
   * [Updates - How to Ask?](how-to-ask-for-updates.md)
