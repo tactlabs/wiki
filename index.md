@@ -181,6 +181,8 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Pelican Setup](pelican-setup.md)
   * [Deeplearning Courses](deeplearning-courses.md)
 
+## Troubleshooting Guide
+  *[Fixing 504 Gateway Timeout Error](timeout504.md)
 ## Tact Internship/Certificates
   * [Intern Opportunity](tact-internship.md)
   * [Intern Checklist](intern-checklist.md)
