@@ -157,30 +157,30 @@
 
 - [Genaral Python](ts-6-general-python.md)
 
-- [Pandas](ts-1-template.md)
+- [Pandas](ts-7-pandas.md)
 
-- [Numpy](ts-1-template.md)
+- [Numpy](ts-0-template.md)
 
-- [SQL Alchemy](ts-1-template.md)
+- [SQL Alchemy](ts-0-template.md)
 
-- [Scrapy](ts-1-template.md)
+- [Scrapy](ts-0-template.md)
 
-- [Asyncio](ts-1-template.md)
+- [Asyncio](ts-0-template.md)
 
-- [AIOHTTP](ts-1-template.md)
+- [AIOHTTP](ts-0-template.md)
 
-- [Bokeh](ts-1-template.md)
+- [Bokeh](ts-0-template.md)
 
-- [Scipy](ts-1-template.md)
+- [Scipy](ts-0-template.md)
 
-- [Scikit Learn](ts-1-template.md)
+- [Scikit Learn](ts-0-template.md)
 
-- [Tensorflow](ts-1-template.md)
+- [Tensorflow](ts-0-template.md)
 
-- [PyTorch](ts-1-template.md)
+- [PyTorch](ts-0-template.md)
 
-- [Seaborn](ts-1-template.md)
+- [Seaborn](ts-0-template.md)
 
-- [Genius Corner](ts-1-template.md)
+- [Genius Corner](ts-0-template.md)
 
-- [Keras](ts-1-template.md)
+- [Keras](ts-0-template.md)
