@@ -159,7 +159,7 @@
 
 - [Pandas](ts-7-pandas.md)
 
-- [Numpy](ts-0-template.md)
+- [Numpy](ts-8-numpy.md)
 
 - [SQL Alchemy](ts-0-template.md)
 
