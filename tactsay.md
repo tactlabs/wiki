@@ -161,7 +161,7 @@
 
 - [Numpy](ts-8-numpy.md)
 
-- [SQL Alchemy](ts-0-template.md)
+- [SQL Alchemy](ts-9-sqlalchemy.md)
 
 - [Scrapy](ts-0-template.md)
 
