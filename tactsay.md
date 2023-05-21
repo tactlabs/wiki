@@ -163,9 +163,9 @@
 
 - [SQL Alchemy](ts-9-sqlalchemy.md)
 
-- [Scrapy](ts-0-template.md)
+- [Scrapy](ts-10-scrapy.md)
 
-- [Asyncio](ts-0-template.md)
+- [Asyncio](ts-11-asyncio.md)
 
 - [AIOHTTP](ts-0-template.md)
 
