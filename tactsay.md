@@ -167,20 +167,20 @@
 
 - [Asyncio](ts-11-asyncio.md)
 
-- [AIOHTTP](ts-0-template.md)
+- [AIOHTTP](ts-12-aiohttp.md)
 
-- [Bokeh](ts-0-template.md)
+- [Bokeh](ts-13-bokeh.md)
 
-- [Scipy](ts-0-template.md)
+- [Scipy](ts-14-scipy.md)
 
-- [Scikit Learn](ts-0-template.md)
+- [Scikit Learn](ts-15-scikitlearn.md)
 
-- [Tensorflow](ts-0-template.md)
+- [Tensorflow](ts-16-tensorflow.md)
 
-- [PyTorch](ts-0-template.md)
+- [PyTorch](ts-17-pytorch.md)
 
-- [Seaborn](ts-0-template.md)
+- [Seaborn](ts-18-seaborn.md)
 
-- [Genius Corner](ts-0-template.md)
+- [Genius Corner](ts-19-geniuscorner.md)
 
-- [Keras](ts-0-template.md)
+- [Keras](ts-20-keras.md)
