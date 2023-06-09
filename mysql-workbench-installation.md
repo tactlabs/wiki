@@ -46,8 +46,7 @@ sudo apt update
 sudo apt install mysql-server
 ```
 
-- Ensure that the server is running using the systemctl start command
-
+- Ensure that the server is running using the systemctl start command  
 ```
 sudo systemctl start mysql.service
 ```
