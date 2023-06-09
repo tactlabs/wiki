@@ -212,6 +212,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [MongoDB Installation](mongodb-installation.md)
   * [MongoDB  Commands](mongodb-commands.md)
   * [MySQL Docker](mysql-docker.md)
+  * [MySQL Workbench Installation](mysql-workbench-installation.md)
   * [Neo4j Basics](neo4j-basics.md)
   * [Postgres Commands](postgres-commands.md)
   * [AWS DB Pricing](aws-db-pricing.md)
