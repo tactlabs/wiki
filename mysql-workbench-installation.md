@@ -9,7 +9,7 @@
 brew install mysql
 ``` 
 
-- Install MySQL Workbench on macOS from MySQL website (https://dev.mysql.com/downloads/workbench/)
+- Install MySQL Workbench on macOS from [MySQL website](https://dev.mysql.com/downloads/workbench/)
 
 - Go to terminal and start MySQL server services using brew
 ```
@@ -35,3 +35,5 @@ then click ok
 
 
 ## MySQL Workbench Installation in Linux
+
+
