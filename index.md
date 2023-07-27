@@ -77,6 +77,10 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [FPR Mac History](fpr-mac-history.md)
   * [Mac Club](mac-club.md)
 
+## Zorin OS 
+
+  * [Zorin OS Installation](zorin-install.md)
+
 ## Docker Projects / Tools :
   * [Docker - How to Install?](docker-how-to-install.md)
   * [Docker Commands](docker-commands.md)
