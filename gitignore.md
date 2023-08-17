@@ -141,4 +141,6 @@ dmypy.json
 .pyre/
 .vscode/
 
+.~lock.*
+
 ```
