@@ -64,7 +64,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [HTTP response status code](http_response.md)
   * [Tact Credits](tact-credits.md)
   * [VScode and Extensions](vscode-and-extensions.md)
-
+  * [SpeedTest](speedtest.md)
 
 
 ## Mac
