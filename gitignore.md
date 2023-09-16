@@ -143,4 +143,8 @@ dmypy.json
 
 .~lock.*
 
+temp.txt
+
 ```
+
+
