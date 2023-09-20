@@ -8,3 +8,8 @@
 - Your monthly total hours should meet 120 Hours
 - You can work flexible on any 2 weeekends.
 
+### Weekly Schedule
+
+- Instead of daily updates, the weekly schedule is supposed to be updated every week by Sunday evening or by Monday morning.
+- Interns can change their weekly schedule 2 times a week. You can't change the weekly schedule more than 2 times without proper approval
+- This method will be followed from 20th of September, 2023
