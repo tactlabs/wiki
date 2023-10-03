@@ -115,6 +115,9 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [AWS Cloudwatch](aws-cloudwatch.md)
   * [Connecting to AWS EC2](connecting-to-aws-ec2.md)
 
+## StanfordNLP
+  * [Stanford-NLP](stanford-nlp.md)
+
 
 ## Git
   * [Git Commands](git-commands.md)
