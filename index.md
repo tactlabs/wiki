@@ -271,6 +271,9 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Python Basics](course-python-basics.md)
   * [Python for Oshawa Learners](course-python-for-oshawa-learners.md)
 
+## Flask app Deployment
+  * [Flask app deployment using vercel](deploy-vercel.md)
+
 ## Shadow Course
   * [DOP-C01 DevOps Engineer Exam Prep](dop-c01-devops-engineer-exam-prep.md)
 
