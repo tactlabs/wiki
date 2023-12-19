@@ -210,6 +210,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [JSaaC - Job Shadowing as a Certificate](jsaac.md)
   * [Featurepreneur Training](featurepreneur-training.md)
   * [DevOps Bootcamp](devops-bootcamp.md)
+  * [Gamified Learning - One Day Workshop](gamified-learnining-workshop.md)
 
 ## TACT Research
   * [Tact Research](tact-research.md)
