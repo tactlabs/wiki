@@ -299,6 +299,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [How to view courses on Featurepreneur](how-to-view-courses.md)
   * [Micro Investor Contibution Framework](micro-investor-contribution-framework.md)
   * [Student Side Hustle](student-side-hustle.md)
+  * [Featurepreneur Requirements](fpr-requirements.md)
 
 ## Tact Deployment / Repos
   * [Tact AWS Accounts](tact-aws-accounts.md)

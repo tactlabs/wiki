@@ -12,7 +12,7 @@ title: Student Side Hustle
 
 1. Register your account with Featurepreneur update your profile
 
-2. Find our clients' small requirements
+2. Find our clients' small requirements from here : [Featurepreneur Requirements](fpr-requirements.md)
 
 3. Commit and push your changes on GitHub and share with us (either Whatsapp or Slack)
 
