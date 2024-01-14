@@ -300,6 +300,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Micro Investor Contibution Framework](micro-investor-contribution-framework.md)
   * [Student Side Hustle](student-side-hustle.md)
   * [Featurepreneur Requirements](fpr-requirements.md)
+  * [Course Video Rules](course-video-rules.md)
 
 ## Tact Deployment / Repos
   * [Tact AWS Accounts](tact-aws-accounts.md)
