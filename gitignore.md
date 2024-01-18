@@ -145,6 +145,9 @@ dmypy.json
 
 temp.txt
 
+my_env/
+venv/
+
 ```
 
 
