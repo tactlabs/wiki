@@ -40,12 +40,13 @@
 
 
 #### Season 6 Cohorts:
-- 
+- ?
 
 
 #### Season 7 Cohorts:
 - Prakash
 - Roughit
+- Sanjjushri
 
 
 #### Season 8 Cohorts:
@@ -53,4 +54,7 @@
 
 
 #### Season 9 Cohorts:
+- Deepika
+- Aadil
+- 
 - 
