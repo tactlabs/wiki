@@ -305,6 +305,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Featurepreneur FAQ](featurepreneur-faq.md)
   * [Training and Internship](training-and-internship.md)
   * [Business Development Executive](business-development-executive.md)
+  * [Gift Policy](gift-policy.md)
 
 ## Tact Deployment / Repos
   * [Tact AWS Accounts](tact-aws-accounts.md)
