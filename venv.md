@@ -35,6 +35,8 @@ python3.9 -m venv ~/.venvs/venv39
 
 source ~/.venvs/venv39/bin/activate
 
+deactivate
+
 Ref:
 https://stackoverflow.com/questions/70422866/how-to-create-a-venv-with-a-different-python-version
 ```
