@@ -7,6 +7,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ## TACT General Tools
   * [Nginx Installation](nginx-installation-ubuntu.md)
   * [How to Instlal Virtualenv](how-to-install-virtualenv.md)
+  * [How to Install venv](venv.md)
   * [Tail Commands](tail-commands.md)
   * [VI Commands](vi-commands.md)
   * [SSH Key](ssh-key.md)
