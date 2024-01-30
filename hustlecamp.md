@@ -81,6 +81,7 @@ More than 100 students gradudated from our training and internship program.
 - We can promise that you will be getting a job within 7-12 months with a minimum of 5L
 - Employment Certificate will be provided within 7th month onwards
 - If you don't get a  job in 7-12 months, we will refund the money along with the stipend
+- Top student will be given a fund to write ML Exam
 
 
 Capstone Projects:
