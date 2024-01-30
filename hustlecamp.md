@@ -1,60 +1,78 @@
 / [Home](index.md)
 
-## Training and Internship
+## HustleCamp: ML Enginner
+
+Become a ML Engineer with us. <br><br>
+
+More than 100 students gradudated from our training and internship program.  
+
+### Program Fee:
+80K INR (upto 60% scholarship available)
 
 ### TechStack:
-- Machine Learning
-- AWS
-- Azure
 - Python
+- Scikit-Learn
+- Pandas
+- Numpy
+- JSON
 - Flask
 - FastAPI
-- JSON
+- SQLiteDB
 - MongoDB
-- Postgres
+- PostgresDB
+- Streamlit
+- Gradio
+- Chainlit
+- OpenAI API
+- 20 ML Algorithms
+- ML Metrics
+- REST API
+- RPC API
+- CoreNLP
+- Spacy
+- Transformers Basics
 
 
-### Season and Cohorts:
+### Cloud:
+#### AWS
+- EC2
+- ECS
+- Fargate
+- S3
+- Lambda
 
-#### Season 1 Cohorts:
-- 4 Girls (TB updated)
-
-
-#### Season 2 Cohorts:
-- Rohith
-- Sanjayini
-
-
-#### Season 3 Cohorts:
-- 3 guys (TB Updated)
-
-
-#### Season 4 Cohorts:
-- Alvis (Contributed 1000+ hours)
-- Vaishnavi (Contributed 800+ hours)
+#### Azure:
+- Virtual Machines
+- Azure Container Apps
+- Dapr
 
 
-
-#### Season 5 Cohorts:
-- Divya - ()
-
-
-#### Season 6 Cohorts:
-- ?
-
-
-#### Season 7 Cohorts:
-- Prakash
-- Roughit
-- Sanjjushri
+### Tools / Platforms:
+- HuggingFace
+- Google Colab
+- GitHub
+- Kaggle
+- Stackoverflow
+- Medium
+- Substack
 
 
-#### Season 8 Cohorts:
-- Bagiya
+### Training (4 - 6 months):
+- During your training program, you are recommended to hustle 12+ hours for 6 days.
+- Monthly Micro Hackathon (13+ hours in a weekend) - Once a month
+- 5 Medium articles
+- 1 project a month 
 
 
-#### Season 9 Cohorts:
-- Deepika
-- Aadil
-- 
-- 
+### Internship:
+- Your employment will start with us after finishing the training successfully
+
+
+### Teaching method:
+- 90% Hands On
+- 10% Theoritical (Interview purposes)
+
+
+### Promise:
+- We can promise that you will be getting a job within 7-12 months with a minimum of 5L.
+- Employment Certificate will be provided within 7th month onwards
