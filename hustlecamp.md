@@ -31,6 +31,10 @@ More than 100 students gradudated from our training and internship program.
 - CoreNLP
 - Spacy
 - Transformers Basics
+- Word2Vec
+- NLTK
+- Docker 
+- Microservices
 
 
 ### Cloud:
@@ -74,5 +78,14 @@ More than 100 students gradudated from our training and internship program.
 
 
 ### Promise:
-- We can promise that you will be getting a job within 7-12 months with a minimum of 5L.
+- We can promise that you will be getting a job within 7-12 months with a minimum of 5L
 - Employment Certificate will be provided within 7th month onwards
+- If you don't get a  job in 7-12 months, we will refund the money along with the stipend
+
+
+Capstone Projects:
+1. Serkinti
+2. Ontario House Pricing Predictor
+3. Turtle Score
+4. StackIndex
+5. Featurepreneur 
