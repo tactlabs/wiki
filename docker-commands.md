@@ -84,6 +84,15 @@ Stop the container
 docker stop <container_name>
 ```
 
+Run Local server
+```
+# template:
+docker build -t <image_name> .
+docker run -p <external_port>:<internal_port> --name <container_name> <image_name>:<tag>
+
+docker build -t rjreverse-server .
+docker run -p 9090:5000 --name docker-rjreverse-server-234 rjreverse-server:latest
+```
 
 
 remove docker container
