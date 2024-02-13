@@ -333,6 +333,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Case Studies](case-studies.md)
   * [Data Bees](data-bees.md)
   * [Database Analysis](database-analysis.md)
+  * [Data Colletion Sequence](data-collection-sequence.md)
 
 ## Data
   * [100 Datasets](100-datasets.md)
