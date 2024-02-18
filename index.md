@@ -67,6 +67,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [VScode and Extensions](vscode-and-extensions.md)
   * [SpeedTest](speedtest.md)
   * [Podman Commands](podman-commands.md)
+  * [Py Env Management](py-env-management.md)
 
 
 ## Mac
