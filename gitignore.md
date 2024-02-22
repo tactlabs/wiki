@@ -148,6 +148,9 @@ temp.txt
 my_env/
 venv/
 
+#ML 
+*.onnx
+
 ```
 
 
