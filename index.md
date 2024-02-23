@@ -69,6 +69,8 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Podman Commands](podman-commands.md)
   * [Py Env Management](py-env-management.md)
 
+## Tools
+  * [Misc Tools](misc-tools.md)
 
 ## Mac
   * [macOS](macos.md)
