@@ -36,7 +36,7 @@ Default output format [json]:
 
 aws config location
 ```
-cat vi ~/.aws/config
+cat ~/.aws/config
 ```
 
 
