@@ -183,7 +183,6 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Acoustics](acoustics.md)
   * [Recommender System](recommender-system.md)
   * [Facial Attributes](facial-attributes.md)
-  * [ML Research Papers](ml-research-papers.md)
   * [DS Interview Questions](ds-interview-questions)
   * [DL Libraries](dl-libraries.md)
   * [Hugo Commands](hugo-commands.md)
@@ -222,6 +221,10 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ## TACT Research
   * [Tact Research](tact-research.md)
   * [Research Partnership](research-partnership.md)
+  * [Research papers](research-papers.md)
+  * [ML Research Papers](ml-research-papers.md)
+  * [Research Paper Work](research-paper-internship.md)
+
 
 ## DB Resources
   * [MongoDB Installation](mongodb-installation.md)
@@ -235,7 +238,6 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Caasandra DB Commands](cassandra-DB-commands.md)
 
 ## Public Collections
-  * [Research papers](research-papers.md)
   * [Testing Automation](https://reflect.run/)
   * [SQL ORM Library](https://github.com/absent1706/sqlalchemy-mixins)
   * [Public APIs](public-apis.md)
