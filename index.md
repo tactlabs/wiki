@@ -68,6 +68,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [SpeedTest](speedtest.md)
   * [Podman Commands](podman-commands.md)
   * [Py Env Management](py-env-management.md)
+  * [Project Structure](project-structure.md)
 
 ## Tools
   * [Misc Tools](misc-tools.md)
