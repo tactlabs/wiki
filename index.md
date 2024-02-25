@@ -72,6 +72,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 ## Tools
   * [Misc Tools](misc-tools.md)
+  * [Image Gallery](image-gallery.md)
 
 ## Mac
   * [macOS](macos.md)
