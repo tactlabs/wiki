@@ -5,11 +5,17 @@
 **Note:** Document your everyday learning!
 
 
+## Tact Daily Log (DL) Standard:
+- You shoul have the file name username_dl.txt
+    - Sample: raja_dl.txt
 
-### Template
+- Use the Tact DL Template from below
+
+
+### Tact DL Template
 ```
 --------------------------------------------------
-Day # 01 / 50 - Jan 03, 2022 - Monday
+Day # 01 - Jan 03, 2022 - Monday
 ------------------------------------------
 ```
 
@@ -17,7 +23,7 @@ Day # 01 / 50 - Jan 03, 2022 - Monday
 ### Sample
 ```
 --------------------------------------------------
-Day # 60 / 43 - Oct 12, 2021 - Tuesday
+Day # 60 - Oct 12, 2021 - Tuesday
 ------------------------------------------
 
 
