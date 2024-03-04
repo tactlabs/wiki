@@ -9,7 +9,6 @@
 
 ```
 Page 1:
-
 1. AliceBlue
 2. AntiqueWhite
 3. AntiqueWhite1
@@ -131,7 +130,6 @@ Page 1:
 
 
 Page 2:
-
 1. DeepSkyBlue2
 2. DeepSkyBlue3
 3. DeepSkyBlue4
@@ -373,7 +371,118 @@ Page 3:
 118. purple
 119. purple1
 
-This completes the list of colors from the image provided. If you need any more assistance, please let me know!
+Page 4:
+1. purple2
+2. purple3
+3. purple4
+4. red
+5. red1
+6. red2
+7. red3
+8. red4
+9. RosyBrown
+10. RosyBrown1
+11. RosyBrown2
+12. RosyBrown3
+13. RosyBrown4
+14. RoyalBlue
+15. RoyalBlue1
+16. RoyalBlue2
+17. RoyalBlue3
+18. RoyalBlue4
+19. SaddleBrown
+20. salmon
+21. salmon1
+22. salmon2
+23. salmon3
+24. salmon4
+25. SandyBrown
+26. SeaGreen
+27. SeaGreen1
+28. SeaGreen2
+29. SeaGreen3
+30. SeaGreen4
+31. seashell
+32. seashell1
+33. seashell2
+34. seashell3
+35. seashell4
+36. sienna
+37. sienna1
+38. sienna2
+39. sienna3
+40. sienna4
+41. SkyBlue
+42. SkyBlue1
+43. SkyBlue2
+44. SkyBlue3
+45. SkyBlue4
+46. SlateBlue
+47. SlateBlue1
+48. SlateBlue2
+49. SlateBlue3
+50. SlateBlue4
+51. SlateGray
+52. SlateGray1
+53. SlateGray2
+54. SlateGray3
+55. SlateGray4
+56. SlateGrey
+57. snow
+58. snow1
+59. snow2
+60. snow3
+61. snow4
+62. SpringGreen
+63. SpringGreen1
+64. SpringGreen2
+65. SpringGreen3
+66. SpringGreen4
+67. SteelBlue
+68. SteelBlue1
+69. SteelBlue2
+70. SteelBlue3
+71. SteelBlue4
+72. tan
+73. tan1
+74. tan2
+75. tan3
+76. tan4
+77. thistle
+78. thistle1
+79. thistle2
+80. thistle3
+81. thistle4
+82. tomato
+83. tomato1
+84. tomato2
+85. tomato3
+86. tomato4
+87. turquoise
+88. turquoise1
+89. turquoise2
+90. turquoise3
+91. turquoise4
+92. violet
+93. VioletRed
+94. VioletRed1
+95. VioletRed2
+96. VioletRed3
+97. VioletRed4
+98. wheat
+99. wheat1
+100. wheat2
+101. wheat3
+102. wheat4
+103. white
+104. WhiteSmoke
+105. yellow
+106. yellow1
+107. yellow2
+108. yellow3
+109. yellow4
+110. YellowGreen
+
 ```
 
 
