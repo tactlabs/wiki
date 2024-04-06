@@ -34,6 +34,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Elastic Search](elastic-search.md)
   * [Postgres client setup](postgres-client.md)
   * [Install Guide for freshers](install-guide-fresher.md)
+  * [Orientation on Windows](orientation-windows.md)
   * [Zoom Rules](zoom-rules.md)
   * [Hadoop Setup](hadoop-setup.md)
   * [PySpark Setup](pyspark-setup.md)
