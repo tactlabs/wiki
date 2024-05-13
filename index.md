@@ -345,6 +345,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Data Bees](data-bees.md)
   * [Database Analysis](database-analysis.md)
   * [Data Collection Sequence](data-collection-sequence.md)
+  * [Escalation Template](escalation-template.md)
 
 ## Data
   * [100 Datasets](100-datasets.md)
@@ -352,3 +353,9 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 ## Badges
   * [Badges](badges.md)
+
+
+  
+
+
+
