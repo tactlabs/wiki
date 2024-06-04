@@ -85,7 +85,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [FPR Mac History](fpr-mac-history.md)
   * [Mac Club](mac-club.md)
 
-## Zorin OS 
+## Zorin OS
 
   * [Zorin OS Installation](zorin-install.md)
 
@@ -112,12 +112,12 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Ubuntu Installation & Issues](ubuntu-installation-and-issues-1.md)
   * [Ubuntu Errors - General](ubuntu-errors.md)
   * [Ubuntu Errors - disk space full](disk-space-full.md)
-  
-### Postman Errors 
+
+### Postman Errors
   * [Evaluating the Pre-request Script](pre-request-script.md)
 
 
-## AWS 
+## AWS
   * [AWS Commands](aws-commands.md)
   * [AWS CLI installation](aws-cli.md)
   * [AWS ECS Commands](aws-ecs-commands.md)
@@ -252,7 +252,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 ## Public Projects
   * [Flask Sample Projects](flask-sample-projects.md)
-  
+
 ## Learning Research
   * [Learning with RJ CSP](learn-with-rj-csp.md)
   * [Give them a laptop](give-them-a-laptop.md)
@@ -280,6 +280,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Micro Hackathon - Internal](micro-hackthon.md)
   * [Aprencio](aprencio.md)
   * [Spin Time](spin-time.md)
+  * [100 days of ML](100-days-of-ml.md)
 
 ## Course
   * [Python Basics](course-python-basics.md)
@@ -291,7 +292,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ## Shadow Course
   * [DOP-C01 DevOps Engineer Exam Prep](dop-c01-devops-engineer-exam-prep.md)
 
-## Featurepreneur Games 
+## Featurepreneur Games
   * [Gamification / How do we gamify Learning](gamification.md)
   * [FPR Games](fpr-games.md)
 
@@ -355,7 +356,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Badges](badges.md)
 
 
-  
+
 
 
 
