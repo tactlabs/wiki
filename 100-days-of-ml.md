@@ -2,11 +2,12 @@
 
 ## 100 Days of ML
 
-**Note:** Learn for the next 100 days
+**Note:** Learn ML for the next 100 days
 
 ### Rules:
 - We will give you topics to explore
 - Either you can learn Solo or 1-to-1 or multiple learners competition
+- This is an open-date competition: you can join any date you want! (We will validate only 100 days of your learning)
 
 ### Sample
 - [https://github.com/Abdullah-khan0/100-DaysOf-Code-dataScience](https://github.com/Abdullah-khan0/100-DaysOf-Code-dataScience)
