@@ -16,10 +16,9 @@
 ### Who can join the competition:
 - Final / Pre-final year students who are interested in ML
 
-
 ### Microprizes
 - Every week, we will pick the top learner and give them 200 INR worth of gift
-
+- Every month, we will pick the top learner and give 500-1000 INR worth of gift
 
 ### How to join the competition
 - Send an email to "info@tactii.com" with the subject "100 Days of ML", then we will reach you out!
