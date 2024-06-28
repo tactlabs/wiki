@@ -1,20 +1,20 @@
 / [Home](index.md)
 
-## HustleCamp: ML Enginner
+## HustleCamp: ML Enginner/MLOps
 
-Become a ML Engineer with us. <br><br>
+Become a ML Engineer/MLOps with us. <br><br>
 
-More than 100 students gradudated from our training and internship program.  
-
-### Program Fee:
-80K INR (upto 60% scholarship available)
+More than 180 students gradudated from our training and internship program.
 
 ### TechStack:
 - Python
 - Scikit-Learn
 - Pandas
 - Numpy
-- JSON
+- LangChain
+- LLM
+- EvidentlyAI
+- 20 ML Algorithms
 - Flask
 - FastAPI
 - SQLiteDB
@@ -24,17 +24,17 @@ More than 100 students gradudated from our training and internship program.
 - Gradio
 - Chainlit
 - OpenAI API
-- 20 ML Algorithms
 - ML Metrics
 - REST API
-- RPC API
 - CoreNLP
 - Spacy
 - Transformers Basics
 - Word2Vec
 - NLTK
-- Docker 
+- Docker
 - Microservices
+- Apache Flink
+- JSON
 
 
 ### Cloud:
@@ -62,10 +62,10 @@ More than 100 students gradudated from our training and internship program.
 
 
 ### Training (4 - 6 months):
-- During your training program, you are recommended to hustle 12+ hours for 6 days.
+- During your training program, you are recommended to hustle 1000 hours to get the certificate.
 - Monthly Micro Hackathon (13+ hours in a weekend) - Once a month
 - 5 Medium articles
-- 1 project a month 
+- 1 project a month
 
 
 ### Internship:
@@ -80,13 +80,21 @@ More than 100 students gradudated from our training and internship program.
 ### Promise:
 - We can promise that you will be getting a job within 7-12 months with a minimum of 5L
 - Employment Certificate will be provided within 7th month onwards
-- If you don't get a  job in 7-12 months, we will refund the money along with the stipend
+- If you don't get a  job in 7-12 months, you will be working with us in our in house product and client project work
 - Top student will be given a fund to write ML Exam
 
 
-Capstone Projects:
+### Capstone Projects:
 1. Serkinti
 2. Ontario House Pricing Predictor
 3. Turtle Score
 4. StackIndex
-5. Featurepreneur 
+5. Featurepreneur
+6. MentorAI
+
+
+### Program Fee:
+50-80K INR (upto 70% scholarship available)
+
+### Reach us out:
+Email info@tactii.com if you want to know more information
