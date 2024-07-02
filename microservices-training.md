@@ -18,8 +18,8 @@
 6. GET, POST methods separate methods
 
 7. Dockerize the monolithic (no microservices)
-  a. Dockerfile
-  b. docker-compose
+    a. Dockerfile
+    b. docker-compose
 
 8. Frontend, Backend separated
 
@@ -34,8 +34,8 @@
 13. Dump Friendship Meter in .json in Backend
 ```
 {
-        "yourname_friendname" : 89
-      }
+  "yourname_friendname" : 89
+}
 ```
 14. Dump into MongoDB and keep a handler file to deal with MongoDB
 
