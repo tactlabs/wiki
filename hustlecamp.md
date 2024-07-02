@@ -15,16 +15,16 @@ More than 180 students gradudated from our training and internship program.
 - LLM
 - EvidentlyAI
 - 20 ML Algorithms
-- Flask
-- FastAPI
-- SQLiteDB
-- MongoDB
-- PostgresDB
 - Streamlit
 - Gradio
 - Chainlit
 - OpenAI API
 - ML Metrics
+- Flask
+- FastAPI
+- SQLiteDB
+- MongoDB
+- PostgresDB
 - REST API
 - CoreNLP
 - Spacy
@@ -62,6 +62,7 @@ More than 180 students gradudated from our training and internship program.
 
 
 ### Training (4 - 6 months):
+- Unlike regular training, it is 
 - During your training program, you are recommended to hustle 1000 hours to get the certificate.
 - Monthly Micro Hackathon (13+ hours in a weekend) - Once a month
 - 5 Medium articles
@@ -97,4 +98,4 @@ More than 180 students gradudated from our training and internship program.
 50-80K INR (upto 70% scholarship available)
 
 ### Reach us out:
-Email info@tactii.com if you want to know more information
+Email info@tactii.com if you want to know more information about the scholarship program

@@ -356,7 +356,8 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ## Badges
   * [Badges](badges.md)
 
-
+## Workshops
+  * [Microserices Workshop](microservices-training.md)
 
 
 
