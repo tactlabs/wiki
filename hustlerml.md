@@ -1,8 +1,8 @@
 / [Home](index.md)
 
-# Hustlers' Club
+# HustlerML
 
-**Note:** Hustle until you get it, whatever the hell it is!
+**Note:** We teach Hustlers ML
 
 Who are hustlers?
 
@@ -12,7 +12,7 @@ Who are hustlers?
 
 Featurepreneur & TactLabs want to help you to make opportunities for you, to get things started and dream your Utopian life and hustle to get it.
 
-If you are discriminated by the society call it sexism, racism, casteism, bullies or any kind of discrimination, just hit an email info@tactii.com. We want to sit down with you, support you mentally and bring a career plan for you, create opportunity for you.
+If you are discriminated by the society call it sexism, racism, casteism, bullies or any kind of discrimination, just hit an email info@tactii.com. We want to sit down with you, support you mentally and bring a career plan for you, create opportunity for you, especially in AI/ML Stack.
 
 You can't change the people around you
 But, you can change the people around you
