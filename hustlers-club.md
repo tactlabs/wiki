@@ -14,5 +14,7 @@ Featurepreneur & TactLabs want to help you to make opportunities for you, to get
 
 If you are discriminated by the society call it sexism, racism, casteism, bullies or any kind of discrimination, just hit an email info@tactii.com. We want to sit down with you, support you mentally and bring a career plan for you, create opportunity for you.
 
+We believe "Caste is a curse of India" and we would like to solve in a modern way! We will keep you details confidential and never be exposed anywhere.
+
 You can't change the people around you
 But, you can change the people around you
