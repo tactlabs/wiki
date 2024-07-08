@@ -349,6 +349,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Database Analysis](database-analysis.md)
   * [Data Collection Sequence](data-collection-sequence.md)
   * [Escalation Template](escalation-template.md)
+  * [Tact Lingo](tact-lingo.md)
 
 ## Data
   * [100 Datasets](100-datasets.md)
