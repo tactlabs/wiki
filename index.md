@@ -229,6 +229,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Research papers](research-papers.md)
   * [ML Research Papers](ml-research-papers.md)
   * [Research Paper Work](research-paper-internship.md)
+  * [Research Alumni](researcher-alumni.md)
 
 ## DB Resources
   * [MongoDB Installation](mongodb-installation.md)
