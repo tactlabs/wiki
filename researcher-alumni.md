@@ -4,7 +4,7 @@
 
 
 1. [Rohith Mahadevan](https://www.semanticscholar.org/author/Rohith-Mahadevan/2123597259)
-2. [](https://www.semanticscholar.org/author/Santhosh-Kannan/2164705220)
+2. https://www.semanticscholar.org/author/Santhosh-Kannan/2164705220
 3. https://www.semanticscholar.org/author/SanjjushriVarshini-R/2164708773
 4. https://www.semanticscholar.org/author/S.-BagiyaLakshmi/2253691413
 5. https://www.semanticscholar.org/author/S.-BagiyaLakshmi/2253691413
