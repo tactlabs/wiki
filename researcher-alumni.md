@@ -4,29 +4,28 @@
 
 
 1. [Rohith Mahadevan](https://www.semanticscholar.org/author/Rohith-Mahadevan/2123597259)
-2. https://www.semanticscholar.org/author/Santhosh-Kannan/2164705220
-3. https://www.semanticscholar.org/author/SanjjushriVarshini-R/2164708773
-4. https://www.semanticscholar.org/author/S.-BagiyaLakshmi/2253691413
-5. https://www.semanticscholar.org/author/S.-BagiyaLakshmi/2253691413
-6. https://www.semanticscholar.org/author/Harsha-Ramesh/1580724861
-7. https://www.semanticscholar.org/author/Divya-Perumal/2123595841
-8. https://www.semanticscholar.org/author/V.-Sankar/2123595961
-9. https://www.semanticscholar.org/author/Talha-Abdur-Rahman/2124951179
-10. https://www.semanticscholar.org/author/V.-Ponshriharini/2164709409
-11. https://www.semanticscholar.org/author/Snekha-Suresh/2164717288
-12. https://www.semanticscholar.org/author/Sam-Richard/2167150392
-13. https://www.semanticscholar.org/author/Saaisri/2167151111
-14. https://www.semanticscholar.org/author/Kishore-Kumar/2167151314
-15. https://www.semanticscholar.org/author/Tarun/2167152140
-16. https://www.semanticscholar.org/author/J.-Murugan/2167153656
-17. https://www.semanticscholar.org/author/Joy-Larnyoh/2211603113
-18. https://www.semanticscholar.org/author/Vijitha-Kannumuru/2211603902
-19. https://www.semanticscholar.org/author/Krithiga-Shankar/2211604242
-20. https://www.semanticscholar.org/author/P.-SanthoshKannanS/2211604324
-21. https://www.semanticscholar.org/author/Jasper-Jessiman/2295729207
-22. https://www.semanticscholar.org/author/S.-HasanKumar/2295729209
-23. https://www.semanticscholar.org/author/Mathivanan-Periasamy/2295729223
-24. https://www.semanticscholar.org/author/Gopinath-Rajagopal/2296785042
-25. https://www.semanticscholar.org/author/S.-D.-Sri/2296785219
-26. https://www.semanticscholar.org/author/S.-MohammedAadil/2296785726
-27. https://www.semanticscholar.org/author/S.-T.-Chan/2297673108
+2. [Santhosh Kannan](https://www.semanticscholar.org/author/Santhosh-Kannan/2164705220)
+3. [Sanjjushri Varshini](https://www.semanticscholar.org/author/SanjjushriVarshini-R/2164708773)
+4. [Bagiya Lakshmi](https://www.semanticscholar.org/author/S.-BagiyaLakshmi/2253691413)
+5. [Harsha Ramesh](https://www.semanticscholar.org/author/Harsha-Ramesh/1580724861)
+6. [Divya Perumal](https://www.semanticscholar.org/author/Divya-Perumal/2123595841)
+7. [Vedha Sankar](https://www.semanticscholar.org/author/V.-Sankar/2123595961)
+8. [Talha Abdur Rahman](https://www.semanticscholar.org/author/Talha-Abdur-Rahman/2124951179)
+9. [PonshriHarini](https://www.semanticscholar.org/author/V.-Ponshriharini/2164709409)
+10. [Snekha Suresh](https://www.semanticscholar.org/author/Snekha-Suresh/2164717288)
+11. [Sam Richard](https://www.semanticscholar.org/author/Sam-Richard/2167150392)
+12. [Saaisri](https://www.semanticscholar.org/author/Saaisri/2167151111)
+13. [Kishore Kumar](https://www.semanticscholar.org/author/Kishore-Kumar/2167151314)
+14. [Tarun](https://www.semanticscholar.org/author/Tarun/2167152140)
+15. [Jeevitha Murugan](https://www.semanticscholar.org/author/J.-Murugan/2167153656)
+16. [Joy Larnyoh](https://www.semanticscholar.org/author/Joy-Larnyoh/2211603113)
+17. [Vijitha Kannumuru](https://www.semanticscholar.org/author/Vijitha-Kannumuru/2211603902)
+18. [Krithiga Shankar](https://www.semanticscholar.org/author/Krithiga-Shankar/2211604242)
+19. [Santhosh Kannan](https://www.semanticscholar.org/author/P.-SanthoshKannanS/2211604324)
+20. [Jasper Jessiman](https://www.semanticscholar.org/author/Jasper-Jessiman/2295729207)
+21. [Hasan Kumar](https://www.semanticscholar.org/author/S.-HasanKumar/2295729209)
+22. [Mativanan Periasamy](https://www.semanticscholar.org/author/Mathivanan-Periasamy/2295729223)
+23. [Gopinath Rajagopal](https://www.semanticscholar.org/author/Gopinath-Rajagopal/2296785042)
+24. [Deepika Sri](https://www.semanticscholar.org/author/S.-D.-Sri/2296785219)
+25. [Mohammad Aadil](https://www.semanticscholar.org/author/S.-MohammedAadil/2296785726)
+26. [Taranath Chan](https://www.semanticscholar.org/author/S.-T.-Chan/2297673108)
