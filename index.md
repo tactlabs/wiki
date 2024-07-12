@@ -352,6 +352,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Data Collection Sequence](data-collection-sequence.md)
   * [Escalation Template](escalation-template.md)
   * [Tact Lingo](tact-lingo.md)
+  * [Mock Interviews](mock-interviews.md)
 
 ## Data
   * [100 Datasets](100-datasets.md)
