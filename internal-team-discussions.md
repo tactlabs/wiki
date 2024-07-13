@@ -6,9 +6,10 @@
 ### ML Engineering HustleCamp
 ```
 Applicable jobs:
-ML Engineer
-DataScientist
-MLOps
+  - ML Engineer
+  - DataScientist
+  - MLOps
+  - Applied ML Researchers (best for higher studies aspirants)
 
 Season 4:
 8 students per cohort
@@ -17,13 +18,13 @@ Duration:
 5-10 months
 
 Methodology:
-Job Shadowing
-Dive in the Pool (DiP) and learn swimming
+  - Job Shadowing
+  - Dive in the Pool (DiP) and learn swimming
 
 Validation:
-Weekly Tests
-Monthly Tests
-Quarterly Tests
+  - Weekly Tests
+  - Monthly Tests
+  - Quarterly Tests
 
 Projects:
 2 Capstone Projects
@@ -46,6 +47,7 @@ Audience Segment:
 2. LessMoney 			+ willing to learn 14 hours a day
 3. NoMoney 				+ wish to learn but never put efforts
 4. HaveMoreMoney 	+ never put any efforts
+5. AverageMoney   + willing to learn 7 hours a day
 
 Employee Referrals:
 Bring someone from yourside and get 50% fee as a signing bonus
@@ -86,7 +88,7 @@ What we offer:
 3-5 days classes (1hr/day) by Tutors
 
 Goal:
-Finding NInt+Turtle score earlier and nurture them in AI
+Finding NInt + Turtle score earlier and nurture them in AI
 
 Regular but consistent small revenue from FPR
 
@@ -96,5 +98,7 @@ Preteens (age 9-12) and Teens (13-19)
 Validation:
 Bi-weekly tests
 Weekly assignments
+
+200 Students per month * 500 = 100K
 ```
 
