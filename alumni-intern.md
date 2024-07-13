@@ -63,7 +63,7 @@
 
 ### Season 5
 ```
-Hariprasad
+Hariprasad - https://www.linkedin.com/in/hari-prasad-gurunathan/
 Eswaraprasad
 Divya
 Gokul
