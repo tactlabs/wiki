@@ -2,10 +2,11 @@
 
 ## Tact Lingo
 
-- KT - Knowledge Transfer
-- TACT - Tact Labs
-- VaM - Vanilla Microservices
-- DoM - Docker Microsercices (regular Microservices)
-- FPR - Featurepreneur
-- MAI - MentorAI
+- KT    - Knowledge Transfer
+- TACT  - Tact Labs
+- VaM   - Vanilla Microservices
+- SVaM  - Single repo based VaM
+- DoM   - Docker Microsercices (regular Microservices)
+- FPR   - Featurepreneur
+- MAI   - MentorAI
 -
