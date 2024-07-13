@@ -5,25 +5,63 @@
 
 ### Season 1
 ```
-Divya
+2016:
+1. Divya - AP - Settled down in California
+2. TBd
+3. TBD
 ```
 
 
 ### Season 2
 ```
-Rakesh
-```
+2017:
 
+4. Samyuktha
+5. TBD
+6. TBD
+7. TBD
+```
 
 ### Season 3
 ```
-Alvis
-Vaishnavi
-Kamal
-Charles
+2017:
+8. Rakesh
+    - Working in ML
 ```
 
 ### Season 4
+```
+2018:
+9. Revanth
+10. TBD
+11. TBD
+```
+
+### Season 5
+```
+2019:
+
+12. Sanjana
+13. Rohith
+14. TBD
+15. TBD
+```
+
+
+### Season 6
+```
+2020:
+
+16. Alvis
+17. Vaishnavi
+18. Kamal - Studying in Germany
+19. Charles
+20. Vaishnavi Katikala
+
+17 in this batch
+```
+
+### Season 5
 ```
 Hariprasad
 Eswaraprasad
@@ -31,7 +69,7 @@ Divya
 Gokul
 ```
 
-### Season 5
+### Season 6
 ```
 Ajesh
 Roughit
@@ -42,7 +80,7 @@ Ishitha
 ```
 
 
-### Season 6
+### Season 7
 ```
 Harini
 Sanjju
@@ -53,7 +91,7 @@ Elakia
 ```
 
 
-### Season 7
+### Season 8
 ```
 Nagul
 Santhosh
@@ -70,9 +108,14 @@ Jeevitha
 Kishore
 ```
 
-### Season 8
+### Season 9
 ```
 Roshan
 Ashmi
 Darince
+```
+
+
+### Season 10
+```
 ```
