@@ -33,16 +33,13 @@ Not all paid subcribers are ready to dive in and learn?
 How to find those paying and willing to learn students?
 
 NiNT Score
-	(Natural Interest to learn things of their own)
-
-	How to find them earlier?
+	- (Natural Interest to learn things of their own)
+	- How to find them earlier?
 
 Turtle Score:
-	Continuous Learning Score
-
-	How to watch their learning?
-
-	How to automate the validation of their regular learning?
+	- Continuous Learning Score
+	- How to watch their learning?
+	- How to automate the validation of their regular learning?
 
 Audience Segment:
 1. NoMoney 				+ willng to put 14 hours a day
