@@ -367,6 +367,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 ## Internal
   * [Internal Hackathon](internal-hackathon.md)
+  * [Internal Team Discussions](internal-team-discussions.md)
 
 
 
