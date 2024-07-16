@@ -14,26 +14,26 @@
 
 ### Season 2
 ```
-2017:
+2019:
 
-4. Samyuktha
-5. TBD
+4. Samyuktha Prasanna
+5. Sudha
 6. TBD
-7. TBD
+7. Purnima
 ```
 
 ### Season 3
 ```
-2017:
+2019:
 8. Rakesh
     - Working in ML
 ```
 
 ### Season 4
 ```
-2018:
-9. Revanth
-10. TBD
+2019:
+9. Revanth - Dec 2019
+10. Muthu Mani -
 11. TBD
 ```
 
@@ -55,7 +55,7 @@
 16. Alvis
 17. Vaishnavi
 18. Kamal - Studying in Germany
-19. Charles
+19. Charles Samuel R
 20. Vaishnavi Katikala
 
 17 in this batch
