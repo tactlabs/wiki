@@ -51,6 +51,7 @@ The task is to write a program to find all the EC2 instances running in all regi
 ```
 
 11. LangChain + Ollama
+
 ```
 1. Setup Ollama in local machine
 
@@ -60,6 +61,7 @@ The task is to write a program to find all the EC2 instances running in all regi
 	python script to collect reelase notes
 
 3. Use this delim
+
 ---------------------------------------------------------------------------
 
 4. files:
