@@ -217,6 +217,8 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Various Effects](various-effects.md)
 
 ## TACT Training Programs
+  * [College Training](college-training.md)
+  * [Team Training](team-training)
   * [JSaaS - Job Shadowing as a Service - Legacy](jsaas.md)
   * [JSaaC - Job Shadowing as a Certificate](jsaac.md)
   * [Featurepreneur Training](featurepreneur-training.md)
