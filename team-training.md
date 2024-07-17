@@ -27,3 +27,7 @@ Prototyping to Production with sclabale option is really hard. Especiallly when 
 - NLTK
 - Streamlit
 - Gradio
+
+### About us
+- We published [LogPlus](https://pypi.org/project/logplus/) library at PyPI
+- We published [PrettyMetrics](https://pypi.org/project/prettymetrics/) library at PyPI

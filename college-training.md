@@ -33,3 +33,7 @@ info@tactii.com
 
 ### Certificates
 - Whoever passes our monthly test will get the certificates
+
+### About us
+- We published [LogPlus](https://pypi.org/project/logplus/) library at PyPI
+- We published [PrettyMetrics](https://pypi.org/project/prettymetrics/) library at PyPI
