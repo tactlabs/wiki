@@ -233,6 +233,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Research Paper Work](research-paper-internship.md)
   * [Research Alumni](researcher-alumni.md)
   * [Testimonials](testimonials.md)
+  * [Testimonial Image Starndard](testimonials-image-standard.md)
 
 ## DB Resources
   * [MongoDB Installation](mongodb-installation.md)
@@ -372,5 +373,5 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Internal Team Discussions](internal-team-discussions.md)
   * [How to use ChatGPT at work](how-to-use-chatgpt.md)
   * [Linx Installation History](linux-installation-history.md)
-
+  * [Employee Orientation](employee-orientation.md)
 
