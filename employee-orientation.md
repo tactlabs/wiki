@@ -20,6 +20,7 @@
 - No Message in the "General"
 - When you go to break, update the status
 - When you are on day off, update the status with your rejoining date/time.
+- If someone sent a message in the group, please use emojis as a cofirmation that you read the message.
 
 
 ### Trello
