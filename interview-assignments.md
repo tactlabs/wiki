@@ -94,4 +94,25 @@ The task is to write a program to find all the EC2 instances running in all regi
 
 
 GPU, CPU
+
+ref:
+https://github.com/tactlabs/release-notes-analyzer
 ```
+
+12. Flask vs FastAPI Benchmarking
+
+```
+simple benchmarking:
+
+flask+jinja vs fastapi+jinja
+
+2M Rows, 10 columns
+
+How much time is it taking
+```
+
+13. TBD
+
+
+14. TBD
+
