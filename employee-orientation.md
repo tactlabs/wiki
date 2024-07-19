@@ -34,3 +34,11 @@
 - 30 hours in 3 days is expected as minimum hours to be eligible to win the prize
 - Top performer will get the prize. Contribution hours may not impact the winner always.
 
+
+### GitHub
+- If you are asked to work on Github, by default you should create a branch on the specific repo.
+- Usually new branch naming convention: "<yourname>-work"
+- If you are told explicitly about the branch name, that takes the higher priority over "<yourname>-work"
+- Most of the time we do PR("Pull Requests") on GitHub. If you create a PR, you are not supposed to review the code and merge. Someone else has to do it.
+- At rare times, the same developer will be merging the PR with Manager approval
+

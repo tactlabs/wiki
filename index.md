@@ -91,6 +91,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 ## Orientation
   * [Daily Log](daily-log.md)
+  * [Employee Orientation](employee-orientation.md)
 
 ## Docker Projects / Tools :
   * [Docker - How to Install?](docker-how-to-install.md)
@@ -373,5 +374,4 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Internal Team Discussions](internal-team-discussions.md)
   * [How to use ChatGPT at work](how-to-use-chatgpt.md)
   * [Linx Installation History](linux-installation-history.md)
-  * [Employee Orientation](employee-orientation.md)
 
