@@ -15,6 +15,13 @@
 - 45 minutes (anytime)
 - Night Owls can join any time of the day as the 9am restriction will not impact them.
 
+### Coffee break
+- You can go for a quick break by conveying the team by quoting "going 5 minutes break"
+- Breaks can be upto 20 minutes.
+- You don't need to say things explicitly like below:
+    - "sir 5 mins i want to refill my water bottle"
+    - "someone is at the door, I will go and collect my food from them"
+
 
 ### Slack Dos and Donts:
 - No Message in the "General"
