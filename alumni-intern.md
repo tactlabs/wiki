@@ -119,3 +119,44 @@ Darince
 ### Season 10
 ```
 ```
+
+
+### Misc:
+```
+https://www.linkedin.com/in/aishwarya-ramaswami-69425b178/
+Jul 2020 - Oct 2020
+4 mos
+
+Snekha Suresh
+https://www.linkedin.com/in/snekhasuresh21/
+Jan 2022 - Sep 2022
+9 mos
+
+Jeevitha M
+https://www.linkedin.com/in/jeevitha-m-357979223/
+Jan 2022 - Oct 2022
+10 mos
+
+
+KISHORE HARSHAN KUMAR
+https://www.linkedin.com/in/harshankumarhrk/
+Jan 2022 - Oct 2022
+10 mos
+
+
+https://www.linkedin.com/in/santhoshkannansp/
+Santhosh Kannan S P
+Feb 2022 - Mar 2023
+1 yr 2 mos
+
+
+https://www.linkedin.com/in/sarumathyprabakaran/
+Sarumathy Prabakaran
+Jan 2022 - Mar 2023
+1 yr 3 mos
+
+
+Ishita Gopalakrishnan
+https://www.linkedin.com/in/ishitagopalakrishnan/
+Apr 2021 - Jun 2022 · 1 yr 3 mos
+```
