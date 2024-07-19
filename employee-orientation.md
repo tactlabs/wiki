@@ -26,7 +26,8 @@
 ### Trello
 - 2 tasks per day
 - You should mention hours you worked like this format "Contribution: 2hrs"
-
+- Before moving the task to "testing", update your contribution hours
+- If you worked on any specific github repo, keep the link in the activity section
 
 ### Internal Hackathon
 - Bi-weekly hackathon will get you 500-1000 INR credits towards productivity related gifts.
