@@ -374,4 +374,4 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Internal Team Discussions](internal-team-discussions.md)
   * [How to use ChatGPT at work](how-to-use-chatgpt.md)
   * [Linx Installation History](linux-installation-history.md)
-
+  * [file-upload-storage-types.md](file-upload-storage-types.md)
