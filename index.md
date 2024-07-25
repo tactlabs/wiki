@@ -358,6 +358,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Escalation Template](escalation-template.md)
   * [Tact Lingo](tact-lingo.md)
   * [Mock Interviews](mock-interviews.md)
+  * [IIT Secrets](iit-secrets.md)
 
 ## Data
   * [100 Datasets](100-datasets.md)
