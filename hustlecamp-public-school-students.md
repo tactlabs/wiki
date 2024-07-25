@@ -40,6 +40,8 @@ Remote (connect training on Zoom)
 - Microservices
 - Apache Flink
 - JSON
+- Nginx
+- Postman/Newman
 
 ### Cloud:
 #### AWS
@@ -86,7 +88,6 @@ Remote (connect training on Zoom)
 5. Featurepreneur
 6. MentorAI
 7. North American Job Collector
-8.
 
 ### PreRequisites:
 - You need to have a proper laptop
