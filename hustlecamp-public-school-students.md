@@ -85,6 +85,8 @@ Remote (connect training on Zoom)
 4. StackIndex
 5. Featurepreneur
 6. MentorAI
+7. North American Job Collector
+8.
 
 ### PreRequisites:
 - You need to have a proper laptop
