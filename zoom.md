@@ -75,6 +75,17 @@ Or here:
     31	37	41	43	47	53	59	61	67	71
     ```
 
+
+### Zoom Recording Saving Format
+```
+Zoom Recording Saving Format:
+{title}-{1-100}-{yyyymmdd}
+
+Samples:
+Mock-Interview-Anbarasan-1-20240717
+FPR-Framework-Random-Session-1-20240720
+```
+
 ### Ref :
 
   * [https://linuxize.com/post/how-to-install-deb-packages-on-ubuntu/](https://linuxize.com/post/how-to-install-deb-packages-on-ubuntu/)
