@@ -11,3 +11,4 @@
 7. MAI  - MentorAI
 8. DL   - Daily Log
 9. IC   - Independent Component
+10. CG  - ChatGPT
