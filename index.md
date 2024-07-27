@@ -380,3 +380,6 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [MentorAI Internal](mentorai-internal.md)
   * [Ngrok](ngrok.md)
   * [How to Document Your Learning](how-to-document-learning.md)
+
+## Social Supprot
+  * [DFI - District Forward Index](dfi.md)
