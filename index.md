@@ -324,8 +324,6 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Course Video Rules](course-video-rules.md)
   * [Featurepreneur FAQ](featurepreneur-faq.md)
   * [HustleCamp](hustlecamp.md)
-  * [HustleCamp - Public School Students](hustlecamp-public-school-students.md)
-  * [HustaleCamp Previous Seasons](hustlecamp-seasons.md)
   * [Business Development Executive](business-development-executive.md)
   * [Gift Policy](gift-policy.md)
   * [Featurepreneur Tasks](fpr-tasks.md)
@@ -383,3 +381,9 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 ## Social Supprot
   * [DFI - District Forward Index](dfi.md)
+
+
+## HustleCamp
+  * [HustleCamp - Public School Students](hustlecamp-public-school-students.md)
+  * [Hustle Score](hustle-score.md)
+  * [HustaleCamp Previous Seasons](hustlecamp-seasons.md)
