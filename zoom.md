@@ -67,7 +67,7 @@ Or here:
 ### Zoom Room Rules:
 1. Every room should have a decent name (pick random topics like islands)
 2. 8-20 rooms should be created
-3. Private room must be there
+3. Private room must be there and keep it as last room. Private room is only for Manager/Guest. Don't come into private room without any prior approvals.
 4. Room number count should be a prime number
     ```
     Top 20 prime Numbers:
