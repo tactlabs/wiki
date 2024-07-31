@@ -387,3 +387,6 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Hustle Score](hustle-score.md)
   * [HustaleCamp Previous Seasons](hustlecamp-seasons.md)
   * [Task Priority](tasks-priority.md)
+
+## MentorAI
+  * [MentorAI Skills Chart](mentorai-skills-chart.md)
