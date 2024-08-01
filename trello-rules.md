@@ -1,4 +1,4 @@
-/ [Home](index.md) 
+/ [Home](index.md) /[Trello-rules](trello-rules.md)
 
 ## Trello Rules
 
