@@ -324,7 +324,6 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Course Video Rules](course-video-rules.md)
   * [Featurepreneur FAQ](featurepreneur-faq.md)
   * [HustleCamp](hustlecamp.md)
-  * [HustaleCamp Previous Seasons](hustlecamp-seasons.md)
   * [Business Development Executive](business-development-executive.md)
   * [Gift Policy](gift-policy.md)
   * [Featurepreneur Tasks](fpr-tasks.md)
@@ -357,6 +356,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Escalation Template](escalation-template.md)
   * [Tact Lingo](tact-lingo.md)
   * [Mock Interviews](mock-interviews.md)
+  * [IIT Secrets](iit-secrets.md)
 
 ## Data
   * [100 Datasets](100-datasets.md)
@@ -377,3 +377,16 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [file-upload-storage-types.md](file-upload-storage-types.md)
   * [MentorAI Internal](mentorai-internal.md)
   * [Ngrok](ngrok.md)
+  * [How to Document Your Learning](how-to-document-learning.md)
+
+## Social Supprot
+  * [DFI - District Forward Index](dfi.md)
+
+## HustleCamp
+  * [HustleCamp - Public School Students](hustlecamp-public-school-students.md)
+  * [Hustle Score](hustle-score.md)
+  * [HustaleCamp Previous Seasons](hustlecamp-seasons.md)
+  * [Task Priority](tasks-priority.md)
+
+## MentorAI
+  * [MentorAI Skills Chart](mentorai-skills-chart.md)

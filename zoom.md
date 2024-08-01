@@ -67,13 +67,24 @@ Or here:
 ### Zoom Room Rules:
 1. Every room should have a decent name (pick random topics like islands)
 2. 8-20 rooms should be created
-3. Private room must be there
+3. Private room must be there and keep it as last room. Private room is only for Manager/Guest. Don't come into private room without any prior approvals.
 4. Room number count should be a prime number
     ```
     Top 20 prime Numbers:
     2	3	5	7	11	13	17	19	23	29
     31	37	41	43	47	53	59	61	67	71
     ```
+
+
+### Zoom Recording Saving Format
+```
+Zoom Recording Saving Format:
+{title}-{1-100}-{yyyymmdd}
+
+Samples:
+Mock-Interview-Anbarasan-1-20240717
+FPR-Framework-Random-Session-1-20240720
+```
 
 ### Ref :
 
