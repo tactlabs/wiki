@@ -39,7 +39,6 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [PySpark Setup](pyspark-setup.md)
   * [Applied ML](applied-ml.md)
   * [Adding Course from Zoom](adding-zoom-course.md)
-  * [Jina AI Challenge](jina-ai.md)
   * [Youth Investors Club](yic.md)
   * [Updating PyPi Package](pypi.md)
   * [Pretty Metrics](prettymetrics.md)
@@ -390,3 +389,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 ## MentorAI
   * [MentorAI Skills Chart](mentorai-skills-chart.md)
+
+## Challenges
+  * [Jina AI Challenge](jina-ai.md)
+  * [100 Days of Gamified Learning Challenge](100-days-gamified-learning-challenge.md)
