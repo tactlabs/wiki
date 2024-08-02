@@ -377,6 +377,11 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [MentorAI Internal](mentorai-internal.md)
   * [Ngrok](ngrok.md)
   * [How to Document Your Learning](how-to-document-learning.md)
+  * [Slack rules](slack-rules.md)
+  * [Trello Rules](trello-rules.md)
+  * [Scrum Rules](scrum-rules.md)
+  * [Real Addresses](real-addresses.md)
+
 
 ## Social Supprot
   * [DFI - District Forward Index](dfi.md)
