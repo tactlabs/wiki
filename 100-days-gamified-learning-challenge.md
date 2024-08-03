@@ -11,3 +11,12 @@
 - You need only 40 minutes a day
   - 30 minutes for Python / Linux
   - 10 minutes for Games
+
+
+### Things included
+- Error Emitter
+- Random Tech Interview (3 minutes)
+- GitBook Proof
+- Kaggle Proof
+- Medium Proof
+- GitHub Proof

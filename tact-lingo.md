@@ -12,3 +12,11 @@
 8. DL   - Daily Log
 9. IC   - Independent Component
 10. CG  - ChatGPT
+11. Jestor - Admin
+12.
+
+
+
+## Tact Mythraki:
+1. Jestor - Admin
+2. Leplatz - Playground
