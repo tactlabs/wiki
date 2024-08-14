@@ -383,6 +383,8 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Real Addresses](real-addresses.md)
   * [Students Bank](student-bank.md)
   * [Topic Exploring Questions](topic-exploring-questions.md)
+  * [Checklist](checklist.md)
+
 
 
 ## Social Supprot
@@ -400,3 +402,4 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ## Challenges
   * [Jina AI Challenge](jina-ai.md)
   * [100 Days of Gamified Learning Challenge](100-days-gamified-learning-challenge.md)
+
