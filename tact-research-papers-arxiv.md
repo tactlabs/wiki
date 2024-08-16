@@ -71,6 +71,7 @@ https://arxiv.org/abs/2303.08660
 ```
 Comparative Study and Framework for Automated Summariser Evaluation: LangChain and Hybrid Algorithms
 https://arxiv.org/abs/2310.02759
+
 	Authors: ?
 	cs.LG (Machine Learning)
 	Submitted 4 Oct, 2023
@@ -87,6 +88,7 @@ https://arxiv.org/abs/2310.02759
 ```
 Finding fake reviews in e-commerce platforms by using hybrid algorithms
 https://arxiv.org/abs/2404.06339
+
 	Authors: Mathivanan Periasamy, Rohith Mahadevan, Bagiya Lakshmi S, Raja CSP Raman, Hasan Kumar S, Jasper Jessiman
 	cs.CL (Machine Learning)
 	Submitted 09 April, 2023
@@ -108,11 +110,27 @@ https://arxiv.org/abs/2404.10678
 
 	Authors: S Deepika Sri, Mohammed Aadil S, Sanjjushri Varshini R, Raja CSP Raman, Gopinath Rajagopal, S Taranath chan
 	cs.CL (Machine Learning)
-	Submitted 016 April, 2023
+	Submitted: 16 April, 2023
 	Published: April 2024
 
 	https://arxiv.org/pdf/2404.10678.pdf
 	https://github.com/tactlabs/test-case-generation
+
+	Note:
+	published with raja.csp@gmail.com
+```
+
+### 8
+```
+Speckle Noise Analysis for Synthetic Aperture Radar (SAR) Space Data
+?
+
+	Authors: Sanjjushri Varshini R, Rohith Mahadevan, Bagiya Lakshmi S, Mathivanan Periasamy, Raja CSP Raman , Lokesh M
+	?
+	Submitted: 17 August, 2024
+	Published: ?
+
+  ?
 
 	Note:
 	published with raja.csp@gmail.com
