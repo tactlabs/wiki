@@ -227,6 +227,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 ## TACT Research
   * [Tact Research](tact-research.md)
+  * [Tact Reserach Papers on Arxiv](tact-research-papers-arxiv.md)
   * [Research Partnership](research-partnership.md)
   * [Research papers](research-papers.md)
   * [ML Research Papers](ml-research-papers.md)
