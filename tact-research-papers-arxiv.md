@@ -28,9 +28,6 @@ https://arxiv.org/abs/2205.04876
 	Submitted 10 May, 2022
 	Published: May 2022
 
-	Identifier: 2205.04876
-	password: enunz
-
 	https://arxiv.org/pdf/2205.04876.pdf
 	https://ar5iv.labs.arxiv.org/html/2205.04876
 
@@ -46,9 +43,6 @@ https://arxiv.org/abs/2205.15320
 	cs.LG (Machine Learning) - stat.ML (Machine Learning)
 	Submitted 30 May, 2022
 	Published: May 2022
-
-	Identifier: 2205.15320
-	password: 3ckdk
 
 	https://arxiv.org/pdf/2205.15320.pdf
 	https://ar5iv.labs.arxiv.org/html/2205.15320
@@ -66,9 +60,6 @@ https://arxiv.org/abs/2303.08660
 	Submitted 19 February, 2023
 	Published: March 2023
 
-	Identifier: 2303.08660
-	password: k8y6c
-
 	https://arxiv.org/pdf/2303.08660.pdf
 	https://ar5iv.labs.arxiv.org/html/2303.08660
 
@@ -85,9 +76,6 @@ https://arxiv.org/abs/2310.02759
 	Submitted 4 Oct, 2023
 	Published: Oct 2023
 
-	Identifier: 2310.02759
-	password: r5iy6
-
 	https://arxiv.org/pdf/2310.02759.pdf
 	https://ar5iv.labs.arxiv.org/html/2310.02759
 
@@ -103,9 +91,6 @@ https://arxiv.org/abs/2404.06339
 	cs.CL (Machine Learning)
 	Submitted 09 April, 2023
 	Published: April 2024
-
-	Identifier: 2404.06339
-	password: ussep
 
 	https://arxiv.org/ftp/arxiv/papers/2404/2404.06339.pdf
 	https://arxiv.org/pdf/2404.06339.pdf
@@ -126,11 +111,8 @@ https://arxiv.org/abs/2404.10678
 	Submitted 016 April, 2023
 	Published: April 2024
 
-	Identifier: 2404.10678
-	password: 9krps
-
 	https://arxiv.org/pdf/2404.10678.pdf
-		https://github.com/tactlabs/test-case-generation
+	https://github.com/tactlabs/test-case-generation
 
 	Note:
 	published with raja.csp@gmail.com
