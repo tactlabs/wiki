@@ -44,7 +44,7 @@ git config credential.helper store
 ```
 git checkout filename
 ```
-Ref: 
+Ref:
 [Revert a single file](http://www.norbauer.com/rails-consulting/notes/git-revert-reset-a-single-file.html)
 
 
@@ -183,7 +183,7 @@ git reset -- filename.txt
 ```
 git checkout abc.php
 ```
-[Revert a single file](http://www.norbauer.com/rails-consulting/notes/git-revert-reset-a-single-file.html)	
+[Revert a single file](http://www.norbauer.com/rails-consulting/notes/git-revert-reset-a-single-file.html)
 
 
 
@@ -206,7 +206,7 @@ git clone https://github.com/rajacsp/drivercheck
 
 ### Short log
 ```
-git shortlog -s 
+git shortlog -s
 ```
 will get all users' commit by count
 
@@ -262,7 +262,7 @@ git push origin master
 ### If conflict occurs, fix them using method below:
 ```
  <<<<<<< HEAD - old code start
- =======      - old code end 
+ =======      - old code end
  >>>>>>> plainreport - new code end
 ```
 	How to fix Git merge conflicts:
@@ -656,7 +656,7 @@ https://stackoverflow.com/questions/822811/showing-which-files-have-changed-betw
 ```
 git branch -D branch_name
 ```
-https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely	
+https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely
 
 
 
@@ -666,7 +666,7 @@ https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally
 
 ### Git stash
 ```
-git stash list 
+git stash list
 ```
 will list all stashes
 
@@ -796,6 +796,9 @@ git commit --amend -m "Message"
 ### How to change the remote url?
 ```
 git remote set-url origin git@github.com:username/reponame.git
+
+ref:
+https://chatgpt.com/share/6c4af7db-f6cd-4bcf-956a-1b550b4b882e
 ```
 
 
