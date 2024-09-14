@@ -223,6 +223,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [JSaaC - Job Shadowing as a Certificate](jsaac.md)
   * [Featurepreneur Training](featurepreneur-training.md)
   * [DevOps Bootcamp](devops-bootcamp.md)
+  * [ML Engineering Bootcamp](ml-engineering-bootcamp.md)
   * [Gamified Learning - One Day Workshop](gamified-learnining-workshop.md)
 
 ## TACT Research
@@ -387,9 +388,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Topic Exploring Questions](topic-exploring-questions.md)
   * [Checklist](checklist.md)
 
-
-
-## Social Supprot
+## Social Support
   * [DFI - District Forward Index](dfi.md)
 
 ## HustleCamp
