@@ -86,9 +86,6 @@
    - Self-organizing maps (SOMs) for clustering and visualization
    - Autoencoders for unsupervised feature learning and anomaly detection
 
-Here’s the continuation of the curriculum with topics 8–22:
-
----
 
 8. **MLP Classifier and Neural Networks**:
    - Structure of neural networks (input, hidden, output layers)
