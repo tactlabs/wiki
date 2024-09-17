@@ -13,10 +13,16 @@
 9. IC   - Independent Component
 10. CG  - ChatGPT
 11. Jestor - Admin
-12.
+12. SiMS - Single repo based Micro Service
+13.
 
 
 
 ## Tact Mythraki:
 1. Jestor - Admin
 2. Leplatz - Playground
+
+
+## Azure
+1. ACA - Azure Container App
+2.
