@@ -9,8 +9,8 @@
 ### How to push a local app to Docker public registry
 ```
 Git repo:
-https://github.com/rajasgs/simple-flask
-git clone git@github.com:rajasgs/simple-flask.git
+https://github.com/tactlabs/simple-flask
+git clone git@github.com:tactlabs/simple-flask.git
 
 
 v1:
@@ -402,7 +402,7 @@ az containerapp ingress traffic set \
 
 ### Auto Deployment with ACA
 ```
-https://github.com/rajasgs/titanic-prediction-flask
+https://github.com/tactlabs/titanic-prediction-flask
 
 docker login --username=rajacsp
 
