@@ -2,16 +2,14 @@
 
 # Research Papers
 
-**Note:** notes
+**Note:** Tact Research Paper History
 
 
-
-### Getting info from curved text
-
-This paper explains how to get the info from the curved text
-
-### Ref :
-
-  * [TextTubes for Detecting Curved Text in the Wild](https://arxiv.org/pdf/1912.08990.pdf)
-  * [Venturebeat](https://venturebeat.com/2019/12/26/amazon-researchers-use-ai-to-improve-ocr-for-curved-text/)
-  * [Digital Information](https://www.digitalinformationworld.com/2019/12/ai-helping-researchers-at-amazon-for-curved-text-recognition.html)
+1. [Stack Index Prediction Using Time-Series Analysis - August 2021](https://arxiv.org/abs/2108.08120)
+2. [Turtle Score -- Similarity Based Developer Analyzer - May 2022](https://arxiv.org/abs/2205.04876)
+3. [Payday loans -- blessing or growth suppressor? Machine Learning Analysis - May 2022](https://arxiv.org/abs/2205.15320)
+4. [Fashion-model pose recommendation and generation using Machine Learning - March 2023](https://arxiv.org/abs/2303.08660)
+5. [Comparative Study and Framework for Automated Summariser Evaluation: LangChain and Hybrid Algorithms - Oct 2023](https://arxiv.org/abs/2310.02759)
+6. [Finding fake reviews in e-commerce platforms by using hybrid algorithms - April 2024](https://arxiv.org/abs/2404.06339)
+7. [Automating REST API Postman Test Cases Using LLM - April 2024](https://arxiv.org/abs/2404.10678)
+8. [Speckle Noise Analysis for Synthetic Aperture Radar (SAR) Space Data - Aug 2024](https://arxiv.org/abs/2408.08774)
