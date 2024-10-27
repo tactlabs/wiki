@@ -7,7 +7,7 @@
   - Variables, data types, and operators
   - Control flow and loops
   - Functions and modules
-- **File handling and data input/output**
+  - File handling and data input/output
 - **Introduction to Data Science**
   - Data types and data structures
   - Exploratory data analysis (EDA)
@@ -17,7 +17,7 @@
   - Supervised learning: regression and classification
   - Unsupervised learning: clustering and dimensionality reduction
   - Evaluation metrics and model validation
-- **Feature engineering and selection**
+  - Feature engineering and selection
 - **Python Libraries for AI/ML**
   - NumPy for numerical computing
   - Pandas for data manipulation and analysis
