@@ -359,6 +359,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Tact Lingo](tact-lingo.md)
   * [Mock Interviews](mock-interviews.md)
   * [IIT Secrets](iit-secrets.md)
+  * [AIML Roadmap](aiml-roadmap.md)
 
 ## Data
   * [100 Datasets](100-datasets.md)
@@ -383,7 +384,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Slack rules](slack-rules.md)
   * [Trello Rules](trello-rules.md)
   * [Scrum Rules](scrum-rules.md)
-  * [Real Addresses](real-add resses.md)
+  * [Real Addresses](real-addresses.md)
   * [Students Bank](student-bank.md)
   * [Topic Exploring Questions](topic-exploring-questions.md)
   * [Checklist](checklist.md)
