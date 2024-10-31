@@ -3,8 +3,11 @@
 ## Case Study: Advanced Weapon Classification with Machine Learning for a North American Gaming Company
 
 **Client:** North American Gaming Company
+<br>
 **Year:** 2019
+<br>
 **Industry:** Gaming
+<br>
 **Services Provided:** Machine Learning, Weapon Classification
 
 ### Problem
