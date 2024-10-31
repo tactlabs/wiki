@@ -6,5 +6,4 @@
   * [SpaceIShare](portfolio-spaceishare.md)
   * [Smilegate West](portfolio-smilegate-west.md)
   * [SGSCo](portfolio-sgsco.md)
-  *
 
