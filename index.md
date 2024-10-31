@@ -409,4 +409,4 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Azure Container Apps Commands](azure-container-apps-commands.md)
 
 ## Tact Portfolio
-  * [SpaceIShare](portfolio-spaceishare.md)
+  * [Tact Portfolio](tact-portfolio.md)
