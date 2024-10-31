@@ -5,10 +5,10 @@
 
 ## Case Study: Empowering SpaceIShare with Data Collection and Machine Learning
 
-**Client:** SpaceIShare
-**Year:** 2019
-**Industry:** Sharing Economy
-**Services Provided:** Data Collection, Machine Learning
+**Client:** SpaceIShare<br>
+**Year:** 2019<br>
+**Industry:** Sharing Economy<br>
+**Services Provided:** Data Collection, Machine Learning<br>
 
 ### Problem
 SpaceIShare, a startup in the sharing economy, faced challenges in collecting and analyzing data effectively. Their existing systems struggled to meet the demands for scalable data insights, which impacted operational efficiency and revenue growth.
