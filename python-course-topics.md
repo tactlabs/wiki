@@ -1,6 +1,6 @@
 / [Home](index.md)
 
-## Python Course Topics
+## Python Basic to Intermediate
 
 
 1. Miniconda

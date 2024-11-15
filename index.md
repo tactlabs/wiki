@@ -410,3 +410,6 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 ## Tact Portfolio
   * [Tact Portfolio](tact-portfolio.md)
+
+## Courses
+  * [Python Basic to Intermediate](python-course-topics.md)
