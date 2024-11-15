@@ -188,7 +188,7 @@
 
 90. HTTP Codes
 
-91. Execution Timer @ (Annotator)
+91. Execution Timer @ (Decorators)
 
 92. Decorators
 
