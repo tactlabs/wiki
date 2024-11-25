@@ -16,12 +16,12 @@ Scrum Rules:
 - Keep most deadlines within 3-4 hours which means chunk the tasks which will be done in 3-4 hours.
 - Meeting recording min 15mins
 - 3 things:
-		How much progress made?
-			80%
-		Deadline?
-			2 more hours
-		Any blocking/impediments?
-			- 1-5 lines
+	How much progress made?
+	 - 80%
+	Deadline?
+	 - 2 more hours
+	Any blocking/impediments?
+	 - 1-5 lines
 - Summary Engine
 		AI powered
         
