@@ -83,6 +83,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [FPR Color Theme - Macbook](fpr-color-theme-macbook.md)
   * [FPR Mac History](fpr-mac-history.md)
   * [Mac Club](mac-club.md)
+  * [Env Keys / envkeys](envkeys.md)
 
 ## Zorin OS
 
@@ -361,6 +362,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [IIT Secrets](iit-secrets.md)
   * [AIML Roadmap](aiml-roadmap.md)
   * [SigPy](sigpy.md)
+  * []()
 
 ## Data
   * [100 Datasets](100-datasets.md)
