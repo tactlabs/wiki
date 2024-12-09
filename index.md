@@ -68,6 +68,8 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Py Env Management](py-env-management.md)
   * [Project Structure](project-structure.md)
   * [Poetry Commands](poetry-commands.md)
+  * [Sublime Index Commands](sublime-index.md)
+
 
 ## Tools
   * [Misc Tools](misc-tools.md)
