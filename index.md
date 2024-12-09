@@ -209,9 +209,9 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 ## TACT PaaS / BaaS
   * [PaaS](paas.md)
+## TACT Micro Brainstorming
   * [Heroku Basics](heroku-basics.md)
 
-## TACT Micro Brainstorming
   * [Micro Brainstorming](micro-brainstorming.md)
   * [Howfication](howfication.md)
   * [Various Effects](various-effects.md)
@@ -413,3 +413,4 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 ## Courses
   * [Python Basic to Intermediate](python-course-topics.md)
+  * [AI Agents Stack](ai-agent-stack.md)
