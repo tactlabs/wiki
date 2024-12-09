@@ -148,8 +148,13 @@ temp.txt
 my_env/
 venv/
 
-#ML 
+#ML
 *.onnx
+
+# Ollama related
+source_documents/
+db/
+
 
 ```
 

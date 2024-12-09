@@ -360,6 +360,9 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Mock Interviews](mock-interviews.md)
   * [IIT Secrets](iit-secrets.md)
   * [AIML Roadmap](aiml-roadmap.md)
+  * [SigPy](sigpy.md)
+  * [Env Keys / envkeys](envkeys.md)
+  * [Trendy Topics](trendy-topics.md)
 
 ## Data
   * [100 Datasets](100-datasets.md)

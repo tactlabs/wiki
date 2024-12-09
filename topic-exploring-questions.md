@@ -17,6 +17,14 @@
 
 6. What are the pros and cons of ABC?
 
+7. What are the ABC techniques?
+
+8. Give me 5 samples of ABC
+
+9. What are the altenates for XYZ?
+
+10. Who is using XYZ?
+
 
 ### Sample:
 curl
