@@ -419,3 +419,4 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ## Courses
   * [Python Basic to Intermediate](python-course-topics.md)
   * [AI Agents Stack](ai-agent-stack.md)
+  * [Course Translator with Python](course-traslator-with-python.md)
