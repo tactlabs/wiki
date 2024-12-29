@@ -424,3 +424,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 
 ## Timeline
   * [Timeline of GenAI Tools and Libs](timeline-tools-libs.md)
+
+
+## GenAI
+  * [GenAI Usecases](genai-usecases.md)
