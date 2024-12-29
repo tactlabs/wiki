@@ -1,8 +1,8 @@
 / [Home](index.md)
 
-## Template
+## GneAI Usecases
 
-**Note:** tbw
+**Note:** Usecases collected from various resources
 
 
 
