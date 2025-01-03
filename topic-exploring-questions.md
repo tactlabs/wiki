@@ -21,9 +21,9 @@
 
 8. Give me 5 samples of ABC
 
-9. What are the altenates for XYZ?
+9. What are the altenates for ABC?
 
-10. Who is using XYZ?
+10. Who is using ABC?
 
 
 ### Sample:
@@ -40,6 +40,14 @@ curl
 5. Tell me various topics under cURL?
 
 6. What are the pros and cons of cURL?
+
+7. What are the cURL techniques?
+
+8. Give me 5 samples of cURL
+
+9. What are the altenates for cURL?
+
+10. Who is using cURL?
 
 ### More:
 [Topic Exporing](https://rajasgs.gitbook.io/pynotes/topic-exploring)
