@@ -21,9 +21,7 @@
 
 8. Give me 5 samples of ABC
 
-9. What are the altenates for ABC?
-
-10. Who is using ABC?
+9. Who is using ABC?
 
 
 ### Sample:
