@@ -8,6 +8,7 @@
 - never use "_" in API 
 - pylint disble
 	# pylint: disable=missing-function-docstring,
+- never user "print", use tlogger
 
 ```
 
