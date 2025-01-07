@@ -69,6 +69,8 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Project Structure](project-structure.md)
   * [Poetry Commands](poetry-commands.md)
   * [Sublime Index Commands](sublime-index.md)
+  * [Tact Coding Rules](coding-rules.md)
+
 
 
 ## Tools
