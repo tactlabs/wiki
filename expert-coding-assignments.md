@@ -47,3 +47,7 @@ def get_above_5(results):
 
 print(get_above_5([]))
 ```
+
+
+3. I need to collect Medium articles by using Brave (BraveArticleCollector). If 10 articles not collected, recurse it.
+https://github.com/tactlabs/genainewsagent/blob/main/brave_article_collector.py
