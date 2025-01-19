@@ -123,6 +123,8 @@ alias co="code"
 
 CSP Alias Ubuntu
 ```
+USER_BASE_PATH="/home/rajaraman/csp"
+
 alias py="python"
 alias soume="source ~/.zshrc"
 alias sourcez="soume"
