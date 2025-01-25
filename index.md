@@ -69,7 +69,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Project Structure](project-structure.md)
   * [Poetry Commands](poetry-commands.md)
   * [Sublime Index Commands](sublime-index.md)
-  * [Tact Coding Rules](coding-rules.md)
+
 
 
 
@@ -163,6 +163,9 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Break Rules](break-rules.md)
   * [Python coding standard](coding-standard.md)
   * [Admin publishing Medium](publish-medium.md)
+  * [Tact Coding Rules](coding-rules.md)
+  * [Productivity Improvements Guideliness](Productivity-Guideliness.md)
+
 
 ## Interview
   * [Tact Interview Process: TIP](interview-process.md)
