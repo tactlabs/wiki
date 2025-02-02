@@ -15,11 +15,13 @@
 8. Answer should be in one line and use SUPER (see below) Framework.
 
 ## SUPER Framework
+```
 S - Simple
 U - Unique
 P - Perfect
 E - Exceptional
 R - Relevant
+```
 
 ### Reference
 * [Juz ClaudeIt](https://github.com/tactlabs/just-claude-it) 
