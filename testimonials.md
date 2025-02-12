@@ -20,3 +20,6 @@
 
 4. Ishita Gopalakrishnan - July 29 2024
 ![alt text](image-14.png)
+
+5. Rohith Canada
+![](images/2025-02-12-09-19-13.png)
