@@ -443,3 +443,6 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ### Assignments
   * [Python Assignments](python-assignments.md)
   * [Expert Coding Assignments](expert-coding-assignments.md)
+
+### GenAI
+  * [Agent Requirements](agent-requirements.md)
