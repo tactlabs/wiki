@@ -23,3 +23,6 @@
 
 5. Rohith Canada
 ![](images/2025-02-12-09-19-13.png)
+
+6. Hari
+![H](images/testimonial-hari-20250218.png)
