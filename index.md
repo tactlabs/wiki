@@ -438,11 +438,9 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ## GenAI
   * [GenAI Usecases](genai-usecases.md)
   * [Agent Making Rules](agent-making-rules.md)
-
+  * [GenAI RoadMap](genai-roadmap.md)
+  * [Agent Requirements](agent-requirements.md)
 
 ### Assignments
   * [Python Assignments](python-assignments.md)
   * [Expert Coding Assignments](expert-coding-assignments.md)
-
-### GenAI
-  * [Agent Requirements](agent-requirements.md)
