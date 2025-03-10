@@ -417,6 +417,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
 ## Challenges
   * [Jina AI Challenge](jina-ai.md)
   * [100 Days of Gamified Learning Challenge](100-days-gamified-learning-challenge.md)
+  * [Gamified GenAI and Data Collection](gamified-genai.md)
 
 ## Azure
   * [Azure Container Apps Commands](azure-container-apps-commands.md)
