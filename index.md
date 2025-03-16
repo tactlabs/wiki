@@ -373,6 +373,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Raja CSP Raman Profile](raja-csp-profile.md)
   * [Engineering Blogs](engineering-blogs.md)
   * [Engineering Laws](engineering-laws.md)
+  * [Book Reading](book-reading.md)
 
 ## Data
   * [100 Datasets](100-datasets.md)
