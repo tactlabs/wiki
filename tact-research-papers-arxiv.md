@@ -135,3 +135,19 @@ Speckle Noise Analysis for Synthetic Aperture Radar (SAR) Space Data
 	Note:
 	published with raja.csp@gmail.com
 ```
+
+### 9
+```
+MLer Index - A New Way of Scouting and Validating ML Talents
+?
+
+	Authors: Bagiya Lakshmi S, Sanjjushri Varshini R, S Deepika Sri, Raja CSP Raman
+	?
+	Submitted: 17 March, 2025
+	Published: ?
+
+  ?
+
+	Note:
+	published with raja.csp@gmail.com
+```

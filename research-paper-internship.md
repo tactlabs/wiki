@@ -1,6 +1,6 @@
 / [Home](index.md)
 
-## Research Intern - Reearch Paper Work
+## Research Intern - Research Paper Work
 
 **Note:** Come and join our 100 Hours Research paper work
 

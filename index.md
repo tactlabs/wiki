@@ -244,6 +244,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Testimonials](testimonials.md)
   * [Testimonial Image Starndard](testimonials-image-standard.md)
   * [Arxiv Commands](arxiv-commands.md)
+  * [Research Paper Work - Rules](research-paper-work-rules.md)
 
 ## DB Resources
   * [MongoDB Installation](mongodb-installation.md)
