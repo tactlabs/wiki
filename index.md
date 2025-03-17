@@ -234,17 +234,19 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Gamified Learning - One Day Workshop](gamified-learnining-workshop.md)
 
 ## TACT Research
-  * [Tact Research](tact-research.md)
-  * [Tact Reserach Papers on Arxiv](tact-research-papers-arxiv.md)
-  * [Research Partnership](research-partnership.md)
   * [Research papers](research-papers.md)
-  * [ML Research Papers](ml-research-papers.md)
-  * [Research Paper Work](research-paper-internship.md)
+  * [Tact Reserach Papers on Arxiv - Detailed Info](tact-research-papers-arxiv.md)
+  * [Research Partnership](research-partnership.md)
+  * [Research Paper Internship](research-paper-internship.md)
   * [Research Alumni](researcher-alumni.md)
-  * [Testimonials](testimonials.md)
-  * [Testimonial Image Starndard](testimonials-image-standard.md)
   * [Arxiv Commands](arxiv-commands.md)
   * [Research Paper Work - Rules](research-paper-work-rules.md)
+  * [Tact Learning Research](tact-learning-research.md)
+  * [ML Research Papers Ideas](ml-research-papers-ideas.md)
+
+## Testimonials
+  * [Testimonials](testimonials.md)
+  * [Testimonial Image Starndard](testimonials-image-standard.md)
 
 ## DB Resources
   * [MongoDB Installation](mongodb-installation.md)

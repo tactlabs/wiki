@@ -13,3 +13,4 @@
 6. [Finding fake reviews in e-commerce platforms by using hybrid algorithms - April 2024](https://arxiv.org/abs/2404.06339)
 7. [Automating REST API Postman Test Cases Using LLM - April 2024](https://arxiv.org/abs/2404.10678)
 8. [Speckle Noise Analysis for Synthetic Aperture Radar (SAR) Space Data - Aug 2024](https://arxiv.org/abs/2408.08774)
+9. [MLer Index - A New Way of Scouting and Validating ML Talents](TBD)
