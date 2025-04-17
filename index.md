@@ -378,6 +378,7 @@ We do simple and smart apps mostly for POC purposes with scaling options which c
   * [Engineering Laws](engineering-laws.md)
   * [Book Reading](book-reading.md)
   * [GenAI Roadmap - Vrishank](genai-roadmap-vrishank.md)
+  * [Books 4 Entrepreneurs](books-4-entrepreneurs.md)
 
 ## Data
   * [100 Datasets](100-datasets.md)
